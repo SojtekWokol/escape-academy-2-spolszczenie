@@ -42,8 +42,8 @@ jobs:
         run: |
           $rust = if (Test-Path warsztat) { "warsztat" } else { "tlumaczenie/rust" }
           "RUST_DIR=$rust" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
-          "EA2_TRANSLATIONS=$env:GITHUB_WORKSPACE	lumaczenie	ranslations" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
-          "EA2_FONTS=$env:GITHUB_WORKSPACE	lumaczenieonts" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
+          "EA2_TRANSLATIONS=$env:GITHUB_WORKSPACE/tlumaczenie/translations" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
+          "EA2_FONTS=$env:GITHUB_WORKSPACE/tlumaczenie/fonts" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
           "EA2_RELEASE=$($env:VERSION -replace '^v', '')" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
 
       - uses: dtolnay/rust-toolchain@stable
@@ -58,8 +58,8 @@ jobs:
           Set-Location $env:RUST_DIR
           cargo build --release -p instalator
           if ($LASTEXITCODE -ne 0) { exit 1 }
-          New-Item -ItemType Directory -Force "$env:GITHUB_WORKSPACE\out" | Out-Null
-          Copy-Item targetelease\ea2-spolszczenie.exe "$env:GITHUB_WORKSPACE\out\EA2-Spolszczenie-$env:EA2_RELEASE.exe"
+          New-Item -ItemType Directory -Force "$env:GITHUB_WORKSPACE/out" | Out-Null
+          Copy-Item target/release/ea2-spolszczenie.exe "$env:GITHUB_WORKSPACE/out/EA2-Spolszczenie-$env:EA2_RELEASE.exe"
 
       - name: Wydanie na GitHubie
         uses: softprops/action-gh-release@v2
