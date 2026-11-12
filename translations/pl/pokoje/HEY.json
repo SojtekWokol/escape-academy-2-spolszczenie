@@ -361,7 +361,8 @@
  },
  "g:HEY_Rack": {
   "pl": "Przez tę kartkówkę głowa mi się <i>wiesza</i>!",
-  "status": "review"
+  "status": "review",
+  "tags_ok": "<i> </i>"
  },
  "g:HEY_RoomDone": {
   "pl": "Na co jeszcze czekam? Pora stąd wiać!",

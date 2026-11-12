@@ -269,7 +269,8 @@
  },
  "n:line:059008f": {
   "pl": "Czytam więcej o pomidorach, bo wiedza na ten temat musi mi <i>dojrzeć</i>.",
-  "status": "review"
+  "status": "review",
+  "tags_ok": "<i> </i>"
  },
  "n:line:05a9094": {
   "pl": "Nie mogę się doczekać tego pikniku. Mama spakowała nam coś specjalnego! Tylko że…",

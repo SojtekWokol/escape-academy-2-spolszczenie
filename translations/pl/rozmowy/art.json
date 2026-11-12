@@ -205,7 +205,8 @@
  },
  "n:line:064097a": {
   "pl": "Nie, <i>mnie</i> brakowało ciebie <i>jeszcze bardziej</i>.",
-  "status": "review"
+  "status": "review",
+  "tags_ok": "<i> </i> <i> </i>"
  },
  "n:line:065cc19": {
   "pl": "Ta Akademia się mnie boi. Widziałem jej prawdziwe oblicze…",
