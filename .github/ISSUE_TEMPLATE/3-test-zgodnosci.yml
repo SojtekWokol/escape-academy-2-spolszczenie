@@ -1,0 +1,36 @@
+name: Test zgodności (np. wersja ze Steama)
+description: Sprawdziłeś w instalatorze, czy spolszczenie pasuje do Twojej wersji gry? Wklej raport.
+title: "Test zgodności: "
+labels: ["test zgodności"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        W instalatorze, na kroku **Folder gry**, kliknij **Sprawdź zgodność bez instalowania**. Instalator przejdzie
+        całą instalację „na sucho” i niczego nie zmieni w grze. Potem kliknij **Kopiuj szczegóły** i wklej raport poniżej.
+  - type: dropdown
+    id: sklep
+    attributes:
+      label: Skąd masz grę?
+      options: ["Steam", "Steam – demo", "Xbox / Game Pass", "Inne"]
+    validations:
+      required: true
+  - type: dropdown
+    id: wynik
+    attributes:
+      label: Wynik
+      options: ["Zgodna", "Różni się", "Instalator nie znalazł gry"]
+    validations:
+      required: true
+  - type: textarea
+    id: raport
+    attributes:
+      label: Raport (Kopiuj szczegóły)
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: gra
+    attributes:
+      label: Jeśli zainstalowałeś – czy w grze wszystko wygląda dobrze?
+      description: Np. polskie litery w tytułach rozdziałów, notatkach, scenkach. Zrzuty ekranu bardzo pomagają.

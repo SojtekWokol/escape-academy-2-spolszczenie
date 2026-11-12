@@ -520,7 +520,7 @@
   "status": "review"
  },
  "g:GUIMap_Dungeons": {
-  "pl": "Karcer szlabanowy (-1)",
+  "pl": "Lochy (piwnica)",
   "status": "review"
  },
  "g:GUIMap_East": {
@@ -704,8 +704,8 @@
   "status": "review"
  },
  "g:GUIMap_Stairwell": {
-  "pl": "Klatka schodowa",
-  "status": "draft"
+  "pl": "Schody",
+  "status": "review"
  },
  "g:GUIMap_Terrace": {
   "pl": "Taras",
