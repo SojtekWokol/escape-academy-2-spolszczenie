@@ -1,0 +1,598 @@
+{
+ "n:line:0019dbf": {
+  "pl": "Jestem prawie pewna, że jeden ze złodziei siedzi tuż obok mnie.",
+  "status": "draft"
+ },
+ "n:line:0021fa9": {
+  "pl": "W dniu kradzieży byłam na zwolnieniu… przykro mi, że wszystkie ciasteczka przepadły!",
+  "status": "draft"
+ },
+ "n:line:003d84a": {
+  "pl": "Tak spudłujesz, że będzie ci strasznie wstyd!",
+  "status": "draft"
+ },
+ "n:line:00462c6": {
+  "pl": "Nie wierzę, że mnie zwolnili! Chociaż… chyba całkiem zasłużenie.",
+  "status": "draft"
+ },
+ "n:line:0051e30": {
+  "pl": "Na swoją obronę… te ciasteczka były pyszne.",
+  "status": "draft"
+ },
+ "n:line:01414a8": {
+  "pl": "W takim razie ja tam nie wchodzę!",
+  "status": "draft"
+ },
+ "n:line:01629e3": {
+  "pl": "Któż by pomyślał, że sprzedaż limonkady jest taka skomplikowana! Chyba zamknę interes.",
+  "status": "draft"
+ },
+ "n:line:01746e9": {
+  "pl": "Zagadka jasna! Chyba jestem ci winna parę groszy, co?",
+  "status": "review"
+ },
+ "n:line:0174cdd": {
+  "pl": "Clifford Little panikował przez malutkiego pieska. Co za ogromny tchórz!",
+  "status": "draft"
+ },
+ "n:line:0184c17": {
+  "pl": "Może pójdziesz ze mną?",
+  "status": "draft"
+ },
+ "n:line:01e6a0c": {
+  "pl": "Co takiego?",
+  "status": "draft"
+ },
+ "n:line:0201e5e": {
+  "pl": "Chyba nie powinnaś tego robić…",
+  "status": "review"
+ },
+ "n:line:022c843": {
+  "pl": "Skaczemy sobie do gardeł, tak się nie da pracować!",
+  "status": "draft"
+ },
+ "n:line:0231012": {
+  "pl": "Dobra, daj mi chwilę, muszę się skupić na celowaniu…",
+  "status": "draft"
+ },
+ "n:line:023fd5c": {
+  "pl": "W Centrum Szyfrów zabawy nie brakuje...",
+  "status": "draft"
+ },
+ "n:line:026654a": {
+  "pl": "Więc to ty jesteś naszym „potworem”, co?",
+  "status": "draft"
+ },
+ "n:line:02705f0": {
+  "pl": "Dzięki za rozwiązanie naszej ciasteczkowej zagadki!",
+  "status": "draft"
+ },
+ "n:line:0287e55": {
+  "pl": "Dobrze, ale ostrożnie. Sytuacja jest dość wybuchowa.",
+  "status": "draft"
+ },
+ "n:line:02b1a5d": {
+  "pl": "Ooo, sprawa zamknięta w Kurierze Eskapisty!",
+  "status": "draft"
+ },
+ "n:line:02b95ae": {
+  "pl": "Hau, hau!",
+  "status": "draft"
+ },
+ "n:line:02c5559": {
+  "pl": "Jak Quanty.",
+  "status": "draft"
+ },
+ "n:line:02f2f47": {
+  "pl": "Stawiam ${0}, że zestrzelę mu to jabłko z głowy!",
+  "status": "review"
+ },
+ "n:line:0314c62": {
+  "pl": "Strzała z przyssawką to chyba był dobry pomysł... nawet jeśli było mniej emocji.",
+  "status": "draft"
+ },
+ "n:line:0319ba3": {
+  "pl": "Przypominam sobie, jak Esther szukała najskuteczniejszych sposobów otwierania słoików… To chyba nie było do artykułu.",
+  "status": "draft"
+ },
+ "n:line:033f4c0": {
+  "pl": "Wszystko wskazuje na to, że dwoje z tych kanciarzy siedzi dokładnie naprzeciwko siebie przy redakcyjnych biurkach.",
+  "status": "draft"
+ },
+ "n:line:0386146": {
+  "pl": "Co tu się dzieje?",
+  "status": "draft"
+ },
+ "n:line:0391158": {
+  "pl": "Wypolerowałam to z zewnątrz, ale nie wiem, jak to otworzyć, żeby wytrzeć kurz w środku!",
+  "status": "draft"
+ },
+ "n:line:03caa29": {
+  "pl": "Wycie. Skrzeczenie. Zawodzenie! Dochodzi ze <style=\"clue\">środka labiryntu</style>.",
+  "status": "draft"
+ },
+ "n:line:03d1d4e": {
+  "pl": "Bardzo <i>łatwo</i> tracę orientację.",
+  "status": "draft"
+ },
+ "n:line:03d3d0d": {
+  "pl": "Słyszysz to?",
+  "status": "draft"
+ },
+ "n:line:03de807": {
+  "pl": "To oburzające!",
+  "status": "draft"
+ },
+ "n:line:03eea96": {
+  "pl": "Jak tak teraz myślę… to chyba dość niebezpieczne.",
+  "status": "draft"
+ },
+ "n:line:0401de0": {
+  "pl": "Hau, hau!",
+  "status": "draft"
+ },
+ "n:line:041bf92": {
+  "pl": "Nie mówcie potem, że nie było ostrzeżenia.",
+  "status": "review"
+ },
+ "n:line:042d970": {
+  "pl": "Jak śmiesz porównywać nas do tego żałosnego brukowca!",
+  "status": "draft"
+ },
+ "n:line:04442b0": {
+  "pl": "Jeśli sobie nie przypomnę, żeby <style=\"clue\">trzymać cel na oku</style>... to zza drzew nie zobaczę lasu.",
+  "status": "draft"
+ },
+ "n:line:045ddf5": {
+  "pl": "Muszę to zobaczyć.",
+  "status": "draft"
+ },
+ "n:line:046b839": {
+  "pl": "Tak, lepiej już idź, zanim tłum zrobi się agresywny.",
+  "status": "draft"
+ },
+ "n:line:047a912": {
+  "pl": "Ale nie rozumiem, czy artefakty nie <i>powinny</i> być zakurzone?",
+  "status": "draft"
+ },
+ "n:line:04a9a20": {
+  "pl": "Dobrze! Trzymaj się z daleka. To miejsce jest nawiedzone!",
+  "status": "review"
+ },
+ "n:line:04b44bf": {
+  "pl": "A ty jesteś średniej wielkości palantem.",
+  "status": "draft"
+ },
+ "n:line:04ce011": {
+  "pl": "Skoro kubki mamy po równo, skusisz się na kubek limonkady?",
+  "status": "draft"
+ },
+ "n:line:051dcff": {
+  "pl": "Nie, da się to naprawić! <i>Matematyką.</i> <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:05210cf": {
+  "pl": "Czasem myślę, że maszyny rozumieją nas lepiej niż my sami... Innym razem kompletnie się mylą.",
+  "status": "draft"
+ },
+ "n:line:05332de": {
+  "pl": "Nie mogę na to patrzeć…",
+  "status": "draft"
+ },
+ "n:line:0535e49": {
+  "pl": "Chętnie pomogę znamienitemu Kurierowi Eskapisty. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:0546f59": {
+  "pl": "Po co mi te ciasteczka? Jestem uczulony na orzechy pekan!",
+  "status": "draft"
+ },
+ "n:line:0581eb2": {
+  "pl": "Aaaaaa!! Jest jeszcze straszniejszy, niż myślałem!",
+  "status": "draft"
+ },
+ "n:line:058bba0": {
+  "pl": "Moje cierpienia emocjonalne zostały należycie zrekompensowane.",
+  "status": "draft"
+ },
+ "n:line:05c4834": {
+  "pl": "Jestem za!",
+  "status": "draft"
+ },
+ "n:line:05f2e25": {
+  "pl": "Kurczę, dziś to straszna kicha.",
+  "status": "draft"
+ },
+ "n:line:060dc62": {
+  "pl": "Chyba… po prostu się stąd zmyję.",
+  "status": "draft"
+ },
+ "n:line:0650c62": {
+  "pl": "Chodźmy na spacer!",
+  "status": "draft"
+ },
+ "n:line:0689c36": {
+  "pl": "Tak, do dzieła!",
+  "status": "draft"
+ },
+ "n:line:06a412d": {
+  "pl": "I jestem z tego dumny!",
+  "status": "draft"
+ },
+ "n:line:07113d5": {
+  "pl": "Ojej, ale tam kurzu! Lepiej przyniosę mocną chemię!",
+  "status": "draft"
+ },
+ "n:line:0729775": {
+  "pl": "No to się pospiesz! Ręka już mi drętwieje!",
+  "status": "draft"
+ },
+ "n:line:0736dae": {
+  "pl": "Ooo, następnym razem spróbujmy z płonącymi strzałami!",
+  "status": "draft"
+ },
+ "n:line:07478c1": {
+  "pl": "Tanya siedzi <style=\"clue\">na górze w Centrum Szyfrów</style> od wieków... Pewnie <style=\"clue\">przydałaby jej się pomoc</style> przy czyszczeniu wszystkich artefaktów.",
+  "status": "draft"
+ },
+ "n:line:0754739": {
+  "pl": "Upiekłam ciasteczka bez glutenu dla Cheryl, bo tylko ona tu ma alergię.",
+  "status": "draft"
+ },
+ "n:line:0765e2f": {
+  "pl": "Potwór wydostał się z labiryntu!? <i>Wszyscy zginiemy!</i>",
+  "status": "draft"
+ },
+ "n:line:07828b6": {
+  "pl": "O, na to jest już <i>zdecydowanie</i> za późno.",
+  "status": "draft"
+ },
+ "n:line:07d60b0": {
+  "pl": "Spokojnie! Ludzie, jakoś to rozwiążemy!",
+  "status": "draft"
+ },
+ "n:line:07e4259": {
+  "pl": "Ta historia pasuje chyba bardziej do Krajowego Eskapisty.",
+  "status": "draft"
+ },
+ "n:line:07efca0": {
+  "pl": "Kiepski moment na wizytę, wszyscy są w dołku…",
+  "status": "draft"
+ },
+ "n:line:080896c": {
+  "pl": "Ale z Nate'a psuj-zagadka…",
+  "status": "review"
+ },
+ "n:line:0817ef8": {
+  "pl": "Wejdę tam! W końcu…",
+  "status": "draft"
+ },
+ "n:line:082ae95": {
+  "pl": "Rozsądna decyzja. To śmiertelna pułapka!",
+  "status": "draft"
+ },
+ "n:line:0865124": {
+  "pl": "Jeszcze nie, ale pracuję nad tym!",
+  "status": "draft"
+ },
+ "n:line:0870216": {
+  "pl": "Znam takie zamki, mogę pomóc.<style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:087d08e": {
+  "pl": "Podobno Eska-Pole ma jeszcze więcej nielegalnych chemikaliów niż napój energetyczny tej samej marki!",
+  "status": "draft"
+ },
+ "n:line:08832aa": {
+  "pl": "Ta glina nie chce trzymać kształtu i to mnie <i>wypala</i>!",
+  "status": "draft"
+ },
+ "n:line:08838f8": {
+  "pl": "Phi… porządna chemia czyszcząca i trochę smaru w łokciach jeszcze niczego nie zepsuły!",
+  "status": "draft"
+ },
+ "n:line:08923be": {
+  "pl": "O, wróciła nam kontrola BHP.",
+  "status": "draft"
+ },
+ "n:line:089b0d3": {
+  "pl": "Może wejdźmy razem?",
+  "status": "draft"
+ },
+ "n:line:08a767e": {
+  "pl": "Nie wygląda to na zbyt trudne. Choć łatwe też chyba nie jest…",
+  "status": "draft"
+ },
+ "n:line:08b57a2": {
+  "pl": "Dopilnuję, żeby Kurier Eskapisty napisał ci piękny nekrolog.",
+  "status": "draft"
+ },
+ "n:line:08b718c": {
+  "pl": "<style=\"clue\">Może jeśli <i>ty</i> spróbujesz z nimi porozmawiać</style>, pójdzie nam lepiej.",
+  "status": "draft"
+ },
+ "n:line:08cdbf5": {
+  "pl": "Podobno zamknął całą redakcję na cztery spusty, bo <style=\"clue\">potrzebuje pomocy w ustaleniu, kto podkradł ciasteczka</style> ze słoika. Nie, to nie żaden eufemizm. Dosłownie.",
+  "status": "draft"
+ },
+ "n:line:08e4ec8": {
+  "pl": "Wszystko wskazuje na to, że jeden ze złodziei siedzi przy jednym z narożnych biurek.",
+  "status": "draft"
+ },
+ "n:line:08e8a1a": {
+  "pl": "Znalazłam <style=\"clue\">szkatułkę z zagadką</style> na szczycie <style=\"clue\">wzgórza z widokiem na kampus</style>, ale nie udało mi się jej otworzyć.",
+  "status": "draft"
+ },
+ "n:line:090e34a": {
+  "pl": "Nic się nie robi, skoro w redakcji taki bałagan…",
+  "status": "draft"
+ },
+ "n:line:097e0b8": {
+  "pl": "Dlaczego nie zajrzysz do labiryntu?",
+  "status": "review"
+ },
+ "n:line:099922b": {
+  "pl": "Jules może zaświadczyć, że jestem niewinny, widziała, że cały dzień siedziałem przy biurku!",
+  "status": "draft"
+ },
+ "n:line:09d3e9b": {
+  "pl": "Czy ten twój „lepszy sposób” już jest? Jakby w ogóle <i>istniał</i>. Pff.",
+  "status": "draft"
+ },
+ "n:line:09d6fc9": {
+  "pl": "Właściwie to tak! <style=\"purchase\">(Daj strzałę)</style>",
+  "status": "draft"
+ },
+ "n:line:09e62db": {
+  "pl": "Gorące wieści – gwiazda roku ratuje zespół bez ciasteczek!",
+  "status": "draft"
+ },
+ "n:line:0a237d8": {
+  "pl": "Ktoś powinien <style=\"clue\">zajrzeć do Clifforda</style>...",
+  "status": "draft"
+ },
+ "n:line:0a29e8c": {
+  "pl": "Przyjmij ten zakład, Robin spudłuje jak nic.",
+  "status": "draft"
+ },
+ "n:line:0a3c5fb": {
+  "pl": "Zostawię was z tym.",
+  "status": "draft"
+ },
+ "n:line:0a42051": {
+  "pl": "Cóż, przynajmniej Robin się wywiązała... strzela prosto z mostu! Byle nie musiała używać łuku...",
+  "status": "draft"
+ },
+ "n:line:0a5465f": {
+  "pl": "Ciasteczka są nieodłączną częścią pracy dziennikarskiej!",
+  "status": "draft"
+ },
+ "n:line:0a55da2": {
+  "pl": "Jeśli nie możesz przekonać <style=\"clue\">perkusisty, puzonisty, wokalistki i pianisty</style> słowami, spróbuj przekonać ich <style=\"clue\">swoją muzyką</style>...",
+  "status": "draft"
+ },
+ "n:line:0a5a5f7": {
+  "pl": "Dobra, użyjemy twojej strzały! A teraz patrz.",
+  "status": "draft"
+ },
+ "n:line:0a6ba57": {
+  "pl": "Powiedziałabym, że w 80% jestem tu dla ciasteczek, a w 20% dla dziennikarstwa.",
+  "status": "draft"
+ },
+ "n:line:0abb998": {
+  "pl": "To niesprawiedliwe!",
+  "status": "draft"
+ },
+ "n:line:0ad5714": {
+  "pl": "Dzięki za złapanie ciasteczkowych złodziei!",
+  "status": "draft"
+ },
+ "n:line:0adb04f": {
+  "pl": "Hej, to była moja twarz! Używam jej do patrzenia na różne rzeczy.",
+  "status": "draft"
+ },
+ "n:line:0afeea5": {
+  "pl": "Ta szkatułka z zagadką nie miała z tobą szans! Może kiedyś i mnie uda się jakąś rozwiązać...",
+  "status": "draft"
+ },
+ "n:line:0b0413b": {
+  "pl": "Teraz Nate może wrócić do ważnej pracy: szargania dobrego imienia Puzzle-Mana i wciskania za dużo aliteracji w nagłówki.",
+  "status": "draft"
+ },
+ "n:line:0b101a8": {
+  "pl": "Jak mam ufać, że moi ludzie zadbają o mój wizerunek, skoro nie możemy ufać sobie nawzajem? Co się stało z dziennikarską rzetelnością!?",
+  "status": "draft"
+ },
+ "n:line:0b15344": {
+  "pl": "Dzięki! Nie mogę się doczekać, żeby wyszorować jeden ze skarbów historii!",
+  "status": "draft"
+ },
+ "n:line:0b1ffde": {
+  "pl": "Nie mogę uwierzyć, że <style=\"clue\">zespół „The Keys of Puzz” bez słowa wyjaśnienia opuścił kampus</style>, przez co <i>ja</i> muszę zadowolić się zespołem drugiej kategorii.",
+  "status": "review"
+ },
+ "n:line:0b22866": {
+  "pl": "Ona strasznie kiepsko celuje!",
+  "status": "draft"
+ },
+ "n:line:0b42b43": {
+  "pl": "Rodzice będą tacy zawiedzeni, że wywalili mnie z gazetki uczniowskiej…",
+  "status": "draft"
+ },
+ "n:line:0b6e962": {
+  "pl": "Gotowy, kiedy ty!",
+  "status": "draft"
+ },
+ "n:line:0b7f457": {
+  "pl": "Kto by pomyślał, że ta uroczystość będzie pełna <i>farby</i> i smutku...",
+  "status": "review"
+ },
+ "n:line:0b8a098": {
+  "pl": "Szczerze? Cieszę się, że Nate wyrzucił mnie z redakcji <style=\"clue\">Kuriera Eskapisty</style>... za dużo tam dramatów.",
+  "status": "draft"
+ },
+ "n:line:0b9659c": {
+  "pl": "Droga w dół była długa i pełna wstydu...",
+  "status": "draft"
+ },
+ "n:line:0bb682a": {
+  "pl": "Piękne… Wręcz boskie!",
+  "status": "draft"
+ },
+ "n:line:0bc2db8": {
+  "pl": "Błagam, musisz ustalić, <style=\"clue\">który z tych łobuzów ukradł ciasteczka ze słoika</style>!",
+  "status": "draft"
+ },
+ "n:line:0c1c383": {
+  "pl": "Znajdę wam jakiś bezpieczniejszy sposób. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:0c35273": {
+  "pl": "Hau!",
+  "status": "draft"
+ },
+ "n:line:0c56202": {
+  "pl": "Rozmiary napojów są wszędzie inne. Jedne duże, inne małe, i to po prostu nie jest w porządku!",
+  "status": "draft"
+ },
+ "n:line:0c5a6ac": {
+  "pl": "Zawsze uważałam, że wodospadowi przydałaby się <style=\"clue\">odrobina więcej koloru</style>, ale nie mam odwagi <style=\"clue\">się tam wspiąć</style>...",
+  "status": "draft"
+ },
+ "n:line:0c88c67": {
+  "pl": "Jak można prowadzić stoisko z limonkadą, które nie nalewa porcji równej wielkości?",
+  "status": "draft"
+ },
+ "n:line:0c94b4f": {
+  "pl": "Wiem coś o tym... Ale ja <i>nie dam</i> sobie odmówić!",
+  "status": "draft"
+ },
+ "n:line:0cb722d": {
+  "pl": "Wreszcie możemy wrócić do ujawniania ważnych spraw! Na przykład zaginięcia tylu uczniów…",
+  "status": "draft"
+ },
+ "n:line:0d0636e": {
+  "pl": "Czy naprawdę da się <style=\"clue\">wyrównać porcje</style>?",
+  "status": "draft"
+ },
+ "n:line:0d0eb44": {
+  "pl": "<style=\"clue\">Z tyłu pudełka są cztery klejnoty.</style> Ładnie się kolorują, odkąd je porządnie wyszorowałam!",
+  "status": "draft"
+ },
+ "n:line:0d1c59b": {
+  "pl": "Morale nie było tak niskie od czasu Incydentu przy dystrybutorze wody…",
+  "status": "draft"
+ },
+ "n:line:0d4cfd4": {
+  "pl": "Moja robota to czyścić wszystkie artefakty, zanim zaczniemy je analizować.",
+  "status": "draft"
+ },
+ "n:line:0d5536f": {
+  "pl": "Pamiętam, że ciasteczek wystarczyło dla wszystkich, plus jedno extra, bo Jules była chora.",
+  "status": "draft"
+ },
+ "n:line:0d5eee8": {
+  "pl": "Żądam odszkodowania za cierpienia psychiczne!",
+  "status": "draft"
+ },
+ "n:line:0d67d28": {
+  "pl": "Dzięki tobie jakoś z tego wybrnęliśmy. Masz, podzielmy się zyskiem. Między nami: ceny i tak były zawyżone…",
+  "status": "draft"
+ },
+ "n:line:0db1998": {
+  "pl": "Skoro Tanya skończyła czyścić artefakty, to teraz je przeanalizuje..?",
+  "status": "draft"
+ },
+ "n:line:0ddae1a": {
+  "pl": "No, strzała w łeb to dla mnie pestka. Mam <i>twardy</i> łeb!",
+  "status": "draft"
+ },
+ "n:line:0df49b3": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0e25bd6": {
+  "pl": "Ognia!",
+  "status": "draft"
+ },
+ "n:line:0e29300": {
+  "pl": "Nic nie słyszę i nie zamierzam słyszeć.",
+  "status": "draft"
+ },
+ "n:line:0e32e67": {
+  "pl": "Ci szubrawcy wpadli na gorącym <i>cieście</i>. Moment… czy ciastka to ciasto?",
+  "status": "review"
+ },
+ "n:line:0e5280a": {
+  "pl": "Potwór… to… ten pies?",
+  "status": "draft"
+ },
+ "n:line:0e58061": {
+  "pl": "Miło ze strony Lili, że upiekła ciasteczka, które mogę jeść… Zwykle swoje po prostu oddaję.",
+  "status": "draft"
+ },
+ "n:line:0e5de79": {
+  "pl": "Założę się, że jest <i>zupełnie</i> bezpiecznie. <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:0e81b59": {
+  "pl": "Do licha! Jest po równo!",
+  "status": "draft"
+ },
+ "n:line:0e956c6": {
+  "pl": "Po co pisać prawdę, skoro mój zespół jest pełen kłamstw?",
+  "status": "draft"
+ },
+ "n:line:0e995c0": {
+  "pl": "Nie ma mowy! Ktoś musi zostać na zewnątrz i ostrzec innych.",
+  "status": "draft"
+ },
+ "n:line:0e9b48a": {
+  "pl": "Mam zbyt ponury nastrój, żeby wymyślać nagłówki…",
+  "status": "draft"
+ },
+ "n:line:0ec79a4": {
+  "pl": "Patrz, tęcza! Tu jest wszystko, tylko dobrej pielęgniarki brak!",
+  "status": "draft"
+ },
+ "n:line:0f26a4e": {
+  "pl": "Lepiej, żeby ktoś się szybko przyznał…",
+  "status": "draft"
+ },
+ "n:line:0f273fe": {
+  "pl": "Siedzi tam <style=\"clue\">potwór</style>! Dam głowę.",
+  "status": "draft"
+ },
+ "n:line:0f37381": {
+  "pl": "To ciemny dzień dla Kuriera Eskapisty…",
+  "status": "draft"
+ },
+ "n:line:0f5d123": {
+  "pl": "Od wieków trzęsie się ze strachu <style=\"clue\">przed labiryntem z żywopłotu</style>!",
+  "status": "draft"
+ },
+ "n:line:0f81f11": {
+  "pl": "A co gorsza, ci zadzierający nosa jazzmani <style=\"clue\">zlekceważyli moje żądania, by wystąpić</style> na pożegnaniu!",
+  "status": "draft"
+ },
+ "n:line:0fbb3b9": {
+  "pl": "No i co z tego? Nie panikuj!",
+  "status": "draft"
+ },
+ "n:line:0fd1e82": {
+  "pl": "Jak spudłuje, wylądujesz prosto w izbie chorych.",
+  "status": "draft"
+ },
+ "n:line:0fdde57": {
+  "pl": "Jak tam wejdziesz, <i>jesteś trupem!</i> Mam nadzieję, że kasa zostawiona na twoim grobie wystarczy.",
+  "status": "draft"
+ },
+ "n:line:0fe7c5f": {
+  "pl": "Cykor cię wziął, co? Nie ma w tym nic wstydliwego.",
+  "status": "draft"
+ },
+ "n:line:0febbe9": {
+  "pl": "Gdybym był bardziej płynny finansowo, na pewno <style=\"clue\">przyjąłbym zakład Robin</style>, że trafi w dziesiątkę jabłko z głowy Willema.",
+  "status": "draft"
+ }
+}

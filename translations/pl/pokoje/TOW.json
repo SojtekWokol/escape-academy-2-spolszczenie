@@ -1,0 +1,582 @@
+{
+ "g:TOW_2GearsLeft": {
+  "pl": "Świetnie! Jeszcze tylko dwa trybiki!",
+  "status": "draft"
+ },
+ "g:TOW_Active_Phone": {
+  "pl": "Lepiej sprawdzę, co dyrektorka przygotowała dla mnie na dachu…",
+  "status": "draft"
+ },
+ "g:TOW_Afternoon": {
+  "pl": "Popołudnie",
+  "status": "draft"
+ },
+ "g:TOW_AstronomyBooks": {
+  "pl": "Ech, te książki o astronomii są <i>takie</i> geocentryczne…",
+  "status": "draft"
+ },
+ "g:TOW_AstronomyBooks2": {
+  "pl": "„Podglądanie Uranusa – przewodnik dla początkujących teleskopistów”",
+  "status": "review"
+ },
+ "g:TOW_AstronomyBooks3": {
+  "pl": "„Na co się gapisz, gwiazdo? – wprowadzenie do astronomii”",
+  "status": "draft"
+ },
+ "g:TOW_Banner": {
+  "pl": "Niespodzianka w środku!",
+  "status": "draft"
+ },
+ "g:TOW_BellRing": {
+  "pl": "Zadzwoń dzwonami<br>9795639",
+  "status": "draft"
+ },
+ "g:TOW_Birdcage": {
+  "pl": "Mam nadzieję, że z ptakiem wszystko w porządku…",
+  "status": "review"
+ },
+ "g:TOW_CardboardBox": {
+  "pl": "Tą stroną do góry!",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_CA1": {
+  "pl": "N",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_CA2": {
+  "pl": "O",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_CA3": {
+  "pl": "W",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_CA4": {
+  "pl": "I",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_CA5": {
+  "pl": "U",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA01": {
+  "pl": "T",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA02": {
+  "pl": "A",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA03": {
+  "pl": "X",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA04": {
+  "pl": "J",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA05": {
+  "pl": "Z",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA06": {
+  "pl": "G",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA07": {
+  "pl": "R",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA08": {
+  "pl": "C",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA09": {
+  "pl": "E",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA10": {
+  "pl": "S",
+  "status": "draft"
+ },
+ "g:TOW_Cipher_Letter_WA11": {
+  "pl": "B",
+  "status": "draft"
+ },
+ "g:TOW_Crank": {
+  "pl": "Czemu nagle dostaję korby…",
+  "status": "draft"
+ },
+ "g:TOW_Crates": {
+  "pl": "Wszystko idzie jak po skrzynce!",
+  "status": "review"
+ },
+ "g:TOW_DoorDone": {
+  "pl": "Nie ma po co tu wracać. Jedno ogłoszenie na całą szkołę wystarczyło.",
+  "status": "draft"
+ },
+ "g:TOW_East": {
+  "pl": "W",
+  "status": "review"
+ },
+ "g:TOW_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Miejscowy eskapista przerażony wizją rozwiązywania zagadek na oczach rówieśników",
+  "status": "draft"
+ },
+ "g:TOW_ExitDoor": {
+  "pl": "Nie muszę się stąd wydostać, muszę wspiąć się w górę!",
+  "status": "draft"
+ },
+ "g:TOW_GearsMissing": {
+  "pl": "Na tej ścianie brakuje kilku trybików…",
+  "status": "draft"
+ },
+ "g:TOW_GoodLuck": {
+  "pl": "Mniej poddawania się, więcej wspinaczki!",
+  "status": "draft"
+ },
+ "g:TOW_HeftyRope": {
+  "pl": "Ale gruba lina!",
+  "status": "draft"
+ },
+ "g:TOW_HelloDolly": {
+  "pl": "Hello, Dolly!",
+  "status": "draft"
+ },
+ "g:TOW_HiddenMessage1": {
+  "pl": "K",
+  "status": "draft"
+ },
+ "g:TOW_HiddenMessage2": {
+  "pl": "S",
+  "status": "draft"
+ },
+ "g:TOW_HiddenMessage3": {
+  "pl": "I",
+  "status": "draft"
+ },
+ "g:TOW_HiddenMessage4": {
+  "pl": "Ę",
+  "status": "draft"
+ },
+ "g:TOW_HiddenMessage5": {
+  "pl": "Ż",
+  "status": "draft"
+ },
+ "g:TOW_HiddenMessage6": {
+  "pl": "Y",
+  "status": "draft"
+ },
+ "g:TOW_HiddenMessage7": {
+  "pl": "C",
+  "status": "draft"
+ },
+ "g:TOW_Hint_Climb": {
+  "pl": "Wygląda na to, że można się tu wspiąć…",
+  "status": "review"
+ },
+ "g:TOW_Hint_EclipseA": {
+  "pl": "Użyj {@TOW_Item_UVFlashlight} i poświeć na te księżyce.",
+  "status": "review"
+ },
+ "g:TOW_Hint_EclipseB": {
+  "pl": "Zacznij od nowiu i ułóż je po kolei…",
+  "status": "draft"
+ },
+ "g:TOW_Hint_EclipseC": {
+  "pl": "…żeby odblokować tę windę!",
+  "status": "draft"
+ },
+ "g:TOW_Hint_GearWallA": {
+  "pl": "Kręć trybikami, aż strzałki się wyrównają…",
+  "status": "draft"
+ },
+ "g:TOW_Hint_GearWallB": {
+  "pl": "Potem wstaw je tutaj!",
+  "status": "draft"
+ },
+ "g:TOW_Hint_Ladder": {
+  "pl": "Wspinaj się na mnie.",
+  "status": "draft"
+ },
+ "g:TOW_Hint_LunarA": {
+  "pl": "Odczytaj te zegary za pomocą szyfru!",
+  "status": "draft"
+ },
+ "g:TOW_Hint_LunarB": {
+  "pl": "Pierwsza litera to {@TOW_Password_Lunar[0]}.",
+  "status": "draft"
+ },
+ "g:TOW_Hint_MoonA": {
+  "pl": "Spójrz na księżyc. W jakiej kolejności uderzyły asteroidy?",
+  "status": "draft"
+ },
+ "g:TOW_Hint_MoonB": {
+  "pl": "Kwadrat uderzył pierwszy. Idzie na sam lewy brzeg.",
+  "status": "draft"
+ },
+ "g:TOW_Hint_Party": {
+  "pl": "Nie wstydź się. Wejdź do środka!",
+  "status": "draft"
+ },
+ "g:TOW_Hint_RopeA": {
+  "pl": "Znajdź w pokoju DOKŁADNIE takie same symbole.",
+  "status": "draft"
+ },
+ "g:TOW_Hint_RopeB": {
+  "pl": "Najpierw przywiąż linę do tego.",
+  "status": "draft"
+ },
+ "g:TOW_Hint_RopeC": {
+  "pl": "Gdy przywiążesz liny, spójrz przez tę lunetę. Jaką konstelację widzisz?",
+  "status": "draft"
+ },
+ "g:TOW_Hint_SeasonsA": {
+  "pl": "Słońce wschodzi na wschodzie, a zachodzi na zachodzie…",
+  "status": "draft"
+ },
+ "g:TOW_Hint_SeasonsB": {
+  "pl": "Słońce jest najwyżej latem, a najniżej zimą…",
+  "status": "draft"
+ },
+ "g:TOW_Hint_SeasonsC": {
+  "pl": "Popołudnie jest PO południu…",
+  "status": "draft"
+ },
+ "g:TOW_Hint_ShadowsA": {
+  "pl": "Ten zegar jest odwrócony! Gdzie jest dziewiątka?",
+  "status": "draft"
+ },
+ "g:TOW_Hint_ShadowsB": {
+  "pl": "Melodia zaczyna się od „{@Note_A}”.",
+  "status": "draft"
+ },
+ "g:TOW_Hint_SignA": {
+  "pl": "„Double U” = W",
+  "status": "review"
+ },
+ "g:TOW_Hint_SignB": {
+  "pl": "Pierwsze słowo to „STAY”.",
+  "status": "draft"
+ },
+ "g:TOW_Hint_StarLockA": {
+  "pl": "Niebieska gwiazda ma cztery ramiona…",
+  "status": "draft"
+ },
+ "g:TOW_Hint_StarLockB": {
+  "pl": "Dopasuj liczbę ramion do kolorów.",
+  "status": "draft"
+ },
+ "g:TOW_ItemDescription_UVFlashlight": {
+  "pl": "Ujawnia ukryte wiadomości.",
+  "status": "draft"
+ },
+ "g:TOW_Item_Bell_Cipher": {
+  "pl": "Notatka dzwonnika",
+  "status": "draft"
+ },
+ "g:TOW_Item_Cage_Key": {
+  "pl": "Klucz",
+  "status": "draft"
+ },
+ "g:TOW_Item_Clock_Cipher": {
+  "pl": "Tabela szyfrowa",
+  "status": "draft"
+ },
+ "g:TOW_Item_Crank": {
+  "pl": "Korba",
+  "status": "draft"
+ },
+ "g:TOW_Item_Duster": {
+  "pl": "Miotełka",
+  "status": "draft"
+ },
+ "g:TOW_Item_Gear_1": {
+  "pl": "Duże koło zębate",
+  "status": "draft"
+ },
+ "g:TOW_Item_Gear_2": {
+  "pl": "Średnie koło zębate",
+  "status": "draft"
+ },
+ "g:TOW_Item_Gear_3": {
+  "pl": "Małe koło zębate",
+  "status": "draft"
+ },
+ "g:TOW_Item_Lens": {
+  "pl": "Soczewka",
+  "status": "draft"
+ },
+ "g:TOW_Item_Screwdriver": {
+  "pl": "Śrubokręt",
+  "status": "draft"
+ },
+ "g:TOW_Item_Shears": {
+  "pl": "Nożyce",
+  "status": "draft"
+ },
+ "g:TOW_Item_Sundial_Fin": {
+  "pl": "Gnomon zegara słonecznego",
+  "status": "draft"
+ },
+ "g:TOW_Item_Timezones_Sheet": {
+  "pl": "Arkusz z równaniami",
+  "status": "draft"
+ },
+ "g:TOW_Item_UVFlashlight": {
+  "pl": "Światło księżyca",
+  "status": "draft"
+ },
+ "g:TOW_LastGearLeft": {
+  "pl": "Został jeszcze jeden trybik!",
+  "status": "draft"
+ },
+ "g:TOW_LockedLever": {
+  "pl": "Jest zablokowana…",
+  "status": "draft"
+ },
+ "g:TOW_MarsPainting": {
+  "pl": "„Grzbiety Marsa”",
+  "status": "draft"
+ },
+ "g:TOW_MinuteHandMount": {
+  "pl": "Mogę zamocować soczewkę na wskazówce minutowej…",
+  "status": "draft"
+ },
+ "g:TOW_NeedRope": {
+  "pl": "Potrzebuję liny.",
+  "status": "draft"
+ },
+ "g:TOW_NeptunePainting": {
+  "pl": "„Chmury Neptuna”",
+  "status": "draft"
+ },
+ "g:TOW_NewFull": {
+  "pl": "Od nowiu do pełni",
+  "status": "draft"
+ },
+ "g:TOW_NoNeed": {
+  "pl": "Nie ma już po co się tym zajmować.",
+  "status": "draft"
+ },
+ "g:TOW_Noon": {
+  "pl": "Południe",
+  "status": "draft"
+ },
+ "g:TOW_North": {
+  "pl": "N",
+  "status": "draft"
+ },
+ "g:TOW_Pallet": {
+  "pl": "Do zagadek zawsze mam paletę pomysłów!",
+  "status": "draft"
+ },
+ "g:TOW_Password_Camel": {
+  "pl": "W,I,E,L,B,Ł,Ą,D",
+  "status": "review"
+ },
+ "g:TOW_Password_Eclipse": {
+  "pl": "K,S,I,Ę,Ż,Y,C",
+  "status": "review"
+ },
+ "g:TOW_Password_Lunar": {
+  "pl": "N,O,W,I,U",
+  "status": "review"
+ },
+ "g:TOW_PlasterBucket": {
+  "pl": "Jeśli nie wejdę na szczyt wieży na czas, to będzie gips-katastrofa!",
+  "status": "review"
+ },
+ "g:TOW_QuestClue": {
+  "pl": "W drugim słowie jest „U”. Nie, czekaj… podwój to!",
+  "status": "review"
+ },
+ "g:TOW_QuestClue2": {
+  "pl": "Oba słowa kończą się tą samą literą.",
+  "status": "draft"
+ },
+ "g:TOW_QuestClue3": {
+  "pl": "Tajne hasło <u>ST</u>artuje <u>ST</u>anowczo.",
+  "status": "draft"
+ },
+ "g:TOW_QuestClue4": {
+  "pl": "Tajne hasło zawiera 3 litery „A”.",
+  "status": "draft"
+ },
+ "g:TOW_QuestDesc": {
+  "pl": "Dowiedz się, jaką nagrodę Dyrektorka Solange przygotowała za pierwsze miejsce we wprowadzeniu.",
+  "status": "draft"
+ },
+ "g:TOW_QuestName": {
+  "pl": "Niespodziewany start",
+  "status": "draft"
+ },
+ "g:TOW_QuestObj_1": {
+  "pl": "Wejdź na dach wieży dyrektorki.",
+  "status": "draft"
+ },
+ "g:TOW_QuestObj_2": {
+  "pl": "Dowiedz się, jaką niespodziankę ma dyrektorka.",
+  "status": "draft"
+ },
+ "g:TOW_QuestObj_3": {
+  "pl": "Ukończ wyzwanie wieży zegarowej Dyrektorki Solange.",
+  "status": "draft"
+ },
+ "g:TOW_ReinaStatue": {
+  "pl": "Wow… Reina Wym naprawdę była taka wysoka?",
+  "status": "draft"
+ },
+ "g:TOW_RoomName": {
+  "pl": "Coś tu dzwoni",
+  "status": "draft"
+ },
+ "g:TOW_RoomSyllabus": {
+  "pl": "Niespodzianka w środku!",
+  "status": "draft"
+ },
+ "g:TOW_SaturnPainting": {
+  "pl": "„Pierścienie Saturna”",
+  "status": "draft"
+ },
+ "g:TOW_South": {
+  "pl": "S",
+  "status": "draft"
+ },
+ "g:TOW_StayAwayLock": {
+  "pl": "S,T,A,Y,_,A,W,A,Y",
+  "status": "review"
+ },
+ "g:TOW_Subtitle": {
+  "pl": "Uderz<br>w dzwon!",
+  "status": "draft"
+ },
+ "g:TOW_SunFallSpring": {
+  "pl": "Jesienne i wiosenne słońce",
+  "status": "review"
+ },
+ "g:TOW_SunSummer": {
+  "pl": "Letnie słońce",
+  "status": "draft"
+ },
+ "g:TOW_SunWinter": {
+  "pl": "Zimowe słońce",
+  "status": "draft"
+ },
+ "g:TOW_Sunrise": {
+  "pl": "Wschód słońca",
+  "status": "draft"
+ },
+ "g:TOW_Sunset": {
+  "pl": "Zachód słońca",
+  "status": "draft"
+ },
+ "g:TOW_TimeLetterHeader": {
+  "pl": "Co mówi nam czas?",
+  "status": "draft"
+ },
+ "g:TOW_Towel": {
+  "pl": "Ręcznika nie rzucę. Nie ma mowy!",
+  "status": "draft"
+ },
+ "g:TOW_UnlockElevator": {
+  "pl": "Najpierw muszę odblokować windę!",
+  "status": "draft"
+ },
+ "g:TOW_UnlockLadder": {
+  "pl": "Nie wejdę na to wahadło, dopóki się rusza!",
+  "status": "draft"
+ },
+ "g:TOW_West": {
+  "pl": "Z",
+  "status": "review"
+ },
+ "v:Solange_TOW_DriveYouLonoy": {
+  "pl": "Niech zagadki nie zrobią z ciebie lunatyka!",
+  "status": "draft"
+ },
+ "v:Solange_TOW_HeightsYoullAscendTo": {
+  "pl": "Nie wiadomo, na jakie wyżyny wzniesiesz się w tym roku.",
+  "status": "draft"
+ },
+ "v:Solange_TOW_KickingUpAGear": {
+  "pl": "Ktoś tam wrzuca wyższy bieg.",
+  "status": "draft"
+ },
+ "v:Solange_TOW_LiveOnEATV": {
+  "pl": "Dobrze, jesteśmy na żywo w EATV. Pamiętaj, wszyscy patrzą.",
+  "status": "draft"
+ },
+ "v:Solange_TOW_LoseYourSpool": {
+  "pl": "Nie trać tam nici przewodniej, ani szpuli. Dobry początek!",
+  "status": "review"
+ },
+ "v:Solange_TOW_NextPhaseOfRoom": {
+  "pl": "A teraz przechodzimy do następnej fazy pokoju.",
+  "status": "draft"
+ },
+ "v:Solange_TOW_ReputationToCrater": {
+  "pl": "Ruszaj się, jeszcze ci reputacja wpadnie w krater!",
+  "status": "draft"
+ },
+ "v:Solange_TOW_RightToChooseYou": {
+  "pl": "Wiedziałam, że dobrze cię wybrałam – i to w samą porę roku.",
+  "status": "review"
+ },
+ "v:Solange_TOW_RoomFail": {
+  "pl": "Ojej. A zegar wybija zero…",
+  "status": "draft"
+ },
+ "v:Solange_TOW_RoomWin": {
+  "pl": "Rok szkolny oficjalnie rozpoczęty!",
+  "status": "draft"
+ },
+ "v:Solange_TOW_RopedYouIntoThis": {
+  "pl": "Nie obrażaj się, że wciągnęłam cię w to na linie – cała szkoła to zobaczy.",
+  "status": "draft"
+ },
+ "v:Solange_TOW_SurpriseRoof": {
+  "pl": "Uważaj tam na górze, żeby nie spaść.",
+  "status": "draft"
+ },
+ "v:Solange_TOW_TakeNote": {
+  "pl": "Czy ktoś z widzów mógłby zanotować, że po tym trzeba będzie przestawić zegary…",
+  "status": "draft"
+ },
+ "v:Solange_TOW_TheFirstHump": {
+  "pl": "Pierwszy garb za tobą!",
+  "status": "draft"
+ },
+ "v:row920": {
+  "pl": "*Dzwon bije*",
+  "status": "draft"
+ },
+ "v:row921": {
+  "pl": "♪ Gra nuta ♪",
+  "status": "draft"
+ },
+ "v:row922": {
+  "pl": "♪ Gra nuta ♪",
+  "status": "draft"
+ },
+ "v:row923": {
+  "pl": "♪ Gra nuta ♪",
+  "status": "draft"
+ },
+ "v:row924": {
+  "pl": "♪ Gra nuta ♪",
+  "status": "draft"
+ },
+ "v:row925": {
+  "pl": "♪ Gra nuta ♪",
+  "status": "draft"
+ },
+ "v:row926": {
+  "pl": "♪ Gra nuta ♪",
+  "status": "draft"
+ },
+ "v:row927": {
+  "pl": "♪ Gra nuta ♪",
+  "status": "draft"
+ }
+}

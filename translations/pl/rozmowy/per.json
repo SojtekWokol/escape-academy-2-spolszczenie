@@ -1,0 +1,466 @@
+{
+ "n:line:0013dde": {
+  "pl": "Lepiej nam się podobasz w takiej wersji.",
+  "status": "draft"
+ },
+ "n:line:001a42a": {
+  "pl": "Pokaż, co potrafisz! Serio. Strasznie chcę, żeby coś się wreszcie ruszyło.",
+  "status": "draft"
+ },
+ "n:line:0026199": {
+  "pl": "Ta tama wygląda tam-tastycznie ze świeżą warstwą farby.",
+  "status": "review"
+ },
+ "n:line:002a55d": {
+  "pl": "Wiesz, że można <style=\"clue\">wejść na szyld teatru</style>? Dziwne, że nikt jeszcze nie próbował poprzestawiać liter...",
+  "status": "draft"
+ },
+ "n:line:00742de": {
+  "pl": "Na kampusie rzuciły mi się w oczy <style=\"clue\">cztery podobne kostki</style>, ale na razie skupiam się na tej dużej.",
+  "status": "draft"
+ },
+ "n:line:00c6ced": {
+  "pl": "Nie ma szans, żeby zrobił ten ruch. Brakuje mu tego czegoś!",
+  "status": "draft"
+ },
+ "n:line:00c7aa5": {
+  "pl": "Nikt nie da rady, <style=\"clue\">Bączek Eskapisty</style> to zbyt wymagająca figura.",
+  "status": "review"
+ },
+ "n:line:00f187b": {
+  "pl": "Podobno <style=\"clue\">Grace szuka pomocy</style>, żeby zrobić coś jeszcze większego!",
+  "status": "draft"
+ },
+ "n:line:010102a": {
+  "pl": "Ten dźwięk to był... akordeon? Co za dziwactwo!",
+  "status": "draft"
+ },
+ "n:line:010fb07": {
+  "pl": "Ostatnim eskapistą, któremu udał się Bączek Eskapisty, był słynny Eel Barnes!",
+  "status": "draft"
+ },
+ "n:line:011a75e": {
+  "pl": "Co jest nie tak z tymi obrazami?",
+  "status": "draft"
+ },
+ "n:line:0173f37": {
+  "pl": "Chyba chowają go w <style=\"clue\">automacie Snackdoku</style>, ale nie udało mi się złamać kodu. Ser-decznie mnie to wkurza.",
+  "status": "review"
+ },
+ "n:line:0184573": {
+  "pl": "Zatańczmy, Buster. <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:01b2f79": {
+  "pl": "Pospieszcie się! Kręci mi się w głowie…",
+  "status": "draft"
+ },
+ "n:line:023181c": {
+  "pl": "Oj tak, szyld nad wejściem jest teraz o wiele lepszy.",
+  "status": "draft"
+ },
+ "n:line:0244c9d": {
+  "pl": "Moja piosenka wcale ci nie pomagała…",
+  "status": "draft"
+ },
+ "n:line:026f3f8": {
+  "pl": "Hej, chciałem ci podziękować. Gdyby nie twoja pomoc, Ollie i ja nigdy nie ogarnęlibyśmy tych sześcianów, a ja wyszedłbym na największego kwadrata!",
+  "status": "draft"
+ },
+ "n:line:02a01f6": {
+  "pl": "Wow. Wbrew temu, co wszyscy mówią, w sztuce <i>da się</i> zarobić!",
+  "status": "draft"
+ },
+ "n:line:02aeb27": {
+  "pl": "Nie wierzę, że udało ci się zrealizować wszystkie szalone pomysły Grace na mural! Mam nadzieję, że solidnie ci to zaliczy!",
+  "status": "draft"
+ },
+ "n:line:02c8a49": {
+  "pl": "Znowu źle! O co chodzi? Zaczynam podejrzewać, że z Eelem Barnesem nie masz wiele wspólnego.",
+  "status": "draft"
+ },
+ "n:line:02e49c2": {
+  "pl": "Niezły też, żeby wylądować w izbie chorych.",
+  "status": "draft"
+ },
+ "n:line:02ee8d1": {
+  "pl": "Tak jest, kapitanie! <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:02faa9c": {
+  "pl": "Chyba wystawianie dzieł sztuki w naprawdę <style=\"clue\">trudno dostępnych miejscach</style> to niezły sposób, żeby ktoś cię zauważył.",
+  "status": "draft"
+ },
+ "n:line:0301bd8": {
+  "pl": "Skąd w ogóle ten akordeon?",
+  "status": "draft"
+ },
+ "n:line:03229dd": {
+  "pl": "Pomogę ci, na patrzeniu na rzeczy znam się jak mało kto. <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:0322a44": {
+  "pl": "Ahoj! Witaj w mojej Akordeonowej Alkowie! Profesor Chortkoff każe mi ćwiczyć tutaj, żebym nie „zakłócał spokoju kampusu”…",
+  "status": "draft"
+ },
+ "n:line:03257cc": {
+  "pl": "Kto to jest Eel Barnes?",
+  "status": "draft"
+ },
+ "n:line:03396e3": {
+  "pl": "Gapię się na tę kostkę od rana, a i tak nie wiem, jak najlepiej zabrać się za tę zagadkę…",
+  "status": "draft"
+ },
+ "n:line:03630a1": {
+  "pl": "Zawsze wiedzieliśmy, że dasz radę!",
+  "status": "draft"
+ },
+ "n:line:039beec": {
+  "pl": "Nie wiesz, które klawisze nacisnąć? Zerknij na <style=\"clue\">moje nuty</style>! Zwykle to wszystko wyjaśnia!",
+  "status": "draft"
+ },
+ "n:line:03c6239": {
+  "pl": "Buster tego nie przebije.",
+  "status": "draft"
+ },
+ "n:line:03dde27": {
+  "pl": "Dobra, może ktoś mnie teraz odwrócić?",
+  "status": "draft"
+ },
+ "n:line:040c9c0": {
+  "pl": "Rewelacja, Buster!",
+  "status": "draft"
+ },
+ "n:line:042b36d": {
+  "pl": "Profesor Slip powiedział, że żeby zdobyć <style=\"clue>nagrodę ukrytą w tej rzeźbie</style>, muszę spojrzeć na nią <style=\"clue\">z wielu różnych perspektyw</style>.",
+  "status": "review"
+ },
+ "n:line:044b251": {
+  "pl": "Ty może i masz forsę, ale to ja mam ser…",
+  "status": "draft"
+ },
+ "n:line:0474d14": {
+  "pl": "Argh!!! Czy tobie w ogóle zależy na Eelu Barnesie?!",
+  "status": "draft"
+ },
+ "n:line:048246b": {
+  "pl": "Świetne rzemiosło, jesteś o klasę wyżej niż reszta.",
+  "status": "draft"
+ },
+ "n:line:0484d5c": {
+  "pl": "Bułka z serem! <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:04a8de1": {
+  "pl": "To… też nie to. Na pewno przyglądasz się obrazom wystarczająco uważnie?",
+  "status": "draft"
+ },
+ "n:line:0504241": {
+  "pl": "Nie, to już cała twoja działka.",
+  "status": "draft"
+ },
+ "n:line:0514353": {
+  "pl": "Dosyć, dosyć, uszy mi więdną! Weź całą forsę z mojego portfela, tylko przestań już na tym grać!",
+  "status": "draft"
+ },
+ "n:line:0538032": {
+  "pl": "Hmm… to miejsce wygląda zupełnie zwyczajnie. Spokojnie, każdy popełnia błędy. Poza Eelem Barnesem.",
+  "status": "draft"
+ },
+ "n:line:0545eaf": {
+  "pl": "Dzięki! To było pro…<i>serfesjonalne</i>!",
+  "status": "review"
+ },
+ "n:line:0546ff0": {
+  "pl": "Profesor Slip zamknął wszystkie farby w sprayu, ale i tak dorwiemy trochę <style=\"clue\">sera w <i>sprayu</style>!</i>",
+  "status": "review"
+ },
+ "n:line:054f4af": {
+  "pl": "Wow! Udało się! Dzięki za pomoc. Masz <style=\"purchase\"> ${0} w gotówce</style> za to, że wyszedłem na kozaka.",
+  "status": "review"
+ },
+ "n:line:0585b45": {
+  "pl": "Chcesz mi pomóc napisać moją najnowszą i <style=\"clue\">najbardziej irytującą</style> melodię?",
+  "status": "draft"
+ },
+ "n:line:05c121a": {
+  "pl": "Nie sądzisz, że <style=\"clue\">tamie</style> przydałoby się <style=\"clue\">trochę koloru</style>?",
+  "status": "draft"
+ },
+ "n:line:05c1bc6": {
+  "pl": "Każdy artysta-partyzant z prawdziwego zdarzenia zostawił swoje tagi w <style=\"clue\">tunelu Wydziału Sztuki</style>.",
+  "status": "draft"
+ },
+ "n:line:05dc984": {
+  "pl": "Jeszcze raz dzięki za artystyczne oko. My, prawdziwi fani Eela Barnesa, musimy trzymać się razem!",
+  "status": "draft"
+ },
+ "n:line:05dd9fb": {
+  "pl": "Co tam, eskapisto. Nie przejmuj się mną, tylko testuję odporność naszego kostiumu na gwałtowne ruchy ciała, plamy farby i ogień.",
+  "status": "draft"
+ },
+ "n:line:05f4e4d": {
+  "pl": "Gdyby tylko Eel widział, jak głęboko jesteśmy mu oddani...",
+  "status": "draft"
+ },
+ "n:line:06359af": {
+  "pl": "Odkąd byłem małym brzdącem, marzyłem, żeby zostać piratem, ale niestety mam alergię na ryby, papugi i kule armatnie.",
+  "status": "draft"
+ },
+ "n:line:067677a": {
+  "pl": "Dam radę, ludzie! Ale, yyy… <style=\"clue\">przydałaby mi się pomoc</style>. Cała krew spływa mi do głowy.",
+  "status": "draft"
+ },
+ "n:line:06e9880": {
+  "pl": "Dochodziły do mnie dziwne dźwięki z <style=\"clue\">góry nad pracownią sztuk wizualnych</style>, ale mam za wrażliwe uszy, żeby to sprawdzić.",
+  "status": "draft"
+ },
+ "n:line:071bd2a": {
+  "pl": "Co?! Eel Barnes był tylko największym eskapistą wszech czasów! I do tego najprzystojniejszym…",
+  "status": "draft"
+ },
+ "n:line:074d110": {
+  "pl": "Doskonała robota! Przypominasz mi... no cóż, mnie sprzed kilku lat!",
+  "status": "draft"
+ },
+ "n:line:07746a2": {
+  "pl": "Jako akademicki znawca Eela Barnesa uważam, że jego pamięć zasługuje na dużo więcej. Muszę to poprawić osobiście!",
+  "status": "draft"
+ },
+ "n:line:07f8258": {
+  "pl": "Z ciebie to prawdziwy mistrz akordeonu. A może najgorszy akordeonista, jakiego w życiu spotkałem.",
+  "status": "draft"
+ },
+ "n:line:080a2d6": {
+  "pl": "<i>Nie</i> polecam znaleźć się na celowniku wybuchu Enory. Peace!",
+  "status": "draft"
+ },
+ "n:line:08fb4ba": {
+  "pl": "Wiesz już, o co chodzi z tymi wszystkimi posągami na kampusie? Pewnie, bułka z <i>kostką</i> masła...",
+  "status": "review"
+ },
+ "n:line:091b8c6": {
+  "pl": "Twoja sprawa, delikatne uszka!",
+  "status": "draft"
+ },
+ "n:line:093b041": {
+  "pl": "W punkt! Ta okropna fryzura musiała zniknąć.",
+  "status": "draft"
+ },
+ "n:line:093e394": {
+  "pl": "Co tam, eskapisto.",
+  "status": "draft"
+ },
+ "n:line:09502df": {
+  "pl": "Poświęcił się w ręce podłych naukowców wrogich ucieczkom, żeby zachować Akademię w tajemnicy, a świat escape'u w bezpieczeństwie. Żeby ochronić <i>nas</i>.",
+  "status": "review"
+ },
+ "n:line:0951e34": {
+  "pl": "Musi to wytrzymać, żeby przeżyć jedną z produkcji Enory...",
+  "status": "draft"
+ },
+ "n:line:095692d": {
+  "pl": "A, i nie rozmawiamy o zeszłorocznym incydencie z robotem-sobowtórem, który próbował przejąć szkołę… On nie miał z tym nic wspólnego.",
+  "status": "draft"
+ },
+ "n:line:0986a0d": {
+  "pl": "Na razie ani okruszka.",
+  "status": "draft"
+ },
+ "n:line:09e35ca": {
+  "pl": "Wiecie, zaczynam się z wami zgadzać…",
+  "status": "draft"
+ },
+ "n:line:09ed917": {
+  "pl": "Tak! Jego naramiennik był stanowczo za mało kolczasty!",
+  "status": "draft"
+ },
+ "n:line:09f05d5": {
+  "pl": "Dobre znalezisko. Eel nie ma powodu wzruszać ramionami! Jest zbyt fajny, żeby się wahać.",
+  "status": "draft"
+ },
+ "n:line:09fa495": {
+  "pl": "Więc zacząłem śpiewać szanty przy akordeonie.",
+  "status": "draft"
+ },
+ "n:line:0a348a2": {
+  "pl": "Czekaj, to <i>Debbie</i> wciąga ten ser w sprayu? W naszym pokoju przydadzą się świeczki zapachowe.",
+  "status": "draft"
+ },
+ "n:line:0a6e2f1": {
+  "pl": "Dobrze zauważone. Eel powinien mieć rozsądną liczbę guzików.",
+  "status": "draft"
+ },
+ "n:line:0aa9cba": {
+  "pl": "Enora będzie w skowronkach, że w tym roku na przedstawieniu w końcu będą kostiumy.",
+  "status": "draft"
+ },
+ "n:line:0abb798": {
+  "pl": "Zgadza się! Eel ma tylko jeden kolczyk. Dwa zniszczyłyby jego tajemniczość.",
+  "status": "draft"
+ },
+ "n:line:0ac6455": {
+  "pl": "Nie? To na co czekasz?!",
+  "status": "draft"
+ },
+ "n:line:0af76a3": {
+  "pl": "Jak myślisz, co te <style=\"clue\">kartki z dziennika zdradzają</style> o Eelu?",
+  "status": "draft"
+ },
+ "n:line:0b3f198": {
+  "pl": "Mam twój ser w sprayu, <i>ser</i>decznie polecam! <style=\"purchase\">(Daj ser)</style>",
+  "status": "review"
+ },
+ "n:line:0b5a23b": {
+  "pl": "Ty mały… Przecież <i>jestem</i> profesjonalistą!",
+  "status": "draft"
+ },
+ "n:line:0b72f4b": {
+  "pl": "Hej! Wszystko słyszę!",
+  "status": "draft"
+ },
+ "n:line:0b9459a": {
+  "pl": "No, od teraz to będzie twój znak firmowy!",
+  "status": "draft"
+ },
+ "n:line:0b95da9": {
+  "pl": "Tyle hałasu o <i>węgorza</i>. Pa!",
+  "status": "review"
+ },
+ "n:line:0bb6097": {
+  "pl": "Masz, parę eskadolarów.",
+  "status": "review"
+ },
+ "n:line:0bdf076": {
+  "pl": "Nie ciągnij mnie za nos jak mozzarellę!",
+  "status": "draft"
+ },
+ "n:line:0be3111": {
+  "pl": "Chodzi o to, że te obrazy hańbią dziedzictwo Eela Barnesa i trzeba je poprawić.",
+  "status": "draft"
+ },
+ "n:line:0c76386": {
+  "pl": "Udało ci się już <style=\"clue\">znaleźć różnice</style> w obrazach?",
+  "status": "draft"
+ },
+ "n:line:0c83b22": {
+  "pl": "Do zobaczenia na wielkim przedstawieniu Enory... o ile w ogóle skończą próby.",
+  "status": "draft"
+ },
+ "n:line:0cd0c5a": {
+  "pl": "Nie, jeśli mam coś do powiedzenia!",
+  "status": "draft"
+ },
+ "n:line:0ce9be1": {
+  "pl": "Idź <style=\"clue\">kupić bilety na przedstawienie</style>, zanim się skończą...",
+  "status": "draft"
+ },
+ "n:line:0d20f41": {
+  "pl": "Co za dziwak <style=\"clue\">je ser w sprayu</style> i czemu mamy cały <style=\"clue\">automat</style> tylko na to?",
+  "status": "draft"
+ },
+ "n:line:0d598aa": {
+  "pl": "Udało się! Uratowaliśmy tę haniebną wystawę i przywróciliśmy godność Eelowi Barnesowi.",
+  "status": "draft"
+ },
+ "n:line:0d7b26f": {
+  "pl": "Chyba lepiej zostawić to profesjonalistom.",
+  "status": "draft"
+ },
+ "n:line:0d963d4": {
+  "pl": "Brzmi, jakby przydał się asystent! <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:0dbd337": {
+  "pl": "Fuj. Farba byłaby smaczniejsza.",
+  "status": "draft"
+ },
+ "n:line:0e068d2": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0e1abfc": {
+  "pl": "Mam ich mnóstwo! Każda nuta wymaga <style=\"clue\">naciśnięcia trzech klawiszy</style>, żeby zabrzmiała jak trzeba.",
+  "status": "draft"
+ },
+ "n:line:0e2aded": {
+  "pl": "Zaczynam rozumieć, czemu Chortkoff zesłała mnie tutaj…",
+  "status": "draft"
+ },
+ "n:line:0e34102": {
+  "pl": "Jak tam idzie to muzykowanie?",
+  "status": "draft"
+ },
+ "n:line:0e38506": {
+  "pl": "Ser w sprayu cię nie satysfakcjonuje, co? Ale mnie ser-ce boli.",
+  "status": "review"
+ },
+ "n:line:0e3ea2b": {
+  "pl": "Dobre oko! Oko Eela powinno być otwarte, nie zamknięte.",
+  "status": "draft"
+ },
+ "n:line:0e59c41": {
+  "pl": "Rozumiem… Mnie bliżej do postmodernizmu.",
+  "status": "draft"
+ },
+ "n:line:0e5ed5c": {
+  "pl": "Nie będę ukrywać: Bongo ma rację, <style=\"clue\">te obrazy nie oddają Eela Barnesa jak należy</style>.",
+  "status": "draft"
+ },
+ "n:line:0e60710": {
+  "pl": "Tylko nie mogę dojść, co dokładnie…",
+  "status": "draft"
+ },
+ "n:line:0e63f47": {
+  "pl": "Gładkie szycie. Masz nosa do wizualnej dynamiki.",
+  "status": "draft"
+ },
+ "n:line:0eaf783": {
+  "pl": "Chyba <style=\"clue\">Ollie przyda się pomoc</style> w rozszyfrowaniu, co znaczą te posągi. Kubizm zawsze wydawał mi się zbyt abstrakcyjny.",
+  "status": "draft"
+ },
+ "n:line:0eb3b63": {
+  "pl": "Co jest nie tak z tymi obrazami?",
+  "status": "draft"
+ },
+ "n:line:0eb6b44": {
+  "pl": "Czasem wystarczy <style=\"clue\">świeże spojrzenie</style> na dzieło sztuki, żeby zrozumieć, co ma znaczyć.",
+  "status": "draft"
+ },
+ "n:line:0ece350": {
+  "pl": "Świetnie! Ty <style=\"clue\">wyszukaj różnice</style>, a ja zachowam swój artystyczny geniusz na samo malowanie.",
+  "status": "draft"
+ },
+ "n:line:0edaff7": {
+  "pl": "Masz jakieś rady do gry na akordeonie?",
+  "status": "draft"
+ },
+ "n:line:0ee77e2": {
+  "pl": "Co za fuszerka. Nie mieści mi się w głowie, że profesor Slip podpisał się pod takim… wtórnym bełkotem!",
+  "status": "draft"
+ },
+ "n:line:0f20634": {
+  "pl": "Chyba <i>moja</i> cisza i spokój są ważniejsze…",
+  "status": "draft"
+ },
+ "n:line:0f4602c": {
+  "pl": "Jak tam serowe poszukiwania?",
+  "status": "review"
+ },
+ "n:line:0f5ff9e": {
+  "pl": "Zaliczone artystycznie <i>albo</i> ulicznie.",
+  "status": "review"
+ },
+ "n:line:0f7da0a": {
+  "pl": "Dzięki, ale kubizm to nie moja bajka.",
+  "status": "draft"
+ },
+ "n:line:0f7fecb": {
+  "pl": "Oto mała nagroda za twój trud. Choć dla prawdziwego fana satysfakcja z dobrze wykonanej roboty powinna być nagrodą wystarczającą.",
+  "status": "draft"
+ },
+ "n:line:0fc8c48": {
+  "pl": "Każdy z tych obrazów <style=\"clue\">powinien być identyczny, ale coś jest nie tak.</style>",
+  "status": "draft"
+ }
+}

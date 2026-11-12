@@ -1,0 +1,90 @@
+{
+ "g:ART_Blueprints": {
+  "pl": "Projekty scenografii do <i>Zagadek z Salem</i>.",
+  "status": "draft"
+ },
+ "g:ART_Bowls": {
+  "pl": "To <i>miskow</i>ska robota. Nie każdy by tak potrafił!",
+  "status": "review"
+ },
+ "g:ART_Ch5_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Akademia szykuje się na męczące przedstawienie uczniów",
+  "status": "draft"
+ },
+ "g:ART_Ch6_EscapistTimes": {
+  "pl": "Kurier Eskapisty – RECENZJA: Po „Śmierci artysty” Enory Chortkoff sztuka też nie żyje",
+  "status": "draft"
+ },
+ "g:ART_Ch7_EscapistTimes": {
+  "pl": "Kurier Eskapisty – PILNE: Zaginęli przeciętni muzycy. Źle dla Akademii, dobrze dla moich uszu",
+  "status": "draft"
+ },
+ "g:ART_Ch8_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Prof. Chortkoff niepotrzebnie tajemnicza w sprawie przyszłych przedsięwzięć artystycznych",
+  "status": "draft"
+ },
+ "g:ART_CluesBrothers": {
+  "pl": "„Własność Clues Brothers”",
+  "status": "review"
+ },
+ "g:ART_CostumesRack": {
+  "pl": "Kostiumy z ubiegłorocznego przedstawienia <i>Upiór w Zamkoperze</i>.",
+  "status": "draft"
+ },
+ "g:ART_EelBarnesStatue": {
+  "pl": "Eel Barnes, eskapista wszech czasów i prawdziwy <i>kamień</i> milowy tej szkoły.",
+  "status": "draft"
+ },
+ "g:ART_Epi_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Prof. Chortkoff przeniesie wydarzenia tego roku do swojej następnej sztuki. Za wcześnie?",
+  "status": "draft"
+ },
+ "g:ART_FabricRolls": {
+  "pl": "Czasem do celu trzeba dojść po nitce do kłębka.",
+  "status": "draft"
+ },
+ "g:ART_Flats": {
+  "pl": "I pomyśleć, że to występy uchodziły za płaskie…",
+  "status": "draft"
+ },
+ "g:ART_FoundersArtifacts": {
+  "pl": "Niektóre z najcenniejszych rzeczy należących do założycieli…",
+  "status": "review"
+ },
+ "g:ART_Guitar": {
+  "pl": "Nie będę się dziś przejmować graniem na tym… każdy ma swoje progi.",
+  "status": "draft"
+ },
+ "g:ART_InstrumentCase": {
+  "pl": "Wytrycholo od zawsze należy do moich ulubionych instrumentów…",
+  "status": "draft"
+ },
+ "g:ART_Iron": {
+  "pl": "„Proszę podnosić żelaznym chwytem”",
+  "status": "draft"
+ },
+ "g:ART_Lamp": {
+  "pl": "Dobra piosenka potrafi rozświetlić pokój!",
+  "status": "draft"
+ },
+ "g:ART_Mirror": {
+  "pl": "Wyglądam odjazdowo!",
+  "status": "draft"
+ },
+ "g:ART_MusicBooks1": {
+  "pl": "„Które piętro? – Kompletny przewodnik po muzyce windowskazowej”",
+  "status": "review"
+ },
+ "g:ART_Palette": {
+  "pl": "Po tej palecie znowu mam apetyt na malowanie. Prawdziwa paleta smaków!",
+  "status": "draft"
+ },
+ "g:ART_Vases": {
+  "pl": "Wow, te wazony są naprawdę <i>waz</i>ne!",
+  "status": "review"
+ },
+ "g:ART_WaterCooler": {
+  "pl": "Lepsze niż picie z kranu… chociaż do kranu też da się stepować.",
+  "status": "review"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "v:MUS_NNN_Angry": {
+  "pl": "Wściekły",
+  "status": "review"
+ },
+ "v:MUS_NNN_Bah": {
+  "pl": "Bah!",
+  "status": "draft"
+ },
+ "v:MUS_NNN_Grumble": {
+  "pl": "Burczenie",
+  "status": "review"
+ },
+ "v:MUS_NNN_Whoa": {
+  "pl": "Łoo",
+  "status": "review"
+ },
+ "v:Slip_WLD_WhatsGood": {
+  "pl": "Co tam?",
+  "status": "draft"
+ },
+ "v:VonBellini_AHY_WoahNessie": {
+  "pl": "UUUOOOAAA NESSIE!",
+  "status": "draft"
+ }
+}

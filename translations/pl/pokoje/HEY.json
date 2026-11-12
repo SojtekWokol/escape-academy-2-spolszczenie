@@ -1,0 +1,446 @@
+{
+ "g:HEY_1of3": {
+  "pl": "(1 z 3)",
+  "status": "draft"
+ },
+ "g:HEY_2of3": {
+  "pl": "(2 z 3)",
+  "status": "draft"
+ },
+ "g:HEY_3Foudners": {
+  "pl": "Z imionami byłoby trochę bardziej pomocne…",
+  "status": "draft"
+ },
+ "g:HEY_3of3": {
+  "pl": "(3 z 3)",
+  "status": "draft"
+ },
+ "g:HEY_ATMPrompt": {
+  "pl": "Kto założył Escape Academy?",
+  "status": "draft"
+ },
+ "g:HEY_ATMRightAnswer": {
+  "pl": "Tak jest!",
+  "status": "draft"
+ },
+ "g:HEY_ATMWrongAnswer": {
+  "pl": "Nic z tego",
+  "status": "draft"
+ },
+ "g:HEY_Apple": {
+  "pl": "Wiem, że lepiej tego nie gryźć. Nie dam się złapać na symbolikę!",
+  "status": "draft"
+ },
+ "g:HEY_Award": {
+  "pl": "„Nagroda za najmniej zagubionych uczniów”. I to już dwa lata z rzędu!",
+  "status": "draft"
+ },
+ "g:HEY_Book1": {
+  "pl": "„…pierwsza dyrektorka zawsze <i>kier</i>owała szkołą ze złotym sercem…”",
+  "status": "review"
+ },
+ "g:HEY_Book2": {
+  "pl": "„…nie tylko założył szkołę, ale też należał do najbardziej pożądanych <i>trefl</i>-klubów Towarzystwa Ucieczek…”",
+  "status": "review"
+ },
+ "g:HEY_Book3": {
+  "pl": "„…nie zaszkodziło, że nasz historyk był przystojny, odważny i <i>pik</i>antny w żartach...",
+  "status": "review"
+ },
+ "g:HEY_CampusActivity1": {
+  "pl": "8:00:<br>Śniadanie, <b>kawa</b> i szyfry",
+  "status": "draft"
+ },
+ "g:HEY_CampusActivity2": {
+  "pl": "11:00:<br>Tajemnicze <b>karaoke</b>",
+  "status": "draft"
+ },
+ "g:HEY_CampusActivity3": {
+  "pl": "13:00:<br>Klub <b>układanek</b> (przynieś własne elementy)",
+  "status": "draft"
+ },
+ "g:HEY_CampusActivity4": {
+  "pl": "15:00:<br>Warsztat<br><b>Zbuduj</b>-Pułapkę",
+  "status": "draft"
+ },
+ "g:HEY_CampusActivity5": {
+  "pl": "21:00:<br>Gra w <b>chowanego</b> na całym kampusie!",
+  "status": "draft"
+ },
+ "g:HEY_ChroniclerNews": {
+  "pl": "Przystojny historyk Sameer Gaspard osiada na dobre i zasiada do układania pierwszego programu nauczania akademii!",
+  "status": "draft"
+ },
+ "g:HEY_ClockFast": {
+  "pl": "Czas wciąż ucieka, ale to już przesada!",
+  "status": "draft"
+ },
+ "g:HEY_CodePosterFooter": {
+  "pl": "ZADZWOŃ<br><color=white>772</color>",
+  "status": "draft"
+ },
+ "g:HEY_CodePosterHeader": {
+  "pl": "Kłopoty?",
+  "status": "draft"
+ },
+ "g:HEY_DeskPuzzleSolution": {
+  "pl": "Ś,L,A,D",
+  "status": "review"
+ },
+ "g:HEY_Desk_Start_Instructions": {
+  "pl": "START W<br>X2 Y2",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X1Y1_Instructions": {
+  "pl": "Dalej: Y+3",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X1Y1_Letter": {
+  "pl": "F",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X1Y2_Instructions": {
+  "pl": "Dalej: Y+2",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X1Y2_Letter": {
+  "pl": "M",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X1Y3_Letter": {
+  "pl": "Q",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X1Y4_Letter": {
+  "pl": "D",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X2Y1_Letter": {
+  "pl": "Z",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X2Y2_Instructions": {
+  "pl": "Dalej: X+1",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X2Y2_Letter": {
+  "pl": "Ś",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X2Y3_Instructions": {
+  "pl": "Dalej: X+1",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X2Y3_Letter": {
+  "pl": "Q",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X2Y4_Letter": {
+  "pl": "L",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X3Y1_Instructions": {
+  "pl": "Dalej: Y+3",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X3Y1_Letter": {
+  "pl": "T",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X3Y2_Instructions": {
+  "pl": "Dalej: Y+2",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X3Y2_Letter": {
+  "pl": "L",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X3Y3_Letter": {
+  "pl": "B",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X3Y4_Instructions": {
+  "pl": "Dalej: X-2",
+  "status": "draft"
+ },
+ "g:HEY_Desk_X3Y4_Letter": {
+  "pl": "A",
+  "status": "draft"
+ },
+ "g:HEY_EscapistTimes": {
+  "pl": "Kurier Eskapisty – BADANIE: Doświadczeni profesorowie twierdzą, że kartkówki z zaskoczenia wbijają wiedzę najskuteczniej",
+  "status": "review"
+ },
+ "g:HEY_Folders": {
+  "pl": "Ilu pierwszoroczniaków zda kartkówkę „Witamy z powrotem”?",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Ashbourne": {
+  "pl": "Ashbourne",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Augustin": {
+  "pl": "Augustín",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Beaumont": {
+  "pl": "Beaumont",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Caspian": {
+  "pl": "Caspian",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Edric": {
+  "pl": "Edric",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Fernando": {
+  "pl": "Fernando",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Gaspard": {
+  "pl": "Gaspard",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Kingswell": {
+  "pl": "Kingswell",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Lucien": {
+  "pl": "Lucien",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Maud": {
+  "pl": "Maud",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Montclair": {
+  "pl": "Montclair",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_NAME": {
+  "pl": "*Imię*",
+  "status": "review"
+ },
+ "g:HEY_FounderName_Reyna": {
+  "pl": "Reina",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Sameer": {
+  "pl": "Sameer",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Shreck": {
+  "pl": "Shreck",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Soren": {
+  "pl": "Soren",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Vanderleigh": {
+  "pl": "Vanderleigh",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Velma": {
+  "pl": "Velma",
+  "status": "draft"
+ },
+ "g:HEY_FounderName_Wym": {
+  "pl": "Wym",
+  "status": "draft"
+ },
+ "g:HEY_FoundersSign": {
+  "pl": "Nasza trójka założycieli",
+  "status": "review"
+ },
+ "g:HEY_Hint_ActivitiesA": {
+  "pl": "Czy któreś z nich pojawia się gdzieś indziej?",
+  "status": "draft"
+ },
+ "g:HEY_Hint_ActivitiesB": {
+  "pl": "Najpierw kawa. Potem karaoke…",
+  "status": "draft"
+ },
+ "g:HEY_Hint_GridA": {
+  "pl": "Zacznij od X2Y2… Gdzie to jest?",
+  "status": "draft"
+ },
+ "g:HEY_Hint_GridB": {
+  "pl": "Biurka tworzą siatkę. Zacznij od X2Y2…",
+  "status": "draft"
+ },
+ "g:HEY_Hint_GridC": {
+  "pl": "X+1? To znaczy, że następne biurko to X<b>3</b>Y2!",
+  "status": "draft"
+ },
+ "g:HEY_Hint_NamesA": {
+  "pl": "Czy ci ludzie gdzieś już się pojawiali?",
+  "status": "draft"
+ },
+ "g:HEY_Hint_NamesB": {
+  "pl": "Przyjrzyj się dobrze kolorom kart.",
+  "status": "draft"
+ },
+ "g:HEY_Hint_Peephole": {
+  "pl": "Rzuć okiem!",
+  "status": "draft"
+ },
+ "g:HEY_Hint_Realistic": {
+  "pl": "Ten klucz wygląda bardzo realistycznie…",
+  "status": "draft"
+ },
+ "g:HEY_KeyPosterFooter": {
+  "pl": "Nigdy nie wiadomo, co można <color=white>Znaleźć</color>",
+  "status": "draft"
+ },
+ "g:HEY_KeyPosterHeader": {
+  "pl": "Przyjrzyj się<br>otoczeniu<br><size=1.5em><color=white>dokładnie</color></size>",
+  "status": "draft"
+ },
+ "g:HEY_Lock": {
+  "pl": "Zamków nigdy za wiele!",
+  "status": "draft"
+ },
+ "g:HEY_MentorNews": {
+  "pl": "Reina Wym zostaje pierwszą dyrektorką nowo powstałej Escape Academy!",
+  "status": "draft"
+ },
+ "g:HEY_NewspaperHeader": {
+  "pl": "Kurier Eskapisty",
+  "status": "draft"
+ },
+ "g:HEY_PaperTray": {
+  "pl": "Oby nie było pracy domowej na lato!",
+  "status": "draft"
+ },
+ "g:HEY_PatronNews": {
+  "pl": "Bogaty mecenas Fernando Augustín finansuje rozbudowę escape roomów w zupełnie nowej akademii!",
+  "status": "draft"
+ },
+ "g:HEY_Plant": {
+  "pl": "Początek mojego drugiego roku wcale NIE idzie jak po kwiatkach.",
+  "status": "draft"
+ },
+ "g:HEY_Pledge": {
+  "pl": "Ślubuję wierność wskazówkom<br>Escape Academy,<br>i zagadkom, które ledwo rozwiązujemy,<br>jeden pokój, pod presją,<br>ze śledziami-zmyłkami i bólem głowy dla wszystkich.",
+  "status": "draft"
+ },
+ "g:HEY_PledgeTitle": {
+  "pl": "Przysięga<br><color=white>Ucieczki</color>",
+  "status": "draft"
+ },
+ "g:HEY_Poster_Achieve": {
+  "pl": "OSIĄGAJ",
+  "status": "draft"
+ },
+ "g:HEY_Poster_EscapeIsTheKey": {
+  "pl": "Ucieczka jest kluczem",
+  "status": "draft"
+ },
+ "g:HEY_Poster_UnlockYourPotential": {
+  "pl": "Odblokuj swój potencjał",
+  "status": "draft"
+ },
+ "g:HEY_ProjectorEmpty": {
+  "pl": "Może coś położyć na projektorze?",
+  "status": "draft"
+ },
+ "g:HEY_QuizExit": {
+  "pl": "Odpowiedz, by wyjść!",
+  "status": "draft"
+ },
+ "g:HEY_QuizFounders": {
+  "pl": "Kto założył<br>Escape Academy?",
+  "status": "draft"
+ },
+ "g:HEY_QuizPrompt": {
+  "pl": "Kartkówka!",
+  "status": "draft"
+ },
+ "g:HEY_Rack": {
+  "pl": "Przez tę kartkówkę głowa mi się <i>wiesza</i>!",
+  "status": "review"
+ },
+ "g:HEY_RoomDone": {
+  "pl": "Na co jeszcze czekam? Pora stąd wiać!",
+  "status": "draft"
+ },
+ "g:HEY_RoomName": {
+  "pl": "Pobudka ze wskazówką",
+  "status": "draft"
+ },
+ "g:HEY_SolangeLetter": {
+  "pl": "Dyrektorka Solange ma naprawdę ciekawe pojęcie o „małej niespodziance…” ",
+  "status": "draft"
+ },
+ "g:HEY_Still": {
+  "pl": "Obraz z projektora",
+  "status": "draft"
+ },
+ "g:HEY_Subtitle": {
+  "pl": "Uciekaj<br>z klasy!",
+  "status": "draft"
+ },
+ "g:HEY_WaterBottle": {
+  "pl": "Jak miło z ich strony, że mogę się nawodnić, kiedy kolce spadają mi na głowę!",
+  "status": "draft"
+ },
+ "g:HEY_WoodenChestPrompt": {
+  "pl": "Drewniana kasetka…",
+  "status": "draft"
+ },
+ "v:CampusPolice_HEY_Fired": {
+  "pl": "Dziękujemy za kontakt z ochroną kampusu. Wszyscy zostali zwolnieni.",
+  "status": "draft"
+ },
+ "v:Solange_HEY_ChestTight": {
+  "pl": "Jeśli czujesz ucisk w skrzyni piersiowej, nie martw się. To tylko stres.",
+  "status": "draft"
+ },
+ "v:Solange_HEY_DeskDidThat": {
+  "pl": "Moje biurko też by tak mogło.",
+  "status": "draft"
+ },
+ "v:Solange_HEY_DeskDidThat_ALT": {
+  "pl": "Powinnam sobie zamontować coś takiego w biurku.",
+  "status": "draft"
+ },
+ "v:Solange_HEY_LoveSpikedCeiling": {
+  "pl": "Och, uwielbiam porządny sufit z kolcami!",
+  "status": "draft"
+ },
+ "v:Solange_HEY_MindHead": {
+  "pl": "Uważaj na głowę.",
+  "status": "draft"
+ },
+ "v:Solange_HEY_ObservationKey": {
+  "pl": "Obserwacja to klucz!",
+  "status": "draft"
+ },
+ "v:Solange_HEY_RoomFail": {
+  "pl": "No no… Co za kłujące rozczarowanie.",
+  "status": "draft"
+ },
+ "v:Solange_HEY_RoomWin": {
+  "pl": "Wiedziałam, że przeżyjesz!",
+  "status": "draft"
+ },
+ "v:Solange_HEY_SendPacking": {
+  "pl": "Świetnie. Nie chciałabym pakować ci plecaka i wyprawiać cię za drzwi przed pierwszą lekcją.",
+  "status": "draft"
+ },
+ "v:Solange_HEY_StrictSchedule": {
+  "pl": "Ścisły plan dnia to najlepszy przyjaciel eskapisty.",
+  "status": "draft"
+ },
+ "v:Solange_HEY_Welcome": {
+  "pl": "Witaj w Escape Academy, postaraj się nie zginąć!",
+  "status": "draft"
+ },
+ "v:Stonies_HEY_ThanksCalling": {
+  "pl": "Dziękujemy za telefon do Pizzerii Stonies, gdzie pizza jest pieczona na kamieniu, a my zawsze jesteśmy nieźle zjarani.",
+  "status": "review"
+ }
+}

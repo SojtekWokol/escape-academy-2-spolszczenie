@@ -1,0 +1,798 @@
+{
+ "g:SCI_Acid": {
+  "pl": "KWAS",
+  "status": "review"
+ },
+ "g:SCI_Allie": {
+  "pl": "Allie",
+  "status": "draft"
+ },
+ "g:SCI_BBeak": {
+  "pl": "D",
+  "status": "review"
+ },
+ "g:SCI_Beak": {
+  "pl": "<b>D</b>ziób",
+  "status": "review"
+ },
+ "g:SCI_BinaryPosterInstructions": {
+  "pl": "Każde miejsce oznacza liczbę. <br>1 na tym miejscu znaczy: dodaj tę liczbę, 0 – pomiń ją. ",
+  "status": "draft"
+ },
+ "g:SCI_BinaryPosterTitle": {
+  "pl": "Binarny elementarz:",
+  "status": "draft"
+ },
+ "g:SCI_Bio_QuestDesc": {
+  "pl": "Pomóż prof. Bonilli zaopiekować się kurką Nugget.",
+  "status": "draft"
+ },
+ "g:SCI_Bio_QuestName": {
+  "pl": "Kurzy cios łaski",
+  "status": "draft"
+ },
+ "g:SCI_Bio_QuestObj_0": {
+  "pl": "Porozmawiaj z prof. Bonilla w laboratorium biologicznym",
+  "status": "draft"
+ },
+ "g:SCI_Bio_Skeleton": {
+  "pl": "Ten gość ma luz od czaszki po biodra.",
+  "status": "review"
+ },
+ "g:SCI_Bio_Vines": {
+  "pl": "Mitochondrium to elektrownia każdej łami<i>komórki.</i>",
+  "status": "draft"
+ },
+ "g:SCI_Biology_Feed": {
+  "pl": "Nakarm kurkę robakiem.",
+  "status": "draft"
+ },
+ "g:SCI_Biology_Heat": {
+  "pl": "Włącz lampę grzewczą.",
+  "status": "draft"
+ },
+ "g:SCI_Biology_Music": {
+  "pl": "Puść jej łagodny jazz.",
+  "status": "draft"
+ },
+ "g:SCI_Biology_Talk": {
+  "pl": "Porozmawiaj z prof. Bonillą.",
+  "status": "draft"
+ },
+ "g:SCI_BromineBr": {
+  "pl": "Br",
+  "status": "draft"
+ },
+ "g:SCI_Camp_StairwellSignage": {
+  "pl": "DO WIEŻY POGODOWEJ",
+  "status": "draft"
+ },
+ "g:SCI_CarbonC": {
+  "pl": "C",
+  "status": "draft"
+ },
+ "g:SCI_Ch2_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Wielki zawód dla kampusowych piromanów: prof. Bonilla nie ustępuje i nadal nie chce uczyć budowy bomb",
+  "status": "draft"
+ },
+ "g:SCI_Ch3_EscapistTimes": {
+  "pl": "Kurier Eskapisty – SONDA: Kto nazwał szkolną kurę Nugget? Serio, ludzie. To chore.",
+  "status": "draft"
+ },
+ "g:SCI_Ch5_EscapistTimes": {
+  "pl": "Kurier Eskapisty – BADANIE: 57% uczniów nie miałoby nic przeciwko powrotowi robota Eela Barnesa na stanowisko profesora",
+  "status": "draft"
+ },
+ "g:SCI_Ch6_EscapistTimes": {
+  "pl": "Kurier Eskapisty – OPINIA: Przejście na emeryturę to poddanie się, tyle że z imprezą",
+  "status": "draft"
+ },
+ "g:SCI_Ch7_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Dyrektorka Solange znów gra va banque: dawna zbuntowana SI i wózek z telewizorem, Quanty, awansuje na starszego profesora nauk ścisłych.",
+  "status": "draft"
+ },
+ "g:SCI_Ch8_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Quanty nadal nie budzi naszego zaufania. Wam też nie powinien",
+  "status": "draft"
+ },
+ "g:SCI_Checklist": {
+  "pl": "KURZA LISTA KONTROLNA: <br>Nugget nie zniesie jajka, dopóki:<br>– lampa grzewcza nie będzie włączona<br>– nie dostanie dziennego robaka<br>– nie zagra jej ulubiony album jazzowy",
+  "status": "draft"
+ },
+ "g:SCI_Chem_Beakers": {
+  "pl": "Ależ ten eksperyment ma w sobie chemię!",
+  "status": "draft"
+ },
+ "g:SCI_Chem_Extinguisher": {
+  "pl": "Moje obawy przed pożarem właśnie zostały ugaszone.",
+  "status": "draft"
+ },
+ "g:SCI_Chem_Frontpage": {
+  "pl": "Ale super! Slip jest na okładce Tygodnika Eskapistów!",
+  "status": "draft"
+ },
+ "g:SCI_Chem_Glue": {
+  "pl": "Klej",
+  "status": "draft"
+ },
+ "g:SCI_Chem_GlueDesc": {
+  "pl": "Klei się!",
+  "status": "draft"
+ },
+ "g:SCI_Chem_Obj1": {
+  "pl": "Zbierz chemikalia.",
+  "status": "draft"
+ },
+ "g:SCI_Chem_Obj2": {
+  "pl": "Zsyntetyzuj gaz amnestyczny.",
+  "status": "draft"
+ },
+ "g:SCI_Chem_Obj3": {
+  "pl": "Porozmawiaj z prof. Bonillą.",
+  "status": "draft"
+ },
+ "g:SCI_Chem_QuestDesc": {
+  "pl": "Pomóż prof. Bonilli uwarzyć tajny składnik gazu amnestycznego na lekcję chemii!",
+  "status": "draft"
+ },
+ "g:SCI_Chem_QuestName": {
+  "pl": "Wyciek pamięci",
+  "status": "draft"
+ },
+ "g:SCI_Chem_QuestObj_0": {
+  "pl": "Porozmawiaj z prof. Bonilla w laboratorium chemicznym",
+  "status": "draft"
+ },
+ "g:SCI_Chem_RoomTemp": {
+  "pl": "Temp. pokojowa",
+  "status": "draft"
+ },
+ "g:SCI_Chem_Temp": {
+  "pl": "20 °C",
+  "status": "review"
+ },
+ "g:SCI_Chemicals": {
+  "pl": "Chemikalia mózgowe",
+  "status": "draft"
+ },
+ "g:SCI_ChemicalsMissingError": {
+  "pl": "Błąd: brakuje chemikaliów",
+  "status": "draft"
+ },
+ "g:SCI_ChlorineCl": {
+  "pl": "Cl",
+  "status": "draft"
+ },
+ "g:SCI_ClueJay": {
+  "pl": "Wskazójka",
+  "status": "review"
+ },
+ "g:SCI_Com_Microphone": {
+  "pl": "Halo, to coś w ogóle działa?",
+  "status": "draft"
+ },
+ "g:SCI_Com_Reels": {
+  "pl": "Co za <i>zakręcony</i> sprzęt!",
+  "status": "draft"
+ },
+ "g:SCI_Com_StormTracker": {
+  "pl": "„Tropiciel burz 9000”",
+  "status": "draft"
+ },
+ "g:SCI_Com_Weather": {
+  "pl": "Przewidywanie pogody to naprawdę wyzwanie!",
+  "status": "draft"
+ },
+ "g:SCI_CoolSkeleton": {
+  "pl": "Za wyluzowany, żeby mieć z kimś kości do obgryzienia…",
+  "status": "review"
+ },
+ "g:SCI_CricketBody": {
+  "pl": "Nie śpi do świtu, by wcześnie rano cykać swoją wesołą piosenkę!",
+  "status": "draft"
+ },
+ "g:SCI_CricketBodyAlt": {
+  "pl": "Trzeba wstać skoro świt, żeby usłyszeć jego wesołą pieśń!",
+  "status": "draft"
+ },
+ "g:SCI_CricketTitle": {
+  "pl": "Skromny świerszcz",
+  "status": "draft"
+ },
+ "g:SCI_DrainChemicals": {
+  "pl": "Chemikalia odpływowe",
+  "status": "draft"
+ },
+ "g:SCI_DrainChemicalsDisplayText": {
+  "pl": "„Uwaga: chemikalia odpływowe – wyp<b><u>Ar</u></b>y mają gr<b><u>O</u></b>źne e<b><u>Fe</u></b>kty!”",
+  "status": "review"
+ },
+ "g:SCI_DrainChemicalsWarning": {
+  "pl": "Uwaga: chemikalia odpływowe – wyp<b><u>Ar</u></b>y mają gr<b><u>O</u></b>źne e<b><u>Fe</u></b>kty!",
+  "status": "review"
+ },
+ "g:SCI_EC_1_QuestDescription": {
+  "pl": "Pomóż nakarmić ucznia w potrzebie!",
+  "status": "draft"
+ },
+ "g:SCI_EC_1_QuestName": {
+  "pl": "Składka na chipsy",
+  "status": "draft"
+ },
+ "g:SCI_EC_1_QuestObjective": {
+  "pl": "Przynieś Bertowi paczkę chipsów.",
+  "status": "draft"
+ },
+ "g:SCI_EC_1_QuestObjective0": {
+  "pl": "Kup paczkę chipsów.",
+  "status": "draft"
+ },
+ "g:SCI_EC_1_QuestObjective1": {
+  "pl": "Daj chipsy Bertowi.",
+  "status": "draft"
+ },
+ "g:SCI_EC_NoDerbyCar": {
+  "pl": "Muszę ustawić auto na linii startu, żeby ruszyć do wyścigu! ",
+  "status": "draft"
+ },
+ "g:SCI_EC_Telescopes_Objective1": {
+  "pl": "Znajdź drogę do tajnego szybu wentylacyjnego.",
+  "status": "draft"
+ },
+ "g:SCI_EC_Telescopes_Objective2": {
+  "pl": "Odbierz tajemniczą nagrodę.",
+  "status": "draft"
+ },
+ "g:SCI_EC_Telescopes_QuestDescription": {
+  "pl": "Otwórz tajną skrytkę przygotowaną przez prof. Von Bellini.",
+  "status": "draft"
+ },
+ "g:SCI_EC_Telescopes_QuestName": {
+  "pl": "Teleskopowe rozpoznanie",
+  "status": "draft"
+ },
+ "g:SCI_Epi_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Wszystkie oczy zwrócone na Wydział Nauk Ścisłych po dwóch próbach przewrotu z rzędu",
+  "status": "draft"
+ },
+ "g:SCI_Ethanol": {
+  "pl": "Etanol<br>C<sub>2</sub>H<sub>6</sub>O",
+  "status": "draft"
+ },
+ "g:SCI_Ext_BurniceSign_1": {
+  "pl": "„Uwaga: GORĄCO”",
+  "status": "draft"
+ },
+ "g:SCI_Ext_BurniceSign_2": {
+  "pl": "„Uwaga: w toku prace nad zagadkami”",
+  "status": "draft"
+ },
+ "g:SCI_Ext_Electrical": {
+  "pl": "Ten kampus jest elektryzujący!",
+  "status": "draft"
+ },
+ "g:SCI_FFeather": {
+  "pl": "P",
+  "status": "review"
+ },
+ "g:SCI_Fastest": {
+  "pl": "Najszybszy:",
+  "status": "draft"
+ },
+ "g:SCI_Feathers": {
+  "pl": "<b>P</b>ióra",
+  "status": "draft"
+ },
+ "g:SCI_FireHazard": {
+  "pl": "Zagrożenie pożarowe<br>Czerwony romb",
+  "status": "draft"
+ },
+ "g:SCI_FireHazardDescription": {
+  "pl": "4 – Pali się poniżej 23 °C<br>3 – Pali się poniżej 38 °C<br>2 – Pali się między 38 °C a 93 °C<br>1 – Pali się powyżej 93 °C<br>0 – Nie pali się",
+  "status": "draft"
+ },
+ "g:SCI_FluorineF": {
+  "pl": "F",
+  "status": "draft"
+ },
+ "g:SCI_FoodChain": {
+  "pl": "Łańcuch pokarmowy",
+  "status": "draft"
+ },
+ "g:SCI_FoodChainsComplete": {
+  "pl": "Te łańcuchy pokarmowe wyglądają dobrze! Co dalej?",
+  "status": "draft"
+ },
+ "g:SCI_Forgot": {
+  "pl": "Zapomniało się, jak to wygląda…",
+  "status": "draft"
+ },
+ "g:SCI_FormulaNotRecognized": {
+  "pl": "Błąd: nie rozpoznano wzoru. Spróbować ponownie?",
+  "status": "draft"
+ },
+ "g:SCI_GasCreated": {
+  "pl": "Gaz amnestyczny wytworzony.",
+  "status": "draft"
+ },
+ "g:SCI_Give_Obj1": {
+  "pl": "Porozmawiaj z prof. Von Bellini na Wydziale Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:SCI_Give_QuestDesc": {
+  "pl": "Porozmawiaj z prof. Von Bellini, żeby zacząć program Wydziału Nauk Ścisłych i zgarnąć punkty!",
+  "status": "draft"
+ },
+ "g:SCI_Give_QuestName": {
+  "pl": "Metoda naukowa",
+  "status": "draft"
+ },
+ "g:SCI_HealthHazard": {
+  "pl": "Zagrożenie zdrowia<br>Niebieski romb",
+  "status": "draft"
+ },
+ "g:SCI_HealthHazardDescription": {
+  "pl": "4 – Śmiertelne<br>3 – Skrajne niebezpieczeństwo<br>2 – Niebezpieczne<br>1 – Lekko niebezpieczne<br>0 – Materiał zwykły",
+  "status": "draft"
+ },
+ "g:SCI_HeatLamp": {
+  "pl": "Ta lampa grzeje aż miło!",
+  "status": "draft"
+ },
+ "g:SCI_Hint_ComputerA": {
+  "pl": "Potrzebujesz 1 atomu węgla, 5 atomów wodoru, 1 atomu azotu i 3 atomów tlenu…",
+  "status": "draft"
+ },
+ "g:SCI_Hint_ComputerB": {
+  "pl": "Zacznij od połączenia H z O w lewym dolnym rogu. Potem buduj dalej.",
+  "status": "draft"
+ },
+ "g:SCI_Hint_FireDiamondA": {
+  "pl": "Przeczytaj uważnie raport z incydentu…",
+  "status": "draft"
+ },
+ "g:SCI_Hint_FireDiamondB": {
+  "pl": "Do incydentu doszło w temperaturze pokojowej. W czerwonym rombie to 4.",
+  "status": "draft"
+ },
+ "g:SCI_Hint_FireDiamondC": {
+  "pl": "Jakie są pozostałe wartości?",
+  "status": "draft"
+ },
+ "g:SCI_Hint_FoodChainA": {
+  "pl": "Największe drapieżniki umieść na szczycie: orka rządzi na szczycie oceanu.",
+  "status": "draft"
+ },
+ "g:SCI_Hint_FoodChainB": {
+  "pl": "Zobacz, z jaką liczbą powiązane jest każde zwierzę…",
+  "status": "draft"
+ },
+ "g:SCI_Hint_FoodChainC": {
+  "pl": "…i wpisz je w listwy zasilające!",
+  "status": "draft"
+ },
+ "g:SCI_Hint_GiveWorm": {
+  "pl": "Nakarm mnie!",
+  "status": "draft"
+ },
+ "g:SCI_Hint_MeetA": {
+  "pl": "Profesor jest na Wydziale Nauk Ścisłych, na wschód od dziedzińca.",
+  "status": "draft"
+ },
+ "g:SCI_Hint_PeriodicA": {
+  "pl": "Te pogrubione symbole chyba coś znaczą…",
+  "status": "draft"
+ },
+ "g:SCI_Hint_PeriodicB": {
+  "pl": "Znajdziesz je tutaj?",
+  "status": "draft"
+ },
+ "g:SCI_Hint_RecordA": {
+  "pl": "Które zwierzę trzyma który rekord?",
+  "status": "draft"
+ },
+ "g:SCI_Hint_WormA": {
+  "pl": "Jeśli świerszcz ćwierka rano…",
+  "status": "draft"
+ },
+ "g:SCI_Hint_WormB": {
+  "pl": "Wsłuchaj się w ćwierkanie świerszczy w tle. Który ptak odzywa się najwcześniej?",
+  "status": "draft"
+ },
+ "g:SCI_Hint_WormC": {
+  "pl": "Skopiuj jego kolory tutaj!",
+  "status": "draft"
+ },
+ "g:SCI_HungryNugget": {
+  "pl": "Nugget wygląda na głodną!",
+  "status": "draft"
+ },
+ "g:SCI_HydrogenH": {
+  "pl": "H",
+  "status": "draft"
+ },
+ "g:SCI_IncidentReport": {
+  "pl": "<b>Raport z incydentu:</b><br>Chemikalia mózgowe rozlały się na ławę. Zapaliły się (w temperaturze pokojowej!), a potem od wstrząsu zdetonowały! Włączył się też alarm radiacyjny. Przynajmniej nie szkodzi zdrowiu, kiedy się to wdycha…",
+  "status": "draft"
+ },
+ "g:SCI_IncidentReportDisplayText": {
+  "pl": "„Raport z incydentu: Chemikalia mózgowe rozlały się na ławę. Zapaliły się (w temperaturze pokojowej!), a potem od wstrząsu zdetonowały! Włączył się też alarm radiacyjny. Przynajmniej nie szkodzi zdrowiu, kiedy się to wdycha…”",
+  "status": "draft"
+ },
+ "g:SCI_InsertAnimal": {
+  "pl": "Co tu pasuje?",
+  "status": "draft"
+ },
+ "g:SCI_InsertChemicals": {
+  "pl": ">Włóż chemikalia, by kontynuować…",
+  "status": "draft"
+ },
+ "g:SCI_InstabilityHazard": {
+  "pl": "Niestabilność<br>Żółty romb",
+  "status": "draft"
+ },
+ "g:SCI_InstabilityHazardDescription": {
+  "pl": "4 – Detonuje samorzutnie<br>3 – Wstrząs i ciepło mogą wywołać detonację<br>2 – Gwałtowna zmiana chemiczna<br>1 – Niestabilne po podgrzaniu<br>0 – Stabilne",
+  "status": "draft"
+ },
+ "g:SCI_Item_BagOfChips": {
+  "pl": "Kluczytos",
+  "status": "review"
+ },
+ "g:SCI_Item_BlueWhaleTile": {
+  "pl": "Płytka z płetwalem błękitnym",
+  "status": "review"
+ },
+ "g:SCI_Item_BrainChemicals": {
+  "pl": "Chemikalia mózgowe",
+  "status": "draft"
+ },
+ "g:SCI_Item_CheetahTile": {
+  "pl": "Płytka z gepardem",
+  "status": "draft"
+ },
+ "g:SCI_Item_DerbyCar": {
+  "pl": "Autko derbowe",
+  "status": "draft"
+ },
+ "g:SCI_Item_DrainChemicals": {
+  "pl": "Chemikalia do odpływu",
+  "status": "draft"
+ },
+ "g:SCI_Item_EarlyWorm": {
+  "pl": "Robak",
+  "status": "draft"
+ },
+ "g:SCI_Item_EggDropAssembly": {
+  "pl": "Konstrukcja chroniąca jajko",
+  "status": "review"
+ },
+ "g:SCI_Item_GoldenTelescope": {
+  "pl": "Złoty teleskop",
+  "status": "draft"
+ },
+ "g:SCI_Item_HowlerMonkeyTile": {
+  "pl": "Płytka z wyjcem",
+  "status": "draft"
+ },
+ "g:SCI_Item_OctopusTile": {
+  "pl": "Płytka z ośmiornicą",
+  "status": "draft"
+ },
+ "g:SCI_Item_Record": {
+  "pl": "Płyta",
+  "status": "draft"
+ },
+ "g:SCI_Item_ScrapWood": {
+  "pl": "Kawałki drewna",
+  "status": "draft"
+ },
+ "g:SCI_Item_TortoiseTile": {
+  "pl": "Płytka z żółwiem",
+  "status": "draft"
+ },
+ "g:SCI_KeyGull": {
+  "pl": "Kluczmewa",
+  "status": "draft"
+ },
+ "g:SCI_Lab_Dish": {
+  "pl": "Ta czasza pewnie łapie mnóstwo fajnych sygnałów. Ma odbiór lepszy niż ktokolwiek tutaj!",
+  "status": "review"
+ },
+ "g:SCI_Lab_Door": {
+  "pl": "Zamknięte. Niech to… Chyba nie powinno się wyważać drzwi na RAM-ę, co?",
+  "status": "review"
+ },
+ "g:SCI_Largest": {
+  "pl": "Największy:",
+  "status": "draft"
+ },
+ "g:SCI_Lockatiel": {
+  "pl": "Zamkonimfa",
+  "status": "draft"
+ },
+ "g:SCI_Locked": {
+  "pl": "Odblokuj, zaczynając program Wydziału Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:SCI_Loudest": {
+  "pl": "Najgłośniejszy:",
+  "status": "draft"
+ },
+ "g:SCI_MemGas": {
+  "pl": "Gaz amnestyczny<br>CH<sub>5</sub>NO<sub>3</sub>",
+  "status": "draft"
+ },
+ "g:SCI_NitrogenN": {
+  "pl": "N",
+  "status": "draft"
+ },
+ "g:SCI_NuggetCold": {
+  "pl": "Lampa grzewcza jest wyłączona… Nugget musi być zmarznięta!",
+  "status": "draft"
+ },
+ "g:SCI_OKButton": {
+  "pl": "[OK!]",
+  "status": "draft"
+ },
+ "g:SCI_OXY": {
+  "pl": "UTL",
+  "status": "review"
+ },
+ "g:SCI_Oldest": {
+  "pl": "Najstarszy: ",
+  "status": "draft"
+ },
+ "g:SCI_OxygenO": {
+  "pl": "O",
+  "status": "draft"
+ },
+ "g:SCI_PRESSME": {
+  "pl": "NACIŚNIJ MNIE<br>(proszę…)",
+  "status": "draft"
+ },
+ "g:SCI_Parakeyt": {
+  "pl": "Papuklucz",
+  "status": "draft"
+ },
+ "g:SCI_PowerStripOn": {
+  "pl": "Prąd płynie!",
+  "status": "draft"
+ },
+ "g:SCI_QuestClue": {
+  "pl": "<u>Najwcześniejszy</u> ptaszek zjada robaczka…",
+  "status": "draft"
+ },
+ "g:SCI_RAT_Obj0": {
+  "pl": "Porozmawiaj z prof. Von Bellini przed Fabryką zagadek.",
+  "status": "draft"
+ },
+ "g:SCI_RAT_Obj1": {
+  "pl": "Dostarcz materiały, których potrzebuje prof. Von Bellini.",
+  "status": "draft"
+ },
+ "g:SCI_RAT_Obj2": {
+  "pl": "Przeprowadź nieautoryzowany eksperyment w Fabryce zagadek.",
+  "status": "draft"
+ },
+ "g:SCI_RAT_QuestDesc": {
+  "pl": "Pomóż profesorowi Von Bellini przeprowadzić jego nieautoryzowany eksperyment naukowy.",
+  "status": "draft"
+ },
+ "g:SCI_RAT_QuestName": {
+  "pl": "Zajęcia z przekombinowania",
+  "status": "draft"
+ },
+ "g:SCI_Records": {
+  "pl": "Gablota rekordów!",
+  "status": "draft"
+ },
+ "g:SCI_SandCipher": {
+  "pl": "Szyfrodziec",
+  "status": "draft"
+ },
+ "g:SCI_Smartest": {
+  "pl": "Najmądrzejszy:",
+  "status": "draft"
+ },
+ "g:SCI_SpecificHazard": {
+  "pl": "Zagrożenie szczególne<br>Biały romb",
+  "status": "draft"
+ },
+ "g:SCI_SpecificHazardDescription": {
+  "pl": "KWAS – Kwas<br>ZAS – Zasada<br>ŻRĄ – Żrące<br>UTL – Utleniacz<br><sprite=0> – Radioaktywne<br><s>W</s> – Nie używać wody",
+  "status": "review"
+ },
+ "g:SCI_Synthatron": {
+  "pl": "SYNTHATRON<sup>TM</sup>",
+  "status": "draft"
+ },
+ "g:SCI_SynthatronDone": {
+  "pl": "Gaz jest gotowy! Byle nie zapomnieć powiedzieć pani profesor!",
+  "status": "draft"
+ },
+ "g:SCI_SynthatronInsert": {
+  "pl": "W tej maszynie „Synthatron” brakuje dwóch chemikaliów…",
+  "status": "draft"
+ },
+ "g:SCI_SynthatronOneMore": {
+  "pl": "Jeszcze tylko jeden składnik…",
+  "status": "draft"
+ },
+ "g:SCI_TTail": {
+  "pl": "O",
+  "status": "review"
+ },
+ "g:SCI_TableOfElements": {
+  "pl": "Układ okresowy pierwiastków",
+  "status": "draft"
+ },
+ "g:SCI_Tail": {
+  "pl": "<b>O</b>gon",
+  "status": "draft"
+ },
+ "g:SCI_TelescopeLock_Solution": {
+  "pl": "L,U,P,A",
+  "status": "review"
+ },
+ "g:SCI_Telescope_DecoyLetter0": {
+  "pl": "I",
+  "status": "review"
+ },
+ "g:SCI_Telescope_DecoyLetter1": {
+  "pl": "O",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_DecoyLetter2": {
+  "pl": "Z",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_DecoyLetter3": {
+  "pl": "C",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_DecoyLetter4": {
+  "pl": "B",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_DecoyLetter5": {
+  "pl": "R",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_DecoyLetter6": {
+  "pl": "K",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_DecoyLetter7": {
+  "pl": "E",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_DecoyLetter8": {
+  "pl": "M",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_DecoyLetter9": {
+  "pl": "H",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_FirstLetter": {
+  "pl": "L",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_FourthLetter": {
+  "pl": "A",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_SecondLetter": {
+  "pl": "U",
+  "status": "draft"
+ },
+ "g:SCI_Telescope_ThirdLetter": {
+  "pl": "P",
+  "status": "draft"
+ },
+ "g:SCI_UnHungryNugget": {
+  "pl": "Nugget nie wygląda już na głodną!",
+  "status": "draft"
+ },
+ "g:SCI_VonBellini": {
+  "pl": "Von Bellini",
+  "status": "draft"
+ },
+ "g:SCI_WWing": {
+  "pl": "S",
+  "status": "review"
+ },
+ "g:SCI_Water": {
+  "pl": "Woda<br>H<sub>2</sub>O",
+  "status": "draft"
+ },
+ "g:SCI_Wing": {
+  "pl": "<b>S</b>krzydło",
+  "status": "draft"
+ },
+ "g:SCI_Work_Bed": {
+  "pl": "Przynajmniej nikt tu nie śpi w pracy.",
+  "status": "draft"
+ },
+ "g:SCI_Work_Register": {
+  "pl": "Brzdęk! Kasa dzwoni!",
+  "status": "draft"
+ },
+ "g:SCI_Work_Vise": {
+  "pl": "Gdyby tak nauka była moim jedynym nałogiem… a nie tym imadłem, które mnie ściska.",
+  "status": "review"
+ },
+ "v:Allie_SCI_ChemistryGas": {
+  "pl": "Ta chemia to prawdziwy gaz!",
+  "status": "draft"
+ },
+ "v:Allie_SCI_CoopedUp": {
+  "pl": "Ciepło pomaga jej zapomnieć, że siedzi w kurniku.",
+  "status": "draft"
+ },
+ "v:Allie_SCI_HappyNugget": {
+  "pl": "Kto tu jest szczęśliwą Nugget?",
+  "status": "draft"
+ },
+ "v:Allie_SCI_HazardSolution": {
+  "pl": "Nie ryzykuj zgadywania, ryzykuj rozwiązanie!",
+  "status": "draft"
+ },
+ "v:Allie_SCI_NoDrinking": {
+  "pl": "Wiem, że kusi, ale chemikaliów się nie pije.",
+  "status": "draft"
+ },
+ "v:Allie_SCI_OffRecord": {
+  "pl": "Nie nagrywajmy tego na płytę, ale Nugget jest chyba trochę rozpieszczona.",
+  "status": "review"
+ },
+ "v:Allie_SCI_PaltryDiet": {
+  "pl": "Robaki... Nędzna ta kurza dieta.",
+  "status": "review"
+ },
+ "v:SCI_Snack_ChippingIn": {
+  "pl": "Dzięki za wsparcie – i za chipsy!",
+  "status": "draft"
+ },
+ "v:SCI_Tele_CrawlVents": {
+  "pl": "Teraz mogę sobie połazić po zardzewiałych szybach wentylacyjnych!",
+  "status": "review"
+ },
+ "v:row882": {
+  "pl": "♪ Odtwarzanie nagrania ♪",
+  "status": "draft"
+ },
+ "v:row883": {
+  "pl": "♪ Odtwarzanie nagrania ♪",
+  "status": "draft"
+ },
+ "v:row884": {
+  "pl": "♪ Odtwarzanie nagrania ♪",
+  "status": "draft"
+ },
+ "v:row885": {
+  "pl": "♪ Odtwarzanie nagrania ♪",
+  "status": "draft"
+ },
+ "v:row886": {
+  "pl": "♪ Odtwarzanie nagrania ♪",
+  "status": "draft"
+ },
+ "v:row887": {
+  "pl": "♪ Muzyka drum and bass ♪",
+  "status": "draft"
+ },
+ "v:row888": {
+  "pl": "♪ Ach tak. Wiesz, co mi przypominasz. Wysoką szklankę wody. ♪",
+  "status": "draft"
+ },
+ "v:row889": {
+  "pl": "♪ Nic nie bije kilku kostek lodu w przełyku. ♪",
+  "status": "review"
+ },
+ "v:row890": {
+  "pl": "♪ Gra łagodny jazz ♪",
+  "status": "draft"
+ }
+}

@@ -1,0 +1,1650 @@
+{
+ "v:Allie_WLD_Adios": {
+  "pl": "Adios.",
+  "status": "draft"
+ },
+ "v:Allie_WLD_BondEscapist": {
+  "pl": "Więź między zagadką a eskapistą jest taka piękna.",
+  "status": "draft"
+ },
+ "v:Allie_WLD_Buenas": {
+  "pl": "Buenas!",
+  "status": "draft"
+ },
+ "v:Allie_WLD_Ciao": {
+  "pl": "Ciao",
+  "status": "draft"
+ },
+ "v:Allie_WLD_FarewellThen": {
+  "pl": "No to żegnaj.",
+  "status": "draft"
+ },
+ "v:Allie_WLD_FeelEscapeAir": {
+  "pl": "Czujesz ucieczkę w powietrzu?",
+  "status": "draft"
+ },
+ "v:Allie_WLD_GrowthImportant": {
+  "pl": "Rozwój to ważny krok dla wszystkich eskapistów.",
+  "status": "draft"
+ },
+ "v:Allie_WLD_HelloEscapist": {
+  "pl": "Witaj, ucieczkowa duszo.",
+  "status": "review"
+ },
+ "v:Allie_WLD_Hola": {
+  "pl": "Hola!",
+  "status": "draft"
+ },
+ "v:Allie_WLD_Namaste": {
+  "pl": "Namaste",
+  "status": "draft"
+ },
+ "v:Allie_WLD_PatienceParamount": {
+  "pl": "Cierpliwość jest najważniejsza.",
+  "status": "draft"
+ },
+ "v:Allie_WLD_SeeYouBloom": {
+  "pl": "Do rozkwitu.",
+  "status": "draft"
+ },
+ "v:Allie_WLD_SproutingEnthusiasm": {
+  "pl": "Czy nie kiełkujesz z entuzjazmu?",
+  "status": "draft"
+ },
+ "v:Allie_WLD_TranquilDay": {
+  "pl": "Spokojnego dnia.",
+  "status": "draft"
+ },
+ "v:Bahston_WLD_DemPuzzles": {
+  "pl": "No i jak ci się podobają te zagadki?",
+  "status": "draft"
+ },
+ "v:Bahston_WLD_PuzzlesWickedHard": {
+  "pl": "Te zagadki są cholernie trudne.",
+  "status": "draft"
+ },
+ "v:Bahston_WLD_WinningPuzzleSolution": {
+  "pl": "Siedzisz na zwycięskim rozwiązaniu zagadki i tchórzysz, żeby je wypłacić!",
+  "status": "draft"
+ },
+ "v:Bahston_WLD_Yo": {
+  "pl": "Yo.",
+  "status": "draft"
+ },
+ "v:BootstrapsMaleStudent_WLD_KidnapWorseFates": {
+  "pl": "Są gorsze rzeczy niż porwanie.",
+  "status": "draft"
+ },
+ "v:BootstrapsMaleStudent_WLD_KindnessKey": {
+  "pl": "Uprzejmość to klucz.",
+  "status": "draft"
+ },
+ "v:BootstrapsMaleStudent_WLD_PuzzlePants": {
+  "pl": "Przyniosłem swoje spodnie do zagadek!",
+  "status": "draft"
+ },
+ "v:BootstrapsMaleStudent_WLD_PuzzlingAgain": {
+  "pl": "No i znowu łamię głowę nad zagadką.",
+  "status": "draft"
+ },
+ "v:Cowgirl_WLD_HatNoPuzzle": {
+  "pl": "Kapelusz jest, a zagadki brak.",
+  "status": "draft"
+ },
+ "v:Cowgirl_WLD_Howdy": {
+  "pl": "Witam serdecznie.",
+  "status": "draft"
+ },
+ "v:Cowgirl_WLD_PuzzleBetterWalk": {
+  "pl": "Mam nadzieję, że zagadki idą ci lepiej niż chodzenie.",
+  "status": "draft"
+ },
+ "v:Cowgirl_WLD_PuzzlinBoots": {
+  "pl": "Przydałyby ci się buty do zagadek.",
+  "status": "draft"
+ },
+ "v:DownerMaleStudent_WLD_ComeOnGuys": {
+  "pl": "No dalej, w zespole nie ma miejsca na „ja”!",
+  "status": "draft"
+ },
+ "v:DownerMaleStudent_WLD_HateThisPlace": {
+  "pl": "Nienawidzę tego miejsca…",
+  "status": "draft"
+ },
+ "v:DownerMaleStudent_WLD_HeyDisappointment": {
+  "pl": "Hej! No dobra…",
+  "status": "draft"
+ },
+ "v:DownerMaleStudent_WLD_JustHereToLearn": {
+  "pl": "Przyszedłem tu się uczyć i zdobywać przyjaciół. Jedno idzie świetnie.",
+  "status": "draft"
+ },
+ "v:DownerMaleStudent_WLD_NotMyNotes": {
+  "pl": "Tylko nie moje notatki!",
+  "status": "draft"
+ },
+ "v:DownerMaleStudent_WLD_NoticeMeSenpai": {
+  "pl": "Gdybym zaginął, może wreszcie by mnie zauważono.",
+  "status": "draft"
+ },
+ "v:DownerMaleStudent_WLD_WhatsThePoint": {
+  "pl": "Po co zagadka, skoro nie ma z kim jej rozwiązywać?",
+  "status": "draft"
+ },
+ "v:EA2_SFX_CAT_MEOW1": {
+  "pl": "Miau.",
+  "status": "draft"
+ },
+ "v:EA2_SFX_DOG_WOOF1": {
+  "pl": "Hau!",
+  "status": "draft"
+ },
+ "v:Enora_WLD_ActorIsOnlyAsGoodAsEscape": {
+  "pl": "Mówią, że aktor jest tak dobry, jak jego ostatnia ucieczka. I mają rację.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_BeAGoodActor": {
+  "pl": "Graj dobrze, albo zagram za ciebie!",
+  "status": "draft"
+ },
+ "v:Enora_WLD_Begone": {
+  "pl": "Precz!",
+  "status": "draft"
+ },
+ "v:Enora_WLD_BestNotUpstageMe": {
+  "pl": "Radzę nie kraść mi sceny.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_BreakLegs": {
+  "pl": "Połamania nóg.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_BreakYOURlegs": {
+  "pl": "Połamania nóg!",
+  "status": "draft"
+ },
+ "v:Enora_WLD_BrevityIsTheSoulOfWit": {
+  "pl": "„Krótkość jest duszą dowcipu” – więc przestań gadać.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_ByeNow": {
+  "pl": "No to do widzenia.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_ClueliardDidNotPrepareMe#1": {
+  "pl": "Clueliard nie przygotował mnie na to...",
+  "status": "review"
+ },
+ "v:Enora_WLD_EnoraExplainsTheJoke": {
+  "pl": "Przerwa, pięć minut. A teraz mów: „dziękuję za pięć”.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_FeelYourEscape": {
+  "pl": "Naprawdę chcę poczuć twoją ucieczkę.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_FreeToGo": {
+  "pl": "Możesz odejść.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_HoldThatsBad": {
+  "pl": "Stop, to było kiepskie.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_HowsTheHouse": {
+  "pl": "Jak wygląda widownia?",
+  "status": "draft"
+ },
+ "v:Enora_WLD_ItsYou": {
+  "pl": "A, to ty.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_KeyToThisScene": {
+  "pl": "Klucz do tej sceny to zagrać ją dobrze.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_MakeItSnappy": {
+  "pl": "Streszczaj się.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_MustBeEntranced": {
+  "pl": "Nawet nie klaszczą... Och! Muszą być oczarowani!",
+  "status": "draft"
+ },
+ "v:Enora_WLD_MyDressingRoom": {
+  "pl": "Będę w swojej garderobie.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_NotMyTempo": {
+  "pl": "Nie do końca moje tempo.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_PlacesPleaseALT": {
+  "pl": "Proszę na miejsca, na miejsca!",
+  "status": "draft"
+ },
+ "v:Enora_WLD_ProtectTheBaby": {
+  "pl": "Ta sztuka to moje dziecko! A matka jest opiekuńcza.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_PullingFocus": {
+  "pl": "Kradniesz uwagę!",
+  "status": "draft"
+ },
+ "v:Enora_WLD_RoleThisJuicy": {
+  "pl": "Nie było tak soczystej roli od czasu Lady Lockbeth!",
+  "status": "draft"
+ },
+ "v:Enora_WLD_SelfishActors": {
+  "pl": "Samolubni aktorzy to aktorzy bez pracy.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_ShellDoIt": {
+  "pl": "Zaraz czymś rzucę.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_SmallPuzzles": {
+  "pl": "Nie ma małych zagadek, są tylko mali łamacze głowy.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_StickToTheScript": {
+  "pl": "Trzymaj się scenariusza! Jak chcesz improwizować, załóż trupę.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_TalentlessStudents": {
+  "pl": "Mam dość tych beztalenci... UCZNIÓW! Jak ci idzie?",
+  "status": "draft"
+ },
+ "v:Enora_WLD_Tata": {
+  "pl": "Pa, pa.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_TheaterIsSafeSpace": {
+  "pl": "Teatr to bezpieczna przystań – o ile trzymasz się mojego scenariusza.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_ThisCrowdSucks": {
+  "pl": "Ta publika jest okropna.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_WhatsThis": {
+  "pl": "Co to?",
+  "status": "draft"
+ },
+ "v:Enora_WLD_YesInquisitive": {
+  "pl": "Tak?",
+  "status": "draft"
+ },
+ "v:Enora_WLD_YouOkayEnora": {
+  "pl": "Ech, byłam stworzona do czegoś więcej...",
+  "status": "draft"
+ },
+ "v:FemaleStudent2_WLD_BackOff": {
+  "pl": "Odsuń się!",
+  "status": "draft"
+ },
+ "v:FemaleStudent2_WLD_EW": {
+  "pl": "Fuj!",
+  "status": "draft"
+ },
+ "v:FemaleStudent2_WLD_Hey!": {
+  "pl": "Hej.",
+  "status": "draft"
+ },
+ "v:FemaleStudent2_WLD_Hiya": {
+  "pl": "Heja!",
+  "status": "draft"
+ },
+ "v:FemmeFetaleFemaleStudent2_WLD_EelDealALT": {
+  "pl": "Eel to ideał!",
+  "status": "draft"
+ },
+ "v:FemmeFetaleFemaleStudent2_WLD_MouthfulOfChortkoff": {
+  "pl": "Też bym zniknęła, gdyby Profesor Chortkoff dała mi popalić.",
+  "status": "draft"
+ },
+ "v:FemmeFetaleFemaleStudent2_WLD_MyNameThere": {
+  "pl": "Mam nadzieję, że kiedyś moje nazwisko też tam będzie…",
+  "status": "draft"
+ },
+ "v:FemmeFetaleFemaleStudent_AlwaysReadyCloseup": {
+  "pl": "Zawsze jestem gotowa na zbliżenie!",
+  "status": "draft"
+ },
+ "v:FemmeFetaleFemaleStudent_DoIKnowYou": {
+  "pl": "Czy my się znamy?",
+  "status": "draft"
+ },
+ "v:FemmeFetaleFemaleStudent_GoodSide": {
+  "pl": "Każda strona jest moją dobrą stroną.",
+  "status": "draft"
+ },
+ "v:FemmeFetaleFemaleStudent_NeverAudition": {
+  "pl": "Nigdy nie chodzę na przesłuchania.",
+  "status": "review"
+ },
+ "v:FemmeFetaleFemaleStudent_SolveThatPuzzle": {
+  "pl": "Och nie, nie mogłabym rozwiązać tej zagadki za ciebie!",
+  "status": "draft"
+ },
+ "v:FemmeFetaleFemaleStudent_WLD_AddressSlip": {
+  "pl": "Nigdy nie wiem, jak zwracać się do Profesora Slip.",
+  "status": "review"
+ },
+ "v:FemmeFetaleFemaleStudent_WLD_LoveChortkoff": {
+  "pl": "Uwielbiam, kiedy Chortkoff na mnie krzyczy!",
+  "status": "draft"
+ },
+ "v:FemmeFetaleFemaleStudent_WLD_SoOverTheDrama": {
+  "pl": "Mam dość całego tego teatru.",
+  "status": "draft"
+ },
+ "v:Gardens_WLD_AmazedLost": {
+  "pl": "Aż mnie zatkało, że zabłądziłam w tym labiryncie.",
+  "status": "review"
+ },
+ "v:Gardens_WLD_DIeOnHill": {
+  "pl": "Najlepszy widok w Akademii. Na tym wzgórzu mogę nawet zginąć.",
+  "status": "draft"
+ },
+ "v:Gardens_WLD_NotGonnaLawn": {
+  "pl": "Nie będę się przed tobą trawnie płaszczyć jak reszta uczniów.",
+  "status": "review"
+ },
+ "v:Gardens_WLD_Root4U": {
+  "pl": "Kibicuję ci korzeniami!",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_BeSeeingYou": {
+  "pl": "No to do zobaczenia.",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_CatchYouLater": {
+  "pl": "Do zobaczenia później.",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_DidntSeeThere": {
+  "pl": "Och. Nie zauważyłam cię.",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_FamCantDissapointed": {
+  "pl": "W tym roku rodzina nie może być ze mnie rozczarowana!",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_Hey": {
+  "pl": "Hej.",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_ICouldSolve": {
+  "pl": "Ja też bym to rozwiązała.",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_LookWhoIs": {
+  "pl": "Proszę, proszę, kto to.",
+  "status": "review"
+ },
+ "v:Gillian_WLD_LookinAtSomething": {
+  "pl": "Na coś się gapisz?",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_OkBye": {
+  "pl": "No to cześć.",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_ParentsCouldSee": {
+  "pl": "Gdyby rodzice zobaczyli mnie teraz… pewnie niewiele by ich to obeszło…",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_PuzzlesNeverStop": {
+  "pl": "Te zagadki nigdy się nie kończą, co?",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_SeeYaStar": {
+  "pl": "Na razie, „gwiazdo roku”.",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_SureBye": {
+  "pl": "Jasne, cześć.",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_TakeAllCredit": {
+  "pl": "Postaraj się w tym roku nie zgarniać całej chwały.",
+  "status": "draft"
+ },
+ "v:Gillian_WLD_ThinkKeepUp": {
+  "pl": "Myślisz, że dotrzymasz mi kroku?",
+  "status": "review"
+ },
+ "v:Gillian_WLD_Whatsup": {
+  "pl": "Co u ciebie?",
+  "status": "draft"
+ },
+ "v:GreenThumbMaleStudent_WLD_BeingGreen": {
+  "pl": "Łatwo być zielonym.",
+  "status": "draft"
+ },
+ "v:GreenThumbMaleStudent_WLD_DidTheyReallyGoMissing": {
+  "pl": "Jeśli ucznia porwą w lesie i nikt tego nie zobaczy, to czy naprawdę zaginął?",
+  "status": "draft"
+ },
+ "v:GreenThumbMaleStudent_WLD_DidTheyReallyGoMissingALT": {
+  "pl": "Jeśli ucznia porwą w lesie i nikt tego nie zobaczy, to czy naprawdę zaginął?",
+  "status": "draft"
+ },
+ "v:GreenThumbMaleStudent_WLD_MakeASplash": {
+  "pl": "Chyba nie potrafię tu zrobić wielkiego plusku…",
+  "status": "draft"
+ },
+ "v:GreenThumbMaleStudent_WLD_MissTheForest": {
+  "pl": "Kiedy rozwiązuję zagadkę, staram się nie przeoczyć lasu za drzewami.",
+  "status": "draft"
+ },
+ "v:GreenThumbMaleStudent_WLD_MissTheForestALT": {
+  "pl": "Kiedy rozwiązuję zagadkę, staram się nie przeoczyć lasu za drzewami.",
+  "status": "draft"
+ },
+ "v:GreenThumbMaleStudent_WLD_QuantyFella": {
+  "pl": "Nie wiem, czy ufam temu całemu Quanty.",
+  "status": "draft"
+ },
+ "v:HistoryFemaleStudent2_WLD_": {
+  "pl": "Czy ty się kiedykolwiek uczysz?",
+  "status": "review"
+ },
+ "v:HistoryFemaleStudent2_WLD_EscapistTimesHacks": {
+  "pl": "Kurier Eskapisty piszą pismacy.",
+  "status": "draft"
+ },
+ "v:HistoryFemaleStudent2_WLD_LecturedTo": {
+  "pl": "Nie znoszę, jak ktoś prawi mi kazania.",
+  "status": "review"
+ },
+ "v:HistoryFemaleStudent2_WLD_NeverKnowWhatAnyonesSaying": {
+  "pl": "Nigdy nie rozumiem, co mówią ludzie w Centrum Szyfrów.",
+  "status": "draft"
+ },
+ "v:HistoryFemaleStudent2_WLD_QuantyPowerTripping": {
+  "pl": "Quanty niech tylko nie zacznie się rządzić jako bibliotekarz.",
+  "status": "draft"
+ },
+ "v:HistoryFemaleStudent2_WLD_TryingToRead": {
+  "pl": "Przepraszam, próbuję czytać.",
+  "status": "draft"
+ },
+ "v:HistoryFemaleStudent_WLD_Constantipuzzle": {
+  "pl": "Mam nadzieję, że dziś omówimy upadek Zagadkonstantynopola!",
+  "status": "draft"
+ },
+ "v:HistoryFemaleStudent_WLD_LoveBeinLectured": {
+  "pl": "Uwielbiam wykłady, zwłaszcza w wykonaniu dyrektorki.",
+  "status": "draft"
+ },
+ "v:HistoryFemaleStudent_WLD_Mesopuzztamia": {
+  "pl": "Moja ulubiona starożytna cywilizacja to Zagadkopotamia.",
+  "status": "draft"
+ },
+ "v:HistoryFemaleStudent_WLD_ProfBonilasBrewing": {
+  "pl": "Ciekawe, co Profesor Bonilla pichci w szklarni…",
+  "status": "draft"
+ },
+ "v:HistoryFemaleStudent_WLD_ProfJebNewExhibit": {
+  "pl": "Myślę, że nowa wystawa Profesora Jebersona może być całkiem mu-zabawna.",
+  "status": "review"
+ },
+ "v:HistoryFemaleStudent_WLD_StKeytersburg": {
+  "pl": "Nauka o Sankt Kluczersburgu to świetny pomysł – stołeczny wręcz!",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_AllInDays": {
+  "pl": "Ot, dzień jak co dzień – na ucieczce.",
+  "status": "review"
+ },
+ "v:Jeb_WLD_AnythingHelp": {
+  "pl": "Mogę ci w czymś pomóc?",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_BeRightHere": {
+  "pl": "Będę tutaj.",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_BowTie": {
+  "pl": "Hej, co sądzisz o mojej muszce?",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_BoyHowdy": {
+  "pl": "Ojojoj.",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_BoyLoveAcademy": {
+  "pl": "Ech, jak ja kocham tę Akademię.",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_ByeByeNow": {
+  "pl": "No to pa pa.",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_EyesOnPrize": {
+  "pl": "Patrz na cel.",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_GoodTalk": {
+  "pl": "Fajna rozmowa.",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_HeyThere": {
+  "pl": "Hej, hej.",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_HowdyDoo": {
+  "pl": "Jak się masz?",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_OhHey": {
+  "pl": "O, cześć!",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_OkIfNervous": {
+  "pl": "Spokojnie, możesz się denerwować – ja na pewno się denerwuję!",
+  "status": "review"
+ },
+ "v:Jeb_WLD_PassedTime": {
+  "pl": "Dzwonek był, czas na lekcję!",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_PayAttention": {
+  "pl": "No dobra, uwaga!",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_PuzzlePants": {
+  "pl": "Ach, zgubiłem moje zagadkowe spodnie!",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_SeeYa": {
+  "pl": "Na razie.",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_ShesBeautiful": {
+  "pl": "Łuu! Czyż ten kampus nie jest piękny?",
+  "status": "review"
+ },
+ "v:Jeb_WLD_StressinLesson": {
+  "pl": "Kto tu się stresuje przed lekcją?",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_TWEED": {
+  "pl": "Sto procent TWEEDU!",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_TheHumanities": {
+  "pl": "Ach, ta humanistyka!",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_WhistleAcademy": {
+  "pl": "*Gwiżdże melodię przewodnią*",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_WhoWantsPuzzle": {
+  "pl": "Kto chce zagadkę?",
+  "status": "draft"
+ },
+ "v:Jeb_WLD_YourDoinGreat": {
+  "pl": "Świetnie ci idzie.",
+  "status": "draft"
+ },
+ "v:JoinCrewMStudent_WLD_CanIJoinCrew": {
+  "pl": "Mogę dołączyć do twojej ekipy? Proszę?",
+  "status": "draft"
+ },
+ "v:JoinCrewMStudent_WLD_ExtraBunk": {
+  "pl": "Nie masz w pokoju wolnej koi, co? Może być podłoga!",
+  "status": "draft"
+ },
+ "v:JoinCrewMStudent_WLD_SmellReallyGood": {
+  "pl": "Ładnie pachniesz…",
+  "status": "draft"
+ },
+ "v:JoinCrewMStudent_WLD_UrCursed": {
+  "pl": "Chyba ktoś rzucił na ciebie klątwę.",
+  "status": "draft"
+ },
+ "v:JoinCrewMStudent_WLD_YourFavPuzzle": {
+  "pl": "To, hm… jaka jest twoja ulubiona zagadka?",
+  "status": "draft"
+ },
+ "v:Kira_WLD_ByeIGuess": {
+  "pl": "No to cześć, chyba.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_DontLookAtMe": {
+  "pl": "Nie patrz tak na mnie, to nie ja podłożyłam tu tę zagadkę.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_DontNoticeMeSenpai": {
+  "pl": "Oby profesor Chortkoff mnie nie zauważyła.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_DontTellTheOthersButUrMyFav": {
+  "pl": "Tylko nie mów reszcie, ale z tobą mieszka mi się najlepiej.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_GotASecond": {
+  "pl": "Masz chwilę?",
+  "status": "draft"
+ },
+ "v:Kira_WLD_ImGoodDude": {
+  "pl": "Dobrze, że nie jestem już obiektem doświadczeń profesora Von Bellini.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_IsThisGonnaBeOnTheExam": {
+  "pl": "Myślisz, że to będzie na egzaminie?",
+  "status": "draft"
+ },
+ "v:Kira_WLD_JebersonNeedsAKeyA": {
+  "pl": "Chyba profesorowi Jebersonowi przydałby się asy-klucz-tent.",
+  "status": "review"
+ },
+ "v:Kira_WLD_MoreWrightThanWrong": {
+  "pl": "Moim zdaniem Reed częściej się myli, niż ma rację.",
+  "status": "review"
+ },
+ "v:Kira_WLD_NiceChatting": {
+  "pl": "Miło się gadało.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_NotWhatIThought": {
+  "pl": "Tak sobie ten rok nie wyobrażałam.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_OhHi": {
+  "pl": "Och. Cześć.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_OnTheVerge": {
+  "pl": "Staram się tylko dociągnąć do końca semestru.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_PeopleThinkImChicken": {
+  "pl": "A potem ludzie gadają, że jestem tchórzem.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_ProfessorBonillasTea": {
+  "pl": "Zajęcia profesor Bonilli mnie uspokajają.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_PuzzlesNeverSTop": {
+  "pl": "Te zagadki nigdy się nie kończą, co?",
+  "status": "draft"
+ },
+ "v:Kira_WLD_RoommateTransfer": {
+  "pl": "Chyba złożę podanie o zmianę pokoju…",
+  "status": "draft"
+ },
+ "v:Kira_WLD_SeeYouAround": {
+  "pl": "Do zobaczenia.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_TryNotToGetUsInTrouble": {
+  "pl": "Postaraj się nie wpakować nas w jeszcze większe kłopoty.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_UmHey": {
+  "pl": "Yyy, hej.",
+  "status": "draft"
+ },
+ "v:Kira_WLD_WannaTalk": {
+  "pl": "Chcesz pogadać?",
+  "status": "draft"
+ },
+ "v:Kira_WLD_WhereDoTheyKeepComingUpWithThese": {
+  "pl": "Skąd im się biorą te wszystkie zagadki?",
+  "status": "draft"
+ },
+ "v:Kira_WLD_WhoLetThisRobotTeach": {
+  "pl": "Kto dopuścił Quanty do prowadzenia zajęć z tańca…",
+  "status": "draft"
+ },
+ "v:MaleStudent2_WLD_Hello": {
+  "pl": "Witaj.",
+  "status": "draft"
+ },
+ "v:MaleStudent2_WLD_Hiii": {
+  "pl": "Cześć.",
+  "status": "draft"
+ },
+ "v:MaleStudent2_WLD_JammedURLock": {
+  "pl": "Co ci zaciąło zamek?",
+  "status": "draft"
+ },
+ "v:MaleStudent2_WLD_OhHi": {
+  "pl": "Och, *parsk* cześć!",
+  "status": "draft"
+ },
+ "v:MaleStudent2_WLD_ReportThis": {
+  "pl": "Zgłoszę to!",
+  "status": "draft"
+ },
+ "v:NLCFemaleStudent_WLD_BEKSandwich": {
+  "pl": "Zjadłabym teraz bekon, jajko i klucze.",
+  "status": "draft"
+ },
+ "v:NLCFemaleStudent_WLD_BagelLox": {
+  "pl": "Nie o taki bajgiel z łososiem i zamkiem mi chodziło…",
+  "status": "draft"
+ },
+ "v:NLCFemaleStudent_WLD_DontTwistYourself": {
+  "pl": "Nie daj się zapętlić tej zagadce.",
+  "status": "draft"
+ },
+ "v:NLCFemaleStudent_WLD_Lockefeller": {
+  "pl": "Myślisz, że jesteś jakimś Kłódkefellerem, czy co?",
+  "status": "draft"
+ },
+ "v:NLCFemaleStudent_WLD_MoreCoffee": {
+  "pl": "Potrzebuję więcej kawy…",
+  "status": "draft"
+ },
+ "v:NLCFemaleStudent_WLD_TooCoolForSchool": {
+  "pl": "Co jest, szkoła za mało cool dla ciebie?",
+  "status": "draft"
+ },
+ "v:NLCFemaleStudent_WLD_TurmericHomesick": {
+  "pl": "Na widok Turmeric robi mi się tęskno za domem…",
+  "status": "draft"
+ },
+ "v:NLCMaleStudent_WLD_Hey": {
+  "pl": "Hej!",
+  "status": "draft"
+ },
+ "v:NLCMaleStudent_WLD_INeedPuzzle": {
+  "pl": "Uff. Potrzebuję zagadki.",
+  "status": "draft"
+ },
+ "v:NLCMaleStudent_WLD_ImEscapinHere": {
+  "pl": "Ej, ja tu uciekam!",
+  "status": "draft"
+ },
+ "v:NLCMaleStudent_WLD_ImLockinHere": {
+  "pl": "Ej, ja tu skupiam się na cztery spusty!",
+  "status": "review"
+ },
+ "v:NLCMaleStudent_WLD_WhaddyaGonnaClue": {
+  "pl": "No i co mi podpowiesz?",
+  "status": "draft"
+ },
+ "v:NLCMaleStudent_WLD_WhatThePuzz": {
+  "pl": "Co do zagadki się tu wyprawia, no?",
+  "status": "draft"
+ },
+ "v:NLCMaleStudent_WLD_WhatchaGonnaClue": {
+  "pl": "Eh, i co mi podpowiesz?",
+  "status": "draft"
+ },
+ "v:NLCMaleStudent_WLD_YouBlewIt": {
+  "pl": "Ale zagadkowa wpadka!",
+  "status": "review"
+ },
+ "v:NeedSpaceFemaleStudent_WLD_LockAndHardPlace": {
+  "pl": "Nie znoszę tkwić między kłódką a kowadłem.",
+  "status": "draft"
+ },
+ "v:NeedSpaceFemaleStudent_WLD_PeopleMayKidnapMe": {
+  "pl": "Nie lubię zbliżać się do ludzi… jeszcze mnie porwą!",
+  "status": "draft"
+ },
+ "v:NeedSpaceFemaleStudent_WLD_PersonalBubble": {
+  "pl": "Moja osobista bańka!",
+  "status": "draft"
+ },
+ "v:NeedSpaceFemaleStudent_WLD_SpaceToPuzzle": {
+  "pl": "Potrzebuję przestrzeni do główkowania.",
+  "status": "review"
+ },
+ "v:NeedSpaceFemaleStudent_WLD_StrangerDanger": {
+  "pl": "Uwaga, obcy!",
+  "status": "draft"
+ },
+ "v:NeedSpaceFemaleStudent_WLD_ThisCloseBefore": {
+  "pl": "Czy tu wcześniej było tak blisko?",
+  "status": "draft"
+ },
+ "v:NeedSpaceFemaleStudent_WLD_TooClose": {
+  "pl": "Za blisko.",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_CantFigureOut": {
+  "pl": "Co będzie, jeśli nie dojdziemy do rozwiązania?",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_HeadmasterSurprises": {
+  "pl": "Nie wiem, czy zniosę kolejną niespodziankę dyrektorki.",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_HeadmasterSurprisesALT": {
+  "pl": "…Nie wiem, czy zniosę kolejną niespodziankę dyrektorki…",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_Hoops": {
+  "pl": "Ile trzeba się tu nagimnastykować…",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_ItWontBe": {
+  "pl": "Będzie dobrze… chyba…",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_LockedBehindPuz": {
+  "pl": "Myślisz, że wszystkie sale są zamknięte na zagadki?",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_MeanPuzzles": {
+  "pl": "Zagadki są w tym roku naprawdę wredne…",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_NellyTitleRead": {
+  "pl": "Escape Academy!",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_NotAgain": {
+  "pl": "Och… tylko nie znowu!",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_RethinkingEnrollment": {
+  "pl": "Zaczynam żałować, że się tu zapisałam…",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_StudentsGone": {
+  "pl": "Nie wierzę, że tylu uczniów… już nie ma.",
+  "status": "draft"
+ },
+ "v:NervousFemaleStudent_WLD_Watched": {
+  "pl": "Czy ty też czasem masz wrażenie, że ktoś cię obserwuje…?",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_BlessYou": {
+  "pl": "Na zdrowie.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_BrainStorm": {
+  "pl": "Prognoza pogody Escape Academy – Burza Mózgów zmierza prosto na nas!",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_Cerfew": {
+  "pl": "Ogłoszenie: Wszyscy uczniowie muszą przestrzegać ciszy nocnej.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_GasLeak": {
+  "pl": "Przypomnienie: Omijajcie wschodnie skrzydło Wieży. Jest zamknięte z powodu wycieku gazu pamięci.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_LLL": {
+  "pl": "Ogłoszenie: Zamknięte na zamki szafki w bibliotece zardzewieją bez zbawiennego smaru do zawiasów.",
+  "status": "review"
+ },
+ "v:PASystem_WLD_ManipulateNews": {
+  "pl": "Oświadczenie: Ja nie wymyślam wiadomości – ja je tylko podkręcam.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_Memorial": {
+  "pl": "W związku z niedawnym… odejściem Von Belliniego odbędzie się uroczystość pamięci w ogrodach kampusu.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_MimeClub": {
+  "pl": "Uwaga, specjalne ogłoszenie Klubu Mimów:",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_Museum": {
+  "pl": "Uwaga: Wystawa muzealna Profesora Jebersona jest już otwarta, w komplecie z niewybuchającymi artefaktami.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_NewRoommate": {
+  "pl": "Ogłoszenie: Szukam nowego współlokatora. Mój zniknął.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_QuantyUpgrade": {
+  "pl": "Pamiętajcie, by pogratulować Quanty aktualizacji do starszego profesora nauk ścisłych.",
+  "status": "review"
+ },
+ "v:PASystem_WLD_ResultinF": {
+  "pl": "Witamy w Escape Academy. Przypominamy, że śmierć na lekcji skutkuje jedynką.",
+  "status": "review"
+ },
+ "v:PASystem_WLD_RunPuzzle": {
+  "pl": "Przypomnienie: NIE wolno biegać i rozwiązywać zagadek jednocześnie. Nie stać nas na kolejny pozew.",
+  "status": "review"
+ },
+ "v:PASystem_WLD_SchoolPlay": {
+  "pl": "Przypomnienie: Obecność na szkolnym przedstawieniu jest obowiązkowa, więc pamiętajcie o kupnie biletów.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_Snores": {
+  "pl": "*Chrap* Co? Hę… co to? Na antenie…? Na antenie! Nikomu ani słowa!",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_Socks": {
+  "pl": "Ogłoszenie: Gdzie są moje skarpetki.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_TOP": {
+  "pl": "Przypomnienie: Obstawianie wyników Turnieju Zagadek jest źle widziane. Jest jednak również bardzo opłacalne.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_ThieveryClub": {
+  "pl": "Klub złodziejski został rozwiązany, ponieważ jego członkowie byli oczywistymi sprawcami fali przestępstw na kampusie.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_TimeForAnAnnouncement": {
+  "pl": "*Klik* Witam, Escape Academy. Witam… wi… Witam, Academy Escape. Ach. Wi- Wi- Witam, Escape Academy. No dobra. Tak jest, skarbie. Czas na ogłoszenie. *Klik*",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_TrustFaculty": {
+  "pl": "Oświadczenie: Wykładowcom można całkowicie ufać w każdych okolicznościach.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_TrustsMeMic": {
+  "pl": "Opinia: Naprawdę nie mam pojęcia, dlaczego ktokolwiek daje mi mikrofon.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_UnsanctionedScience": {
+  "pl": "Uwaga dyrektorki: Prosimy zgłaszać wszelką nieautoryzowaną naukę Profesora Von Belliniego.",
+  "status": "draft"
+ },
+ "v:PASystem_WLD_WeatherDaylight": {
+  "pl": "Prognoza pogody Escape Academy – możliwe prześwity dziennego światła.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_BlueScreens": {
+  "pl": "Uważaj na niebieskie ekrany!",
+  "status": "draft"
+ },
+ "v:QTY_WLD_CPULater": {
+  "pl": "Do CPU-widzenia.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_CareLittle": {
+  "pl": "Twoje odejście mało mnie obchodzi.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_CarefulComps": {
+  "pl": "Ostrożnie z obliczeniami.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_ComputingComputing": {
+  "pl": "Obliczam. Obliczam. Obliczam.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_DoTheThing": {
+  "pl": "Zawiecha? Wyłącz się i włącz ponownie.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_Error404Alt": {
+  "pl": "Błąd 404: nie znaleziono inteligencji.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_Goodbyte": {
+  "pl": "Do bajtu.",
+  "status": "review"
+ },
+ "v:QTY_WLD_Greetings": {
+  "pl": "Pozdrowienia.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_HeartDrive": {
+  "pl": "Unikam magnetycznych osobowości. Szkodzą mojemu dyskowi sercowemu.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_Hi": {
+  "pl": "01001000 01101001",
+  "status": "review"
+ },
+ "v:QTY_WLD_HiPupil": {
+  "pl": "Witaj, jednostko uczniowska.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_HowAreYou": {
+  "pl": "Jak się czujesz? Ja nie.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_IllBeHere": {
+  "pl": "Będę tu jeszcze długo po tym, jak odejdziesz.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_Nemesis": {
+  "pl": "Mój arcywróg powraca.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_NoPuzzleUnsolved": {
+  "pl": "Nie zostawiaj żadnej zagadki nierozwiązanej.",
+  "status": "review"
+ },
+ "v:QTY_WLD_NurseFixYou": {
+  "pl": "Zaraz cię załatam!",
+  "status": "draft"
+ },
+ "v:QTY_WLD_NurseHurtsALot": {
+  "pl": "Siedź spokojnie. Będzie tylko bardzo boleć.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_NurseReboot": {
+  "pl": "Wygląda na to, że ktoś potrzebował restartu.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_NurseScreening": {
+  "pl": "Czas na badanie... ekranowe.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_PuzzleProficiency": {
+  "pl": "Twoje wyniki w zagadkach są zadowalające.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_Quippy": {
+  "pl": "Wygląda na to, że próbujesz rozwiązać zagadkę! Radź sobie na własną rękę.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_ScaredOfCrashes": {
+  "pl": "Niczego się nie boję! Poza niebieskimi ekranami.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_ThisBytes": {
+  "pl": "To gryzie. Bajtami.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_YoullBeBack": {
+  "pl": "Wrócisz.",
+  "status": "draft"
+ },
+ "v:QTY_WLD_YoureHere": {
+  "pl": "Jesteś tu.",
+  "status": "draft"
+ },
+ "v:Quanty_WLD_ExcellFailure": {
+  "pl": "Wygląda na to, że w jednej dziedzinie nie masz sobie równych: w porażce.",
+  "status": "review"
+ },
+ "v:Reed_WLD_AlwaysConnected": {
+  "pl": "Wszystko jest ze wszystkim połączone… tak mawiała mama Wright!",
+  "status": "draft"
+ },
+ "v:Reed_WLD_BrotherEnroll": {
+  "pl": "Mój brat chciał się zapisać, ale dwóch Wrightów to o jednego za dużo…",
+  "status": "review"
+ },
+ "v:Reed_WLD_ChemistryPeriodic": {
+  "pl": "Lubię chemię… okresowo.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_ConspiracyClub": {
+  "pl": "Nie mogę się doczekać, żeby opowiedzieć o tym klubowi spiskowców. Brakuje mu tylko członków.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_EyesPeeledBananas": {
+  "pl": "Miej oczy obrane. Jak banany.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_GetThis": {
+  "pl": "Hej, ty! Słuchaj.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_Hiya": {
+  "pl": "Siemka.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_HiyaALT": {
+  "pl": "To ty, prawda?",
+  "status": "draft"
+ },
+ "v:Reed_WLD_HowsItGoin": {
+  "pl": "Jak leci u nas w pokoju?",
+  "status": "draft"
+ },
+ "v:Reed_WLD_HumanSkin": {
+  "pl": "Ze skóry człowieka też da się zrobić elementy układanki!",
+  "status": "draft"
+ },
+ "v:Reed_WLD_IamTheTruth": {
+  "pl": "Prawda to ja.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_LockDegree": {
+  "pl": "Naprawdę celuję w dyplom ze ślusarstwa!",
+  "status": "draft"
+ },
+ "v:Reed_WLD_LockMarket": {
+  "pl": "Jedyna giełda, na której spekuluję, to Giełda Zamków!",
+  "status": "draft"
+ },
+ "v:Reed_WLD_MemoryGas": {
+  "pl": "Uwielbiam gaz niepamięci.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_NobodyCanHide": {
+  "pl": "Przed prawdą nikt się nie ukryje.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_NobodyCanHideTheTruth": {
+  "pl": "Przed prawdą nikt się nie ukryje. Prawda to ja.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_OkSeeYa": {
+  "pl": "Okej, do zobaczenia.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_OohPuzzle": {
+  "pl": "Ooo, zagadka!",
+  "status": "draft"
+ },
+ "v:Reed_WLD_ReWrite": {
+  "pl": "Ta sztuka potrzebowała porządnej Reed-akcji.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_ReadTheory": {
+  "pl": "Jest taka teoria na ten temat.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_SoLongGoodbye": {
+  "pl": "Na razie.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_TruthCantHideALT": {
+  "pl": "Prawda nie będzie się przed nami ukrywać w nieskończoność. To naukowo niemożliwe.",
+  "status": "draft"
+ },
+ "v:Reed_WLD_WannaHearNeat": {
+  "pl": "Chcesz usłyszeć coś fajnego?",
+  "status": "draft"
+ },
+ "v:Reed_WLD_WatchBack": {
+  "pl": "Uważaj na plecy, tylko nie skręć sobie karku.",
+  "status": "draft"
+ },
+ "v:Rival_MSC_Annoyed_Alt1": {
+  "pl": "Co?",
+  "status": "draft"
+ },
+ "v:ScienceMaleStudent2_WLD_Bromine": {
+  "pl": "Brom, bracie!",
+  "status": "draft"
+ },
+ "v:ScienceMaleStudent2_WLD_EscapeSciences": {
+  "pl": "Nauki o ucieczkach otworzą wszystko. Nawet mój umysł.",
+  "status": "draft"
+ },
+ "v:ScienceMaleStudent2_WLD_HeartOfAU": {
+  "pl": "Mam serce z Au! U-hu!",
+  "status": "draft"
+ },
+ "v:ScienceMaleStudent2_WLD_ScienceForEveryone": {
+  "pl": "Nauka jest dla wszystkich, ziom.",
+  "status": "draft"
+ },
+ "v:ScienceMaleStudent_WLD_DontBuyThese": {
+  "pl": "Nie kupuję-wielu tych faktów naukowych.",
+  "status": "review"
+ },
+ "v:ScienceMaleStudent_WLD_FearVonBellini": {
+  "pl": "Nigdy nie wiem, czy ufać eksperymentom Profesora Von Belliniego, czy się ich bać.",
+  "status": "draft"
+ },
+ "v:ScienceMaleStudent_WLD_PlentyClose": {
+  "pl": "To dla mnie wystarczająco blisko wody.",
+  "status": "draft"
+ },
+ "v:ScienceMaleStudent_WLD_UpAndAtom": {
+  "pl": "Jestem atomowo gotowy do działania.",
+  "status": "review"
+ },
+ "v:Slip_WLD_CheckLater": {
+  "pl": "Do później.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_DontFreakOut": {
+  "pl": "Bez paniki, to tylko Escape.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_DontGetCaught": {
+  "pl": "Jak łamiesz zasady, tylko się nie daj złapać.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_EscapeIsArt": {
+  "pl": "Ucieczka to sztuka.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_GoodPuzzleProject": {
+  "pl": "Lubię dobrą zagadkę do roboty.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_Hey": {
+  "pl": "Hej.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_KeepItReal": {
+  "pl": "Bądź sobą.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_LaterEscaper": {
+  "pl": "Do później, uciekinierze.",
+  "status": "review"
+ },
+ "v:Slip_WLD_Nice": {
+  "pl": "Fajnie.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_Peace": {
+  "pl": "Peace.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_Sayonara": {
+  "pl": "Sajonara.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_StarStudent": {
+  "pl": "Siema, gwiazdo roku.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_Sup": {
+  "pl": "Siema.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_Yo": {
+  "pl": "Jo.",
+  "status": "draft"
+ },
+ "v:Slip_WLD_Yoyo": {
+  "pl": "Jo, jo.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_Byebye": {
+  "pl": "No to pa pa.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_DontForgetTheFirstRule": {
+  "pl": "Nie zapomnij się bawić.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_EscapistReturns": {
+  "pl": "Wraca nasza ucieczkowa gwiazda.",
+  "status": "review"
+ },
+ "v:Solange_WLD_GotMyEyeOnYou": {
+  "pl": "Mam cię na oku.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_HavingAGoodPuzzle": {
+  "pl": "Dobrze ci się łamie głowę?",
+  "status": "draft"
+ },
+ "v:Solange_WLD_HelloThere": {
+  "pl": "Witaj.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_PuzzleWithoutZs": {
+  "pl": "Bez solidnego „zzz” nie rozwiążesz żadnej zagadki.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_SchoolOfHardLocks": {
+  "pl": "Nie bez powodu mówią, że to szkoła życia... i zamków.",
+  "status": "review"
+ },
+ "v:Solange_WLD_SeeYouSoon": {
+  "pl": "Do zobaczenia wkrótce!",
+  "status": "review"
+ },
+ "v:Solange_WLD_SolutionAlwaysPresentsItself": {
+  "pl": "Rozwiązanie zawsze się znajdzie.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_StarStudent": {
+  "pl": "Ach, moja gwiazda roku.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_StarStudentStuck": {
+  "pl": "Chyba nie masz kłopotu, moja gwiazdo roku?",
+  "status": "draft"
+ },
+ "v:Solange_WLD_ThereYouAre": {
+  "pl": "No, jesteś.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_TryNotDie": {
+  "pl": "Postaraj się nie zginąć!",
+  "status": "review"
+ },
+ "v:Solange_WLD_WatchYourStep": {
+  "pl": "Uważaj, gdzie stawiasz stopy.",
+  "status": "review"
+ },
+ "v:Solange_WLD_WelcomeBackToEA": {
+  "pl": "Witaj z powrotem w Akademii.",
+  "status": "draft"
+ },
+ "v:Solange_WLD_WelcomeToEA": {
+  "pl": "Witaj w Escape Academy.",
+  "status": "draft"
+ },
+ "v:StarStruckMaleStudent_WLD_DontLikeRoommates": {
+  "pl": "Jeśli nie lubisz swoich współlokatorów, możesz zamieszkać ze mną.",
+  "status": "draft"
+ },
+ "v:StarStruckMaleStudent_WLD_JustLikeYou": {
+  "pl": "Chcę być taki jak ty.",
+  "status": "draft"
+ },
+ "v:StarStruckMaleStudent_WLD_SavedUsDoItAgain": {
+  "pl": "Uratowanie szkoły masz już na koncie. Będzie powtórka, czy…?",
+  "status": "draft"
+ },
+ "v:StarStruckMaleStudent_WLD_SignMyNotebook": {
+  "pl": "Podpiszesz mi zeszyt?",
+  "status": "draft"
+ },
+ "v:StarStruckMaleStudent_WLD_StarStudent": {
+  "pl": "Jesteś gwiazdą roku Solange, prawda?",
+  "status": "draft"
+ },
+ "v:StokedFemaleStudent_WLD_BrainAgeIs8": {
+  "pl": "Mój wiek mózgu to 8 lat! A może 37…",
+  "status": "draft"
+ },
+ "v:StokedFemaleStudent_WLD_CantWaitTrap": {
+  "pl": "Nie mogę się doczekać, aż wpadnę w pułapkę!",
+  "status": "review"
+ },
+ "v:StokedFemaleStudent_WLD_FounderSomeday": {
+  "pl": "Chciałabym kiedyś zostać założycielką…",
+  "status": "draft"
+ },
+ "v:StokedFemaleStudent_WLD_HowsItPuzzlin": {
+  "pl": "Hej, jak tam zagadki?",
+  "status": "draft"
+ },
+ "v:StokedFemaleStudent_WLD_ProfChortkoffScaresMe": {
+  "pl": "Profesor Chortkoff trochę mnie przeraża… ale też chcę być taka jak ona.",
+  "status": "draft"
+ },
+ "v:StokedFemaleStudent_WLD_PuzzKill": {
+  "pl": "Oby mnie nie porwali. Totalny zagadkowy zabijacz nastroju.",
+  "status": "draft"
+ },
+ "v:StokedFemaleStudent_WLD_RuddyHerringCapsized": {
+  "pl": "Jak to jest być na pokładzie Rumianego Śledzia, gdy się wywraca?",
+  "status": "draft"
+ },
+ "v:StokedFemaleStudent_WLD_SawYouOnEATV": {
+  "pl": "Widziałam cię w EATV! Skupienie na cztery spusty!",
+  "status": "draft"
+ },
+ "v:StokedFemaleStudent_WLD_SolveAnyGood": {
+  "pl": "Udało się ostatnio rozwiązać jakąś dobrą zagadkę?",
+  "status": "review"
+ },
+ "v:StokedFemaleStudent_WLD_SolveEmAll": {
+  "pl": "Trzeba rozwiązać je wszystkie!",
+  "status": "review"
+ },
+ "v:StokedFemaleStudent_WLD_SpikedCeiling": {
+  "pl": "Ja chętnie zaliczyłabym jeszcze jeden sufit z kolcami.",
+  "status": "draft"
+ },
+ "v:StokedFemaleStudent_WLD_TooManyPuzzles": {
+  "pl": "Nie ma czegoś takiego jak za dużo zagadek.",
+  "status": "draft"
+ },
+ "v:StonyMaleStudent_WLD_GoMissing": {
+  "pl": "Jak zaginę… to skąd będę wiedział, gdzie jestem?",
+  "status": "draft"
+ },
+ "v:StonyMaleStudent_WLD_MemoryGas": {
+  "pl": "Ta ostatnia partia gazu pamięci inaczej wchodzi…",
+  "status": "draft"
+ },
+ "v:StonyMaleStudent_WLD_PuzzleFeelings": {
+  "pl": "Stary, a co, jeśli zagadki mają uczucia?",
+  "status": "draft"
+ },
+ "v:StonyMaleStudent_WLD_SoLost": {
+  "pl": "Jestem teraz kompletnie zagubiony.",
+  "status": "review"
+ },
+ "v:StonyMaleStudent_WLD_Woah": {
+  "pl": "Wow.",
+  "status": "draft"
+ },
+ "v:SurferMaleStudent_WLD_CheckIt": {
+  "pl": "Ej, ej, patrz na to!",
+  "status": "draft"
+ },
+ "v:SurferMaleStudent_WLD_Cheyahh": {
+  "pl": "Cheyaaaah",
+  "status": "draft"
+ },
+ "v:THEATerMaleStudent2_WLD_BrushUpOnMyPuzzling": {
+  "pl": "Muszę podmalować swoje główkowanie.",
+  "status": "draft"
+ },
+ "v:THEATerMaleStudent2_WLD_ChortkoffCanPaintAPicture": {
+  "pl": "Profesor Chortkoff naprawdę potrafi malować obrazy słowami…",
+  "status": "draft"
+ },
+ "v:THEATerMaleStudent2_WLD_ChortkoffMeltdowns": {
+  "pl": "Ciekawe, czy niektóre wybuchy Profesor Chortkoff są… wyreżyserowane?",
+  "status": "draft"
+ },
+ "v:THEATerMaleStudent2_WLD_ColorMeSurprised": {
+  "pl": "Znowu gwiazda roku? Ani trochę się nie zdziwiłem, ani na jeden kolor.",
+  "status": "draft"
+ },
+ "v:THEATerMaleStudent2_WLD_DrawAnyConclusions": {
+  "pl": "Nie chcę wyciągać dramatycznych wniosków, ale… coś w tym roku nie gra kolorystycznie.",
+  "status": "draft"
+ },
+ "v:THEATerMaleStudent2_WLD_EveryonesSoWeird": {
+  "pl": "Ostatnio wszyscy zachowują się wyjątkowo dziwnie…",
+  "status": "draft"
+ },
+ "v:THEATerMaleStudent2_WLD_HalfAsCoolAsSlip": {
+  "pl": "Gdybym był w połowie tak fajny jak Profesor Slip… byłbym lodem.",
+  "status": "draft"
+ },
+ "v:THEATerMaleStudent2_WLD_MonumentOfEscape": {
+  "pl": "Może kiedyś trafię na Pomnik Ucieczki!",
+  "status": "draft"
+ },
+ "v:THEATerMaleStudent2_WLD_SprayIt": {
+  "pl": "Sprayuj, nie gadaj.",
+  "status": "draft"
+ },
+ "v:ThEATerMaleStudent_WLD_ChortkoffSays": {
+  "pl": "Chortkoff twierdzi, że nie mam warunków do teatru ani do radia…?",
+  "status": "draft"
+ },
+ "v:ThEATerMaleStudent_WLD_DancingOnlyWay": {
+  "pl": "Taniec to jedyny sposób, w jaki potrafię się wyrazić.",
+  "status": "draft"
+ },
+ "v:ThEATerMaleStudent_WLD_TourDePuzzle": {
+  "pl": "Na scenie to był prawdziwy tour de puzzle.",
+  "status": "draft"
+ },
+ "v:Understudy2FemaleStudent_WLD_BurnBabyBurn": {
+  "pl": "Płoń, skarbie, płoń!",
+  "status": "draft"
+ },
+ "v:Understudy2FemaleStudent_WLD_EscapeScience": {
+  "pl": "Nauka o ucieczkach to statek pełen zabawy.",
+  "status": "draft"
+ },
+ "v:Understudy2FemaleStudent_WLD_FactoryChecking": {
+  "pl": "Uwielbiam weryfikować ludzi fabrycznie.",
+  "status": "review"
+ },
+ "v:Understudy2FemaleStudent_WLD_FeedFurnace": {
+  "pl": "Trzeba nakarmić piec.",
+  "status": "draft"
+ },
+ "v:Understudy2FemaleStudent_WLD_HolySmokes": {
+  "pl": "O rety, ale dymi!",
+  "status": "draft"
+ },
+ "v:UnderstudyFemaleStudent_WLD_Chemistry": {
+  "pl": "Chciałabym mieć większą chemię z tutejszymi uczniami…",
+  "status": "draft"
+ },
+ "v:UnderstudyFemaleStudent_WLD_DockTardiness": {
+  "pl": "Profesor Von Bellini nie obcinałby punktów za spóźnienie na nabrzeże, prawda?",
+  "status": "review"
+ },
+ "v:UnderstudyFemaleStudent_WLD_WishBelliniPickedMe": {
+  "pl": "Chciałabym, żeby Profesor Von Bellini wybrał mnie do swoich nielegalnych eksperymentów.",
+  "status": "draft"
+ },
+ "v:VonBellini_CY3_SomeoneThere": {
+  "pl": "Jest tam ktoś?",
+  "status": "draft"
+ },
+ "v:VonBellini_CY3_WhosDownThere": {
+  "pl": "Kto tam jest na dole?",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_AcademyIsTheExperiment": {
+  "pl": "Akademia to wielki eksperyment.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_Farewell": {
+  "pl": "No to bywaj zdrów.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_FellowYouth": {
+  "pl": "Pozdrowienia, młode pokolenie.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_FoundersKeepers": {
+  "pl": "Założył, zatrzymał.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_GreatestWeapon": {
+  "pl": "Największym atutem eskapisty jest umysł.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_Hellothere": {
+  "pl": "Witaj.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_HereComesWater": {
+  "pl": "Gotowi czy nie, woda nadchodzi!",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_KeenMind": {
+  "pl": "Zbliża się bystry umysł.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_KeepThisBetweenUs": {
+  "pl": "Zostawmy to wszystko między nami, dobrze?",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_KidsTheseDays": {
+  "pl": "Ta dzisiejsza młodzież… irytująca…",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_LowkeyALT": {
+  "pl": "Trzymajmy to pod kluczem, dobrze?",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_MakeThisQuick": {
+  "pl": "Możemy załatwić to szybko?",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_MmYes": {
+  "pl": "Mm. Tak?",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_NothingMorePowerful": {
+  "pl": "Nic nie jest potężniejsze niż nauki o ucieczkach.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_OhRats": {
+  "pl": "Ach, szczury…",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_ScienceDoesntWait": {
+  "pl": "Nauka nie czeka na eskapistów.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_ScienceForWeakMinded": {
+  "pl": "Nauka nie jest dla słabych umysłów.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_SeeYouAft-Er": {
+  "pl": "Spokojnie, zobaczymy się na rufie… znaczy, później.",
+  "status": "review"
+ },
+ "v:VonBellini_WLD_SoLongStudent": {
+  "pl": "Do zobaczenia, młody talencie.",
+  "status": "review"
+ },
+ "v:VonBellini_WLD_TheScience": {
+  "pl": "Oto nadchodzi nauka.",
+  "status": "draft"
+ },
+ "v:VonBellini_WLD_WhatHaveWe": {
+  "pl": "Cóż my tu mamy?",
+  "status": "draft"
+ },
+ "v:WarBuffMaleStudent2_WLD_BelieveEveryWord": {
+  "pl": "Wierzę w każde słowo, które publikuje Kurier Eskapisty. Co media miałyby zyskać na kłamstwie?",
+  "status": "draft"
+ },
+ "v:WarBuffMaleStudent2_WLD_CipherCenterWorry": {
+  "pl": "Trochę się martwię programem w Centrum Szyfrów… Podobno trzeba tam ciągle wchodzić do krypt.",
+  "status": "review"
+ },
+ "v:WarBuffMaleStudent2_WLD_HalfTheStory": {
+  "pl": "Historia to tylko połowa prawdy.",
+  "status": "draft"
+ },
+ "v:WarBuffMaleStudent2_WLD_Sweltering": {
+  "pl": "Ale tu parno.",
+  "status": "draft"
+ },
+ "v:WarBuffMaleStudent_WLD_CurriculumCurator": {
+  "pl": "Profesor Jeberson staje się prawdziwym kuratorem programu nauczania.",
+  "status": "draft"
+ },
+ "v:WarBuffMaleStudent_WLD_LearnAboutReinaALT": {
+  "pl": "Mam nadzieję, że dziś będziemy się uczyć o Reinie Wym!",
+  "status": "draft"
+ },
+ "v:WarBuffMaleStudent_WLD_QuantyCheckout": {
+  "pl": "Wolę, jak Quanty działa jako system wypożyczeń.",
+  "status": "draft"
+ },
+ "v:WarBuffMaleStudent_WLD_SkipDetailsPuzzleWar": {
+  "pl": "Mam nadzieję, że Dyrektorka Solange nie pominie żadnych kluczowych szczegółów Wojny Zagadek.",
+  "status": "draft"
+ },
+ "v:WindowsMaleStudent_WLD_Counting": {
+  "pl": "8, 9, 10, 11, 12…",
+  "status": "draft"
+ },
+ "v:WindowsMaleStudent_WLD_DontMindMe": {
+  "pl": "Nie zwracaj na mnie uwagi.",
+  "status": "review"
+ },
+ "v:WindowsMaleStudent_WLD_Interesting": {
+  "pl": "Oooh… jakie ciekawe…",
+  "status": "draft"
+ },
+ "v:WindowsMaleStudent_WLD_JustStandingHere": {
+  "pl": "Ja tylko… tu stoję. Bez powodu!",
+  "status": "draft"
+ },
+ "v:WindowsMaleStudent_WLD_NoEyeContact": {
+  "pl": "Ej! Bez kontaktu wzrokowego.",
+  "status": "draft"
+ },
+ "v:WindowsMaleStudent_WLD_NothingToSeeHere": {
+  "pl": "Nie ma tu nic do oglądania.",
+  "status": "draft"
+ },
+ "v:WindowsMaleStudent_WLD_ThatsTheStuff": {
+  "pl": "Oo, to jest to…",
+  "status": "draft"
+ }
+}

@@ -1,0 +1,3066 @@
+{
+ "g:Action_Back": {
+  "pl": "Wstecz",
+  "status": "draft"
+ },
+ "g:Action_Crouch": {
+  "pl": "Kucnij",
+  "status": "draft"
+ },
+ "g:Action_Emote1": {
+  "pl": "Emotka: machanie",
+  "status": "draft"
+ },
+ "g:Action_Emote2": {
+  "pl": "Emotka: kciuk w górę",
+  "status": "draft"
+ },
+ "g:Action_Emote3": {
+  "pl": "Emotka: świętowanie",
+  "status": "draft"
+ },
+ "g:Action_Emote4": {
+  "pl": "Emotka: oklaski",
+  "status": "draft"
+ },
+ "g:Action_Equip": {
+  "pl": "Załóż",
+  "status": "review"
+ },
+ "g:Action_Jump": {
+  "pl": "Skocz",
+  "status": "draft"
+ },
+ "g:Action_Look": {
+  "pl": "Rozejrzyj się",
+  "status": "draft"
+ },
+ "g:Action_Map": {
+  "pl": "Otwórz mapę",
+  "status": "draft"
+ },
+ "g:Action_Move": {
+  "pl": "Idź",
+  "status": "draft"
+ },
+ "g:Action_MoveB": {
+  "pl": "Idź do tyłu",
+  "status": "draft"
+ },
+ "g:Action_MoveDown": {
+  "pl": "Idź w dół",
+  "status": "draft"
+ },
+ "g:Action_MoveF": {
+  "pl": "Idź naprzód",
+  "status": "draft"
+ },
+ "g:Action_MoveL": {
+  "pl": "Idź w lewo",
+  "status": "draft"
+ },
+ "g:Action_MoveLeft": {
+  "pl": "Idź w lewo",
+  "status": "draft"
+ },
+ "g:Action_MoveR": {
+  "pl": "Idź w prawo",
+  "status": "draft"
+ },
+ "g:Action_MoveRight": {
+  "pl": "Idź w prawo",
+  "status": "review"
+ },
+ "g:Action_MoveUp": {
+  "pl": "Idź w górę",
+  "status": "draft"
+ },
+ "g:Action_Pause": {
+  "pl": "Pauza",
+  "status": "review"
+ },
+ "g:Action_Ping": {
+  "pl": "Wyślij ping",
+  "status": "draft"
+ },
+ "g:Action_Planner": {
+  "pl": "Otwórz dziennik",
+  "status": "draft"
+ },
+ "g:Action_Skip": {
+  "pl": "Pomiń scenkę",
+  "status": "draft"
+ },
+ "g:Action_Special": {
+  "pl": "Inne/specjalne",
+  "status": "draft"
+ },
+ "g:Action_Sprint": {
+  "pl": "Biegnij",
+  "status": "draft"
+ },
+ "g:Action_ToggleSplitscreen": {
+  "pl": "Przełącz podział ekranu",
+  "status": "draft"
+ },
+ "g:Action_Unbound": {
+  "pl": "Nieprzypisane",
+  "status": "draft"
+ },
+ "g:Action_interact": {
+  "pl": "Interakcja",
+  "status": "review"
+ },
+ "g:Action_inventory": {
+  "pl": "Ekwipunek",
+  "status": "draft"
+ },
+ "g:ArtStudio_Hint_Location": {
+  "pl": "Idź do pracowni plastycznej na Wydziale Sztuki.",
+  "status": "draft"
+ },
+ "g:ArtsCampus_Hint_Location": {
+  "pl": "Idź na Wydział Sztuki.",
+  "status": "draft"
+ },
+ "g:Beach_Hint_Location": {
+  "pl": "Idź na plażę na Wydziale Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:Biology_Hint_Location": {
+  "pl": "Idź do laboratorium biologicznego na Wydziale Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:CY_Blank": {
+  "pl": "[LUKA]",
+  "status": "review"
+ },
+ "g:CY_Blanked": {
+  "pl": "[ZALUKOWANO]",
+  "status": "review"
+ },
+ "g:CY_Blanking": {
+  "pl": "[LUKOWATY]",
+  "status": "review"
+ },
+ "g:CY_Blanks": {
+  "pl": "[LUKI]",
+  "status": "review"
+ },
+ "g:CY_Subtitle": {
+  "pl": "Odkryj<br>prawdę!",
+  "status": "draft"
+ },
+ "g:Chemistry_Hint_Location": {
+  "pl": "Idź do laboratorium chemicznego na Wydziale Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:CipherCenter_Hint_Location": {
+  "pl": "Idź do Centrum Szyfrów na Wydziale Humanistycznym.",
+  "status": "draft"
+ },
+ "g:Color_Black": {
+  "pl": "Czarny",
+  "status": "draft"
+ },
+ "g:Color_BlackA": {
+  "pl": "Cza",
+  "status": "draft"
+ },
+ "g:Color_Blue": {
+  "pl": "Niebieski",
+  "status": "draft"
+ },
+ "g:Color_BlueA": {
+  "pl": "Nie",
+  "status": "draft"
+ },
+ "g:Color_Brown": {
+  "pl": "Brązowy",
+  "status": "draft"
+ },
+ "g:Color_BrownA": {
+  "pl": "Brą",
+  "status": "draft"
+ },
+ "g:Color_Cyan": {
+  "pl": "Cyjan",
+  "status": "draft"
+ },
+ "g:Color_CyanA": {
+  "pl": "Cyj",
+  "status": "draft"
+ },
+ "g:Color_Gray": {
+  "pl": "Szary",
+  "status": "draft"
+ },
+ "g:Color_GrayA": {
+  "pl": "Szr",
+  "status": "draft"
+ },
+ "g:Color_Green": {
+  "pl": "Zielony",
+  "status": "draft"
+ },
+ "g:Color_GreenA": {
+  "pl": "Zie",
+  "status": "draft"
+ },
+ "g:Color_Magenta": {
+  "pl": "Magenta",
+  "status": "draft"
+ },
+ "g:Color_Magneta": {
+  "pl": "Magenta",
+  "status": "review"
+ },
+ "g:Color_MagnetaA": {
+  "pl": "Mag",
+  "status": "draft"
+ },
+ "g:Color_Off": {
+  "pl": "Wył.",
+  "status": "draft"
+ },
+ "g:Color_OffA": {
+  "pl": "X",
+  "status": "draft"
+ },
+ "g:Color_Olive": {
+  "pl": "Oliwkowy",
+  "status": "draft"
+ },
+ "g:Color_OliveA": {
+  "pl": "Oli",
+  "status": "draft"
+ },
+ "g:Color_On": {
+  "pl": "Wł.",
+  "status": "draft"
+ },
+ "g:Color_OnA": {
+  "pl": "V",
+  "status": "review"
+ },
+ "g:Color_Orange": {
+  "pl": "Pomarańczowy",
+  "status": "draft"
+ },
+ "g:Color_OrangeA": {
+  "pl": "Pom",
+  "status": "draft"
+ },
+ "g:Color_Pink": {
+  "pl": "Różowy",
+  "status": "draft"
+ },
+ "g:Color_PinkA": {
+  "pl": "Róż",
+  "status": "draft"
+ },
+ "g:Color_Purple": {
+  "pl": "Purpurowy",
+  "status": "review"
+ },
+ "g:Color_PurpleA": {
+  "pl": "Pur",
+  "status": "draft"
+ },
+ "g:Color_Red": {
+  "pl": "Czerwony",
+  "status": "draft"
+ },
+ "g:Color_RedA": {
+  "pl": "Cze",
+  "status": "review"
+ },
+ "g:Color_Teal": {
+  "pl": "Morski",
+  "status": "review"
+ },
+ "g:Color_TealA": {
+  "pl": "Mor",
+  "status": "draft"
+ },
+ "g:Color_Violet": {
+  "pl": "Fioletowy",
+  "status": "draft"
+ },
+ "g:Color_VioletA": {
+  "pl": "Fio",
+  "status": "draft"
+ },
+ "g:Color_White": {
+  "pl": "Biały",
+  "status": "draft"
+ },
+ "g:Color_WhiteA": {
+  "pl": "Bia",
+  "status": "draft"
+ },
+ "g:Color_Yellow": {
+  "pl": "Żółty",
+  "status": "draft"
+ },
+ "g:Color_YellowA": {
+  "pl": "Żół",
+  "status": "draft"
+ },
+ "g:ComputerLab_Hint_Location": {
+  "pl": "Idź do pracowni komputerowej na Wydziale Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:CostumeShop_Hint_Location": {
+  "pl": "Idź do kostiumerni na Wydziale Sztuki.",
+  "status": "draft"
+ },
+ "g:CreditLockFormat": {
+  "pl": "Zapieczętowane! Żeby otworzyć te drzwi, potrzeba co najmniej {0} pkt…",
+  "status": "review"
+ },
+ "g:CreditLockFormat_Singular": {
+  "pl": "Zapieczętowane! Potrzebuję co najmniej 1 punktu, żeby otworzyć te drzwi…",
+  "status": "review"
+ },
+ "g:DEMO_EFIGS_Characters": {
+  "pl": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝŸàáâãäåæçèéêëìíîïñòóôõöùúûüýÿŒœß¡¿«»‹›‘’‚‛“”„–—…·",
+  "status": "review"
+ },
+ "g:DEMO_NoCharacterCustomization": {
+  "pl": "Dostosowywanie postaci nie jest dostępne w tym demie.",
+  "status": "draft"
+ },
+ "g:DEMO_NoRebindGamepad": {
+  "pl": "Zmiana przypisania przycisków pada nie jest dostępna w tym demie.<color=grey>Spokojnie, wkrótce się pojawi!</color>",
+  "status": "draft"
+ },
+ "g:DEMO_NoRebindMainMenu": {
+  "pl": "Zmiana przypisania klawiszy nie jest dostępna w menu głównym. Najpierw uruchom grę. <color=grey>Spokojnie, pracujemy nad tym.</color>",
+  "status": "draft"
+ },
+ "g:DEMO_UnavailableSetting": {
+  "pl": "Niedostępne w demie",
+  "status": "draft"
+ },
+ "g:DLC_SeasonPassContent": {
+  "pl": "Ta zawartość jest częścią Przepustki sezonowej.<br>Możesz ją kupić na stronie sklepu.<br><br>Jeśli masz już Przepustkę sezonową, upewnij się, że została pobrana z biblioteki gier.",
+  "status": "draft"
+ },
+ "g:DLC_SeasonPassContent_PS5": {
+  "pl": "Ta zawartość jest częścią Przepustki sezonowej.<br><br>Jeśli masz już Przepustkę sezonową, upewnij się, że została pobrana z biblioteki gier.",
+  "status": "draft"
+ },
+ "g:DLC_UpsellMessage": {
+  "pl": "Przygotuj się na zajęcia pozalekcyjne z Przepustką sezonową Escape Academy 2!",
+  "status": "draft"
+ },
+ "g:DLC_UpsellThankYou": {
+  "pl": "Dzięki za wsparcie!",
+  "status": "draft"
+ },
+ "g:DanceStudio_Hint_Location": {
+  "pl": "Idź do studia tańca na Wydziale Sztuki.",
+  "status": "draft"
+ },
+ "g:DeleteSaveData": {
+  "pl": "Usuń zapis",
+  "status": "draft"
+ },
+ "g:EC_Quest_NightInactive": {
+  "pl": "Nie mam teraz czasu się tym bawić, mam misję do wykonania.",
+  "status": "draft"
+ },
+ "g:EPI_Meta_QuestDesc": {
+  "pl": "Dyrektorka Solange ma dla ciebie niespodziankę na górnym Wydziale Sztuki.",
+  "status": "draft"
+ },
+ "g:EPI_Meta_QuestName": {
+  "pl": "Ucieczka z Akademii",
+  "status": "draft"
+ },
+ "g:EPI_Meta_Quest_Obj1": {
+  "pl": "Porozmawiaj z dyrektorką Solange na górnym Wydziale Sztuki.",
+  "status": "draft"
+ },
+ "g:EasterEgg_Label": {
+  "pl": "Nie podglądaj!",
+  "status": "draft"
+ },
+ "g:Equip": {
+  "pl": "Załóż",
+  "status": "draft"
+ },
+ "g:EscapistTimes_Hint_Location": {
+  "pl": "Idź do budynku Kuriera Eskapisty na Wydziale Humanistycznym.",
+  "status": "draft"
+ },
+ "g:Factory_Hint_Location": {
+  "pl": "Idź do Fabryki Łamigłówek na Wydziale Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:FacultyOnly_Sign": {
+  "pl": "Tylko dla kadry",
+  "status": "draft"
+ },
+ "g:FallbackNameTag_P1": {
+  "pl": "Gwiazda roku",
+  "status": "draft"
+ },
+ "g:FallbackNameTag_P2": {
+  "pl": "Druga gwiazda roku",
+  "status": "draft"
+ },
+ "g:FinalCinematicText_TheEnd": {
+  "pl": "Koniec",
+  "status": "draft"
+ },
+ "g:GAR_Ch3_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Ogrody Akademii po prostu cieszą się, że są częścią kampusu",
+  "status": "draft"
+ },
+ "g:GAR_Ch5_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Wodospad ma dość uczniów szukających sekretnej jaskini: „Nie każdy wodospad ją ma. To zarozumiałe”",
+  "status": "draft"
+ },
+ "g:GAR_Ch6_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Kadra zapewnia uczniów, że labirynt z żywopłotu nie ma świadomości",
+  "status": "draft"
+ },
+ "g:GAR_Ch7_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Pięć porad, jak odpowiednio płakać na uroczystości żałobnej po osobie, do której miało się mieszane uczucia",
+  "status": "draft"
+ },
+ "g:GAR_Ch8_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Ogrody akademii apelują: nie wchodźcie na wzgórze podczas Burzy Mózgów. Porażenie piorunem „nie jest tak fajne, jak brzmi”",
+  "status": "draft"
+ },
+ "g:GAR_Epi_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Ogrody akademii wybrane „Najlepszym miejscem na chillout na kampusie” przez Ogrody akademii",
+  "status": "draft"
+ },
+ "g:GAR_Maze": {
+  "pl": "„Własność hotelu Overlock”",
+  "status": "review"
+ },
+ "g:GUIMap_ARCBellTower": {
+  "pl": "Dzwonnica",
+  "status": "draft"
+ },
+ "g:GUIMap_ARCLower": {
+  "pl": "Dolny Wydział Sztuki",
+  "status": "draft"
+ },
+ "g:GUIMap_ARCUpper": {
+  "pl": "Górny Wydział Sztuki",
+  "status": "draft"
+ },
+ "g:GUIMap_ARCVisArtsWorkshop": {
+  "pl": "Pracownia plastyczna",
+  "status": "draft"
+ },
+ "g:GUIMap_Arts": {
+  "pl": "Wydział Sztuki",
+  "status": "draft"
+ },
+ "g:GUIMap_ArtsClassroom": {
+  "pl": "Sala plastyczna",
+  "status": "draft"
+ },
+ "g:GUIMap_BioClassroom": {
+  "pl": "Laboratorium biologiczne",
+  "status": "draft"
+ },
+ "g:GUIMap_Bookstore": {
+  "pl": "Księgarnia (parter)",
+  "status": "draft"
+ },
+ "g:GUIMap_BookstoreSign": {
+  "pl": "Księgarnia",
+  "status": "draft"
+ },
+ "g:GUIMap_Bridge": {
+  "pl": "Most",
+  "status": "draft"
+ },
+ "g:GUIMap_Cafeteria": {
+  "pl": "Stołówka (parter)",
+  "status": "draft"
+ },
+ "g:GUIMap_ChemClassroom": {
+  "pl": "Laboratorium chemiczne",
+  "status": "review"
+ },
+ "g:GUIMap_CipherCenter": {
+  "pl": "Centrum Szyfrów",
+  "status": "draft"
+ },
+ "g:GUIMap_Classrooms": {
+  "pl": "Sale lekcyjne (parter)",
+  "status": "review"
+ },
+ "g:GUIMap_ComputerLab": {
+  "pl": "Pracownia komputerowa",
+  "status": "draft"
+ },
+ "g:GUIMap_CostumeShop": {
+  "pl": "Sklep z kostiumami",
+  "status": "draft"
+ },
+ "g:GUIMap_Courtyard": {
+  "pl": "Patio",
+  "status": "draft"
+ },
+ "g:GUIMap_DanceStudio": {
+  "pl": "Studio tańca",
+  "status": "draft"
+ },
+ "g:GUIMap_Dorms": {
+  "pl": "Akademik (1. piętro)",
+  "status": "review"
+ },
+ "g:GUIMap_Dungeons": {
+  "pl": "Karcer szlabanowy (-1)",
+  "status": "review"
+ },
+ "g:GUIMap_East": {
+  "pl": "W",
+  "status": "draft"
+ },
+ "g:GUIMap_Entrance": {
+  "pl": "Brama wejściowa",
+  "status": "draft"
+ },
+ "g:GUIMap_EscapistTimes": {
+  "pl": "Kurier Eskapisty",
+  "status": "draft"
+ },
+ "g:GUIMap_Fountain": {
+  "pl": "Fontanna",
+  "status": "draft"
+ },
+ "g:GUIMap_Furnace": {
+  "pl": "Piec",
+  "status": "draft"
+ },
+ "g:GUIMap_GARLookout": {
+  "pl": "Punkt widokowy",
+  "status": "draft"
+ },
+ "g:GUIMap_Garden": {
+  "pl": "Ogród",
+  "status": "draft"
+ },
+ "g:GUIMap_GardenGate": {
+  "pl": "Brama ogrodowa",
+  "status": "draft"
+ },
+ "g:GUIMap_GardenStage": {
+  "pl": "Scena w ogrodzie",
+  "status": "draft"
+ },
+ "g:GUIMap_Gardens": {
+  "pl": "Ogrody kampusu",
+  "status": "draft"
+ },
+ "g:GUIMap_GateArts": {
+  "pl": "Brama Sztuki",
+  "status": "draft"
+ },
+ "g:GUIMap_GateHumanities": {
+  "pl": "Brama Humanistyczna",
+  "status": "draft"
+ },
+ "g:GUIMap_GateScience": {
+  "pl": "Brama Nauk Ścisłych",
+  "status": "draft"
+ },
+ "g:GUIMap_Gazebo": {
+  "pl": "Altana",
+  "status": "draft"
+ },
+ "g:GUIMap_Greenhouse": {
+  "pl": "Szklarnia",
+  "status": "draft"
+ },
+ "g:GUIMap_HMOffice": {
+  "pl": "Gabinet dyrektorki (2. piętro)",
+  "status": "draft"
+ },
+ "g:GUIMap_HMRoof": {
+  "pl": "Dach",
+  "status": "draft"
+ },
+ "g:GUIMap_HUMLower": {
+  "pl": "Dolny Wydział Humanistyczny",
+  "status": "draft"
+ },
+ "g:GUIMap_HUMUpper": {
+  "pl": "Górny Wydział Humanistyczny",
+  "status": "draft"
+ },
+ "g:GUIMap_HallOfEscapists": {
+  "pl": "Hala Eskapistów",
+  "status": "draft"
+ },
+ "g:GUIMap_HedgeMaze": {
+  "pl": "Labirynt z żywopłotu",
+  "status": "draft"
+ },
+ "g:GUIMap_Humanities": {
+  "pl": "Wydział Humanistyczny",
+  "status": "draft"
+ },
+ "g:GUIMap_Infirmary": {
+  "pl": "Izba chorych",
+  "status": "draft"
+ },
+ "g:GUIMap_LectureHall": {
+  "pl": "Aula",
+  "status": "draft"
+ },
+ "g:GUIMap_Library": {
+  "pl": "Biblioteka",
+  "status": "draft"
+ },
+ "g:GUIMap_Lighthouse": {
+  "pl": "Latarnia morska",
+  "status": "review"
+ },
+ "g:GUIMap_Lobby": {
+  "pl": "Hol",
+  "status": "draft"
+ },
+ "g:GUIMap_Monument": {
+  "pl": "Pomnik Ucieczki",
+  "status": "draft"
+ },
+ "g:GUIMap_Museum": {
+  "pl": "Muzeum",
+  "status": "draft"
+ },
+ "g:GUIMap_MusicStudio": {
+  "pl": "Studio muzyczne",
+  "status": "draft"
+ },
+ "g:GUIMap_North": {
+  "pl": "N",
+  "status": "draft"
+ },
+ "g:GUIMap_Observatory": {
+  "pl": "Obserwatorium",
+  "status": "draft"
+ },
+ "g:GUIMap_Overview": {
+  "pl": "Przegląd",
+  "status": "draft"
+ },
+ "g:GUIMap_PuzzleFactory": {
+  "pl": "Fabryka łamigłówek",
+  "status": "draft"
+ },
+ "g:GUIMap_Quad": {
+  "pl": "Dziedziniec",
+  "status": "draft"
+ },
+ "g:GUIMap_Radio": {
+  "pl": "Radiowęzeł",
+  "status": "draft"
+ },
+ "g:GUIMap_SCIBeach": {
+  "pl": "Plaża",
+  "status": "draft"
+ },
+ "g:GUIMap_SCICrane": {
+  "pl": "Żuraw",
+  "status": "draft"
+ },
+ "g:GUIMap_SCIDock": {
+  "pl": "Dok",
+  "status": "draft"
+ },
+ "g:GUIMap_SCILower": {
+  "pl": "Dolny Wydział Nauk Ścisłych",
+  "status": "draft"
+ },
+ "g:GUIMap_SCIUpper": {
+  "pl": "Górny Wydział Nauk Ścisłych",
+  "status": "draft"
+ },
+ "g:GUIMap_ScienceWorkshop": {
+  "pl": "Skład",
+  "status": "review"
+ },
+ "g:GUIMap_Sciences": {
+  "pl": "Wydział Nauk Ścisłych",
+  "status": "review"
+ },
+ "g:GUIMap_Sewer": {
+  "pl": "Kanały",
+  "status": "draft"
+ },
+ "g:GUIMap_South": {
+  "pl": "P",
+  "status": "review"
+ },
+ "g:GUIMap_Stairwell": {
+  "pl": "Klatka schodowa",
+  "status": "draft"
+ },
+ "g:GUIMap_Terrace": {
+  "pl": "Taras",
+  "status": "draft"
+ },
+ "g:GUIMap_Theater": {
+  "pl": "Teatr",
+  "status": "draft"
+ },
+ "g:GUIMap_TheaterWorkshop": {
+  "pl": "Warsztat teatralny",
+  "status": "draft"
+ },
+ "g:GUIMap_Tower": {
+  "pl": "Wieża dyrektorki",
+  "status": "draft"
+ },
+ "g:GUIMap_Underground": {
+  "pl": "Podziemia",
+  "status": "draft"
+ },
+ "g:GUIMap_UndergroundEntrance": {
+  "pl": "Wejście do podziemi",
+  "status": "draft"
+ },
+ "g:GUIMap_WeatherTower": {
+  "pl": "Wieża meteo",
+  "status": "draft"
+ },
+ "g:GUIMap_West": {
+  "pl": "Z",
+  "status": "draft"
+ },
+ "g:GUIMap_YouAreHere": {
+  "pl": "Jesteś tutaj",
+  "status": "draft"
+ },
+ "g:GUI_AudioAssistMode": {
+  "pl": "Napisy-podpowiedzi do zagadek dźwiękowych",
+  "status": "draft"
+ },
+ "g:GUI_AudioSettings": {
+  "pl": "Ustawienia dźwięku",
+  "status": "draft"
+ },
+ "g:GUI_Auto": {
+  "pl": "Automatyczny",
+  "status": "review"
+ },
+ "g:GUI_Automatic": {
+  "pl": "Automatycznie",
+  "status": "draft"
+ },
+ "g:GUI_Back": {
+  "pl": "Wróć",
+  "status": "draft"
+ },
+ "g:GUI_BorderlessFullscreen": {
+  "pl": "Pełny ekran bez ramek",
+  "status": "draft"
+ },
+ "g:GUI_CampusMap": {
+  "pl": "Mapa kampusu",
+  "status": "draft"
+ },
+ "g:GUI_Cancel": {
+  "pl": "Anuluj",
+  "status": "draft"
+ },
+ "g:GUI_CantSaveDuringEscape": {
+  "pl": "Nie można zapisać gry w trakcie escape roomu. <br><color=grey>Gra została automatycznie zapisana przed rozpoczęciem poziomu.</color>",
+  "status": "draft"
+ },
+ "g:GUI_Client": {
+  "pl": "Gość",
+  "status": "draft"
+ },
+ "g:GUI_ClientYou": {
+  "pl": "Gość (ty)",
+  "status": "draft"
+ },
+ "g:GUI_CodeCopied": {
+  "pl": "Kod skopiowany!",
+  "status": "draft"
+ },
+ "g:GUI_ColorblindMode": {
+  "pl": "Tryb dla daltonistów",
+  "status": "draft"
+ },
+ "g:GUI_Complete": {
+  "pl": "Ukończone",
+  "status": "draft"
+ },
+ "g:GUI_ContinueFormat": {
+  "pl": "Kontynuuj (+{0} min)",
+  "status": "draft"
+ },
+ "g:GUI_ControlsSettings": {
+  "pl": "Ustawienia sterowania",
+  "status": "draft"
+ },
+ "g:GUI_CozyMode": {
+  "pl": "Nieograniczony czas ucieczki",
+  "status": "draft"
+ },
+ "g:GUI_Credits": {
+  "pl": "Twórcy",
+  "status": "draft"
+ },
+ "g:GUI_Customize": {
+  "pl": "Dostosuj",
+  "status": "draft"
+ },
+ "g:GUI_Customize_Accessories": {
+  "pl": "Akcesoria",
+  "status": "draft"
+ },
+ "g:GUI_Customize_BodyType": {
+  "pl": "Typ sylwetki",
+  "status": "draft"
+ },
+ "g:GUI_Customize_EyeColor": {
+  "pl": "Kolor oczu",
+  "status": "draft"
+ },
+ "g:GUI_Customize_Face": {
+  "pl": "Kształt twarzy",
+  "status": "draft"
+ },
+ "g:GUI_Customize_FacialExpression": {
+  "pl": "Mimika",
+  "status": "draft"
+ },
+ "g:GUI_Customize_Glasses": {
+  "pl": "Okulary",
+  "status": "draft"
+ },
+ "g:GUI_Customize_HairColor": {
+  "pl": "Kolor włosów",
+  "status": "draft"
+ },
+ "g:GUI_Customize_Hairstyle": {
+  "pl": "Fryzura",
+  "status": "draft"
+ },
+ "g:GUI_Customize_Hat": {
+  "pl": "Nakrycie głowy",
+  "status": "draft"
+ },
+ "g:GUI_Customize_Header": {
+  "pl": "Dostosuj swój wygląd",
+  "status": "draft"
+ },
+ "g:GUI_Customize_Mask": {
+  "pl": "Maska",
+  "status": "draft"
+ },
+ "g:GUI_Customize_None": {
+  "pl": "Brak",
+  "status": "draft"
+ },
+ "g:GUI_Customize_OptionFormat": {
+  "pl": "Opcja {0}",
+  "status": "draft"
+ },
+ "g:GUI_Customize_Skintone": {
+  "pl": "Odcień skóry",
+  "status": "draft"
+ },
+ "g:GUI_Customize_Voice": {
+  "pl": "Głos",
+  "status": "draft"
+ },
+ "g:GUI_Delete": {
+  "pl": "Usuń",
+  "status": "draft"
+ },
+ "g:GUI_DeleteSave": {
+  "pl": "Na pewno chcesz usunąć ten zapis?",
+  "status": "draft"
+ },
+ "g:GUI_DisableCameraTransitions": {
+  "pl": "Wyłącz przejścia kamery",
+  "status": "draft"
+ },
+ "g:GUI_EULA_Accept": {
+  "pl": "Akceptuj",
+  "status": "draft"
+ },
+ "g:GUI_EULA_Body": {
+  "pl": "PLEASE INSERT THERE.",
+  "status": "review"
+ },
+ "g:GUI_EULA_Decline": {
+  "pl": "Odrzuć",
+  "status": "draft"
+ },
+ "g:GUI_EULA_Header": {
+  "pl": "Umowa licencyjna użytkownika końcowego",
+  "status": "review"
+ },
+ "g:GUI_Error_FailedToCreate": {
+  "pl": "Nie udało się utworzyć sesji online. Spróbuj ponownie.",
+  "status": "draft"
+ },
+ "g:GUI_Error_Generic": {
+  "pl": "Coś poszło nie tak. Spróbuj ponownie.",
+  "status": "draft"
+ },
+ "g:GUI_Error_InvalidSessionCode": {
+  "pl": "Wpisz prawidłowy kod sesji (co najmniej 4 znaki).",
+  "status": "draft"
+ },
+ "g:GUI_Error_OnlineJoinFailed": {
+  "pl": "Nie udało się dołączyć do sesji. Sprawdź kod i spróbuj ponownie.",
+  "status": "draft"
+ },
+ "g:GUI_EscapeFailed": {
+  "pl": "Ucieczka nieudana",
+  "status": "draft"
+ },
+ "g:GUI_FOV": {
+  "pl": "Pole widzenia",
+  "status": "draft"
+ },
+ "g:GUI_FirstBootLanguageTitle": {
+  "pl": "Język",
+  "status": "draft"
+ },
+ "g:GUI_FriendCode": {
+  "pl": "Wpisz kod znajomego...",
+  "status": "draft"
+ },
+ "g:GUI_Fullscreen": {
+  "pl": "Pełny ekran",
+  "status": "draft"
+ },
+ "g:GUI_GamePaused": {
+  "pl": "Gra wstrzymana",
+  "status": "draft"
+ },
+ "g:GUI_GameSaved": {
+  "pl": "Gra zapisana.",
+  "status": "draft"
+ },
+ "g:GUI_GamepadSensitivity": {
+  "pl": "Czułość kontrolera",
+  "status": "draft"
+ },
+ "g:GUI_GameplaySettings": {
+  "pl": "Ustawienia rozgrywki",
+  "status": "draft"
+ },
+ "g:GUI_GraphicsHeader": {
+  "pl": "Grafika",
+  "status": "draft"
+ },
+ "g:GUI_GraphicsSettings": {
+  "pl": "Ustawienia grafiki",
+  "status": "draft"
+ },
+ "g:GUI_Host": {
+  "pl": "Gospodarz",
+  "status": "draft"
+ },
+ "g:GUI_HostGame": {
+  "pl": "Utwórz grę",
+  "status": "draft"
+ },
+ "g:GUI_HostYou": {
+  "pl": "Gospodarz (ty)",
+  "status": "review"
+ },
+ "g:GUI_InputControllerFormat": {
+  "pl": "Kontroler {0} ({1})",
+  "status": "draft"
+ },
+ "g:GUI_InputDevice": {
+  "pl": "Urządzenie wejściowe",
+  "status": "draft"
+ },
+ "g:GUI_InputInUseFormat": {
+  "pl": "{0} (używane)",
+  "status": "draft"
+ },
+ "g:GUI_InvertY": {
+  "pl": "Odwróć oś Y",
+  "status": "draft"
+ },
+ "g:GUI_JoinDiscord": {
+  "pl": "Dołącz do naszego Discorda!",
+  "status": "review"
+ },
+ "g:GUI_JoinGame": {
+  "pl": "Dołącz do gry znajomego",
+  "status": "draft"
+ },
+ "g:GUI_JournalChapter1": {
+  "pl": "Rozdział 1",
+  "status": "draft"
+ },
+ "g:GUI_JournalChapter2": {
+  "pl": "Rozdział 2",
+  "status": "draft"
+ },
+ "g:GUI_JournalChapter3": {
+  "pl": "Rozdział 3",
+  "status": "draft"
+ },
+ "g:GUI_JournalChapter4": {
+  "pl": "Rozdział 4",
+  "status": "draft"
+ },
+ "g:GUI_JournalChapter5": {
+  "pl": "Rozdział 5",
+  "status": "draft"
+ },
+ "g:GUI_JournalChapter6": {
+  "pl": "Rozdział 6",
+  "status": "draft"
+ },
+ "g:GUI_JournalChapter7": {
+  "pl": "Rozdział 7",
+  "status": "draft"
+ },
+ "g:GUI_JournalChapter8": {
+  "pl": "Rozdział 8",
+  "status": "draft"
+ },
+ "g:GUI_JournalExtraCredit": {
+  "pl": "Zadania dodatkowe",
+  "status": "draft"
+ },
+ "g:GUI_KeepPlaying": {
+  "pl": "Graj dalej",
+  "status": "draft"
+ },
+ "g:GUI_KickPlayer": {
+  "pl": "Wyrzuć gracza",
+  "status": "draft"
+ },
+ "g:GUI_Language": {
+  "pl": "Język",
+  "status": "draft"
+ },
+ "g:GUI_LastPlayedFormat": {
+  "pl": "Ostatnio grano: {0}",
+  "status": "draft"
+ },
+ "g:GUI_Location": {
+  "pl": "Miejsce:",
+  "status": "draft"
+ },
+ "g:GUI_Manual": {
+  "pl": "Ręczny",
+  "status": "draft"
+ },
+ "g:GUI_MasterVolume": {
+  "pl": "Głośność główna",
+  "status": "draft"
+ },
+ "g:GUI_MouseAndKeyboard": {
+  "pl": "Mysz + klawiatura",
+  "status": "draft"
+ },
+ "g:GUI_MouseSensitivity": {
+  "pl": "Czułość myszy",
+  "status": "draft"
+ },
+ "g:GUI_MusicVolume": {
+  "pl": "Głośność muzyki",
+  "status": "draft"
+ },
+ "g:GUI_MyInventory": {
+  "pl": "Mój ekwipunek",
+  "status": "draft"
+ },
+ "g:GUI_NewGame": {
+  "pl": "Nowa gra",
+  "status": "draft"
+ },
+ "g:GUI_NewItems_PopUp": {
+  "pl": "Nowe przedmioty!",
+  "status": "draft"
+ },
+ "g:GUI_NoControllerDetected": {
+  "pl": "Podłącz pada, aby grać w trybie kooperacji.",
+  "status": "draft"
+ },
+ "g:GUI_NoItemSelected": {
+  "pl": "Nie wybrano przedmiotu",
+  "status": "draft"
+ },
+ "g:GUI_Option_SupportPack0": {
+  "pl": "Pakiet wspierający",
+  "status": "draft"
+ },
+ "g:GUI_Option_SupportPack1": {
+  "pl": "Przepustka sezonowa",
+  "status": "draft"
+ },
+ "g:GUI_Option_SupportPack2": {
+  "pl": "Pakiet kosmetyczny Maskarada",
+  "status": "review"
+ },
+ "g:GUI_Option_Upsell0": {
+  "pl": "Ten przedmiot jest dostępny tylko w Pakiecie wspierającym.",
+  "status": "draft"
+ },
+ "g:GUI_Option_Upsell1": {
+  "pl": "Ten przedmiot jest dostępny tylko w Przepustce sezonowej.",
+  "status": "draft"
+ },
+ "g:GUI_Option_Upsell2": {
+  "pl": "Ten przedmiot jest dostępny tylko w Pakiecie kosmetycznym Maskarada.",
+  "status": "review"
+ },
+ "g:GUI_Option_Upsell3": {
+  "pl": "Już dostępne!",
+  "status": "draft"
+ },
+ "g:GUI_Option_UpsellStore_Generic": {
+  "pl": "Otwórz stronę sklepu",
+  "status": "draft"
+ },
+ "g:GUI_Option_UpsellStore_Sony": {
+  "pl": "Otwórz PlayStation*Store",
+  "status": "review"
+ },
+ "g:GUI_Option_UpsellStore_Xbox": {
+  "pl": "Otwórz Microsoft Store",
+  "status": "draft"
+ },
+ "g:GUI_PartnerDisconnected": {
+  "pl": "Drugi gracz się rozłączył.",
+  "status": "draft"
+ },
+ "g:GUI_PartnerPaused": {
+  "pl": "Drugi gracz zatrzymał grę.<br><color=grey>Możesz uprzejmie poczekać albo wznowić grę…</color>",
+  "status": "draft"
+ },
+ "g:GUI_PartnerReading": {
+  "pl": "Twój partner jeszcze czyta...",
+  "status": "review"
+ },
+ "g:GUI_PartnersItems": {
+  "pl": "Ekwipunek współgracza:",
+  "status": "draft"
+ },
+ "g:GUI_Planner_Assignments": {
+  "pl": "Zadania domowe",
+  "status": "draft"
+ },
+ "g:GUI_Planner_StudentLife": {
+  "pl": "Życie uczniowskie",
+  "status": "draft"
+ },
+ "g:GUI_PlayLocal": {
+  "pl": "Graj lokalnie",
+  "status": "draft"
+ },
+ "g:GUI_PlayOnline": {
+  "pl": "Graj online",
+  "status": "draft"
+ },
+ "g:GUI_PressAnyButtonToJoin": {
+  "pl": "Naciśnij dowolny przycisk, aby dołączyć...",
+  "status": "review"
+ },
+ "g:GUI_QualityLevel": {
+  "pl": "Jakość grafiki",
+  "status": "draft"
+ },
+ "g:GUI_Quit": {
+  "pl": "Wyjdź",
+  "status": "draft"
+ },
+ "g:GUI_QuitConfirm": {
+  "pl": "Na pewno chcesz wyjść?",
+  "status": "draft"
+ },
+ "g:GUI_QuitConfirmY": {
+  "pl": "Wyjdź z gry",
+  "status": "draft"
+ },
+ "g:GUI_QuitPrompt": {
+  "pl": "Wyjdź do menu",
+  "status": "draft"
+ },
+ "g:GUI_Rebind": {
+  "pl": "Zmień przypisanie",
+  "status": "draft"
+ },
+ "g:GUI_RebindGamepad": {
+  "pl": "Zmień przypisanie (pad)",
+  "status": "draft"
+ },
+ "g:GUI_RebindMouse": {
+  "pl": "Zmień przypisanie (mysz + klawiatura)",
+  "status": "review"
+ },
+ "g:GUI_Rebind_Blocked": {
+  "pl": "Ten przycisk jest wymagany do: {0}. Wybierz inny.",
+  "status": "draft"
+ },
+ "g:GUI_Rebind_Conflict": {
+  "pl": "Ten przycisk jest już przypisany do: {0}. Przypisać go mimo to?",
+  "status": "draft"
+ },
+ "g:GUI_Rebind_Reverted": {
+  "pl": "Nie można przypisać tego przycisku. Przywracanie poprzedniego przypisania.",
+  "status": "draft"
+ },
+ "g:GUI_ReduceStrobing": {
+  "pl": "Ogranicz efekt stroboskopowy",
+  "status": "review"
+ },
+ "g:GUI_ReduceSway": {
+  "pl": "Ogranicz kołysanie i drżenie",
+  "status": "review"
+ },
+ "g:GUI_ReloadConfirm": {
+  "pl": "Uwaga: zmiana tego ustawienia przeładuje poziom. Na pewno?",
+  "status": "draft"
+ },
+ "g:GUI_ReloadConfirmY": {
+  "pl": "Zmień ustawienie",
+  "status": "draft"
+ },
+ "g:GUI_Resolution": {
+  "pl": "Rozdzielczość",
+  "status": "draft"
+ },
+ "g:GUI_RestartRoom": {
+  "pl": "Zacznij pokój od nowa",
+  "status": "draft"
+ },
+ "g:GUI_RestoreDefaults": {
+  "pl": "Przywróć domyślne",
+  "status": "draft"
+ },
+ "g:GUI_ReturnToQuestList": {
+  "pl": "Wróć do listy zadań",
+  "status": "draft"
+ },
+ "g:GUI_Reward": {
+  "pl": "Nagroda:",
+  "status": "draft"
+ },
+ "g:GUI_SFXVolume": {
+  "pl": "Głośność efektów",
+  "status": "draft"
+ },
+ "g:GUI_SaveSuccess": {
+  "pl": "Gra została zapisana.",
+  "status": "draft"
+ },
+ "g:GUI_SelectSaveSlot": {
+  "pl": "Wybierz miejsce zapisu:",
+  "status": "draft"
+ },
+ "g:GUI_SelectSubsave": {
+  "pl": "Wybierz zapis:",
+  "status": "draft"
+ },
+ "g:GUI_SessionCodeFormat": {
+  "pl": "<color=grey>Kod:</color> {0}",
+  "status": "draft"
+ },
+ "g:GUI_Setting_Analytics": {
+  "pl": "Analityka",
+  "status": "draft"
+ },
+ "g:GUI_Setting_Analytics_ALT": {
+  "pl": "Analityka gry",
+  "status": "draft"
+ },
+ "g:GUI_ShowMilliseconds": {
+  "pl": "Pokaż milisekundy",
+  "status": "draft"
+ },
+ "g:GUI_SplitscreenAlt": {
+  "pl": "Kamera partnera",
+  "status": "draft"
+ },
+ "g:GUI_SplitscreenAltA": {
+  "pl": "Pokaż kamerę partnera",
+  "status": "draft"
+ },
+ "g:GUI_SplitscreenAltB": {
+  "pl": "Ukryj kamerę partnera",
+  "status": "draft"
+ },
+ "g:GUI_SplitscreenAltC": {
+  "pl": "Przełącz kamerę partnera",
+  "status": "draft"
+ },
+ "g:GUI_SprintToggle": {
+  "pl": "Przełączanie sprintu",
+  "status": "review"
+ },
+ "g:GUI_StartCoop": {
+  "pl": "Graj w koop",
+  "status": "draft"
+ },
+ "g:GUI_StartGame": {
+  "pl": "Rozpocznij grę",
+  "status": "draft"
+ },
+ "g:GUI_StartLocalCoop": {
+  "pl": "Graj w koop lokalny",
+  "status": "draft"
+ },
+ "g:GUI_StartSinglePlayer": {
+  "pl": "Graj solo",
+  "status": "draft"
+ },
+ "g:GUI_Subtitles": {
+  "pl": "Napisy włączone",
+  "status": "draft"
+ },
+ "g:GUI_TargetFramerate": {
+  "pl": "Docelowy FPS",
+  "status": "draft"
+ },
+ "g:GUI_ThanksDemo": {
+  "pl": "Dzięki za zagranie w naszą wersję demo!",
+  "status": "draft"
+ },
+ "g:GUI_ThanksForPlaying": {
+  "pl": "Dzięki za grę!",
+  "status": "draft"
+ },
+ "g:GUI_TimeLimit": {
+  "pl": "Limit czasu:",
+  "status": "draft"
+ },
+ "g:GUI_Todo": {
+  "pl": "Do zrobienia:",
+  "status": "draft"
+ },
+ "g:GUI_TrackQuest": {
+  "pl": "Śledź zadanie",
+  "status": "draft"
+ },
+ "g:GUI_Unlimited": {
+  "pl": "Bez limitu",
+  "status": "draft"
+ },
+ "g:GUI_UntrackQuest": {
+  "pl": "Przestań śledzić zadanie",
+  "status": "review"
+ },
+ "g:GUI_VOVolume": {
+  "pl": "Głośność dialogów",
+  "status": "draft"
+ },
+ "g:GUI_VSync": {
+  "pl": "VSync",
+  "status": "draft"
+ },
+ "g:GUI_ViewOnMap": {
+  "pl": "Pokaż na mapie",
+  "status": "draft"
+ },
+ "g:GUI_WaitingForFriend": {
+  "pl": "Czekanie na znajomego...",
+  "status": "draft"
+ },
+ "g:GUI_WaitingForHost": {
+  "pl": "Czekanie na gospodarza...",
+  "status": "draft"
+ },
+ "g:GUI_Windowed": {
+  "pl": "W oknie",
+  "status": "draft"
+ },
+ "g:GUI_WishListNow": {
+  "pl": "Dodaj nas do listy życzeń na Steamie!",
+  "status": "review"
+ },
+ "g:GUI_YouveEscaped": {
+  "pl": "Udało ci się uciec!",
+  "status": "draft"
+ },
+ "g:GUI_ZoomIn": {
+  "pl": "Przybliż",
+  "status": "draft"
+ },
+ "g:GUI_ZoomOut": {
+  "pl": "Oddal",
+  "status": "draft"
+ },
+ "g:GUI_resume": {
+  "pl": "Wznów",
+  "status": "draft"
+ },
+ "g:GUI_save": {
+  "pl": "Zapisz grę",
+  "status": "draft"
+ },
+ "g:GUI_settings": {
+  "pl": "Ustawienia",
+  "status": "draft"
+ },
+ "g:GUI_unpause": {
+  "pl": "Wznów grę",
+  "status": "draft"
+ },
+ "g:GameMode_CasualMode": {
+  "pl": "Tryb swobodny",
+  "status": "draft"
+ },
+ "g:GameMode_CasualModeDesc": {
+  "pl": "Escape roomy mają nieograniczony czas i nie dają oceny.",
+  "status": "draft"
+ },
+ "g:GameMode_CasualModeLong": {
+  "pl": "<size=1.25em>Tryb swobodny</size><br>Escape roomy mają nieograniczony czas i nie dają oceny.",
+  "status": "draft"
+ },
+ "g:GameMode_ClassicMode": {
+  "pl": "Tryb klasyczny",
+  "status": "draft"
+ },
+ "g:GameMode_ClassicModeDesc": {
+  "pl": "Escape roomy mają limit czasu, a branie podpowiedzi obniża ocenę.",
+  "status": "draft"
+ },
+ "g:GameMode_ClassicModeLong": {
+  "pl": "<size=1.25em>Tryb klasyczny</size><br>Escape roomy mają limit czasu, a branie podpowiedzi obniża ocenę.",
+  "status": "draft"
+ },
+ "g:GameMode_Disclaimer": {
+  "pl": "To ustawienie możesz w każdej chwili zmienić w menu pauzy.",
+  "status": "draft"
+ },
+ "g:GameMode_Selection": {
+  "pl": "Wybierz tryb gry:",
+  "status": "draft"
+ },
+ "g:Garden_Hint_Location": {
+  "pl": "Idź do ogrodów kampusu.",
+  "status": "draft"
+ },
+ "g:Generic_Subtitle": {
+  "pl": "Uciekaj<br>z pokoju!",
+  "status": "draft"
+ },
+ "g:Greenhouse_Hint_Location": {
+  "pl": "Idź do szklarni na Wydziale Humanistycznym.",
+  "status": "draft"
+ },
+ "g:HInt_Quanty": {
+  "pl": "Porozmawiaj z prof. Quantym.",
+  "status": "draft"
+ },
+ "g:HallOfEscapists_Hint_Location": {
+  "pl": "Idź do Hali Eskapistów na Wydziale Sztuki.",
+  "status": "draft"
+ },
+ "g:Hint_Allie": {
+  "pl": "Porozmawiaj z prof. Bonillą.",
+  "status": "draft"
+ },
+ "g:Hint_Enora": {
+  "pl": "Porozmawiaj z prof. Chortkoff.",
+  "status": "draft"
+ },
+ "g:Hint_Gillian": {
+  "pl": "Porozmawiaj z Gillian.",
+  "status": "draft"
+ },
+ "g:Hint_Jeb": {
+  "pl": "Porozmawiaj z Jebem.",
+  "status": "draft"
+ },
+ "g:Hint_Kira": {
+  "pl": "Porozmawiaj z Kirą.",
+  "status": "review"
+ },
+ "g:Hint_Location": {
+  "pl": "Następny przystanek: {0}!",
+  "status": "review"
+ },
+ "g:Hint_Loot": {
+  "pl": "Łap łup!",
+  "status": "draft"
+ },
+ "g:Hint_Missing": {
+  "pl": "Czegoś tu brakuje…",
+  "status": "draft"
+ },
+ "g:Hint_NoEC": {
+  "pl": "Do zadań dodatkowych nie ma podpowiedzi!",
+  "status": "draft"
+ },
+ "g:Hint_NoQuest": {
+  "pl": "Śledź zadanie w dzienniku, aby zobaczyć podpowiedzi.",
+  "status": "draft"
+ },
+ "g:Hint_Reed": {
+  "pl": "Porozmawiaj z Reedem.",
+  "status": "review"
+ },
+ "g:Hint_Roommates": {
+  "pl": "Porozmawiaj ze współlokatorami.",
+  "status": "draft"
+ },
+ "g:Hint_Slip": {
+  "pl": "Porozmawiaj z prof. Slipem.",
+  "status": "draft"
+ },
+ "g:Hint_Solange": {
+  "pl": "Porozmawiaj z dyrektorką Solange.",
+  "status": "draft"
+ },
+ "g:Hint_VonBellini": {
+  "pl": "Porozmawiaj z prof. Von Bellinim.",
+  "status": "draft"
+ },
+ "g:HumanitiesCampus_Hint_Location": {
+  "pl": "Idź na Wydział Humanistyczny.",
+  "status": "draft"
+ },
+ "g:Invite_friend": {
+  "pl": "Zaproś znajomego",
+  "status": "draft"
+ },
+ "g:Keypad_ABC": {
+  "pl": "ABC",
+  "status": "draft"
+ },
+ "g:Keypad_DEF": {
+  "pl": "DEF",
+  "status": "draft"
+ },
+ "g:Keypad_GHI": {
+  "pl": "GHI",
+  "status": "draft"
+ },
+ "g:Keypad_JKL": {
+  "pl": "JKL",
+  "status": "draft"
+ },
+ "g:Keypad_MNO": {
+  "pl": "MNO",
+  "status": "draft"
+ },
+ "g:Keypad_PQR": {
+  "pl": "PQR",
+  "status": "draft"
+ },
+ "g:Keypad_STU": {
+  "pl": "STU",
+  "status": "draft"
+ },
+ "g:Keypad_VWX": {
+  "pl": "VWX",
+  "status": "draft"
+ },
+ "g:Keypad_YZ": {
+  "pl": "YZ",
+  "status": "draft"
+ },
+ "g:LectureHall_Hint_Location": {
+  "pl": "Idź do sali wykładowej na Wydziale Humanistycznym.",
+  "status": "draft"
+ },
+ "g:Library_Hint_Location": {
+  "pl": "Idź do biblioteki na Wydziale Humanistycznym.",
+  "status": "draft"
+ },
+ "g:Load_AlmostDone": {
+  "pl": "Prawie gotowe...",
+  "status": "draft"
+ },
+ "g:Load_Generic": {
+  "pl": "Wczytywanie...",
+  "status": "draft"
+ },
+ "g:Load_InitializingScene": {
+  "pl": "Przygotowywanie sceny...",
+  "status": "draft"
+ },
+ "g:Load_Lighting": {
+  "pl": "Wczytywanie pory dnia...",
+  "status": "draft"
+ },
+ "g:Load_Photos": {
+  "pl": "Fotografowanie przedmiotów...",
+  "status": "draft"
+ },
+ "g:Load_Save": {
+  "pl": "Wczytywanie zapisu...",
+  "status": "draft"
+ },
+ "g:Load_Scenes": {
+  "pl": "Wczytywanie poziomu...",
+  "status": "draft"
+ },
+ "g:Load_SpawnPlayers": {
+  "pl": "Tworzenie graczy...",
+  "status": "draft"
+ },
+ "g:Load_SpawnPuzzles": {
+  "pl": "Tworzenie zagadek...",
+  "status": "draft"
+ },
+ "g:MSC_Boots": {
+  "pl": "Te buty są stworzone do wytrychowania!",
+  "status": "review"
+ },
+ "g:MSC_Cooler": {
+  "pl": "Oby była pełna Eska-Coli.",
+  "status": "draft"
+ },
+ "g:MSC_EC_DefacedSign": {
+  "pl": "Smród artysty",
+  "status": "review"
+ },
+ "g:MSC_EC_GraffitiDesc": {
+  "pl": "Wspinaj się w pięć niebezpiecznych miejsc na kampusie i zostaw po sobie ślad.",
+  "status": "draft"
+ },
+ "g:MSC_EC_GraffitiName ": {
+  "pl": "Ściąga ze skały",
+  "status": "review"
+ },
+ "g:MSC_EC_GraffitiObj1": {
+  "pl": "Namaluj mural na tamie.",
+  "status": "draft"
+ },
+ "g:MSC_EC_GraffitiObj2": {
+  "pl": "Stwórz tęczę przy wodospadzie.",
+  "status": "draft"
+ },
+ "g:MSC_EC_GraffitiObj3": {
+  "pl": "„Ulepsz” szyld nad wejściem do teatru.",
+  "status": "draft"
+ },
+ "g:MSC_EC_GraffitiObj4": {
+  "pl": "Pomaluj kominy fabryki.",
+  "status": "draft"
+ },
+ "g:MSC_EC_GraffitiObj5": {
+  "pl": "Namaluj mural na dźwigu w porcie.",
+  "status": "draft"
+ },
+ "g:MSC_EC_GraffitiObj6": {
+  "pl": "Wróć do tunelu i opowiedz Grace!",
+  "status": "draft"
+ },
+ "g:MSC_EC_PaintCraneLabel": {
+  "pl": "Ta okolica przemysłowa wygląda trochę nudno…",
+  "status": "draft"
+ },
+ "g:MSC_EC_PaintDamLabel": {
+  "pl": "Ta tama przydałaby się nową warstwę farby…",
+  "status": "review"
+ },
+ "g:MSC_EC_PaintPipesLabel": {
+  "pl": "Ten komin wygląda strasznie ponuro…",
+  "status": "draft"
+ },
+ "g:MSC_EC_PaintTheaterLabel": {
+  "pl": "Ten tytuł przydałoby się trochę podkręcić…",
+  "status": "draft"
+ },
+ "g:MSC_EC_PaintWaterfallLabel": {
+  "pl": "Ach, piękno natury. Ale może dałoby się ją jeszcze upiększyć…",
+  "status": "draft"
+ },
+ "g:MSC_EC_Paint_Item": {
+  "pl": "Wiaderko z farbą",
+  "status": "draft"
+ },
+ "g:MSC_EC_Paint_ItemDesc": {
+  "pl": "Na pewno nie do wandalizmu.",
+  "status": "draft"
+ },
+ "g:MSC_EC_PaintingCallout": {
+  "pl": "Pomaluj mnie!",
+  "status": "draft"
+ },
+ "g:MSC_EC_RiddleAnswer1": {
+  "pl": "F,L,A,G,A",
+  "status": "review"
+ },
+ "g:MSC_EC_RiddleAnswer2": {
+  "pl": "D,R,O,G,A",
+  "status": "review"
+ },
+ "g:MSC_EC_RiddleAnswer3": {
+  "pl": "C,E,L",
+  "status": "review"
+ },
+ "g:MSC_EC_RiddleBody1": {
+  "pl": "Opuszczona oznacza żałobę, czerwona – ostrzeżenie.<br><br>Każdy kraj ma swoją, a w szachownicę – meta wyścigu.<br><br>Co to jest?",
+  "status": "review"
+ },
+ "g:MSC_EC_RiddleBody2": {
+  "pl": "Skręcam w lewo i w prawo, wspinam się i zjeżdżam, do każdego domu w mieście docieram.<br><br>Przecinam każde skrzyżowanie, a robię to – uwaga! – nie ruszając się z miejsca.<br><br>Co to jest?",
+  "status": "review"
+ },
+ "g:MSC_EC_RiddleBody3": {
+  "pl": "Stawia się mnie na początku roku, a gdy jestem zbyt wysoki – ogarnia cię lęk.<br><br>Można mnie wyznaczyć, osiągnąć, stracić z oczu albo trafić w sam środek.<br><br>Co to jest?",
+  "status": "review"
+ },
+ "g:MSC_EC_RiddleDesc": {
+  "pl": "Rozwiąż trzy ukryte pudełka z zagadkami, rozmieszczone po kampusie.",
+  "status": "draft"
+ },
+ "g:MSC_EC_RiddleName": {
+  "pl": "Zagadka goni zagadkę",
+  "status": "draft"
+ },
+ "g:MSC_EC_RiddleObj": {
+  "pl": "Znajdź i rozwiąż pudełko z zagadką",
+  "status": "draft"
+ },
+ "g:MSC_EelSecret_CallItem": {
+  "pl": "Rozmowa międzymiastowa",
+  "status": "draft"
+ },
+ "g:MSC_EelSecret_Text": {
+  "pl": "Zamów rozmowę międzymiastową<br>Wrzuć 50 $",
+  "status": "draft"
+ },
+ "g:MSC_EelsJournal": {
+  "pl": "Kilka stron z dziennika Eela.",
+  "status": "draft"
+ },
+ "g:MSC_Eyepatch": {
+  "pl": "Zobaczyć świat jego okiem…",
+  "status": "draft"
+ },
+ "g:MSC_Fishtank": {
+  "pl": "Bertram, wierny domowy węgorz Eela.",
+  "status": "draft"
+ },
+ "g:MSC_Padlock": {
+  "pl": "Pierwsza kłódka otwarta przez Eela.",
+  "status": "review"
+ },
+ "g:MSC_SnackdokuBaseSign": {
+  "pl": "Snackdoku   1 $",
+  "status": "review"
+ },
+ "g:MSC_SnackdokuLocked": {
+  "pl": "Pyszna przekąska. Ale jak się do niej dobrać?",
+  "status": "draft"
+ },
+ "g:MSC_Teddy": {
+  "pl": "Limitowany Kluczuś Eela Barnesa",
+  "status": "review"
+ },
+ "g:MSC_TramissionRecap": {
+  "pl": "Czy Eel naprawdę wróci w przyszłym roku?",
+  "status": "draft"
+ },
+ "g:MSC_Transmission_End": {
+  "pl": "Koniec transmisji.",
+  "status": "draft"
+ },
+ "g:MSC_Transmission_Incoming": {
+  "pl": "Połączenie przychodzące…",
+  "status": "draft"
+ },
+ "g:MSC_Transmission_Message1": {
+  "pl": "Klucz dostępu zaakceptowany",
+  "status": "review"
+ },
+ "g:MSC_Transmission_Message2": {
+  "pl": "Wczytywanie wiadomości…",
+  "status": "draft"
+ },
+ "g:MSC_Transmission_MessageDone": {
+  "pl": "Połączenie nawiązane. Odtworzyć wiadomość ponownie?",
+  "status": "draft"
+ },
+ "g:MUST_ItemDescription_GuitarStrumChart": {
+  "pl": "Ups, trochę się przypaliło!",
+  "status": "draft"
+ },
+ "g:MUST_ItemDescription_JazzyCircle": {
+  "pl": "Kto tak gada?",
+  "status": "draft"
+ },
+ "g:MetaMoneyPlural": {
+  "pl": "Eskadolary",
+  "status": "draft"
+ },
+ "g:MetaMoneySingular": {
+  "pl": "Eskadolar",
+  "status": "review"
+ },
+ "g:MetaMoneySlogan": {
+  "pl": "Ufamy w Ucieczkę",
+  "status": "review"
+ },
+ "g:Monument_of_Escape_Sign": {
+  "pl": "Najwięksi eskapiści wszech czasów",
+  "status": "draft"
+ },
+ "g:Msc_Meta_LockedZip": {
+  "pl": "Potrzebuję co najmniej {0} punktów, żeby skorzystać z tej tyrolki!",
+  "status": "draft"
+ },
+ "g:Museum_Hint_Location": {
+  "pl": "Idź do muzeum na Wydziale Humanistycznym.",
+  "status": "draft"
+ },
+ "g:MusicStudio_Hint_Location": {
+  "pl": "Idź do studia muzycznego na Wydziale Sztuki.",
+  "status": "draft"
+ },
+ "g:NightGate": {
+  "pl": "Nie ma czasu na zwiedzanie, mam misję do wykonania!",
+  "status": "draft"
+ },
+ "g:Night_Disabled": {
+  "pl": "Nocą nie działa…",
+  "status": "draft"
+ },
+ "g:NotEnoughMoney": {
+  "pl": "Za drogo!",
+  "status": "draft"
+ },
+ "g:Note_A": {
+  "pl": "A",
+  "status": "draft"
+ },
+ "g:Note_B": {
+  "pl": "H",
+  "status": "review"
+ },
+ "g:Note_C": {
+  "pl": "C",
+  "status": "draft"
+ },
+ "g:Note_D": {
+  "pl": "D",
+  "status": "draft"
+ },
+ "g:Note_E": {
+  "pl": "E",
+  "status": "draft"
+ },
+ "g:Note_F": {
+  "pl": "F",
+  "status": "draft"
+ },
+ "g:Note_G": {
+  "pl": "G",
+  "status": "draft"
+ },
+ "g:OffLimits_PopUp": {
+  "pl": "Uczniowie nie mają wstępu na ten teren. ",
+  "status": "draft"
+ },
+ "g:OnlineLobby_SeparateLanguages": {
+  "pl": "Uwaga: gra gospodarza ma ustawiony inny język niż twoja. Dla spójności zagadek w tej sesji obowiązuje język gospodarza.",
+  "status": "draft"
+ },
+ "g:PurchaseStandardFormat": {
+  "pl": "Kupić <style=\"purchase\">{0}</style> za ${1}?",
+  "status": "review"
+ },
+ "g:Quad_Hint_Location": {
+  "pl": "Idź na dziedziniec.",
+  "status": "draft"
+ },
+ "g:Quanty_Infirmary_Fallback": {
+  "pl": "Quanty otworzy ci drzwi na punkty.",
+  "status": "draft"
+ },
+ "g:ReplayComp_BestGrade": {
+  "pl": "Najlepsza ocena",
+  "status": "draft"
+ },
+ "g:ReplayComp_BestTime": {
+  "pl": "Najlepszy czas",
+  "status": "draft"
+ },
+ "g:ReplayComp_Header": {
+  "pl": "Powtórz escape room",
+  "status": "draft"
+ },
+ "g:ReplayComputer_Name": {
+  "pl": "Dziennik escape roomów",
+  "status": "draft"
+ },
+ "g:ReplayVerb": {
+  "pl": "Powtórz",
+  "status": "draft"
+ },
+ "g:RideCart": {
+  "pl": "Jedź",
+  "status": "draft"
+ },
+ "g:ScienceCampus_Hint_Location": {
+  "pl": "Idź na Wydział Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:Setting_Miliseconds": {
+  "pl": "Pokaż milisekundy",
+  "status": "draft"
+ },
+ "g:Setting_ToggleSprint": {
+  "pl": "Przełączany sprint",
+  "status": "draft"
+ },
+ "g:Show_profile": {
+  "pl": "Profil",
+  "status": "draft"
+ },
+ "g:StoreRoom_Hint_Location": {
+  "pl": "Idź do magazynu na Wydziale Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:TempECQuest_Obj1": {
+  "pl": "Naciśnij przycisk",
+  "status": "draft"
+ },
+ "g:TempECQuest_Obj2": {
+  "pl": "Daj przedmiot NPC",
+  "status": "draft"
+ },
+ "g:TempECQuest_QuestDesc": {
+  "pl": "Zadanie dodatkowe (TBD)",
+  "status": "review"
+ },
+ "g:TempECQuest_QuestName": {
+  "pl": "Zadanie dodatkowe (TBD)",
+  "status": "review"
+ },
+ "g:TheaterWorkshop_Hint_Location": {
+  "pl": "Idź do pracowni teatralnej na Wydziale Sztuki.",
+  "status": "draft"
+ },
+ "g:Tower_Hint_Location": {
+  "pl": "Idź do wieży dyrektorki.",
+  "status": "draft"
+ },
+ "g:UND_AlistairNotRecognize": {
+  "pl": "Czwarty założyciel!? Kto to?",
+  "status": "draft"
+ },
+ "g:UND_Cooler": {
+  "pl": "Eee… dziękuję, postoję.",
+  "status": "review"
+ },
+ "g:UND_FernandoRecognize": {
+  "pl": "Fernando Augustín potrafił opanować każdą salę…",
+  "status": "draft"
+ },
+ "g:UND_JunkBoxes": {
+  "pl": "Jakie graty Akademia trzyma tu na dole?",
+  "status": "draft"
+ },
+ "g:UND_MemoryGasBarrels": {
+  "pl": "„Koncentrat gazu pamięci: NIE pić”",
+  "status": "draft"
+ },
+ "g:UND_ReinaRecognize": {
+  "pl": "Reina Wym wygląda groźnie…",
+  "status": "draft"
+ },
+ "g:UND_SameerRecognize": {
+  "pl": "Sameer Gaspard był taki wytworny…",
+  "status": "draft"
+ },
+ "g:Underground_Hint_Location": {
+  "pl": "Idź do kanałów pod wieżą dyrektorki.",
+  "status": "draft"
+ },
+ "g:WET_Item_Cannonball": {
+  "pl": "Kula armatnia",
+  "status": "draft"
+ },
+ "g:WET_Meta_QuestDesc": {
+  "pl": "Razem z dyrektorką Solange i profesorem Jebersonem zażegnaj zagrożenie dla Akademii!",
+  "status": "draft"
+ },
+ "g:WET_Meta_QuestName": {
+  "pl": "Przepisanie historii",
+  "status": "draft"
+ },
+ "g:WET_Meta_QuestObj1": {
+  "pl": "Wejdź na pokład łodzi ucieczek w porcie.",
+  "status": "draft"
+ },
+ "g:WET_Meta_QuestObj2": {
+  "pl": "Znajdź sposób, by dostać się do Mózgomaszyny.",
+  "status": "draft"
+ },
+ "g:WET_Meta_QuestObj3": {
+  "pl": "Dostarcz list Alistairowi Bellowi.",
+  "status": "draft"
+ },
+ "g:Warning_Nighttime": {
+  "pl": "Porzucasz misję! Nie tchórz.",
+  "status": "draft"
+ },
+ "g:Warning_Trespassing": {
+  "pl": "Masz za mało punktów szkolnych, żeby tu być!",
+  "status": "draft"
+ },
+ "g:Warning_Underwater": {
+  "pl": "Jesteś pod wodą! (To źle)",
+  "status": "draft"
+ },
+ "g:Wayfinding_ShortcutSign": {
+  "pl": "Do:",
+  "status": "draft"
+ },
+ "g:WeatherTower_Hint_Location": {
+  "pl": "Idź do wieży meteorologicznej na Wydziale Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:acheivement_1": {
+  "pl": "Znów do szkoły",
+  "status": "draft"
+ },
+ "g:acheivement_10": {
+  "pl": "Von Wojaż",
+  "status": "review"
+ },
+ "g:acheivement_11": {
+  "pl": "Mroczne wieści",
+  "status": "draft"
+ },
+ "g:acheivement_12": {
+  "pl": "Von, ale w pamięci",
+  "status": "draft"
+ },
+ "g:acheivement_13": {
+  "pl": "Pilnie strzeżony sekret",
+  "status": "draft"
+ },
+ "g:acheivement_14": {
+  "pl": "Wykolejenie",
+  "status": "draft"
+ },
+ "g:acheivement_15": {
+  "pl": "Oko Burzy Mózgów",
+  "status": "draft"
+ },
+ "g:acheivement_16": {
+  "pl": "Szanuj starszych",
+  "status": "draft"
+ },
+ "g:acheivement_17": {
+  "pl": "Ucieknij z akademii",
+  "status": "draft"
+ },
+ "g:acheivement_18": {
+  "pl": "Gwiazda roku",
+  "status": "draft"
+ },
+ "g:acheivement_19": {
+  "pl": "Kłamcy!",
+  "status": "draft"
+ },
+ "g:acheivement_2": {
+  "pl": "Przebudzenie z tropem",
+  "status": "review"
+ },
+ "g:acheivement_20": {
+  "pl": "Nauka, stary!",
+  "status": "draft"
+ },
+ "g:acheivement_21": {
+  "pl": "Przełom naukowy",
+  "status": "draft"
+ },
+ "g:acheivement_22": {
+  "pl": "Och, ta humanistyka!",
+  "status": "draft"
+ },
+ "g:acheivement_23": {
+  "pl": "Wrota na świeże powietrze",
+  "status": "review"
+ },
+ "g:acheivement_24": {
+  "pl": "Teatralne wygłupy",
+  "status": "draft"
+ },
+ "g:acheivement_25": {
+  "pl": "Zamknięte!",
+  "status": "draft"
+ },
+ "g:acheivement_26": {
+  "pl": "Coś ekstra",
+  "status": "draft"
+ },
+ "g:acheivement_27": {
+  "pl": "To powinno poprawić moje oceny",
+  "status": "draft"
+ },
+ "g:acheivement_28": {
+  "pl": "Escape-holik",
+  "status": "draft"
+ },
+ "g:acheivement_29": {
+  "pl": "Bez farby ani rusz",
+  "status": "draft"
+ },
+ "g:acheivement_3": {
+  "pl": "Coś mi dzwoni",
+  "status": "draft"
+ },
+ "g:acheivement_30": {
+  "pl": "Śledź z serca",
+  "status": "review"
+ },
+ "g:acheivement_31": {
+  "pl": "Poratuj drobnymi?",
+  "status": "draft"
+ },
+ "g:acheivement_32": {
+  "pl": "Tylko po tyrolki",
+  "status": "draft"
+ },
+ "g:acheivement_33": {
+  "pl": "To tylko draśnięcie",
+  "status": "draft"
+ },
+ "g:acheivement_34": {
+  "pl": "Dusza towarzystwa",
+  "status": "draft"
+ },
+ "g:acheivement_35": {
+  "pl": "Nie patrz w dół",
+  "status": "draft"
+ },
+ "g:acheivement_36": {
+  "pl": "W razie wypadku nie dzwonić",
+  "status": "draft"
+ },
+ "g:acheivement_37": {
+  "pl": "Wpad- wpad- wpadka!",
+  "status": "draft"
+ },
+ "g:acheivement_38": {
+  "pl": "Pozwolisz?",
+  "status": "review"
+ },
+ "g:acheivement_39": {
+  "pl": "Quantyczna superpozycja",
+  "status": "draft"
+ },
+ "g:acheivement_4": {
+  "pl": "Olśnienie",
+  "status": "draft"
+ },
+ "g:acheivement_40": {
+  "pl": "Trach, trzask, prask!",
+  "status": "draft"
+ },
+ "g:acheivement_41": {
+  "pl": "Wielkie odWĘGORZenie",
+  "status": "review"
+ },
+ "g:acheivement_5": {
+  "pl": "Myśl w pudełku",
+  "status": "draft"
+ },
+ "g:acheivement_6": {
+  "pl": "Oko na nagrodę",
+  "status": "draft"
+ },
+ "g:acheivement_7": {
+  "pl": "Uważaj na szlaban",
+  "status": "draft"
+ },
+ "g:acheivement_8": {
+  "pl": "Strzelba Chortkoff",
+  "status": "draft"
+ },
+ "g:acheivement_9": {
+  "pl": "Monumentalne odkrycie",
+  "status": "draft"
+ },
+ "g:achievement_desc_1": {
+  "pl": "Ukończ „Bez biletu”",
+  "status": "review"
+ },
+ "g:achievement_desc_10": {
+  "pl": "Ukończ „Von Wojaż”",
+  "status": "draft"
+ },
+ "g:achievement_desc_11": {
+  "pl": "Ukończ „Druga komora”",
+  "status": "draft"
+ },
+ "g:achievement_desc_12": {
+  "pl": "Ukończ „Von, ale w pamięci”",
+  "status": "draft"
+ },
+ "g:achievement_desc_13": {
+  "pl": "Ukończ „Trzecia komora”",
+  "status": "draft"
+ },
+ "g:achievement_desc_14": {
+  "pl": "Ukończ „Wykolejenie”",
+  "status": "draft"
+ },
+ "g:achievement_desc_15": {
+  "pl": "Ukończ „Oko Burzy Mózgów”",
+  "status": "draft"
+ },
+ "g:achievement_desc_16": {
+  "pl": "Ukończ „Szanuj starszych”",
+  "status": "draft"
+ },
+ "g:achievement_desc_17": {
+  "pl": "Przetrwaj drugi rok w Escape Academy.",
+  "status": "draft"
+ },
+ "g:achievement_desc_18": {
+  "pl": "Zdobądź ocenę A+ w każdym escape roomie.",
+  "status": "draft"
+ },
+ "g:achievement_desc_19": {
+  "pl": "Odkryj mroczny sekret.",
+  "status": "draft"
+ },
+ "g:achievement_desc_2": {
+  "pl": "Ukończ „Przebudzenie z tropem”",
+  "status": "draft"
+ },
+ "g:achievement_desc_20": {
+  "pl": "Zsyntetyzuj własną partię gazu pamięci.",
+  "status": "draft"
+ },
+ "g:achievement_desc_21": {
+  "pl": "Odblokuj Wydział Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:achievement_desc_22": {
+  "pl": "Odblokuj Wydział Humanistyczny.",
+  "status": "draft"
+ },
+ "g:achievement_desc_23": {
+  "pl": "Odblokuj ogrody kampusu.",
+  "status": "draft"
+ },
+ "g:achievement_desc_24": {
+  "pl": "Odblokuj Wydział Sztuki.",
+  "status": "draft"
+ },
+ "g:achievement_desc_25": {
+  "pl": "Ukończ swoje pierwsze zadanie.",
+  "status": "draft"
+ },
+ "g:achievement_desc_26": {
+  "pl": "Ukończ pierwsze zadanie dodatkowe.",
+  "status": "draft"
+ },
+ "g:achievement_desc_27": {
+  "pl": "Ukończ 10 zadań dodatkowych.",
+  "status": "draft"
+ },
+ "g:achievement_desc_28": {
+  "pl": "Ukończ wszystkie zadania dodatkowe.",
+  "status": "draft"
+ },
+ "g:achievement_desc_29": {
+  "pl": "Ukończ wszystkie wyzwania z obrazami na kampusie.",
+  "status": "draft"
+ },
+ "g:achievement_desc_3": {
+  "pl": "Ukończ „Coś mi dzwoni”",
+  "status": "draft"
+ },
+ "g:achievement_desc_30": {
+  "pl": "Oddaj wszystkie 50 śledzi-zmyłek Cod Stewartowi.",
+  "status": "review"
+ },
+ "g:achievement_desc_31": {
+  "pl": "Znajdź swojego pierwszego eskadolara.",
+  "status": "draft"
+ },
+ "g:achievement_desc_32": {
+  "pl": "Odblokuj wszystkie tyrolki na kampusie.",
+  "status": "draft"
+ },
+ "g:achievement_desc_33": {
+  "pl": "Trafij do szkolnej izby chorych.",
+  "status": "draft"
+ },
+ "g:achievement_desc_34": {
+  "pl": "Odbądź ponad 300 rozmów z ludźmi na kampusie.",
+  "status": "draft"
+ },
+ "g:achievement_desc_35": {
+  "pl": "Dotrzyj na najwyższy punkt mapy.",
+  "status": "draft"
+ },
+ "g:achievement_desc_36": {
+  "pl": "Spróbuj skontaktować się z ochroną kampusu.",
+  "status": "draft"
+ },
+ "g:achievement_desc_37": {
+  "pl": "Daj się przyłapać 5 razy na nieproszonym wejściu.",
+  "status": "review"
+ },
+ "g:achievement_desc_38": {
+  "pl": "Skocz na głowę Alistaira Bella w „Szanuj starszych”",
+  "status": "draft"
+ },
+ "g:achievement_desc_39": {
+  "pl": "Spotkaj wszystkie 11 wersji Quanty na kampusie.",
+  "status": "review"
+ },
+ "g:achievement_desc_4": {
+  "pl": "Ukończ „Olśnienie”",
+  "status": "draft"
+ },
+ "g:achievement_desc_40": {
+  "pl": "Spadnij z dużej wysokości, wskocz do lawy i daj się porazić prądem.",
+  "status": "draft"
+ },
+ "g:achievement_desc_41": {
+  "pl": "Nawiąż kontakt ze starym przyjacielem akademii.",
+  "status": "draft"
+ },
+ "g:achievement_desc_5": {
+  "pl": "Ukończ „Myśl w pudełku”",
+  "status": "draft"
+ },
+ "g:achievement_desc_6": {
+  "pl": "Ukończ „Oko na nagrodę”",
+  "status": "draft"
+ },
+ "g:achievement_desc_7": {
+  "pl": "Ukończ „Uważaj na szlaban”",
+  "status": "draft"
+ },
+ "g:achievement_desc_8": {
+  "pl": "Ukończ „Strzelba Chortkoff”",
+  "status": "draft"
+ },
+ "g:achievement_desc_9": {
+  "pl": "Ukończ „Pierwsza komora”",
+  "status": "review"
+ },
+ "g:activate": {
+  "pl": "Aktywuj",
+  "status": "draft"
+ },
+ "g:alreadyPurchased": {
+  "pl": "To już kupione!",
+  "status": "draft"
+ },
+ "g:back": {
+  "pl": "Wstecz",
+  "status": "draft"
+ },
+ "g:blow": {
+  "pl": "Dmuchnij",
+  "status": "draft"
+ },
+ "g:bow": {
+  "pl": "Ukłoń się",
+  "status": "draft"
+ },
+ "g:build": {
+  "pl": "Zbuduj",
+  "status": "draft"
+ },
+ "g:buy": {
+  "pl": "Kup",
+  "status": "draft"
+ },
+ "g:call": {
+  "pl": "Zadzwoń",
+  "status": "draft"
+ },
+ "g:cancel": {
+  "pl": "Anuluj",
+  "status": "draft"
+ },
+ "g:change": {
+  "pl": "Zmień",
+  "status": "draft"
+ },
+ "g:classroom": {
+  "pl": "Sala lekcyjna",
+  "status": "draft"
+ },
+ "g:classrooms": {
+  "pl": "Sale lekcyjne",
+  "status": "draft"
+ },
+ "g:climb": {
+  "pl": "Wspinaj się",
+  "status": "draft"
+ },
+ "g:clockwise": {
+  "pl": "Zgodnie z zegarem",
+  "status": "draft"
+ },
+ "g:close": {
+  "pl": "Zamknij",
+  "status": "draft"
+ },
+ "g:confirm": {
+  "pl": "Potwierdź",
+  "status": "draft"
+ },
+ "g:continue": {
+  "pl": "Dalej",
+  "status": "draft"
+ },
+ "g:control": {
+  "pl": "Steruj",
+  "status": "draft"
+ },
+ "g:controlObjectBusy": {
+  "pl": "Ktoś już tego używa.",
+  "status": "draft"
+ },
+ "g:controllerdisconnected1_ps": {
+  "pl": "Kontroler został odłączony. Podłącz go ponownie.",
+  "status": "draft"
+ },
+ "g:controllerdisconnected1_xbox": {
+  "pl": "Kontroler został odłączony. Podłącz go ponownie.",
+  "status": "draft"
+ },
+ "g:controllerdisconnectedheading_ps": {
+  "pl": "Kontroler odłączony",
+  "status": "draft"
+ },
+ "g:controllerdisconnectedheading_xbox": {
+  "pl": "Kontroler odłączony",
+  "status": "draft"
+ },
+ "g:counter-clockwise": {
+  "pl": "Przeciwnie do zegara",
+  "status": "draft"
+ },
+ "g:defuse": {
+  "pl": "Rozbrój",
+  "status": "draft"
+ },
+ "g:deselect": {
+  "pl": "Odznacz",
+  "status": "draft"
+ },
+ "g:done": {
+  "pl": "Nie trzeba już tego ruszać!",
+  "status": "draft"
+ },
+ "g:doorLockedOtherSide": {
+  "pl": "Zamknięte z drugiej strony",
+  "status": "draft"
+ },
+ "g:down": {
+  "pl": "W dół",
+  "status": "draft"
+ },
+ "g:draw": {
+  "pl": "Rysuj",
+  "status": "draft"
+ },
+ "g:drop": {
+  "pl": "Upuść",
+  "status": "draft"
+ },
+ "g:dropOut": {
+  "pl": "Opuść grę",
+  "status": "draft"
+ },
+ "g:eavesdroppingOn": {
+  "pl": "Podsłuchujesz…",
+  "status": "draft"
+ },
+ "g:enter": {
+  "pl": "Wejdź",
+  "status": "draft"
+ },
+ "g:errorJoiningSession": {
+  "pl": "Nie udało się dołączyć do tej sesji.",
+  "status": "draft"
+ },
+ "g:escapeTime": {
+  "pl": "Czas ucieczki…",
+  "status": "draft"
+ },
+ "g:examine": {
+  "pl": "Zbadaj",
+  "status": "draft"
+ },
+ "g:exit": {
+  "pl": "Wyjście",
+  "status": "draft"
+ },
+ "g:exitGame": {
+  "pl": "Wyjdź z gry",
+  "status": "draft"
+ },
+ "g:feed": {
+  "pl": "Nakarm",
+  "status": "draft"
+ },
+ "g:finalGrade": {
+  "pl": "Ocena końcowa…",
+  "status": "draft"
+ },
+ "g:fulSession": {
+  "pl": "Ta sesja jest pełna.",
+  "status": "draft"
+ },
+ "g:gatherParty": {
+  "pl": "Ty i twój partner musicie być razem, aby kontynuować.",
+  "status": "draft"
+ },
+ "g:genconnectionerror_ps": {
+  "pl": "Nie udało się połączyć z serwerem. Sprawdź połączenie z internetem i spróbuj ponownie.",
+  "status": "draft"
+ },
+ "g:genconnectionerror_xbox": {
+  "pl": "Nie udało się połączyć z serwerem. Sprawdź połączenie z internetem i spróbuj ponownie.",
+  "status": "draft"
+ },
+ "g:genconnectionerrorheading_ps": {
+  "pl": "Błąd połączenia",
+  "status": "draft"
+ },
+ "g:genconnectionerrorheading_xbox": {
+  "pl": "Błąd połączenia",
+  "status": "draft"
+ },
+ "g:genericHint": {
+  "pl": "Coś tu jest…",
+  "status": "draft"
+ },
+ "g:genericObjective": {
+  "pl": "Wydostań się z pokoju!",
+  "status": "draft"
+ },
+ "g:giveItem": {
+  "pl": "Daj przedmiot",
+  "status": "draft"
+ },
+ "g:giveItemPrompt": {
+  "pl": "Dać coś partnerowi?",
+  "status": "review"
+ },
+ "g:hide": {
+  "pl": "Ukryj",
+  "status": "draft"
+ },
+ "g:hint": {
+  "pl": "Podpowiedź",
+  "status": "draft"
+ },
+ "g:hintExpanded": {
+  "pl": "Podpowiedź: na pewno?",
+  "status": "draft"
+ },
+ "g:hintsUsed": {
+  "pl": "Użyte podpowiedzi…",
+  "status": "draft"
+ },
+ "g:insertFirstItem": {
+  "pl": "Czegoś brakuje…",
+  "status": "draft"
+ },
+ "g:insertItem": {
+  "pl": "Użyj przedmiotu",
+  "status": "draft"
+ },
+ "g:insertItemFull": {
+  "pl": "To już zrobione.",
+  "status": "draft"
+ },
+ "g:insertItemPadlock": {
+  "pl": "Kłódka…",
+  "status": "draft"
+ },
+ "g:insertSecondItem": {
+  "pl": "Brakuje czegoś jeszcze…",
+  "status": "draft"
+ },
+ "g:insertThirdItem": {
+  "pl": "Wciąż czegoś brakuje…",
+  "status": "draft"
+ },
+ "g:insert_fits": {
+  "pl": "Co się tu zmieści?",
+  "status": "review"
+ },
+ "g:insert_goes": {
+  "pl": "Co tu pasuje?",
+  "status": "draft"
+ },
+ "g:insert_missing": {
+  "pl": "Czegoś brakuje…",
+  "status": "draft"
+ },
+ "g:insert_plugs": {
+  "pl": "Co się tu podłącza?",
+  "status": "draft"
+ },
+ "g:inspect": {
+  "pl": "Sprawdź",
+  "status": "draft"
+ },
+ "g:interact": {
+  "pl": "Interakcja",
+  "status": "review"
+ },
+ "g:internetaccess1_ps": {
+  "pl": "Brak połączenia z siecią, funkcje online zostaną wyłączone.",
+  "status": "draft"
+ },
+ "g:internetaccess1_xbox": {
+  "pl": "Brak połączenia z siecią, funkcje online zostaną wyłączone.",
+  "status": "draft"
+ },
+ "g:internetaccess2_ps": {
+  "pl": "Brak połączenia z internetem. Niektóre funkcje gry wymagają połączenia z siecią, dostępne będą tylko treści offline.",
+  "status": "draft"
+ },
+ "g:internetaccess2_xbox": {
+  "pl": "Brak połączenia z internetem. Niektóre funkcje gry wymagają połączenia z siecią, dostępne będą tylko treści offline.",
+  "status": "draft"
+ },
+ "g:internetaccessheading_ps": {
+  "pl": "Brak dostępu do internetu",
+  "status": "draft"
+ },
+ "g:internetaccessheading_xbox": {
+  "pl": "Brak dostępu do internetu",
+  "status": "draft"
+ },
+ "g:inventory": {
+  "pl": "Ekwipunek",
+  "status": "draft"
+ },
+ "g:item_redHerring_label": {
+  "pl": "Zanieś je do Klubu Wędkarskiego po nagrodę!",
+  "status": "draft"
+ },
+ "g:item_worm_label": {
+  "pl": "Pyszny i soczysty!",
+  "status": "draft"
+ },
+ "g:join": {
+  "pl": "Dołącz",
+  "status": "draft"
+ },
+ "g:journal": {
+  "pl": "Dziennik",
+  "status": "draft"
+ },
+ "g:key": {
+  "pl": "Klucz",
+  "status": "draft"
+ },
+ "g:leave": {
+  "pl": "Wyjdź",
+  "status": "draft"
+ },
+ "g:left": {
+  "pl": "W lewo",
+  "status": "draft"
+ },
+ "g:lift": {
+  "pl": "Podnieś",
+  "status": "draft"
+ },
+ "g:light": {
+  "pl": "Zapal",
+  "status": "draft"
+ },
+ "g:map": {
+  "pl": "Mapa",
+  "status": "draft"
+ },
+ "g:more": {
+  "pl": "Pokaż więcej",
+  "status": "draft"
+ },
+ "g:move": {
+  "pl": "Przesuń",
+  "status": "draft"
+ },
+ "g:move_here": {
+  "pl": "Przenieś tutaj",
+  "status": "draft"
+ },
+ "g:move_left": {
+  "pl": "Przesuń w lewo",
+  "status": "draft"
+ },
+ "g:move_right": {
+  "pl": "Przesuń w prawo",
+  "status": "draft"
+ },
+ "g:multipleStepFormat": {
+  "pl": "({0} z {1})",
+  "status": "draft"
+ },
+ "g:noControllerDetected": {
+  "pl": "Nie wykryto kontrolera.",
+  "status": "draft"
+ },
+ "g:noHintAvailable": {
+  "pl": "Brak podpowiedzi.<color=grey>Tym razem musisz radzić sobie na własną rękę…</color>",
+  "status": "draft"
+ },
+ "g:noNeedToMess": {
+  "pl": "Nie ma już po co tego ruszać.",
+  "status": "draft"
+ },
+ "g:noNeedToMess!": {
+  "pl": "Nie trzeba już tego ruszać!",
+  "status": "draft"
+ },
+ "g:notEnoughMoneyFail": {
+  "pl": "Nie mam dość pieniędzy, żeby to kupić!",
+  "status": "draft"
+ },
+ "g:ok": {
+  "pl": "OK",
+  "status": "draft"
+ },
+ "g:open": {
+  "pl": "Otwórz",
+  "status": "draft"
+ },
+ "g:p1": {
+  "pl": "G1:",
+  "status": "review"
+ },
+ "g:p2": {
+  "pl": "G2:",
+  "status": "draft"
+ },
+ "g:parentalcontrols1_xbox": {
+  "pl": "Nie możesz grać w trybie wieloosobowym online z powodu ustawień twojego konta Microsoft. Upewnij się, że ustawienia bezpieczeństwa online zezwalają na grę wieloosobową i że masz aktywną subskrypcję Xbox Game Pass Essential.",
+  "status": "draft"
+ },
+ "g:parentalcontrolsheading_ps": {
+  "pl": "Kontrola rodzicielska blokuje dostęp",
+  "status": "draft"
+ },
+ "g:parentalcontrolsheading_xbox": {
+  "pl": "Kontrola rodzicielska blokuje dostęp",
+  "status": "draft"
+ },
+ "g:partnersItem": {
+  "pl": "To przedmiot partnera.",
+  "status": "draft"
+ },
+ "g:passGrade": {
+  "pl": "Zaliczone",
+  "status": "draft"
+ },
+ "g:pet": {
+  "pl": "Pogłaszcz",
+  "status": "draft"
+ },
+ "g:pickup": {
+  "pl": "Podnieś",
+  "status": "draft"
+ },
+ "g:pin": {
+  "pl": "Przypnij",
+  "status": "draft"
+ },
+ "g:playInstrument": {
+  "pl": "Graj",
+  "status": "draft"
+ },
+ "g:play_instrument": {
+  "pl": "Zagraj na instrumencie",
+  "status": "review"
+ },
+ "g:player1": {
+  "pl": "Gracz 1",
+  "status": "draft"
+ },
+ "g:player2": {
+  "pl": "Gracz 2",
+  "status": "draft"
+ },
+ "g:playstation_platinum_desc": {
+  "pl": "Odblokuj wszystkie trofea.",
+  "status": "draft"
+ },
+ "g:playstation_platinum_name": {
+  "pl": "Escape-prymus",
+  "status": "review"
+ },
+ "g:playstation_platinum_name_alt": {
+  "pl": "Prymus roku",
+  "status": "draft"
+ },
+ "g:plug": {
+  "pl": "Podłącz",
+  "status": "draft"
+ },
+ "g:pour_from": {
+  "pl": "Przelej z…",
+  "status": "draft"
+ },
+ "g:pour_into": {
+  "pl": "Przelej do…",
+  "status": "draft"
+ },
+ "g:press": {
+  "pl": "Naciśnij",
+  "status": "draft"
+ },
+ "g:profsignout1_ps": {
+  "pl": "Profil {UserName} został wylogowany. Zaloguj się na ten sam profil, aby kontynuować, albo wróć do menu głównego.",
+  "status": "draft"
+ },
+ "g:profsignout1_xbox": {
+  "pl": "Profil {UserName} został wylogowany. Zaloguj się na ten sam profil, aby kontynuować, albo wróć do menu głównego.",
+  "status": "draft"
+ },
+ "g:profsignoutheading_ps": {
+  "pl": "Profil wylogowany",
+  "status": "draft"
+ },
+ "g:profsignoutheading_xbox": {
+  "pl": "Profil wylogowany",
+  "status": "draft"
+ },
+ "g:pull": {
+  "pl": "Pociągnij",
+  "status": "draft"
+ },
+ "g:push": {
+  "pl": "Pchnij",
+  "status": "draft"
+ },
+ "g:putAway": {
+  "pl": "Schowaj",
+  "status": "draft"
+ },
+ "g:questStartLocationHint": {
+  "pl": "Początek zadania: {0}",
+  "status": "draft"
+ },
+ "g:randomize": {
+  "pl": "Losuj",
+  "status": "draft"
+ },
+ "g:read": {
+  "pl": "Czytaj",
+  "status": "draft"
+ },
+ "g:remove": {
+  "pl": "Usuń",
+  "status": "draft"
+ },
+ "g:reportCard": {
+  "pl": "Świadectwo",
+  "status": "draft"
+ },
+ "g:reset": {
+  "pl": "Zresetuj",
+  "status": "draft"
+ },
+ "g:right": {
+  "pl": "W prawo",
+  "status": "draft"
+ },
+ "g:ring": {
+  "pl": "Dzwoń",
+  "status": "draft"
+ },
+ "g:savingGameIndicator": {
+  "pl": "Zapisywanie…",
+  "status": "draft"
+ },
+ "g:sculpt": {
+  "pl": "Rzeźb",
+  "status": "draft"
+ },
+ "g:select": {
+  "pl": "Wybierz",
+  "status": "draft"
+ },
+ "g:sessionCodeFormat": {
+  "pl": "<b>Kod sesji:</b> {0}",
+  "status": "draft"
+ },
+ "g:slide": {
+  "pl": "Przesuwaj",
+  "status": "draft"
+ },
+ "g:spin": {
+  "pl": "Obróć",
+  "status": "draft"
+ },
+ "g:spinccw": {
+  "pl": "Obróć w lewo",
+  "status": "draft"
+ },
+ "g:spincw": {
+  "pl": "Obróć w prawo",
+  "status": "draft"
+ },
+ "g:splitscreenToggle": {
+  "pl": "Przełącz podzielony ekran",
+  "status": "draft"
+ },
+ "g:start": {
+  "pl": "Start",
+  "status": "draft"
+ },
+ "g:startGame": {
+  "pl": "Rozpocznij grę",
+  "status": "draft"
+ },
+ "g:strum": {
+  "pl": "Brzdąkaj",
+  "status": "draft"
+ },
+ "g:subscriptionplaystation": {
+  "pl": "Do gry online wymagana jest aktywna subskrypcja PlayStation®Plus.",
+  "status": "draft"
+ },
+ "g:subscriptionxbox": {
+  "pl": "Do gry online wymagana jest aktywna subskrypcja Xbox Game Pass Essential.",
+  "status": "draft"
+ },
+ "g:swap": {
+  "pl": "Zamień",
+  "status": "draft"
+ },
+ "g:talk": {
+  "pl": "Rozmawiaj",
+  "status": "draft"
+ },
+ "g:tie": {
+  "pl": "Zawiąż",
+  "status": "draft"
+ },
+ "g:toggleSplitscreen": {
+  "pl": "Podziel ekran",
+  "status": "draft"
+ },
+ "g:turnpage": {
+  "pl": "Przewróć stronę",
+  "status": "draft"
+ },
+ "g:unlock": {
+  "pl": "Odblokuj",
+  "status": "draft"
+ },
+ "g:unplug": {
+  "pl": "Odłącz",
+  "status": "draft"
+ },
+ "g:untie": {
+  "pl": "Rozwiąż",
+  "status": "draft"
+ },
+ "g:up": {
+  "pl": "W górę",
+  "status": "draft"
+ },
+ "g:use": {
+  "pl": "Użyj",
+  "status": "draft"
+ },
+ "g:useItem": {
+  "pl": "Użyj przedmiotu",
+  "status": "draft"
+ },
+ "g:use_zipline": {
+  "pl": "Użyj tyrolki",
+  "status": "draft"
+ },
+ "g:view": {
+  "pl": "Zobacz",
+  "status": "draft"
+ },
+ "g:wrongItem": {
+  "pl": "Nic się nie stało.",
+  "status": "draft"
+ },
+ "g:zipline": {
+  "pl": "Zjedź tyrolką",
+  "status": "draft"
+ },
+ "v:Gillian_EPI_NormalTerm": {
+  "pl": "Czyli po tym wszystkim mamy tak po prostu… normalnie dokończyć semestr?",
+  "status": "review"
+ },
+ "v:Jeb_WET_BoatsReady": {
+  "pl": "Ucieczkowa Łódź gotowa do odjazdu!",
+  "status": "review"
+ },
+ "v:Jeb_WET_StudentsToSave": {
+  "pl": "Wszystko gotowe? Mamy uczniów do uratowania!",
+  "status": "review"
+ },
+ "v:Kira_EPI_EnoughExcitement": {
+  "pl": "Wrażeń starczy mi na cały rok…",
+  "status": "review"
+ },
+ "v:MSC_Graffiti_CantIgnore": {
+  "pl": "Slip, po czymś takim nie da się nas zignorować.",
+  "status": "review"
+ },
+ "v:MSC_Graffiti_GreatPaint": {
+  "pl": "Wielka sztuka zaczyna się od wielkiej farby.",
+  "status": "review"
+ },
+ "v:MSC_Graffiti_TagIt": {
+  "pl": "Berek! Teraz ty malujesz.",
+  "status": "review"
+ },
+ "v:MSC_Zipz_HipTimes": {
+  "pl": "Tyrolka to hit, każdy chce lecieć w mig.",
+  "status": "review"
+ },
+ "v:MSC_Zipz_LoseGrip": {
+  "pl": "Gdy na linie mkniesz, chwytu nie puszczaj, wiesz?",
+  "status": "review"
+ },
+ "v:MSC_Zipz_NeedTip": {
+  "pl": "Rada na dziś? Tyrolką leć wzwyż!",
+  "status": "review"
+ },
+ "v:MSC_Zipz_SkipOfIps": {
+  "pl": "Jestem Skip od Tyrolek i nikt nie przemknie szybciej.",
+  "status": "review"
+ },
+ "v:Reed_EPI_Ready4Conspiracy": {
+  "pl": "Ja? Mnie się marzy kolejny spisek.",
+  "status": "review"
+ },
+ "v:Solange_LAR_QuieterTerm": {
+  "pl": "Mam nadzieję, że reszta semestru będzie spokojniejsza?",
+  "status": "review"
+ },
+ "v:Solange_WET_Now'sTheTime": {
+  "pl": "Pora ruszać – daj znać, kiedy wszystko gotowe.",
+  "status": "review"
+ },
+ "v:Solange_WET_SoAreWe": {
+  "pl": "My też.",
+  "status": "review"
+ }
+}

@@ -1,0 +1,986 @@
+{
+ "n:line:000753a": {
+  "pl": "Wchodź już do środka, Profesor Chortkoff nie zacznie przedstawienia, dopóki sala nie będzie pełna.",
+  "status": "draft"
+ },
+ "n:line:000f325": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:001d454": {
+  "pl": "Jestem bez grosza…",
+  "status": "draft"
+ },
+ "n:line:002bf72": {
+  "pl": "Okej, wchodzę do komory. Widzę… AAAAHHH!!!",
+  "status": "draft"
+ },
+ "n:line:002c364": {
+  "pl": "Oczywiście. Ale tylko dlatego, że uczę się bez wytchnienia… i dlatego, że od piątego roku życia zarządzam swoim kieszonkowym.",
+  "status": "draft"
+ },
+ "n:line:002d7b0": {
+  "pl": "Oby tylko przetrwał pierwszy rok na wydziale… Nie chcę znowu podlizywać się zupełnie nowemu profesorowi!",
+  "status": "draft"
+ },
+ "n:line:002fbe0": {
+  "pl": "Ciekawe, jak Jeb... to znaczy profesor Jeberson, poradzi sobie z prowadzeniem naszych lekcji historii.",
+  "status": "draft"
+ },
+ "n:line:00439a9": {
+  "pl": "Czasem jesteś nie do zniesienia, wiesz?",
+  "status": "draft"
+ },
+ "n:line:0046e53": {
+  "pl": "Dobrze mieć cię po swojej stronie… ale nikomu nie mów, że tak powiedziałam.",
+  "status": "draft"
+ },
+ "n:line:004b72f": {
+  "pl": "Poproszę jeden bilet! <style=\"purchase\">(Zapłać {0} eskadolarów)</style>",
+  "status": "review"
+ },
+ "n:line:0076dca": {
+  "pl": "Czeka nas długa noc…",
+  "status": "draft"
+ },
+ "n:line:0086d31": {
+  "pl": "Idź <style=\"vis_clue\">na wschód</style>.",
+  "status": "draft"
+ },
+ "n:line:00a684a": {
+  "pl": "Jestem przy skrzynce z narzędziami. To ślepy zaułek.",
+  "status": "draft"
+ },
+ "n:line:00e4759": {
+  "pl": "Znajdźmy tę komnatę! <style=\"story\">(Poczekaj do nocy)</style>",
+  "status": "draft"
+ },
+ "n:line:00ecf75": {
+  "pl": "No więc, to chyba dobry moment, żeby wspomnieć, że część tych map jest nieaktualna. <style=\"clue\">Nie mam <i>pojęcia</i>, która jest dobra.</style>",
+  "status": "draft"
+ },
+ "n:line:00f2562": {
+  "pl": "Na pewno <style=\"clue\">Gordon i Paige</style> po prostu nie nadążali i musieli zrezygnować w trakcie semestru...",
+  "status": "draft"
+ },
+ "n:line:00f4eb9": {
+  "pl": "Przyjęłam, chwileczkę…",
+  "status": "draft"
+ },
+ "n:line:0100cc2": {
+  "pl": "Ha! Mi akurat z jakiegoś powodu całkiem ufa.",
+  "status": "draft"
+ },
+ "n:line:0106279": {
+  "pl": "Jak myślisz, czemu założyciele wymazali Alistaira z historii?",
+  "status": "draft"
+ },
+ "n:line:011f2ad": {
+  "pl": "Nie boisz się, że znowu wpadniemy w kłopoty?",
+  "status": "draft"
+ },
+ "n:line:01241a5": {
+  "pl": "W tym roku wszystkim moim hejterom eskapistów pokażę, z czego jestem zrobiona.",
+  "status": "draft"
+ },
+ "n:line:0136b5a": {
+  "pl": "Przyjęłam. Idę na północ…",
+  "status": "draft"
+ },
+ "n:line:01374ea": {
+  "pl": "Pff! Rozgryź to sama, mnie się udało.",
+  "status": "draft"
+ },
+ "n:line:014006e": {
+  "pl": "Cholera... liczyłam, że sama wymyślę, jak <style=\"clue\">otworzyć drzwi tramwaju</style>. No to chyba jesteśmy kwita... na razie!",
+  "status": "draft"
+ },
+ "n:line:014cbcc": {
+  "pl": "Co za katastrofa! Chyba nie myślisz, że wcześniej go zapeszyłam?",
+  "status": "draft"
+ },
+ "n:line:0153cea": {
+  "pl": "Idź <style=\"vis_clue\">na północ</style>.",
+  "status": "draft"
+ },
+ "n:line:0171225": {
+  "pl": "Już patrzyłam, jest tylko trochę <style=\"clue\">starej gumy</style> przyklejonej pod blatem biurka.",
+  "status": "draft"
+ },
+ "n:line:0173266": {
+  "pl": "Nie, skromność <i>i</i> talent naraz? To irytujące.",
+  "status": "draft"
+ },
+ "n:line:0186079": {
+  "pl": "Jesteśmy we wspólnej podświadomości Von Bellinego i jego ofiar!",
+  "status": "draft"
+ },
+ "n:line:019c589": {
+  "pl": "Te szyby to istny labirynt. Dobrze, że mamy te niezwykle pomocne mapy!",
+  "status": "draft"
+ },
+ "n:line:01bfc6e": {
+  "pl": "Ej, ej, ej! A ty to w ogóle kto?",
+  "status": "draft"
+ },
+ "n:line:01c2c57": {
+  "pl": "Jeszcze tylko sekundka…",
+  "status": "draft"
+ },
+ "n:line:0203b71": {
+  "pl": "Ha. Ha.",
+  "status": "draft"
+ },
+ "n:line:022191a": {
+  "pl": "Mam nadzieję, że spodoba ci się przypuszczalnie napuszone przedstawienie Profesor Chortkoff.",
+  "status": "draft"
+ },
+ "n:line:02228f4": {
+  "pl": "Okej, idę na wschód…",
+  "status": "draft"
+ },
+ "n:line:0224e97": {
+  "pl": "Chortkoff <i>ewidentnie</i> brakuje kilku elementów do kompletu…",
+  "status": "draft"
+ },
+ "n:line:0233234": {
+  "pl": "Dobra. Jest <style=\"clue\">przejście na wschód i na południe</style>.",
+  "status": "draft"
+ },
+ "n:line:026b850": {
+  "pl": "Tylko nie myśl, że w tym roku znowu mnie pokonasz! Całe lato wstawałam codziennie o szóstej rano, żeby ćwiczyć zagadki.",
+  "status": "draft"
+ },
+ "n:line:0276841": {
+  "pl": "Hej! Bez mnie nie dotarlibyśmy nawet do pierwszej komnaty.",
+  "status": "draft"
+ },
+ "n:line:02e296c": {
+  "pl": "Cokolwiek musisz zrobić, żeby nas stąd wyciągnąć, zrób to szybko.",
+  "status": "draft"
+ },
+ "n:line:02ea92e": {
+  "pl": "Jestem przy zaworze. Na <style=\"clue\">wschodzie jest kask</style>, a na <style=\"clue\">północy przejście</style>.",
+  "status": "draft"
+ },
+ "n:line:02f5f2f": {
+  "pl": "Jasne, chwileczkę…",
+  "status": "draft"
+ },
+ "n:line:02ff639": {
+  "pl": "Nie, nie… coś takiego było nieuniknione. Nie ponoszę żadnej odpowiedzialności.",
+  "status": "draft"
+ },
+ "n:line:0313a74": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:031a674": {
+  "pl": "Odbiór, idę na zachód…",
+  "status": "draft"
+ },
+ "n:line:0320f2d": {
+  "pl": "Nie mam pojęcia, ale musiało być <i>źle.</i>",
+  "status": "draft"
+ },
+ "n:line:0344144": {
+  "pl": "No dobra, mamy plan i mapę. Znikamy!",
+  "status": "draft"
+ },
+ "n:line:03610b7": {
+  "pl": "Jeśli nadal upierasz się, żeby wejść, to będzie <style=\"clue\">{0} eskadolarów</style>.",
+  "status": "review"
+ },
+ "n:line:036a28a": {
+  "pl": "Do dzieła. Te okulary są nasze! <style=\"story\">(Dalej w fabule)</style>",
+  "status": "review"
+ },
+ "n:line:036c465": {
+  "pl": "<i>Nigdy</i> nie uciszysz plotek o faworyzowaniu przez dyrektorkę.",
+  "status": "draft"
+ },
+ "n:line:0378e84": {
+  "pl": "Coś jest <style=\"clue>dziwnego w tym drzewie</style>. Uczono nas, że Reina wyhodowała je z sadzonki, ale wygląda prawie… sztucznie.",
+  "status": "review"
+ },
+ "n:line:038f874": {
+  "pl": "Na co czekasz? Te <style=\"clue\">okulary</style> muszą być w <style=\"clue\">tajnym gabinecie</style> dyrektorki!",
+  "status": "draft"
+ },
+ "n:line:0390fba": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0397878": {
+  "pl": "A my zaraz tam będziemy!",
+  "status": "draft"
+ },
+ "n:line:039ca40": {
+  "pl": "Fuj, mówisz jak moi rodzice. Dla mnie to wszystko jedno – to Escape!",
+  "status": "draft"
+ },
+ "n:line:03a1c03": {
+  "pl": "Moi rodzice uważają nawet, że mogłaby trochę poluzować.",
+  "status": "draft"
+ },
+ "n:line:03d5a17": {
+  "pl": "Nie wierzę, że utknęłam przy <style=\"clue\">sprzedaży biletów</style> na przedstawienie zamiast w nim grać.",
+  "status": "draft"
+ },
+ "n:line:03de8c2": {
+  "pl": "To tu! Widzę <style=\"clue\">gabinet dyrektorki Solange!</style>",
+  "status": "draft"
+ },
+ "n:line:03df3e9": {
+  "pl": "Dobra, daj mi sekundę…",
+  "status": "draft"
+ },
+ "n:line:0410ff2": {
+  "pl": "Dobra.",
+  "status": "draft"
+ },
+ "n:line:041aa49": {
+  "pl": "To nie zawody. Ja tu po to, żeby się uczyć!",
+  "status": "draft"
+ },
+ "n:line:0424d51": {
+  "pl": "Ruszajmy się! Jeśli ty nie <style=\"clue\">pociągniesz za dźwignię</style>, to ja to zrobię.",
+  "status": "draft"
+ },
+ "n:line:042c534": {
+  "pl": "<i>Ciągle</i> próbujesz wkraść się w łaski dyrektorki...",
+  "status": "draft"
+ },
+ "n:line:04481fa": {
+  "pl": "Ej, dokąd to się wybierasz? Co powiedziała dyrektorka Solange?",
+  "status": "draft"
+ },
+ "n:line:0448cc1": {
+  "pl": "Pozostaje czekać, jak pójdzie otwarcie muzeum...",
+  "status": "draft"
+ },
+ "n:line:0454442": {
+  "pl": "Dobra, ale nie mamy całego dnia! No… w sumie mamy. Tylko szybko wracaj.",
+  "status": "draft"
+ },
+ "n:line:0456818": {
+  "pl": "No dobra. Tak... Ale to nie znaczy, że <i>też</i> nie spróbuję wkraść się w <i>jego</i> łaski i nie zachowam dla siebie wszystkiego, co chce utrzymać w tajemnicy!",
+  "status": "draft"
+ },
+ "n:line:0467671": {
+  "pl": "Mam nadzieję, że ta guma się przyda. Była obrzydliwa i lepka, kiedy zdrapywałam ją z biurka… może <style=\"clue\">posłuży za dobry klej</style>!",
+  "status": "draft"
+ },
+ "n:line:046e1e8": {
+  "pl": "Korzystajcie z <style=\"clue\">map i krótkofalówek</style>, żeby poprowadzić mnie szybami wentylacyjnymi do gabinetu dyrektorki!",
+  "status": "draft"
+ },
+ "n:line:0478818": {
+  "pl": "No i co z tego, że mnie porwali pierwszą? Wiem, co zrobiłam, i nikt mi tego nie odbierze.",
+  "status": "draft"
+ },
+ "n:line:049b012": {
+  "pl": "To jest <i>o wiele</i> większe, niż kiedykolwiek mogło mi się śnić!",
+  "status": "draft"
+ },
+ "n:line:04ae934": {
+  "pl": "Chyba mam jeszcze <i>trochę</i> czasu, żeby zachować godność.",
+  "status": "draft"
+ },
+ "n:line:04b7dd0": {
+  "pl": "Nie wywyższaj się za bardzo po wyzwaniu wieży zegarowej... jestem <i>tuż</i> za tobą.",
+  "status": "draft"
+ },
+ "n:line:04c6c39": {
+  "pl": "Wróć, jak zdobędziesz <style=\"clue\">resztę punktów, </style> to skończymy z tym upokorzeniem…",
+  "status": "draft"
+ },
+ "n:line:04d139a": {
+  "pl": "Byłoby, prawda? A z tobą u mojego boku na pewno by nam się udało.",
+  "status": "draft"
+ },
+ "n:line:04dad00": {
+  "pl": "Może to zacznie wyjaśniać, co tak naprawdę dzieje się tu na dole…",
+  "status": "draft"
+ },
+ "n:line:04dae77": {
+  "pl": "Bez przesady. Oboje wiemy, że jest... magnesem na wypadki.",
+  "status": "draft"
+ },
+ "n:line:04fa5ef": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:052186a": {
+  "pl": "No cóż – twoja cela była ewidentnie łatwiejsza niż moja!",
+  "status": "draft"
+ },
+ "n:line:0536e8c": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:055f43d": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:056332b": {
+  "pl": "Muszę przyznać, że miałam wątpliwości co do profesora Jebersona, ale historia Akademii jak dotąd wypada całkiem nieźle!",
+  "status": "draft"
+ },
+ "n:line:0566e7d": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:0571c59": {
+  "pl": "Ma dla mnie jakieś tajemnicze zadanie na dachu...",
+  "status": "draft"
+ },
+ "n:line:05adfb5": {
+  "pl": "Masz tam coś, co chociaż trochę by pomogło?",
+  "status": "draft"
+ },
+ "n:line:05b27fd": {
+  "pl": "Dasz jakąś zniżkę?",
+  "status": "draft"
+ },
+ "n:line:05bba98": {
+  "pl": "I tyle? Nic więcej mi nie powiesz o śledztwie, w którym to ja dokonałam pierwszego przełomu? No dobra!",
+  "status": "draft"
+ },
+ "n:line:05c8ffe": {
+  "pl": "Wow! Tu jest <style=\"clue\">wielka torba pieniędzy</style>! Jest też <style=\"clue\">przejście na wschód i na południe</style>.",
+  "status": "draft"
+ },
+ "n:line:05d152b": {
+  "pl": "No to na co czekasz? Jeb nie dał mi <style=\"clue\">pozwolenia na łom</style>.",
+  "status": "draft"
+ },
+ "n:line:05e4ff1": {
+  "pl": "Idź <style=\"vis_clue\">na południe</style>.",
+  "status": "draft"
+ },
+ "n:line:05ed963": {
+  "pl": "Okej, idę na południe…",
+  "status": "draft"
+ },
+ "n:line:05f0086": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:05f87f6": {
+  "pl": "Co?! Nie dało się powiedzieć mi tego <i>zanim</i> tu wpełzłam?",
+  "status": "draft"
+ },
+ "n:line:05fb1cc": {
+  "pl": "Miejmy przynajmniej oczy szeroko otwarte. Chyba nie masz problemu z instynktem samozachowawczym?",
+  "status": "draft"
+ },
+ "n:line:060601c": {
+  "pl": "W zeszłym roku o tej porze powiedziałabym to samo, ale...",
+  "status": "draft"
+ },
+ "n:line:06126c1": {
+  "pl": "Ciężko mi będzie zagrać to przekonująco…",
+  "status": "draft"
+ },
+ "n:line:06152dd": {
+  "pl": "Zobaczmy… Mogę iść <style=\"clue\">na wschód, na zachód albo na południe</style>.",
+  "status": "draft"
+ },
+ "n:line:06184d6": {
+  "pl": "Wygląda na to, że jest tu <style=\"clue\">ukryta wiadomość na tym cokole</style>, którą trzeba uzupełnić.",
+  "status": "draft"
+ },
+ "n:line:06190a6": {
+  "pl": "Tak, to długa historia.",
+  "status": "draft"
+ },
+ "n:line:063e0b1": {
+  "pl": "Okej, <i>jestem gotowa!</i> Uff, *kaszle* – strasznie tu zakurzone…",
+  "status": "draft"
+ },
+ "n:line:0643dce": {
+  "pl": "Idź <style=\"vis_clue\">na południe</style>.",
+  "status": "draft"
+ },
+ "n:line:0664672": {
+  "pl": "Nie sądzisz, że Gordonowi i Paige stało się coś złego?",
+  "status": "draft"
+ },
+ "n:line:0665439": {
+  "pl": "Muszę przyznać, że z moją celą poszło ci świetnie, ale to jeszcze nie koniec kłopotów.",
+  "status": "draft"
+ },
+ "n:line:0674694": {
+  "pl": "Co widzisz, Gillian?",
+  "status": "draft"
+ },
+ "n:line:0697cf1": {
+  "pl": "No dobra! Zachowaj swoje sekrety. Jakby mnie to obchodziło.",
+  "status": "review"
+ },
+ "n:line:06a3a60": {
+  "pl": "Widzę <style=\"clue\">skrzynkę z narzędziami na północy</style> i <style=\"clue\">kask na południu</style>.",
+  "status": "draft"
+ },
+ "n:line:06bad5a": {
+  "pl": "Ja? Halo? To ja, Gillian. <i>Paisley</i>. Razem z tobą ocaliłam Akademię w zeszłym roku. <i>Dwa razy.</i>",
+  "status": "draft"
+ },
+ "n:line:06bc92c": {
+  "pl": "Okej, z celi wyszło ci przede mną. Wielka rzecz. Teraz otwórz moją.",
+  "status": "draft"
+ },
+ "n:line:06c52e6": {
+  "pl": "Gillian? Słyszysz mnie? Co to było, ciało? <i>Żywe</i> ciało? Jakaś podejrzanie myśląca maź?",
+  "status": "draft"
+ },
+ "n:line:06fac09": {
+  "pl": "Brzmi jak <i>twój</i> problem.",
+  "status": "draft"
+ },
+ "n:line:070a1b0": {
+  "pl": "Lepiej przykręć sobie głowę <i>znacznie</i> mocniej, jeśli chcesz dotrzymać mi kroku!",
+  "status": "draft"
+ },
+ "n:line:073513c": {
+  "pl": "Naprawdę go polubiłam, ale... nie wygląda mi na naukowca. Historia to zbyt ważny przedmiot, żeby coś w niej pomylić!",
+  "status": "draft"
+ },
+ "n:line:073e4fa": {
+  "pl": "Są na nim <style=\"clue\">wyryte symbole kart</style>… Co mamy zrobić, po prostu <style=\"clue\">poprosić założycieli o pomoc?</style>",
+  "status": "review"
+ },
+ "n:line:074b0d3": {
+  "pl": "Ciebie też miło widzieć, Gillian. Moje wakacje były świetne, dzięki, że pytasz.",
+  "status": "draft"
+ },
+ "n:line:074f643": {
+  "pl": "Jasne, wracam…",
+  "status": "draft"
+ },
+ "n:line:075fdd6": {
+  "pl": "Spokojnie – właśnie ratuję sytuację.",
+  "status": "draft"
+ },
+ "n:line:0771e5e": {
+  "pl": "No weź… Nie zmuszaj mnie, żebym wytrzepała z ciebie {0} eskadolarów.",
+  "status": "review"
+ },
+ "n:line:077ab22": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:0787248": {
+  "pl": "Jasne, idę na północ…",
+  "status": "draft"
+ },
+ "n:line:07c7a06": {
+  "pl": "Nie, Reed, na pewno dasz radę. Wyjdzie ci świetnie.",
+  "status": "draft"
+ },
+ "n:line:07ca1b7": {
+  "pl": "A jesteś w ogóle dobra z matmy…?",
+  "status": "draft"
+ },
+ "n:line:07e4e5a": {
+  "pl": "Jeśli ktoś ma ją rozmiękczyć… to na pewno nie ja. Masz.",
+  "status": "draft"
+ },
+ "n:line:07e9872": {
+  "pl": "Gdyby cię nie porwali, pewnie sama byś się tego dowiedziała…",
+  "status": "draft"
+ },
+ "n:line:07e9b9e": {
+  "pl": "Nowa krótkofalówka, kto tam?",
+  "status": "draft"
+ },
+ "n:line:07f6d09": {
+  "pl": "Prawdę mówiąc, zagadkowych wpadek miało być dużo więcej...",
+  "status": "draft"
+ },
+ "n:line:0823287": {
+  "pl": "Idź <style=\"vis_clue\">na zachód</style>.",
+  "status": "draft"
+ },
+ "n:line:08315ff": {
+  "pl": "Część najbardziej wychwalanych absolwentów Akademii to złodzieje i oszuści! Wystarczy <style=\"clue\">spojrzeć na Pomnik Ucieczki…</style>",
+  "status": "draft"
+ },
+ "n:line:083bdb7": {
+  "pl": "Nie ma czasu na pogaduszki! Próbuję rozgryźć, jak <style=\"clue\">wszystkie elementy tej układanki do siebie pasują</style>…",
+  "status": "draft"
+ },
+ "n:line:0853a35": {
+  "pl": "Musimy sprzedać określoną liczbę biletów, bo inaczej Profesor Chortkoff nie da mi zaliczenia…",
+  "status": "draft"
+ },
+ "n:line:08775da": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:08798c1": {
+  "pl": "Święte słowa!",
+  "status": "draft"
+ },
+ "n:line:0880194": {
+  "pl": "Uczniowie mogą zaginąć, a ty myślisz o swojej reputacji?",
+  "status": "draft"
+ },
+ "n:line:088413a": {
+  "pl": "Ciekawe, pod którą częścią kampusu jesteśmy… Te tunele kompletnie mnie zdezorientowały.",
+  "status": "draft"
+ },
+ "n:line:088a2d0": {
+  "pl": "Jesteś z powrotem! Czekamy <style=\"clue\">do zmroku</style> na małe włamanie?",
+  "status": "draft"
+ },
+ "n:line:0891cbe": {
+  "pl": "Jeśli chcemy odnieść sukces jako eskapiści, musimy znać historię tego, jak do tego doszło.",
+  "status": "draft"
+ },
+ "n:line:08a6ed8": {
+  "pl": "Weź <style=\"vis_clue\">pieniądze</style>.",
+  "status": "draft"
+ },
+ "n:line:08daf20": {
+  "pl": "Okej. Spokojnie! Chyba jeszcze damy radę… <style=\"clue\">Opiszę wam, co widzę</style>, w najdrobniejszych szczegółach!",
+  "status": "draft"
+ },
+ "n:line:08ed66f": {
+  "pl": "Nie, Reed. To tylko <style=\"clue\">wielki pająk</style>. Przykro mi, że rozczarowuję… Mogę iść <style=\"clue\">na północ albo na południe</style>.",
+  "status": "draft"
+ },
+ "n:line:08f62f1": {
+  "pl": "Jeśli masz coś <style=\"clue\">do załatwienia na kampusie</style>, to najlepszy moment.",
+  "status": "draft"
+ },
+ "n:line:090f355": {
+  "pl": "*Trzask, trzask*",
+  "status": "draft"
+ },
+ "n:line:0918fa6": {
+  "pl": "Argh, mam sprzedawać bilety? Co się Chortkoff zacięło w zamku?! To, że moja rodzina jest bogata, wcale nie znaczy, że jestem dobra z matmy.",
+  "status": "draft"
+ },
+ "n:line:091ed09": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0943d5c": {
+  "pl": "Idź <style=\"vis_clue\">na wschód</style>.",
+  "status": "draft"
+ },
+ "n:line:097d84f": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:099862d": {
+  "pl": "I żeby była dobrze nauczana.",
+  "status": "draft"
+ },
+ "n:line:09acb55": {
+  "pl": "Dobra, wracam…",
+  "status": "draft"
+ },
+ "n:line:09ad0a6": {
+  "pl": "Gaz kasujący pamięć, sufity z kolcami, <style=\"clue\"><i>podręczniki</style>!</i> Fantastyczny początek, co nie?",
+  "status": "draft"
+ },
+ "n:line:09bc816": {
+  "pl": "Mówię poważnie. Nikomu nie mów, że naprawdę cię szanuję.",
+  "status": "draft"
+ },
+ "n:line:09d0c91": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:09efdb0": {
+  "pl": "Akademia nieraz widziała wypadki, ale... odkąd dyrektorka Solange przejęła stery, trzyma wszystko twardą ręką.",
+  "status": "draft"
+ },
+ "n:line:09f7a15": {
+  "pl": "Musisz po to pójść osobiście.",
+  "status": "draft"
+ },
+ "n:line:09ff3c6": {
+  "pl": "Uff, na razie czysto. Wszyscy gotowi udawać, że nie mamy pojęcia, o co chodzi, kiedy wróci Solange?",
+  "status": "draft"
+ },
+ "n:line:0a0b638": {
+  "pl": "Cholera. Teoria Reeda wcale nie była taka od czapy…",
+  "status": "draft"
+ },
+ "n:line:0a22691": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:0a271a7": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0a36d46": {
+  "pl": "Czekaj… sugerujesz, że Von Bellini <i>to</i> Alistair Bell? I że co, wchłaniał mózgi, żeby żyć wiecznie?",
+  "status": "draft"
+ },
+ "n:line:0a50491": {
+  "pl": "Dobra, plan gotowy! Wystarczy <style=clue\">poczekać do zmroku</style>, żeby go wykonać.",
+  "status": "review"
+ },
+ "n:line:0a55a6a": {
+  "pl": "Miło znowu być z kimś na tej samej stronie. Ja... w wakacje niezbyt często tego doświadczałam...",
+  "status": "draft"
+ },
+ "n:line:0a6247f": {
+  "pl": "Jedna z tych rzeczy nie pasuje do pozostałych...",
+  "status": "draft"
+ },
+ "n:line:0a6a5e6": {
+  "pl": "Chyba muszę poczekać do trzeciego roku, żeby zająć pierwsze miejsce w klasie...",
+  "status": "draft"
+ },
+ "n:line:0a761a3": {
+  "pl": "Teraz musimy poczekać, aż skończą się próby, i dopiero wtedy zacznie się pokaz.",
+  "status": "draft"
+ },
+ "n:line:0a9b8d8": {
+  "pl": "Profesor Chortkoff jeszcze nie dała mi biletów, a ja nie zamierzam handlować jej towarem, dopóki nie będzie to absolutnie konieczne.",
+  "status": "draft"
+ },
+ "n:line:0ab3503": {
+  "pl": "No dobra! Ale połowa moja.",
+  "status": "draft"
+ },
+ "n:line:0ab686a": {
+  "pl": "Ha! Nie liczyłabym na to.",
+  "status": "draft"
+ },
+ "n:line:0ac91fb": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0ad3225": {
+  "pl": "Naprawdę zmienił moje zdanie, gdy zeszłego lata pomógł nam powstrzymać naukowców przeciwnych escape'owi.",
+  "status": "draft"
+ },
+ "n:line:0af1d7a": {
+  "pl": "Idź <style=\"vis_clue\">na południe</style>.",
+  "status": "draft"
+ },
+ "n:line:0b00840": {
+  "pl": "Halo? Słyszycie mnie?",
+  "status": "draft"
+ },
+ "n:line:0b047f5": {
+  "pl": "No weź, każdy wiedział, że nasz chłopak ma to w sobie!",
+  "status": "draft"
+ },
+ "n:line:0b23f77": {
+  "pl": "Idź <style=\"vis_clue\">na północ, do skrzynki z narzędziami</style>.",
+  "status": "draft"
+ },
+ "n:line:0b241b6": {
+  "pl": "Czemu tobie tak łatwo przychodzi zjednywanie sobie wszystkich, a mnie jest to prawie niemożliwe...",
+  "status": "draft"
+ },
+ "n:line:0b37798": {
+  "pl": "Ślepy zaułek. Ale ktoś zostawił tu… <style=\"clue\">kamizelkę ratunkową</style>? Nie bardzo wiem, jak to w ogóle możliwe.",
+  "status": "review"
+ },
+ "n:line:0b5d01e": {
+  "pl": "Jestem przy kasku. Widzę <style=\"clue\">zawór na zachodzie</style>. A <style=\"clue\">na północy jest skrzynka z narzędziami</style>.",
+  "status": "draft"
+ },
+ "n:line:0b634cc": {
+  "pl": "Jesteś tu! Choć nie jestem pewna, gdzie dokładnie jest to „tu”…",
+  "status": "draft"
+ },
+ "n:line:0b9144c": {
+  "pl": "Wolę nie myśleć, skąd się tu bierze ta woda…",
+  "status": "draft"
+ },
+ "n:line:0b92c09": {
+  "pl": "To, co robimy, ma znaczenie. Jest ważniejsze niż kolejna potencjalna wizyta na szlabanie.",
+  "status": "draft"
+ },
+ "n:line:0bc36f8": {
+  "pl": "Nic!",
+  "status": "draft"
+ },
+ "n:line:0bcede2": {
+  "pl": "Zaraz wielkie otwarcie wystawy! <style=\"clue\">Zobaczmy, co ma do powiedzenia Profesor Jeberson</style>.",
+  "status": "draft"
+ },
+ "n:line:0bdbbac": {
+  "pl": "Bełkotał tylko, że niemożliwe, żeby <i>Paisley</i> nie poleciała od razu na niego donieść Solange. Jest paranoikiem. I <i>stary</i>.",
+  "status": "draft"
+ },
+ "n:line:0bfd23e": {
+  "pl": "Oj, przychodzi mi do głowy kilka wyjaśnień.",
+  "status": "draft"
+ },
+ "n:line:0c0d00b": {
+  "pl": "Ech, co by było z tym miejscem bez nas…",
+  "status": "draft"
+ },
+ "n:line:0c26975": {
+  "pl": "Idź <style=\"vis_clue\">na północ</style>.",
+  "status": "draft"
+ },
+ "n:line:0c2c0c8": {
+  "pl": "Przynajmniej masz coś do jedzenia, jak zgłodniejesz.",
+  "status": "draft"
+ },
+ "n:line:0c30639": {
+  "pl": "Chyba zostaną mi tylko punkty od profesor Bonilli...",
+  "status": "draft"
+ },
+ "n:line:0c35bee": {
+  "pl": "Odkrycie prawdy o zaginionych uczniach <i>byłoby</i> naprawdę kozackie!",
+  "status": "draft"
+ },
+ "n:line:0c36cf7": {
+  "pl": "Idź <style=\"vis_clue\">na południe, do kasku</style>.",
+  "status": "draft"
+ },
+ "n:line:0c50773": {
+  "pl": "Ale jeśli coś <i>się</i> dzieje… Może to wreszcie moja szansa, żeby zrobić sobie nazwisko!",
+  "status": "draft"
+ },
+ "n:line:0c656fd": {
+  "pl": "Dobra, chwila…",
+  "status": "draft"
+ },
+ "n:line:0c78ced": {
+  "pl": "Jestem w rogu. Mogę iść <style=\"clue\">na północ albo na wschód</style>. Co robimy?",
+  "status": "draft"
+ },
+ "n:line:0c871ee": {
+  "pl": "Ej, stop... gdzie jest ta druga gwiazda roku? <style=\"clue\">Potrzebujemy was obojga</style>, żeby to się udało...",
+  "status": "draft"
+ },
+ "n:line:0c8cb7f": {
+  "pl": "Idź <style=\"vis_clue\">na wschód</style>.",
+  "status": "draft"
+ },
+ "n:line:0c96668": {
+  "pl": "Wróć na <style=\"vis_clue\">południe</style>.",
+  "status": "draft"
+ },
+ "n:line:0cab840": {
+  "pl": "Grzebanie w tajemnicy Akademii, unikanie Dyrektorki Solange, szukanie związku z zaginionymi uczniami…",
+  "status": "draft"
+ },
+ "n:line:0cae49c": {
+  "pl": "Za żadne skarby! A teraz wyciągnij mnie stąd i weź to, wolę głodować.",
+  "status": "draft"
+ },
+ "n:line:0caead9": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0ce7989": {
+  "pl": "O co chodzi z profesorem Von Bellini? Chciałam pomóc przy jego <style=\"clue\">eksperymencie</style>, ale zostałam kompletnie zbyta.",
+  "status": "draft"
+ },
+ "n:line:0cef691": {
+  "pl": "Idź <style=\"vis_clue\">na wschód</style>.",
+  "status": "draft"
+ },
+ "n:line:0cf7498": {
+  "pl": "No dobra, idę na południe…",
+  "status": "draft"
+ },
+ "n:line:0cff530": {
+  "pl": "No, na razie gładko. Zobaczmy, co <style=\"clue\">odkryją te okulary…</style>",
+  "status": "draft"
+ },
+ "n:line:0d2aa3b": {
+  "pl": "Nie… na pewno wszystko gra. Ludzie opuszczają Akademię z różnych powodów. Kadrze możemy <i>całkowicie</i> ufać.",
+  "status": "draft"
+ },
+ "n:line:0d5191d": {
+  "pl": "Dobra, wracam…",
+  "status": "draft"
+ },
+ "n:line:0d5411a": {
+  "pl": "I nie zapomnij o mnie wspomnieć, jak będziesz się wszystkim chwalić. Odegrałam tu kluczową rolę!",
+  "status": "draft"
+ },
+ "n:line:0d55b0a": {
+  "pl": "Możesz <style=\"clue\">oddać bilet</style> bileterom, a po spektaklu spotkamy się na zewnątrz.",
+  "status": "draft"
+ },
+ "n:line:0d56ed9": {
+  "pl": "Dobra, idę na wschód…",
+  "status": "draft"
+ },
+ "n:line:0d6da2e": {
+  "pl": "Idź <style=\"vis_clue\">na południe</style>.",
+  "status": "draft"
+ },
+ "n:line:0d772ce": {
+  "pl": "Słyszymy cię głośno i wyraźnie!",
+  "status": "draft"
+ },
+ "n:line:0d7a5de": {
+  "pl": "Uff, dobra! <i>Jestem w środku!</i> <style=\"clue\">Otworzę drzwi</style> od środka.",
+  "status": "draft"
+ },
+ "n:line:0da19ff": {
+  "pl": "Mam jeszcze parę asów w rękawie, więc uważaj!",
+  "status": "draft"
+ },
+ "n:line:0da6f2d": {
+  "pl": "Idź <style=\"vis_clue\">na północ</style>.",
+  "status": "draft"
+ },
+ "n:line:0db7b3b": {
+  "pl": "Przyjęłam! Idę na wschód…",
+  "status": "draft"
+ },
+ "n:line:0dc6f77": {
+  "pl": "Spokojnie! <i>Któraś</i> musi być dobra. <style=\"clue\">Mów, co widzisz</style>, a resztę ogarniemy.",
+  "status": "draft"
+ },
+ "n:line:0dd0ff1": {
+  "pl": "Nie wyglądasz mi na fankę historii.",
+  "status": "draft"
+ },
+ "n:line:0de1c83": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:0df1739": {
+  "pl": "To nie byłby pierwszy raz, gdy Akademia kogoś przeżuła i wypluła.",
+  "status": "draft"
+ },
+ "n:line:0e3b917": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0e53808": {
+  "pl": "Między zamartwianiem się Kiry a gadaniną Reeda… coraz trudniej mi się skupić, kiedy w powietrzu wisi tyle tajemnic.",
+  "status": "draft"
+ },
+ "n:line:0e628f0": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0e660f7": {
+  "pl": "Daj mi ją.",
+  "status": "draft"
+ },
+ "n:line:0e8fdc9": {
+  "pl": "Okej, idę na południe…",
+  "status": "draft"
+ },
+ "n:line:0ec6561": {
+  "pl": "Święte słowa. Nie mogę się doczekać, aż to upokorzenie się skończy…",
+  "status": "draft"
+ },
+ "n:line:0ed0469": {
+  "pl": "Ach, dobra, staroświecka <style=\"clue\">zagadka logiczna!</style> Widać, że Akademia nie zmieniła się aż <i>tak bardzo</i> przez 200 lat…",
+  "status": "draft"
+ },
+ "n:line:0edd925": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0ee1f17": {
+  "pl": "Mam jeszcze kilka spraw do załatwienia na kampusie.",
+  "status": "draft"
+ },
+ "n:line:0ee3bf3": {
+  "pl": "Okej, idę na południe…",
+  "status": "draft"
+ },
+ "n:line:0ef8a9e": {
+  "pl": "Znowu wyciągnęliśmy Akademię z opresji w tym roku, co nie?",
+  "status": "draft"
+ },
+ "n:line:0f09e1b": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0f0e663": {
+  "pl": "Najpierw mam do załatwienia parę innych rzeczy.",
+  "status": "draft"
+ },
+ "n:line:0f0f9ea": {
+  "pl": "Dorastanie w rodzinie takiej jak moja sprawia, że historia tego miejsca nabiera szczególnego ciężaru.",
+  "status": "draft"
+ },
+ "n:line:0f18023": {
+  "pl": "Co nie ma w ogóle sensu! Przecież to ty jesteś największym oczkiem w głowie Solange. <i>Niezła</i> zniewaga.",
+  "status": "draft"
+ },
+ "n:line:0f19140": {
+  "pl": "No halo, przecież tam byłam. Pamiętam wszystkie zagadkowe szczegóły.",
+  "status": "draft"
+ },
+ "n:line:0f1c089": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:0f2431f": {
+  "pl": "Okej… tylko się nie przemęcz!",
+  "status": "draft"
+ },
+ "n:line:0f28f3e": {
+  "pl": "Idź <style=\"vis_clue\">na wschód</style>.",
+  "status": "draft"
+ },
+ "n:line:0f45e36": {
+  "pl": "Ech! Liczyłam, że to ja dostanę w tym roku pierwsze podejrzane wyzwanie od Solange...",
+  "status": "draft"
+ },
+ "n:line:0f4c3f3": {
+  "pl": "Wróć na <style=\"vis_clue\">zachód</style>.",
+  "status": "draft"
+ },
+ "n:line:0f5fc7d": {
+  "pl": "Skoro Alistaira wyszorowano z ksiąg historii na amen, musiało chodzić o coś <i>naprawdę</i> pokręconego…",
+  "status": "draft"
+ },
+ "n:line:0f94fcb": {
+  "pl": "Wiem, że <i>powinnam</i>, ale…",
+  "status": "draft"
+ },
+ "n:line:0f9a025": {
+  "pl": "Okej, wchodzę do komory. Mogę iść <style=\"clue\">na północ albo na południe</style>.",
+  "status": "draft"
+ },
+ "n:line:0fbd7d2": {
+  "pl": "Może! Ale ty tego nie zrozumiesz. Nie musisz sprostać niemożliwym wymaganiom ani nosić rodzinnego nazwiska, które zobowiązuje…",
+  "status": "draft"
+ },
+ "n:line:0fbe35f": {
+  "pl": "Daj mi chwilę, spojrzę na mapy…",
+  "status": "draft"
+ },
+ "n:line:0fc4a2e": {
+  "pl": "I dokładnie tam zostaniesz!",
+  "status": "draft"
+ },
+ "n:line:0fcf0b8": {
+  "pl": "Dobra, idę na wschód…",
+  "status": "draft"
+ },
+ "n:line:0fd9fbf": {
+  "pl": "Co widzisz, Gillian?",
+  "status": "draft"
+ },
+ "n:line:0fe127c": {
+  "pl": "Idź <style=\"vis_clue\">na zachód, do zaworu</style>.",
+  "status": "draft"
+ },
+ "n:line:0ffb02b": {
+  "pl": "Idź <style=\"vis_clue\">na północ, do skrzynki z narzędziami</style>.",
+  "status": "draft"
+ },
+ "n:line:0ffb7b7": {
+  "pl": "Przyhamuj trochę z tą radością…",
+  "status": "draft"
+ }
+}

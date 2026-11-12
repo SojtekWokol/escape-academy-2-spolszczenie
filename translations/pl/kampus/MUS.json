@@ -1,0 +1,1202 @@
+{
+ "g:MUS_Allie": {
+  "pl": "Allie",
+  "status": "draft"
+ },
+ "g:MUS_ArtPattern": {
+  "pl": "Dokończ wzór, a potem policz swoje szczęśliwe gwiazdki!",
+  "status": "draft"
+ },
+ "g:MUS_BassDrum": {
+  "pl": "Bęben basowy",
+  "status": "draft"
+ },
+ "g:MUS_CantPlay": {
+  "pl": "Bez kostki do gitary nic nie zagram…",
+  "status": "draft"
+ },
+ "g:MUS_Cipher_NotCiphered": {
+  "pl": "To nie jest zaszyfrowane. Czy mam coś bardziej poplątanego?",
+  "status": "draft"
+ },
+ "g:MUS_Cipher_QuestDesc": {
+  "pl": "Pracuj z Jebem w Centrum Szyfrów, żeby odblokować nuty Fernanda.",
+  "status": "draft"
+ },
+ "g:MUS_Cipher_QuestName": {
+  "pl": "Odszyfrować melodie",
+  "status": "draft"
+ },
+ "g:MUS_Cipher_QuestObj1": {
+  "pl": "Porozmawiaj z prof. Jebersonem w Centrum Szyfrów",
+  "status": "draft"
+ },
+ "g:MUS_Cipher_QuestObj2": {
+  "pl": "Otwórz pozytywkę Fernanda.",
+  "status": "draft"
+ },
+ "g:MUS_Cipher_QuestObj3": {
+  "pl": "Oddaj nuty prof. Jebersonowi.",
+  "status": "draft"
+ },
+ "g:MUS_Cipher_ReadyToGo": {
+  "pl": "Dobra, odpalamy maszynę!",
+  "status": "draft"
+ },
+ "g:MUS_CluebellPairings": {
+  "pl": "Zestawienia dzwonków-wskazówek",
+  "status": "review"
+ },
+ "g:MUS_CluebellSubtitle": {
+  "pl": "Gdy fiolet idzie pierwszy…",
+  "status": "draft"
+ },
+ "g:MUS_Cluebells": {
+  "pl": "Dzwonki-wskazówki",
+  "status": "review"
+ },
+ "g:MUS_CookieJar": {
+  "pl": "Miejsce zbrodni…",
+  "status": "draft"
+ },
+ "g:MUS_CrashCymbal": {
+  "pl": "Talerz crash",
+  "status": "draft"
+ },
+ "g:MUS_CulpritInstructions": {
+  "pl": "Zakreśl trzech winowajców!",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Aber": {
+  "pl": "Aber",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Accuse": {
+  "pl": "Oskarż!",
+  "status": "review"
+ },
+ "g:MUS_Culprit_CaseClosed": {
+  "pl": "Sprawa zamknięta…",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Cheryl": {
+  "pl": "Cheryl",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Dally": {
+  "pl": "Dally",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Esther": {
+  "pl": "Esther",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Frank": {
+  "pl": "Frank",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Grace": {
+  "pl": "Grace",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Hellen": {
+  "pl": "Hellen",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Jules": {
+  "pl": "Jules",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Lila": {
+  "pl": "Lila",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Phillip": {
+  "pl": "Phillip",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Scoop": {
+  "pl": "Gorący temat dnia:",
+  "status": "draft"
+ },
+ "g:MUS_Culprit_Title": {
+  "pl": "Kto podkradł ciasteczka ze słoika?",
+  "status": "draft"
+ },
+ "g:MUS_Decrypt": {
+  "pl": "Trzeba coś włożyć, żeby to odszyfrować!",
+  "status": "draft"
+ },
+ "g:MUS_DecryptOMatic": {
+  "pl": "Deszyfromat 6000",
+  "status": "draft"
+ },
+ "g:MUS_DrummersLamentText": {
+  "pl": "Dwa razy werbel w sidła wpadł,<br>jeden bas w pułapkę się dał,<br>crash się rozległ,<br>a Tom padł na podłogę.",
+  "status": "review"
+ },
+ "g:MUS_EC_Archery_Obj1": {
+  "pl": "Odblokuj bezpieczniejszą strzałę.",
+  "status": "review"
+ },
+ "g:MUS_EC_Archery_Obj2": {
+  "pl": "Daj łucznikowi bezpieczniejszą strzałę.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Archery_QuestDescription": {
+  "pl": "Powstrzymaj nieostrożnego łucznika przed używaniem prawdziwych strzał w sztuczkach.",
+  "status": "review"
+ },
+ "g:MUS_EC_Archery_QuestName": {
+  "pl": "Strzała Wskazupida",
+  "status": "review"
+ },
+ "g:MUS_EC_ArrowInspection": {
+  "pl": "Ten grot jest wyjątkowy! Bezpieczny to on jednak nie jest…",
+  "status": "draft"
+ },
+ "g:MUS_EC_AztecBoxDone": {
+  "pl": "Lepiej nie zabierać więcej bezcennych skarbów.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Aztec_Objective1": {
+  "pl": "Otwórz pudełko-łamigłówkę.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Aztec_QuestDescription": {
+  "pl": "Pomóż koledze z klasy wyczyścić cenny artefakt.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Aztec_QuestDescriptionAlt": {
+  "pl": "Otwórz starożytną szkatułę, żeby nadgorliwy uczeń mógł ją wyczyścić.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Aztec_QuestName": {
+  "pl": "Zemsta Montewskazówy",
+  "status": "review"
+ },
+ "g:MUS_EC_EscapistTimes_Obj1": {
+  "pl": "Zakreśl winowajców na tablicy.",
+  "status": "draft"
+ },
+ "g:MUS_EC_EscapistTimes_QuestDesc": {
+  "pl": "Ustal, kto podkradł ciasteczka, żeby redakcja Kuriera Eskapisty mogła wrócić do pisania newsów!",
+  "status": "draft"
+ },
+ "g:MUS_EC_EscapistTimes_Title": {
+  "pl": "Najnowsze wskazówki!",
+  "status": "draft"
+ },
+ "g:MUS_EC_Lemonade_Obj1": {
+  "pl": "Wyrównaj porcje.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Lemonade_QuestDescription": {
+  "pl": "Pomóż koleżance z klasy równo rozlewać limetkadę.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Lemonade_QuestName": {
+  "pl": "Gdy życie daje ci limonki…",
+  "status": "draft"
+ },
+ "g:MUS_EC_Maze_Objective1": {
+  "pl": "Stań twarzą w twarz z potworem w sercu labiryntu.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Maze_Objective2": {
+  "pl": "Opowiedz Cliffordowi o swoim odkryciu.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Maze_QuestDescription": {
+  "pl": "Zbadaj plotki o potworze ukrytym w sercu żywopłotowego labiryntu.",
+  "status": "draft"
+ },
+ "g:MUS_EC_Maze_QuestName": {
+  "pl": "Labiryntastyczne bestie",
+  "status": "draft"
+ },
+ "g:MUS_Eighth": {
+  "pl": "Ósemka",
+  "status": "draft"
+ },
+ "g:MUS_Enora": {
+  "pl": "Enora",
+  "status": "draft"
+ },
+ "g:MUS_EscapistsHedge": {
+  "pl": "ESKA-POLE",
+  "status": "draft"
+ },
+ "g:MUS_FertilizerFull": {
+  "pl": "Teraz rozkwitamy!",
+  "status": "draft"
+ },
+ "g:MUS_Fertilizer_Item": {
+  "pl": "Eska-Pole",
+  "status": "draft"
+ },
+ "g:MUS_Fertilizer_Item_Description": {
+  "pl": "Smakuje trochę lepiej niż Eska-Cola",
+  "status": "draft"
+ },
+ "g:MUS_Fertilizers_Label": {
+  "pl": "Nawozy",
+  "status": "draft"
+ },
+ "g:MUS_FloorTom": {
+  "pl": "Tom podłogowy",
+  "status": "draft"
+ },
+ "g:MUS_Fourth": {
+  "pl": "Ćwierćnuta",
+  "status": "draft"
+ },
+ "g:MUS_GiveMeStrum": {
+  "pl": "Daj mi CHORD",
+  "status": "review"
+ },
+ "g:MUS_GiveMeStrum_PW": {
+  "pl": "default,default,pressed,pressed,default,default,default,pressed,default,default,default,default,default,default,pressed,default,default,pressed,default,default",
+  "status": "review"
+ },
+ "g:MUS_GreenhouseQuest": {
+  "pl": "Wąchać kwiatki od spodu",
+  "status": "draft"
+ },
+ "g:MUS_GreenhouseQuest_Description": {
+  "pl": "Złóż wieniec żałobny na ceremonię pożegnania prof. Von Belliniego",
+  "status": "draft"
+ },
+ "g:MUS_Greenhouse_QuestStep1": {
+  "pl": "Porozmawiaj z prof. Bonillą w szklarni",
+  "status": "draft"
+ },
+ "g:MUS_Greenhouse_QuestStep2": {
+  "pl": "Odblokuj nawóz",
+  "status": "draft"
+ },
+ "g:MUS_Greenhouse_QuestStep3": {
+  "pl": "Złóż wieniec",
+  "status": "draft"
+ },
+ "g:MUS_Greenhouse_QuestStep4": {
+  "pl": "Daj wieniec prof. Bonilli",
+  "status": "draft"
+ },
+ "g:MUS_HInt_SpinnerA": {
+  "pl": "Ustaw czerwone nacięcie pod górną strzałką, a potem użyj czerwonej kredki.",
+  "status": "draft"
+ },
+ "g:MUS_HInt_SpinnerB": {
+  "pl": "Co widzisz, gdy użyjesz wszystkich kolorów?",
+  "status": "draft"
+ },
+ "g:MUS_Half": {
+  "pl": "Półnuta",
+  "status": "draft"
+ },
+ "g:MUS_HiHat": {
+  "pl": "Hi-hat",
+  "status": "draft"
+ },
+ "g:MUS_Hint_Bribe": {
+  "pl": "Przekup wokalistkę.",
+  "status": "review"
+ },
+ "g:MUS_Hint_ClayA": {
+  "pl": "Gliniane wazy układają się we wzór. Wyrzeźbij brakującą wazę…",
+  "status": "draft"
+ },
+ "g:MUS_Hint_ClayB": {
+  "pl": "…i zobacz, co zasłania na plakacie.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_DrumA": {
+  "pl": "Ta nuta zawiera zaszyfrowane instrukcje.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_DrumB": {
+  "pl": "Zacznij od dwóch uderzeń w werbel…",
+  "status": "review"
+ },
+ "g:MUS_Hint_Faculty": {
+  "pl": "Porozmawiaj z kadrą na dziedzińcu.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_FertilizerA": {
+  "pl": "Podążaj za kolorowymi wzorami…",
+  "status": "draft"
+ },
+ "g:MUS_Hint_FertilizerB": {
+  "pl": "…na tych pnączach, aż dotrzesz do kształtu.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_GrowFlower": {
+  "pl": "Wyhoduj i zerwij trzy rodzaje kwiatów.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_Invisible": {
+  "pl": "Ta maszyna chyba teraz się przyda.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_MemorialPrep": {
+  "pl": "Najpierw dokończ pozostałe przygotowania!",
+  "status": "draft"
+ },
+ "g:MUS_Hint_NotesA": {
+  "pl": "Każdy takt musi dawać tę samą liczbę uderzeń. Ostatni wymaga całej nuty.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_NotesB": {
+  "pl": "Jeśli nie znasz nut, to ci pomoże!",
+  "status": "draft"
+ },
+ "g:MUS_Hint_Paint": {
+  "pl": "Namaluj arcydzieło!",
+  "status": "draft"
+ },
+ "g:MUS_Hint_PaintTubesA": {
+  "pl": "Naciskaj od najmniejszej do największej liczby rogów. Pierwszy jest kształt łzy.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_PaintTubesB": {
+  "pl": "Wymieszaj kolory wewnątrz każdego kształtu!",
+  "status": "draft"
+ },
+ "g:MUS_Hint_PianoA": {
+  "pl": "Posłuchaj nut, które gra pianista…",
+  "status": "draft"
+ },
+ "g:MUS_Hint_PianoB": {
+  "pl": "…i graj melodię dalej.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_PianoC": {
+  "pl": "Jeśli nie znasz nut, to ci pomoże!",
+  "status": "draft"
+ },
+ "g:MUS_Hint_PoemA": {
+  "pl": "Z tego wiersza wynika, że…",
+  "status": "draft"
+ },
+ "g:MUS_Hint_PoemB": {
+  "pl": "…pierwsze dwa kwiaty powinny być fioletowe.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_SliderA": {
+  "pl": "Pierwsza nuta zaczyna się pośrodku…",
+  "status": "draft"
+ },
+ "g:MUS_Hint_SliderB": {
+  "pl": "Następna nuta jest trzy miejsca niżej…",
+  "status": "draft"
+ },
+ "g:MUS_Hint_StrumA": {
+  "pl": "Co wpisać w luki? To po prostu alfabet!",
+  "status": "draft"
+ },
+ "g:MUS_Hint_StrumB": {
+  "pl": "Ułóż „CHORD” na progach!",
+  "status": "review"
+ },
+ "g:MUS_Hint_TromboneA": {
+  "pl": "Ta nuta zawiera zaszyfrowane instrukcje.",
+  "status": "draft"
+ },
+ "g:MUS_Hint_TromboneB": {
+  "pl": "Zacznij od koła, potem przesuń się do pięciokąta…",
+  "status": "draft"
+ },
+ "g:MUS_Hint_XylophoneA": {
+  "pl": "Zagraj melodię z tej strony…",
+  "status": "draft"
+ },
+ "g:MUS_Hint_XylophoneB": {
+  "pl": "…na tym ksylofonie!",
+  "status": "draft"
+ },
+ "g:MUS_InsertFertilizer": {
+  "pl": "Tej donicy przydałoby się trochę nawozu…",
+  "status": "draft"
+ },
+ "g:MUS_InsertFlower": {
+  "pl": "Jaki kwiat tu pasuje?",
+  "status": "draft"
+ },
+ "g:MUS_Instruments_QuestDesc": {
+  "pl": "Zwerbuj muzyków, którzy zagrają na uroczystości ku pamięci Von Bellini.",
+  "status": "draft"
+ },
+ "g:MUS_Instruments_QuestName": {
+  "pl": "Zgrany zespół",
+  "status": "draft"
+ },
+ "g:MUS_Instruments_QuestObj1": {
+  "pl": "Porozmawiaj z prof. Chortkoff w studiu muzycznym.",
+  "status": "draft"
+ },
+ "g:MUS_Instruments_QuestObj2": {
+  "pl": "Zwerbuj perkusistę.",
+  "status": "draft"
+ },
+ "g:MUS_Instruments_QuestObj3": {
+  "pl": "Zwerbuj puzonistę.",
+  "status": "draft"
+ },
+ "g:MUS_Instruments_QuestObj4": {
+  "pl": "Zwerbuj pianistę.",
+  "status": "draft"
+ },
+ "g:MUS_Instruments_QuestObj4b": {
+  "pl": "Znajdź kogoś, kto zaśpiewa.",
+  "status": "review"
+ },
+ "g:MUS_Instruments_QuestObj5": {
+  "pl": "Przedstaw zespół prof. Chortkoff.",
+  "status": "draft"
+ },
+ "g:MUS_Instruments_QuestObj6": {
+  "pl": "Przedstaw zespół prof. Chortkoff.",
+  "status": "draft"
+ },
+ "g:MUS_Instruments_QuestObj_Group": {
+  "pl": "Zwerbuj członków zespołu jazzowego.",
+  "status": "draft"
+ },
+ "g:MUS_InvisibleInkLever": {
+  "pl": "Nie ma tu nic, co dałoby się uwidocznić!",
+  "status": "draft"
+ },
+ "g:MUS_InvisibleInkMachineName": {
+  "pl": "Ujawniatron niewidzialnego atramentu 8000",
+  "status": "draft"
+ },
+ "g:MUS_ItemDescription_FinishedPainting": {
+  "pl": "Spoczywaj w zagadkach",
+  "status": "draft"
+ },
+ "g:MUS_Item_AlmaMaterSheetMusic": {
+  "pl": "Nuty „Alma Mater”",
+  "status": "draft"
+ },
+ "g:MUS_Item_BoxingGloves": {
+  "pl": "Rękawice bokserskie",
+  "status": "review"
+ },
+ "g:MUS_Item_CabinetKey": {
+  "pl": "Klucz",
+  "status": "draft"
+ },
+ "g:MUS_Item_Clay": {
+  "pl": "Glina",
+  "status": "draft"
+ },
+ "g:MUS_Item_Cluebells": {
+  "pl": "Podpowiedzwonki",
+  "status": "review"
+ },
+ "g:MUS_Item_DrummersLament": {
+  "pl": "Lament perkusisty",
+  "status": "draft"
+ },
+ "g:MUS_Item_FinishedPainting": {
+  "pl": "Portret prof. Von Belliniego",
+  "status": "draft"
+ },
+ "g:MUS_Item_GuitarPick": {
+  "pl": "Kostka do gitary",
+  "status": "draft"
+ },
+ "g:MUS_Item_GuitarStrumChart": {
+  "pl": "Schemat uderzeń gitary",
+  "status": "draft"
+ },
+ "g:MUS_Item_GuitarStrumChartInvisible": {
+  "pl": "Niepodpisany schemat",
+  "status": "draft"
+ },
+ "g:MUS_Item_JazzyCircle": {
+  "pl": "Zaproszenie na jazz",
+  "status": "draft"
+ },
+ "g:MUS_Item_KeythovensFifth": {
+  "pl": "Piąta Kluczhovena",
+  "status": "draft"
+ },
+ "g:MUS_Item_Lockscomb": {
+  "pl": "Kłódkoczub",
+  "status": "review"
+ },
+ "g:MUS_Item_Marbles": {
+  "pl": "Kulki",
+  "status": "draft"
+ },
+ "g:MUS_Item_MusicNotationKey": {
+  "pl": "Klucz nutowy",
+  "status": "draft"
+ },
+ "g:MUS_Item_NotesSequence": {
+  "pl": "Notatka o nutach",
+  "status": "draft"
+ },
+ "g:MUS_Item_NotesSequenceEncrypted": {
+  "pl": "Zaszyfrowana notatka",
+  "status": "draft"
+ },
+ "g:MUS_Item_Popkeys": {
+  "pl": "Kluczmaki",
+  "status": "review"
+ },
+ "g:MUS_Item_Sameer's_Key": {
+  "pl": "Klucz",
+  "status": "draft"
+ },
+ "g:MUS_Item_ShapesStencil": {
+  "pl": "Szablon kształtów",
+  "status": "draft"
+ },
+ "g:MUS_Item_SprayPaint": {
+  "pl": "Farba w sprayu",
+  "status": "draft"
+ },
+ "g:MUS_Item_StencilA": {
+  "pl": "Szablon A",
+  "status": "draft"
+ },
+ "g:MUS_Item_StencilB": {
+  "pl": "Szablon B",
+  "status": "draft"
+ },
+ "g:MUS_Item_StencilC": {
+  "pl": "Szablon C",
+  "status": "draft"
+ },
+ "g:MUS_Item_StencilD": {
+  "pl": "Szablon D",
+  "status": "draft"
+ },
+ "g:MUS_Item_StrumChart_Subtitle": {
+  "pl": "Jakie tajemnicze! ",
+  "status": "review"
+ },
+ "g:MUS_Item_SuctionCupArrow": {
+  "pl": "Strzała z przyssawką",
+  "status": "draft"
+ },
+ "g:MUS_Item_Vase": {
+  "pl": "Rzucony wazon",
+  "status": "draft"
+ },
+ "g:MUS_JazzyInvite": {
+  "pl": "Chcesz dołączyć do naszego jazzowego koła? Tylko bez pięciu minut focha. Jeśli jesteś prawdziwym kwadratem, czas spojrzeć pod innym kątem – trójkątem. Inaczej wylecisz stąd na sześć!",
+  "status": "review"
+ },
+ "g:MUS_KeythovensFifth": {
+  "pl": "Piąta Kluczhovena",
+  "status": "review"
+ },
+ "g:MUS_LION_PW": {
+  "pl": "L,I,O,N",
+  "status": "review"
+ },
+ "g:MUS_LimeonadeSign": {
+  "pl": "Limetkada",
+  "status": "review"
+ },
+ "g:MUS_LockedAztec": {
+  "pl": "Ta strona jest zamknięta…",
+  "status": "draft"
+ },
+ "g:MUS_LockscombPairings": {
+  "pl": "Zestawienia zamkogrzebi",
+  "status": "draft"
+ },
+ "g:MUS_LockscombSubtitle": {
+  "pl": "Gdy różowy wyprzedza…",
+  "status": "draft"
+ },
+ "g:MUS_Lockscombs": {
+  "pl": "Zamkogrzeby",
+  "status": "review"
+ },
+ "g:MUS_MarbleLockSolvedMessage": {
+  "pl": "Wszystko wygląda w porządku!",
+  "status": "draft"
+ },
+ "g:MUS_Meaning": {
+  "pl": "Znaczenie",
+  "status": "draft"
+ },
+ "g:MUS_Measure1": {
+  "pl": "Takt 1",
+  "status": "draft"
+ },
+ "g:MUS_Measure2": {
+  "pl": "Takt 2",
+  "status": "draft"
+ },
+ "g:MUS_MeasureOneWhole": {
+  "pl": "KAŻDY TAKT<br>RÓWNA SIĘ<br>JEDNEJ CAŁEJ NUCIE",
+  "status": "draft"
+ },
+ "g:MUS_MemorialPrep": {
+  "pl": "Dokończ przygotowania do ceremonii pożegnania.",
+  "status": "draft"
+ },
+ "g:MUS_Memorial_QuestDesc": {
+  "pl": "Porozmawiaj z prof. Chortkoff na Scenie w Ogrodzie i urządź pożegnalny występ, który zostanie w pamięci.",
+  "status": "draft"
+ },
+ "g:MUS_Memorial_QuestName": {
+  "pl": "Von, ale nie zapomniany",
+  "status": "draft"
+ },
+ "g:MUS_Memorial_QuestObj1": {
+  "pl": "Porozmawiaj z prof. Chortkoff przy scenie w ogrodach kampusu",
+  "status": "draft"
+ },
+ "g:MUS_NoPottery": {
+  "pl": "Nie ma jeszcze ceramiki do zabrania…",
+  "status": "draft"
+ },
+ "g:MUS_Note": {
+  "pl": "NUTA",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Accordionist": {
+  "pl": "Akordeonista",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Cellist": {
+  "pl": "Wiolonczelista",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Drummer": {
+  "pl": "Perkusista",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Flautist": {
+  "pl": "Flecista",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Guitarist": {
+  "pl": "Gitarzysta",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Harpist": {
+  "pl": "Harfista",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Header": {
+  "pl": "Zawód",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Pianist": {
+  "pl": "Pianista",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Trumpeter": {
+  "pl": "Trębacz",
+  "status": "draft"
+ },
+ "g:MUS_Occupation_Violinist": {
+  "pl": "Skrzypek",
+  "status": "draft"
+ },
+ "g:MUS_OrSomething": {
+  "pl": "Malujemy! (czy coś)",
+  "status": "draft"
+ },
+ "g:MUS_Painting_QuestDescription": {
+  "pl": "Pomóż prof. Slipowi namalować pamiątkowy portret prof. Von Bellini.",
+  "status": "draft"
+ },
+ "g:MUS_Painting_QuestName": {
+  "pl": "Spoczywaj w farbie",
+  "status": "draft"
+ },
+ "g:MUS_Painting_QuestObj1": {
+  "pl": "Porozmawiaj z prof. Slipem w pracowni plastycznej.",
+  "status": "draft"
+ },
+ "g:MUS_Painting_QuestObj2": {
+  "pl": "Namaluj portret prof. Von Bellini.",
+  "status": "draft"
+ },
+ "g:MUS_Painting_QuestObj3": {
+  "pl": "Oddaj go prof. Slipowi.",
+  "status": "draft"
+ },
+ "g:MUS_Paints": {
+  "pl": "Farby",
+  "status": "draft"
+ },
+ "g:MUS_Pairing": {
+  "pl": "Zestawienie",
+  "status": "draft"
+ },
+ "g:MUS_Play": {
+  "pl": "Graj",
+  "status": "draft"
+ },
+ "g:MUS_PopkeyPairings": {
+  "pl": "Zestawienia kluczmaków",
+  "status": "review"
+ },
+ "g:MUS_PopkeySubtitle": {
+  "pl": "Gdy pomarańcz idzie pierwszy…",
+  "status": "draft"
+ },
+ "g:MUS_Popkeys": {
+  "pl": "Kluczmaki",
+  "status": "review"
+ },
+ "g:MUS_Quip1": {
+  "pl": "Wygląda na to, że wszystko mieści się w taktach!",
+  "status": "review"
+ },
+ "g:MUS_RIP": {
+  "pl": "Spoczywaj w zagadkach",
+  "status": "draft"
+ },
+ "g:MUS_Reset": {
+  "pl": "Reset",
+  "status": "draft"
+ },
+ "g:MUS_RideCymbal": {
+  "pl": "Talerz ride",
+  "status": "draft"
+ },
+ "g:MUS_RunDecryption": {
+  "pl": "Start",
+  "status": "draft"
+ },
+ "g:MUS_SignedTony": {
+  "pl": "Podpisano,<br>Tony Puzon",
+  "status": "draft"
+ },
+ "g:MUS_Slip": {
+  "pl": "Slip",
+  "status": "draft"
+ },
+ "g:MUS_Snare": {
+  "pl": "Werbel",
+  "status": "draft"
+ },
+ "g:MUS_SolvedSlidingNotes": {
+  "pl": "Nuty wyglądają świetnie! Ale jak brzmią?",
+  "status": "draft"
+ },
+ "g:MUS_SprayPaint": {
+  "pl": "Bez farby w sprayu nic nie zrobię…",
+  "status": "draft"
+ },
+ "g:MUS_Start_QuestDesc": {
+  "pl": "Porozmawiaj z kadrą na dziedzińcu i pomóż w przygotowaniu uroczystości ku pamięci Von Bellini.",
+  "status": "draft"
+ },
+ "g:MUS_Start_QuestName": {
+  "pl": "Dni Von-minione…",
+  "status": "review"
+ },
+ "g:MUS_Start_QuestObj1": {
+  "pl": "Porozmawiaj z kadrą na dziedzińcu.",
+  "status": "draft"
+ },
+ "g:MUS_StencilInstructions": {
+  "pl": "Obrotowy szablon:<br>Ustaw i koloruj!",
+  "status": "draft"
+ },
+ "g:MUS_StencilRequest": {
+  "pl": "Którego szablonu mam użyć?",
+  "status": "draft"
+ },
+ "g:MUS_Stencils": {
+  "pl": "Szablony",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC1R1": {
+  "pl": "A",
+  "status": "review"
+ },
+ "g:MUS_StrumChartC1R2": {
+  "pl": "B",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC1R3": {
+  "pl": "C",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC1R4": {
+  "pl": "D",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC2R1": {
+  "pl": "E",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC2R2": {
+  "pl": "F",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC2R3": {
+  "pl": "G",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC2R4": {
+  "pl": "H",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC3R1": {
+  "pl": "I",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC3R2": {
+  "pl": "J",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC3R3": {
+  "pl": "K",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC3R4": {
+  "pl": "L",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC4R1": {
+  "pl": "M",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC4R2": {
+  "pl": "N",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC4R3": {
+  "pl": "O",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC4R4": {
+  "pl": "P",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC5R1": {
+  "pl": "Q",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC5R2": {
+  "pl": "R",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC5R3": {
+  "pl": "S",
+  "status": "draft"
+ },
+ "g:MUS_StrumChartC5R4": {
+  "pl": "T",
+  "status": "draft"
+ },
+ "g:MUS_SuctionCupArrows": {
+  "pl": "Strzały z przyssawkami",
+  "status": "draft"
+ },
+ "g:MUS_Supplies": {
+  "pl": "Przybory malarskie",
+  "status": "draft"
+ },
+ "g:MUS_TakeNote": {
+  "pl": "ZANOTUJ:",
+  "status": "draft"
+ },
+ "g:MUS_Whole": {
+  "pl": "Cała nuta",
+  "status": "draft"
+ },
+ "g:MUS_WreathAssemblyInstructions": {
+  "pl": "Układanie wieńca:<br>Ułóż kwiaty tak, by opowiedzieć wiersz",
+  "status": "draft"
+ },
+ "g:MUS_WreathOrangetoOrange": {
+  "pl": "„Wielka zagadka<br> na niebie”",
+  "status": "draft"
+ },
+ "g:MUS_WreathOrangetoPink": {
+  "pl": "„Wielki sejf w ziemi”",
+  "status": "draft"
+ },
+ "g:MUS_WreathOrangetoPurple": {
+  "pl": "„Miłośnik handlu”",
+  "status": "draft"
+ },
+ "g:MUS_WreathPinktoOrange": {
+  "pl": "„Czujemy wielki smutek”",
+  "status": "draft"
+ },
+ "g:MUS_WreathPinktoPink": {
+  "pl": "„Nie czujemy smutku”",
+  "status": "draft"
+ },
+ "g:MUS_WreathPinktoPurple": {
+  "pl": "„Miłośnik sztuki”",
+  "status": "draft"
+ },
+ "g:MUS_WreathPoem": {
+  "pl": "Błyskotliwy człowiek nauki,<br>Któremu nauczanie przerwano zbyt wcześnie,<br>Będziemy płakać po jego stracie,<br>Gdy on rozwiązuje wielką zagadkę na niebie.",
+  "status": "review"
+ },
+ "g:MUS_WreathPurpletoOrange": {
+  "pl": "„Oczekiwany koniec”",
+  "status": "draft"
+ },
+ "g:MUS_WreathPurpletoPink": {
+  "pl": "„Nagła strata”",
+  "status": "draft"
+ },
+ "g:MUS_WreathPurpletoPurple": {
+  "pl": "„Miłośnik nauki”",
+  "status": "draft"
+ },
+ "g:MUS_Wreath_ItemName": {
+  "pl": "Wieniec pamięci",
+  "status": "draft"
+ },
+ "g:MUS_XylophoneMissingMarbles": {
+  "pl": "Brakuje kulek…",
+  "status": "draft"
+ },
+ "v:Allie_MUS_DontTrustChemicals": {
+  "pl": "Nawet ja nie ufam chemii w tym czymś.",
+  "status": "draft"
+ },
+ "v:Allie_MUS_FloralArrangements": {
+  "pl": "Szczerze, nie wiem, co Von Bellini myślał o kompozycjach kwiatowych. ",
+  "status": "draft"
+ },
+ "v:Allie_MUS_FlowerPower": {
+  "pl": "Flower power jest nieco przereklamowana, prawdziwą robotę robią liście.",
+  "status": "draft"
+ },
+ "v:Allie_MUS_LookAtThem": {
+  "pl": "Patrz, jak rosną.",
+  "status": "draft"
+ },
+ "v:Allie_MUS_SimplyLovely": {
+  "pl": "Ach, jak pięknie. Dobra uroczystość jest wreszcie na wyciągnięcie wieńca.",
+  "status": "review"
+ },
+ "v:Bonham_MUS_RealOriginal": {
+  "pl": "Wow. Naprawdę oryginalne.",
+  "status": "draft"
+ },
+ "v:Enora_MUS_BrassTax": {
+  "pl": "Teraz przechodzimy do konkretów – czyli do blachy.",
+  "status": "review"
+ },
+ "v:Enora_MUS_DoYouKnowWhoIAM": {
+  "pl": "Za kogo oni się mają, ci muzycy...",
+  "status": "draft"
+ },
+ "v:Enora_MUS_KeyToAnyEnsemble": {
+  "pl": "Dobry pianista to klucz... a właściwie klawisz do każdego zespołu.",
+  "status": "review"
+ },
+ "v:Enora_MUS_MemorialToRemember": {
+  "pl": "To będzie uroczystość, którą się zapamięta!",
+  "status": "draft"
+ },
+ "v:Enora_MUS_NeverBeBeat": {
+  "pl": "Ta uroczystość wybije się ponad wszystko!",
+  "status": "draft"
+ },
+ "v:Enora_MUS_SecondChairJazz": {
+  "pl": "Nie mogę uwierzyć, że utknęłam z zespołem jazzowym z drugiego szeregu.",
+  "status": "draft"
+ },
+ "v:Enora_MUS_SingingYourPrasies": {
+  "pl": "Jeśli wszystko pójdzie dobrze, wyśpiewam ci pochwały.",
+  "status": "draft"
+ },
+ "v:Jeb_MUS_BelliniBigReveal": {
+  "pl": "Von Bellini zawsze uwielbiał wielkie odsłonięcia.",
+  "status": "draft"
+ },
+ "v:Jeb_MUS_DecryptStudents": {
+  "pl": "Gdyby tylko to urządzenie umiało odszyfrować, co uczniowie o mnie myślą...",
+  "status": "draft"
+ },
+ "v:Jeb_MUS_DestroySelf": {
+  "pl": "Dobrze, że ta szkatułka-zagadka się sama nie zniszczy! A przynajmniej... chyba nie...",
+  "status": "draft"
+ },
+ "v:Jeb_MUS_KeepSelfComposed": {
+  "pl": "Jeb, kiedy nadejdzie pora, musisz zachować kompozycję.",
+  "status": "draft"
+ },
+ "v:Jeb_MUS_NeverForget": {
+  "pl": "Ach, Von Bellini... Akademia nigdy o tobie nie zapomni.",
+  "status": "draft"
+ },
+ "v:Jeb_MUS_NiceMeasured": {
+  "pl": "No i proszę – równo, jak w takcie.",
+  "status": "draft"
+ },
+ "v:Jeb_MUS_SoundsOfCipher": {
+  "pl": "Zawsze mnie wzrusza ten dźwięk ciszy... szyfrowania...",
+  "status": "draft"
+ },
+ "v:Jeb_MUS_StrikeChord": {
+  "pl": "Naprawdę mam nadzieję, że ta uroczystość poruszy czułą strunę w ludziach.",
+  "status": "draft"
+ },
+ "v:Jeb_MUS_TakingNotes": {
+  "pl": "Ojej – powinienem tu zapisywać nuty, a raczej notatki, prawda?",
+  "status": "draft"
+ },
+ "v:MUS_Archery_BringItOn": {
+  "pl": "Dawać mi tu! Niczego się nie boję!",
+  "status": "draft"
+ },
+ "v:MUS_Archery_WipeSmirk": {
+  "pl": "Zetrę ci ten uśmieszek z twarzy – razem z jabłkiem!",
+  "status": "draft"
+ },
+ "v:MUS_Aztec_CleanedOut": {
+  "pl": "Ta zagadka wyczyszczona do połysku!",
+  "status": "draft"
+ },
+ "v:MUS_EscapistTimes_FiredUnfired": {
+  "pl": "Nadal nic o złodzieju ciastek? Wylatujesz! Dobra, jednak nie – wracaj do roboty.",
+  "status": "draft"
+ },
+ "v:MUS_EscapistTimes_Headline": {
+  "pl": "Ciasteczkowy cwaniak w szponach Akademii. Taki mamy nagłówek.",
+  "status": "draft"
+ },
+ "v:MUS_EscapistTimes_Menace": {
+  "pl": "Złodziej ciastek zagraża całej Akademii!",
+  "status": "draft"
+ },
+ "v:MUS_EscapistTimes_OhYourSerious": {
+  "pl": "Hahahaha! Ach. Ty serio.",
+  "status": "draft"
+ },
+ "v:MUS_EscapistTimes_Pictures": {
+  "pl": "Natychmiast chcę zdjęcia złodzieja ciastek!",
+  "status": "draft"
+ },
+ "v:MUS_Maze_CouldBeAnything": {
+  "pl": "Tam może być wszystko!",
+  "status": "draft"
+ },
+ "v:MUS_Maze_DidHear": {
+  "pl": "Słyszysz to?",
+  "status": "draft"
+ },
+ "v:MUS_Maze_StandByAfraid": {
+  "pl": "N-No to ja zostaję przy swoim: boję się!",
+  "status": "draft"
+ },
+ "v:SLIP_MUS_BartonColorful": {
+  "pl": "Barton to był kolorowy typ, co?",
+  "status": "draft"
+ },
+ "v:SLIP_MUS_BeautifulBarton": {
+  "pl": "To jest piękny Barton.",
+  "status": "draft"
+ },
+ "v:SLIP_MUS_LionsShareOfArtists": {
+  "pl": "Lwia część wielkich artystów zaczynała od ołówka. ",
+  "status": "draft"
+ },
+ "v:SLIP_MUS_MusicIsLikeOnions": {
+  "pl": "Dobre dzieło sztuki zawsze ma warstwy.",
+  "status": "draft"
+ },
+ "v:SLIP_MUS_NoPainPun": {
+  "pl": "Bez farby nie ma kołaczy.",
+  "status": "review"
+ },
+ "v:SLIP_MUS_RestOfMyPaints": {
+  "pl": "Nigdy się nie dowiecie, gdzie trzymam resztę farb.",
+  "status": "draft"
+ },
+ "v:row895": {
+  "pl": "♪ Gra nuta la ♪",
+  "status": "review"
+ },
+ "v:row896": {
+  "pl": "♪ Gra nuta si ♪",
+  "status": "draft"
+ },
+ "v:row897": {
+  "pl": "♪ Gra nuta do ♪",
+  "status": "draft"
+ },
+ "v:row898": {
+  "pl": "♪ Gra nuta re ♪",
+  "status": "draft"
+ },
+ "v:row899": {
+  "pl": "♪ Gra nuta mi ♪",
+  "status": "draft"
+ },
+ "v:row900": {
+  "pl": "♪ Gra nuta fa ♪",
+  "status": "draft"
+ },
+ "v:row901": {
+  "pl": "♪ Gra nuta sol ♪",
+  "status": "draft"
+ },
+ "v:row907": {
+  "pl": "♪ Grają 3 nuty ♪",
+  "status": "draft"
+ },
+ "v:row908": {
+  "pl": "♪ Akord gitary ♪",
+  "status": "draft"
+ },
+ "v:row909": {
+  "pl": "♪ Akord gitary ♪",
+  "status": "draft"
+ },
+ "v:row910": {
+  "pl": "♪ Gra nuta la ♪",
+  "status": "draft"
+ },
+ "v:row911": {
+  "pl": "♪ Gra nuta si ♪",
+  "status": "draft"
+ },
+ "v:row912": {
+  "pl": "♪ Gra nuta do ♪",
+  "status": "draft"
+ },
+ "v:row913": {
+  "pl": "♪ Gra nuta re ♪",
+  "status": "draft"
+ },
+ "v:row914": {
+  "pl": "♪ Gra nuta mi ♪",
+  "status": "draft"
+ },
+ "v:row915": {
+  "pl": "♪ Gra nuta fa ♪",
+  "status": "draft"
+ },
+ "v:row916": {
+  "pl": "♪ Gra nuta sol ♪",
+  "status": "draft"
+ },
+ "v:row917": {
+  "pl": "♪ Dźwięk perkusji ♪",
+  "status": "draft"
+ },
+ "v:row918": {
+  "pl": "♪ Uderzenie talerzy ♪",
+  "status": "draft"
+ },
+ "v:row919": {
+  "pl": "♪ Dźwięki puzonu ♪",
+  "status": "draft"
+ }
+}

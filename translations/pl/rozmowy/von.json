@@ -1,0 +1,726 @@
+{
+ "n:line:0005e8f": {
+  "pl": "Niech będzie. Pochłonięcie twojego umysłu sprawi mi największą przyjemność.",
+  "status": "draft"
+ },
+ "n:line:0012520": {
+  "pl": "Na szczęście te urządzenia <style=\"clue\">zapisują swoje odczyty</style>, więc pamięć nie jest potrzebna.",
+  "status": "draft"
+ },
+ "n:line:00196db": {
+  "pl": "Och. Do tego jakieś zbędne dodatki... Zabierz mi ten szmelc sprzed oczu! Niezbyt precyzyjna robota, eskapisto.",
+  "status": "draft"
+ },
+ "n:line:002eafa": {
+  "pl": "Przykro mi, nie jestem hydraulikiem.",
+  "status": "review"
+ },
+ "n:line:004224c": {
+  "pl": "Może szafka z zagadkami Jacoba była po prostu przeznaczona do spalarni...",
+  "status": "draft"
+ },
+ "n:line:005cd07": {
+  "pl": "Czemu sam sobie ich nie weźmiesz?",
+  "status": "draft"
+ },
+ "n:line:0066ac2": {
+  "pl": "<i>Prawdziwą</i> nauką?",
+  "status": "draft"
+ },
+ "n:line:00777ed": {
+  "pl": "Żeby zbić ją z tropu, to <i>ty</i> <style=\"clue\">zdobędziesz potrzebne materiały</style>.",
+  "status": "draft"
+ },
+ "n:line:007cee2": {
+  "pl": "Większość trudnej nauki mam już za sobą, wystarczy, że użyjesz mojego równania <style=\"clue\">z tablicy</style>.",
+  "status": "draft"
+ },
+ "n:line:00882b9": {
+  "pl": "Był list... ale przepadł.",
+  "status": "draft"
+ },
+ "n:line:00aa430": {
+  "pl": "Czas zanurzyć się w głębiny nieznanego, żeby przekonać się, czy uda nam się z nich wynurzyć?",
+  "status": "draft"
+ },
+ "n:line:00ae0af": {
+  "pl": "Wow! Jeśli ci się uda, to może nie porzucę marzeń.",
+  "status": "draft"
+ },
+ "n:line:00ae0c3": {
+  "pl": "Od o wiele za długiego czasu trzyma swój projekt końcowy z projektowania zagadek nad <style=\"clue\">Żarnicą Piecową</style>, co zdrowe nie jest.",
+  "status": "review"
+ },
+ "n:line:00bc101": {
+  "pl": "Jasne, stary, wchodzę w to. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:00bc1a2": {
+  "pl": "Dlaczego to robisz?",
+  "status": "draft"
+ },
+ "n:line:00f884a": {
+  "pl": "Miło zakończyć kadencję w pełni bezinteresownym czynem dla Akademii. Teraz może przygotować się na burzę!",
+  "status": "draft"
+ },
+ "n:line:0101e9c": {
+  "pl": "Nic z tego!",
+  "status": "draft"
+ },
+ "n:line:010d384": {
+  "pl": "Inaczej nie będę w stanie kontynuować misji założycieli. Nie zhańbię tak strasznie moich przyjaciół!",
+  "status": "draft"
+ },
+ "n:line:0121464": {
+  "pl": "Naprawdę <i>trzeba</i> ci to mówić?",
+  "status": "draft"
+ },
+ "n:line:0125ffa": {
+  "pl": "Tak! Tak!!! Teraz ja... yyy... <i>my</i> wiemy dokładnie, kiedy i gdzie uderzy Burza Mózgów.",
+  "status": "draft"
+ },
+ "n:line:0136363": {
+  "pl": "I <style=\"clue\">na podstawie danych</style> ustalić <style=\"clue\">datę nadejścia burzy</style>!",
+  "status": "draft"
+ },
+ "n:line:013d72e": {
+  "pl": "Chwileczkę... co to ma być? Gdzie moja druga pomoc laboratoryjna? <style=\"clue\">Potrzebuję was obojga tutaj</style>, żeby pomóc mi prowadzić ten statek!",
+  "status": "draft"
+ },
+ "n:line:013f1c9": {
+  "pl": "A kiedy pan się wyprowadza, ja się <i>wprowadzam.</i> <style=\"clue\">Z powrotem do mojego starego laboratorium</style>.",
+  "status": "draft"
+ },
+ "n:line:01443e8": {
+  "pl": "Arg!! To cholerstwo może wybuchnąć lada chwila. Nigdy by do tego nie doszło, gdyby Jeb nadal był dozorcą!",
+  "status": "draft"
+ },
+ "n:line:0147555": {
+  "pl": "Chwila... do mojej maszyny do mózgów ktoś wszedł z własnej woli?! HA!",
+  "status": "review"
+ },
+ "n:line:0147e31": {
+  "pl": "Te nudne kursy narzucone przez Solange poszły ci migiem. Imponujące! Teraz czas na zabawę.",
+  "status": "draft"
+ },
+ "n:line:014bcdb": {
+  "pl": "Dlaczego to robisz?",
+  "status": "draft"
+ },
+ "n:line:0151b91": {
+  "pl": "Wiesz, stary, przydałyby ci się tu okulary przeciwsłoneczne. Inaczej możesz uszkodzić swoje sfery oczne…",
+  "status": "draft"
+ },
+ "n:line:015abb0": {
+  "pl": "Czyli ten rok to pański ostatni w Akademii, co?",
+  "status": "review"
+ },
+ "n:line:017fe9c": {
+  "pl": "Przykro mi, że musisz się męczyć z tym ogłupiającym programem narzuconym przez Akademię. Widzę w tobie iskrę, którą byłoby karygodnym zaniedbaniem nie wykorzystać!",
+  "status": "draft"
+ },
+ "n:line:01c984e": {
+  "pl": "<i>Teraz</i> możemy zaczynać? Im dłużej czekamy, tym większe ryzyko, że Solange nas przyłapie.",
+  "status": "draft"
+ },
+ "n:line:01dc17f": {
+  "pl": "Jak się używa całego tego sprzętu?",
+  "status": "draft"
+ },
+ "n:line:01e4139": {
+  "pl": "Pozwól mi opłakiwać w spokoju…",
+  "status": "draft"
+ },
+ "n:line:022c420": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:0252470": {
+  "pl": "Dotrzymuję obietnicy, którą złożyłem pozostałym założycielom!",
+  "status": "draft"
+ },
+ "n:line:025fed9": {
+  "pl": "Dlaczego? <i>DLACZEGO?</I> Jeśli tak chcesz spędzić swoje ostatnie chwile, niech będzie.",
+  "status": "draft"
+ },
+ "n:line:02818a3": {
+  "pl": "Może moim prawdziwym powołaniem jest rozwiązywanie zagadek, a nie ich tworzenie…",
+  "status": "draft"
+ },
+ "n:line:028ec58": {
+  "pl": "Tak, wszyscy inni mają zdecydowanie rację.",
+  "status": "draft"
+ },
+ "n:line:02970fe": {
+  "pl": "Przysięgam, że we dwóch nie mają ani jednego sprawnego mózgu...",
+  "status": "draft"
+ },
+ "n:line:02a7f0a": {
+  "pl": "Razem stworzyliśmy tę szkołę i razem mieliśmy <i>nią kierować</i>, daleko w przyszłość.",
+  "status": "draft"
+ },
+ "n:line:02b67fe": {
+  "pl": "I oddać swoje idealne miejsce na plaży? Zapomnij, stary.",
+  "status": "draft"
+ },
+ "n:line:02cb6f3": {
+  "pl": "Wraca moja studencka pomoc!",
+  "status": "draft"
+ },
+ "n:line:033050d": {
+  "pl": "Jeszcze nie teraz...",
+  "status": "draft"
+ },
+ "n:line:0336708": {
+  "pl": "*Gul* To ja chyba… dalej będę próbował to naprawić.",
+  "status": "draft"
+ },
+ "n:line:0340c7d": {
+  "pl": "Dla mnie jest super… ale wszyscy inni nienawidzą tej gry z ognistą pasją. Stąd piec…",
+  "status": "draft"
+ },
+ "n:line:034e307": {
+  "pl": "Tak, chyba przyszła pora, bym przeszedł na emeryturę, reszta grona pedagogicznego z pewnością tak uważa...",
+  "status": "draft"
+ },
+ "n:line:03990b3": {
+  "pl": "Och, to małe zebranie rady pedagogicznej było... absolutnie bez powodu do zmartwień! Zostałem tylko niepotrzebnie zrugany za moją naukę. <i>Znowu</i>",
+  "status": "draft"
+ },
+ "n:line:039aa7e": {
+  "pl": "A, i to małe zebranie grona pedagogicznego nie miało z nami nic wspólnego, jesteśmy czyści! Zwykła, rutynowa kontrola kadry.",
+  "status": "draft"
+ },
+ "n:line:03a0355": {
+  "pl": "Ta zagadka jest zdecydowanie za łatwa.",
+  "status": "draft"
+ },
+ "n:line:03ba63d": {
+  "pl": "Na pewno kiedyś spojrzę wstecz na te wszystkie lata i pomyślę z rozrzewnieniem: „Miałem całkiem znośnych kolegów”.",
+  "status": "draft"
+ },
+ "n:line:03c5299": {
+  "pl": "Stoi przy <style=\"clue\">budce ratownika</style> i gapi się w słońce z szeroko otwartymi oczami. Mógłby chociaż nasmarować te maleństwa kremem!",
+  "status": "draft"
+ },
+ "n:line:03cbee7": {
+  "pl": "Mam je tutaj! <style=\"purchase\">(Daj materiały)</style>",
+  "status": "draft"
+ },
+ "n:line:03da8b0": {
+  "pl": "Wróć do mnie za sto lat, to zobaczymy, jakie dziedzictwo z tego wyszło.",
+  "status": "draft"
+ },
+ "n:line:03f6474": {
+  "pl": "I dokładnie sprawdź dane, które wpisujesz <style=\"clue\">na tablicy</style>. Jeden błędny punkt może zrujnować całe obliczenie!",
+  "status": "draft"
+ },
+ "n:line:04375b9": {
+  "pl": "Osobiście <style=\"clue\">opisałem każde urządzenie</style> podręczną podpowiedzią.",
+  "status": "draft"
+ },
+ "n:line:0487105": {
+  "pl": "Potem możesz <style=\"clue\">wrócić tutaj</style> i--",
+  "status": "draft"
+ },
+ "n:line:0488777": {
+  "pl": "Naprawdę!? Ojej, zdejmujesz ze mnie sporo ciśnienia.",
+  "status": "draft"
+ },
+ "n:line:04cac15": {
+  "pl": "Jeśli nie wiesz, jak coś działa, <style=\"clue\">dokładnie to obejrzyj</style>.",
+  "status": "draft"
+ },
+ "n:line:04e6bb8": {
+  "pl": "Palisz dziś coś fajnego?",
+  "status": "draft"
+ },
+ "n:line:04f29a5": {
+  "pl": "Jeśli to nie za wiele, przydałaby mi się <style=\"clue\">twoja pomoc</style>. Potrzebuję kogoś z kończynami.",
+  "status": "draft"
+ },
+ "n:line:05127bb": {
+  "pl": "Skup się na zadaniu, nie możemy pozwolić, żeby Solange przerwała naszą naukę!",
+  "status": "draft"
+ },
+ "n:line:0523320": {
+  "pl": "Trochę się martwię o <style=\"clue\">Kena Fruncha</style>...",
+  "status": "draft"
+ },
+ "n:line:0526ba8": {
+  "pl": "Pomogę, w końcu praktycznie jestem uczniem Jeba! <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:0529a31": {
+  "pl": "Wiem, że bywam trudny, ale... robię to tylko dlatego, że chcę, aby Akademia prosperowała jeszcze długo po tym, jak nas wszystkich zabraknie.",
+  "status": "draft"
+ },
+ "n:line:053a6bf": {
+  "pl": "Ooohhh, to rzeczywiście brzmi dużo zabawniej.",
+  "status": "draft"
+ },
+ "n:line:05558f9": {
+  "pl": "Wszyscy inni mówią, że to strata czasu, miejsca i energii.",
+  "status": "draft"
+ },
+ "n:line:0566be5": {
+  "pl": "Naprawdę powinieneś zrobić przerwę od patrzenia w tamtą stronę…",
+  "status": "draft"
+ },
+ "n:line:0584396": {
+  "pl": "Nie potrzebuję tej presji, ale jeśli chcesz <style=\"clue\">pomóc</style>, śmiało.",
+  "status": "draft"
+ },
+ "n:line:05a053d": {
+  "pl": "Wspaniale, to Sandra Solange!",
+  "status": "draft"
+ },
+ "n:line:05e7d28": {
+  "pl": "A ponieważ złamiemy parę zasad... musimy współpracować, żeby ukryć to przed czujnym okiem Solange.",
+  "status": "draft"
+ },
+ "n:line:05e83bd": {
+  "pl": "Skandal! Opóźnianie nauki to ciężki grzech. Po prostu-- wróć, jak już się zdecydujesz... I lepiej, żeby to było szybko.",
+  "status": "draft"
+ },
+ "n:line:060d60c": {
+  "pl": "Poza tym to na tobie spocznie odpowiedzialność za oddanie statku w jednym kawałku.",
+  "status": "draft"
+ },
+ "n:line:067b566": {
+  "pl": "Ja... zaraz was dogonię!",
+  "status": "draft"
+ },
+ "n:line:069d712": {
+  "pl": "Nie! Oczywiście, że nie. <i>Oczywiście, że nie.</i> Nie zrobiłbym tego swojemu następcy.",
+  "status": "draft"
+ },
+ "n:line:06a8ed0": {
+  "pl": "Och, osobiście nie zajmę się szczurem, to twoje zadanie. Mam na głowie transmutator soku mózgowego!",
+  "status": "draft"
+ },
+ "n:line:06cf271": {
+  "pl": "Moment, gdzie moja druga gwiazda roku? Alistair <style=\"clue\">musi to usłyszeć od nas wszystkich</style>.",
+  "status": "draft"
+ },
+ "n:line:06ee649": {
+  "pl": "Nie dałbym się złapać na jednej z teatralnych produkcji Enory, nawet gdybym miał umrzeć.",
+  "status": "draft"
+ },
+ "n:line:070a22b": {
+  "pl": "Ale to nic nowego. Właściwie... póki wszyscy są rozproszeni przez to <style=\"clue\">otwarcie muzeum</style>... mogę niepostrzeżenie uprawiać więcej nauki!",
+  "status": "draft"
+ },
+ "n:line:0771c83": {
+  "pl": "<i>Żartowałem!</i> To oczywiście Eska-dolary.",
+  "status": "draft"
+ },
+ "n:line:07d2134": {
+  "pl": "Dobrze! Ignoruj mnie. Jak wszyscy.",
+  "status": "draft"
+ },
+ "n:line:07e0537": {
+  "pl": "Moim zdaniem kiepsko wykorzystujesz swój czas.",
+  "status": "draft"
+ },
+ "n:line:07e623b": {
+  "pl": "Zawsze uważałam, że <style=\"clue\">okolicy dźwigów przydałoby się trochę koloru</style>, ale...",
+  "status": "draft"
+ },
+ "n:line:07f37a0": {
+  "pl": "Dzięki, stary! Będę je nosić cały czas. Nawet w środku! Masz tu trochę piaskowych dolarów za fatygę…",
+  "status": "draft"
+ },
+ "n:line:0810052": {
+  "pl": "Ta zagadka jest zdecydowanie za trudna.",
+  "status": "draft"
+ },
+ "n:line:083e6b4": {
+  "pl": "A może moje notatki z laboratorium leżą na tym piętrze...",
+  "status": "draft"
+ },
+ "n:line:0878b74": {
+  "pl": "Żegnaj, drogi przyjacielu… byłeś zbyt czysty na ten świat.",
+  "status": "draft"
+ },
+ "n:line:088927d": {
+  "pl": "Dlaczego to robisz?",
+  "status": "draft"
+ },
+ "n:line:089b521": {
+  "pl": "Można ruszać, kapi-- eee, panie profesorze! <style=\"story\">(Dalej z fabułą!)</style>",
+  "status": "draft"
+ },
+ "n:line:089e43d": {
+  "pl": "O, hej, stary! Prawie cię nie zauważyłem. Pewnie dlatego, że mam oczy spalone na skwarkę.",
+  "status": "draft"
+ },
+ "n:line:08a68aa": {
+  "pl": "Ken dostał okulary przeciwsłoneczne? Wow...",
+  "status": "draft"
+ },
+ "n:line:08bcb6e": {
+  "pl": "Ja się tylko popatrzę, jak pracujesz… z bezpiecznej odległości.",
+  "status": "draft"
+ },
+ "n:line:08da783": {
+  "pl": "Ta zagadka jest w sam raz!",
+  "status": "draft"
+ },
+ "n:line:08f2232": {
+  "pl": "Wpatrujesz się w słońce?",
+  "status": "draft"
+ },
+ "n:line:08f61ab": {
+  "pl": "Co się znowu dzieje w tym twoim mózgu?",
+  "status": "draft"
+ },
+ "n:line:08fa7b6": {
+  "pl": "Mógłbym przysiąc, że gdzieś tu spakowałem moje notatki z laboratorium...",
+  "status": "draft"
+ },
+ "n:line:0901756": {
+  "pl": "Jakby ktoś zaprojektował to specjalnie, żeby doprowadzać do szału. <style=\"clue\">Za każdym razem, gdy przekręcam zawór, wyskakuje nowy przeciek</style>!",
+  "status": "draft"
+ },
+ "n:line:0910e62": {
+  "pl": "Masz wszystkie wymagane <style=\"clue\">materiały?</style>",
+  "status": "draft"
+ },
+ "n:line:091c871": {
+  "pl": "Poza tym... skoro reszta kadry jest zajęta, pewnie ujdzie mi na sucho trochę więcej nauki przed emeryturą!",
+  "status": "draft"
+ },
+ "n:line:0921689": {
+  "pl": "Axel mógł wypuścić trochę pary! <i>I</i> rury naprawione.",
+  "status": "review"
+ },
+ "n:line:09555ef": {
+  "pl": "Nikt ci nigdy nie mówił, że stawanie między armatą a jej celem to kiepski pomysł?",
+  "status": "draft"
+ },
+ "n:line:0962e97": {
+  "pl": "Czasem się martwię, w jakim stanie bylibyśmy wszyscy bez naszej gwiazdy roku.",
+  "status": "draft"
+ },
+ "n:line:0971641": {
+  "pl": "Ale jeśli pozwolisz, naprawdę najwyższa pora, żebym zabrał się za pakowanie przed wyjazdem.",
+  "status": "draft"
+ },
+ "n:line:098a2a6": {
+  "pl": "Ja idę na dok przygotować statek, a ty zajrzyj do tych safandułów i pomóż im, dobrze?",
+  "status": "draft"
+ },
+ "n:line:099c274": {
+  "pl": "Kierowanie moją szkołą ci nie wystarczyło, a teraz jeszcze wchodzisz w drogę woli założycieli?",
+  "status": "draft"
+ },
+ "n:line:09a0048": {
+  "pl": "Nie tak szybko! Mogę spróbować? <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "draft"
+ },
+ "n:line:09c7551": {
+  "pl": "Ach, jesteś. Dobrze! Na mojej ostatniej lekcji jako starszy profesor nauk ścisłych będziemy śledzić <style=\"clue\">rzadkie zjawisko pogodowe</style> zwane <style=\"clue\">Burzą Mózgów!</style>",
+  "status": "draft"
+ },
+ "n:line:09ca18a": {
+  "pl": "Tylko przez najbliższe parę godzin!",
+  "status": "draft"
+ },
+ "n:line:09e105e": {
+  "pl": "Chyba to równanie się nie zgadza...",
+  "status": "draft"
+ },
+ "n:line:09e644e": {
+  "pl": "Z Solange było tam o włos, ale nauka zatriumfowała!",
+  "status": "draft"
+ },
+ "n:line:09e68b6": {
+  "pl": "Tak, ale jakoś nie chcę się z nimi rozstawać.",
+  "status": "draft"
+ },
+ "n:line:09f63e9": {
+  "pl": "I tak po prostu: własna skóra postawiona na szali dla sztuki. Nie wiem, czy to godne pochwały, czy idiotyczne.",
+  "status": "draft"
+ },
+ "n:line:0a08a61": {
+  "pl": "Dzięki, stary, jesteś wielki.",
+  "status": "draft"
+ },
+ "n:line:0a3f7af": {
+  "pl": "Nie wiem, czy mi kibicujesz, czy jesteś przeciwko mnie…",
+  "status": "draft"
+ },
+ "n:line:0a53477": {
+  "pl": "No i… podoba ci się?",
+  "status": "draft"
+ },
+ "n:line:0a6f933": {
+  "pl": "Jeśli nie masz problemu ze wspinaczką, podobno widoki <style=\"clue\">ze szczytu turbiny</style> są <i>zawrotne</i>.",
+  "status": "review"
+ },
+ "n:line:0a70364": {
+  "pl": "Muszę skupić się na absorpcji, jeśli mam doprowadzić to do końca.",
+  "status": "draft"
+ },
+ "n:line:0a8cada": {
+  "pl": "Jesteśmy zobowiązani pomóc.",
+  "status": "draft"
+ },
+ "n:line:0a8dd82": {
+  "pl": "Ups!",
+  "status": "draft"
+ },
+ "n:line:0a9cab8": {
+  "pl": "Zanim wypłyniemy, musimy <style=\"clue\">załadować statek</style> moimi rzeczami, ale <style=\"clue\">operatorzy dźwigów</style> twierdzą, że mają... „problemy”.",
+  "status": "draft"
+ },
+ "n:line:0aa4012": {
+  "pl": "Podobno jesteś gwiazdą Akademii, a rozumu i dalekowzroczności masz tyle, co jej dyrektorka...",
+  "status": "draft"
+ },
+ "n:line:0ab2de5": {
+  "pl": "No to chyba powinienem dalej porządkować sprawy związane z emeryturą...",
+  "status": "draft"
+ },
+ "n:line:0b379f7": {
+  "pl": "A teraz spotkaj się ze mną <style=\"clue\">za Fabryką zagadek</style>, żeby nikt nie zauważył, jak się tam wślizgujemy.",
+  "status": "review"
+ },
+ "n:line:0b5c6f8": {
+  "pl": "Będę wypatrywał moich notatek z laboratorium... Byłoby karygodne je zgubić.",
+  "status": "draft"
+ },
+ "n:line:0b93fee": {
+  "pl": "Za łatwa!? Na pewno? Każdy jest krytykiem, co?",
+  "status": "draft"
+ },
+ "n:line:0ba3be9": {
+  "pl": "Oto <style=\"clue\">lista</style> komponentów. W <style=\"clue\">magazynie</style> powinno być wszystko, czego potrzebujemy. Śpiesz się!",
+  "status": "draft"
+ },
+ "n:line:0bc15e6": {
+  "pl": "EHEM-- Właśnie do tego dochodziłem, Quanty. Jeszcze nie jesteś starszym profesorem nauk ścisłych. Ale tak...",
+  "status": "draft"
+ },
+ "n:line:0bd267e": {
+  "pl": "Nie ma mowy, stary. Nie ma mowy.",
+  "status": "review"
+ },
+ "n:line:0bd943a": {
+  "pl": "Rozwiązane! Naprawdę rozwiązane! Może wcale nie jestem takim złym projektantem zagadek.",
+  "status": "draft"
+ },
+ "n:line:0beba56": {
+  "pl": "<i>To</i> był odważny wybór.",
+  "status": "draft"
+ },
+ "n:line:0c080ed": {
+  "pl": "Moment... gdzie jest twój partner z laboratorium? <style=\"clue\">Potrzebuję was obojga tutaj</style>, jeśli mamy to przeprowadzić!",
+  "status": "draft"
+ },
+ "n:line:0c2b4ce": {
+  "pl": "Ej, uważaj <style=\"clue\">za rogiem</style>... Chyba Axelowi zaraz puszczą nerwy.",
+  "status": "draft"
+ },
+ "n:line:0c43100": {
+  "pl": "Dla mnie pamięć zawsze była przereklamowana. <i>I</i> droga.",
+  "status": "draft"
+ },
+ "n:line:0c77148": {
+  "pl": "Dobra, załadowany. „Śledź-Zmyłka” gotowy do rejsu! Rany... Ten dzień naprawdę zaskoczył starego eskapistę!",
+  "status": "review"
+ },
+ "n:line:0c7e426": {
+  "pl": "Albo ich spalanie! Dla mnie to brzmi jak fajne powołanie.",
+  "status": "draft"
+ },
+ "n:line:0c7f2e5": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:0c83edd": {
+  "pl": "Może kiedyś nauczę się tworzyć coś, co przynosi radość zamiast cierpienia…",
+  "status": "draft"
+ },
+ "n:line:0c9282a": {
+  "pl": "Sam nie wiem… chyba czas porzucić marzenia o zostaniu projektantem zagadek.",
+  "status": "draft"
+ },
+ "n:line:0cb1b41": {
+  "pl": "Chodzi tu przecież o „rozwijanie naszego potencjału” jako eskapistów, prawda? A my zaledwie musnęliśmy powierzchnię!",
+  "status": "draft"
+ },
+ "n:line:0cc6cc1": {
+  "pl": "Siema, stary! Hej, nie ruszaj się, dobra? Stoisz w idealnym miejscu, żeby zasłaniać słońce, bo od rana świeci mi prosto w oczy…",
+  "status": "draft"
+ },
+ "n:line:0ce3b7b": {
+  "pl": "Chyba trzymają jakieś <style=\"clue\">okulary przeciwsłoneczne</style> w <style=\"clue\">skrzyni z wyposażeniem ratownika</style>. Podwędzisz mi je?",
+  "status": "draft"
+ },
+ "n:line:0ce9b2d": {
+  "pl": "Nie mogę tu stać w nieskończoność…",
+  "status": "draft"
+ },
+ "n:line:0cedd7c": {
+  "pl": "A żeby zebrać <style=\"clue\">niezbędne odczyty</style>--",
+  "status": "draft"
+ },
+ "n:line:0d0a768": {
+  "pl": "Kiedy się wydostałem, wszyscy moi przyjaciele nie żyli, a mnie wymazano z historii! Mimo to kontynuowałem misję, którą wspólnie obraliśmy.",
+  "status": "draft"
+ },
+ "n:line:0d374e9": {
+  "pl": "Aby zebrać <style=\"clue\">niezbędne odczyty</style>, musisz zanieść te <style=\"clue\">urządzenia meteorologiczne</style> w różne <style=\"clue\">punkty na terenie kampusu</style>.",
+  "status": "draft"
+ },
+ "n:line:0d7bc84": {
+  "pl": "To powinno pomóc… <style=\"purchase\">(Daj okulary)</style>",
+  "status": "draft"
+ },
+ "n:line:0d9dc05": {
+  "pl": "Dobrze znać swoje granice.",
+  "status": "draft"
+ },
+ "n:line:0da7fbe": {
+  "pl": "A, to tylko super podchwytliwa gra logiczna, którą wymyśliłem. Dla mnie to kupa zabawy, ale…",
+  "status": "draft"
+ },
+ "n:line:0daf2d5": {
+  "pl": "Ha! W końcu mam fana! Ale jeśli to prawda… to dlaczego nadal nie ma rozwiązania?",
+  "status": "draft"
+ },
+ "n:line:0db3d7f": {
+  "pl": "Mam tylko nadzieję, że zostanę w pamięci moich uczniów tak, jak oni zostaną w mojej...",
+  "status": "draft"
+ },
+ "n:line:0dc0131": {
+  "pl": "No cóż, nie ma sensu dłużej zwlekać. Ruszamy razem w ostatnią Ucieczkę z Akademii?",
+  "status": "draft"
+ },
+ "n:line:0deb9d9": {
+  "pl": "Zostałem sam, by czuwać nad Akademią, i sam poprowadzę ją ku świetlanej przyszłości!",
+  "status": "draft"
+ },
+ "n:line:0dfe0f9": {
+  "pl": "Wciąż brakuje mi paru rzeczy...",
+  "status": "draft"
+ },
+ "n:line:0e03f6b": {
+  "pl": "Ty skup się tylko na tym, żeby <style=\"clue\">wydostać się z tych pomieszczeń</style>.",
+  "status": "draft"
+ },
+ "n:line:0e04758": {
+  "pl": "Wow, udało ci się to naprawić! Może od Jeba da się nauczyć więcej, niż mu przyznawałem…",
+  "status": "draft"
+ },
+ "n:line:0e0df4c": {
+  "pl": "Skoro tak, to chyba lepiej się zbierajmy.",
+  "status": "draft"
+ },
+ "n:line:0e1fcfc": {
+  "pl": "Yyy... mam kawałki pewnego listu, który jest mega ważny... <style=\"story\">(Pokaż strzępy)</style>",
+  "status": "draft"
+ },
+ "n:line:0e40997": {
+  "pl": "Gdy <style=\"clue\">skończysz</style> lekcje <style=\"clue\">biologii i chemii</style> u profesor Bonilli, zajmiemy się prawdziwą nauką!",
+  "status": "draft"
+ },
+ "n:line:0e5b3cf": {
+  "pl": "Ech, <style=\"clue\">Jacob wygląda kiepsko</style>...",
+  "status": "draft"
+ },
+ "n:line:0e61233": {
+  "pl": "Aha! Jesteś. Nie ma nic lepszego niż mały eksperyment, żeby czuć się młodo.",
+  "status": "draft"
+ },
+ "n:line:0e6d9b1": {
+  "pl": "Jasne, stary, to uczciwe.",
+  "status": "draft"
+ },
+ "n:line:0e71823": {
+  "pl": "No to przygotuj się. Mam dość przeciągania. Wracaj do mnie migiem!",
+  "status": "draft"
+ },
+ "n:line:0e9b74e": {
+  "pl": "Ale coś poszło strasznie nie tak... Tajemniczy szaleniec zamknął mnie i wymazał mi pamięć.",
+  "status": "draft"
+ },
+ "n:line:0eaaa03": {
+  "pl": "Nie mam czasu na oglądanie jakichś poszarpanych bazgrołów!",
+  "status": "draft"
+ },
+ "n:line:0eb5c1c": {
+  "pl": "No wiesz... przekraczanie granic, stawianie czoła nieznanemu!",
+  "status": "draft"
+ },
+ "n:line:0ed5587": {
+  "pl": "Doskonale, w sam raz się nadadzą!",
+  "status": "draft"
+ },
+ "n:line:0ed70d1": {
+  "pl": "Bez obaw! Nie ma takiej sytuacji, z której nie wyciągnie nas odrobina nauki.",
+  "status": "draft"
+ },
+ "n:line:0ee11d3": {
+  "pl": "Hej-- czy to jedna z moich zapasowych baterii z tyłu tego urządzenia?",
+  "status": "draft"
+ },
+ "n:line:0ee8d9d": {
+  "pl": "No to się pospiesz i je zbierz!",
+  "status": "draft"
+ },
+ "n:line:0ee9a7e": {
+  "pl": "Co za upór... O co chodzi? Masz mi coś do pokazania w ostatnich chwilach świadomości?",
+  "status": "draft"
+ },
+ "n:line:0ef01b0": {
+  "pl": "No co ty. Jak inaczej mam osiągnąć oświecenie?",
+  "status": "draft"
+ },
+ "n:line:0ef2a21": {
+  "pl": "Jeszcze tylko krok do wypłynięcia... A ja chcę mieć cię <style=\"clue\">u boku w tej podróży</style> po wodach losu!",
+  "status": "draft"
+ },
+ "n:line:0f106eb": {
+  "pl": "Co? Nie!",
+  "status": "draft"
+ },
+ "n:line:0f2b866": {
+  "pl": "Ooo! Wiesz, co by mi się przydało? Zabójcze okulary przeciwsłoneczne.",
+  "status": "draft"
+ },
+ "n:line:0f37c72": {
+  "pl": "Mylisz się! Musisz coś zobaczyć. <style=\"story\">(Daj list)</style>",
+  "status": "draft"
+ },
+ "n:line:0f60c9e": {
+  "pl": "Jestem zbyt niezdarna, żeby <style=\"clue\">wspinać się na te kontenery</style> i umieścić to w widocznym miejscu.",
+  "status": "draft"
+ },
+ "n:line:0f8bdb5": {
+  "pl": "Po prostu idź dalej, a <style=\"clue\">dotrzemy do szalupy ratunkowej</style>!",
+  "status": "draft"
+ },
+ "n:line:0f98c8d": {
+  "pl": "Ej, ej, ej. Co tu się dzieje?",
+  "status": "draft"
+ },
+ "n:line:0fa65ba": {
+  "pl": "Na pokład i <style=\"clue\">odblokuj szalupę ratunkową</style>! Ja... muszę jeszcze znaleźć moje notatki z laboratorium...",
+  "status": "draft"
+ },
+ "n:line:0fa74c4": {
+  "pl": "Uprawiajmy trochę nieautoryzowanej nauki! <style=\"story\">(Kontynuuj historię)</style>",
+  "status": "draft"
+ },
+ "n:line:0fc4003": {
+  "pl": "Och. <i>Bardzo</i> dziękuję za zwrócenie mi uwagi. A teraz wynocha!",
+  "status": "draft"
+ },
+ "n:line:0fff79f": {
+  "pl": "Znam prawdę o tym, co ci się przytrafiło! Przeczytaj to. <style=\"story\">(Pokaż list)</style>",
+  "status": "draft"
+ }
+}

@@ -1,0 +1,430 @@
+{
+ "g:LAR_AlistairZapped": {
+  "pl": "Burza Mózgów uruchomiła proces odmładzania, a on kompletnie odpadł!",
+  "status": "draft"
+ },
+ "g:LAR_ArmsControls": {
+  "pl": "Ręce",
+  "status": "draft"
+ },
+ "g:LAR_Bench1": {
+  "pl": "Nie zamierzam siedzieć na ławce rezerwowych!",
+  "status": "review"
+ },
+ "g:LAR_Bench2": {
+  "pl": "Alistair zaraz zostanie <i>wyciśnięty</i> jak na ławeczce!",
+  "status": "draft"
+ },
+ "g:LAR_BoltedShut": {
+  "pl": "Te drzwi są zaryglowane! Może jest inne wejście?",
+  "status": "draft"
+ },
+ "g:LAR_BookshelfLabel1": {
+  "pl": "<i>Dlaczego wszyscy, których znam, się mylą, tomy 1–16</i>",
+  "status": "draft"
+ },
+ "g:LAR_BrainJuiced": {
+  "pl": "Świeżo wyciśnięte…",
+  "status": "draft"
+ },
+ "g:LAR_BrainRegular": {
+  "pl": "Bez paniki, to tylko szare komórki!",
+  "status": "draft"
+ },
+ "g:LAR_BreakRockInsert": {
+  "pl": "Może uda się rozbić ten kamień...",
+  "status": "draft"
+ },
+ "g:LAR_BulbInsert": {
+  "pl": "Ciekawe, czy gdzieś tu jest żarówka?",
+  "status": "draft"
+ },
+ "g:LAR_ButtonUsed": {
+  "pl": "Ten już został wyciśnięty!",
+  "status": "draft"
+ },
+ "g:LAR_CardsComplete": {
+  "pl": "Wszystko się zgadza...",
+  "status": "draft"
+ },
+ "g:LAR_ChessAlt": {
+  "pl": "Te gry dziś się kończą...",
+  "status": "draft"
+ },
+ "g:LAR_Cipher_1": {
+  "pl": "O",
+  "status": "draft"
+ },
+ "g:LAR_Cipher_2": {
+  "pl": "D",
+  "status": "draft"
+ },
+ "g:LAR_Cipher_3": {
+  "pl": "W",
+  "status": "draft"
+ },
+ "g:LAR_Cipher_4": {
+  "pl": "R",
+  "status": "draft"
+ },
+ "g:LAR_Cipher_5": {
+  "pl": "O",
+  "status": "draft"
+ },
+ "g:LAR_Cipher_6": {
+  "pl": "T",
+  "status": "draft"
+ },
+ "g:LAR_Cipher_7": {
+  "pl": "N",
+  "status": "draft"
+ },
+ "g:LAR_Cipher_8": {
+  "pl": "Y",
+  "status": "draft"
+ },
+ "g:LAR_Cot": {
+  "pl": "Łóżko szaleńca...",
+  "status": "draft"
+ },
+ "g:LAR_ElectricalBox": {
+  "pl": "Jestem <i>porażony</i>, że Alistairowi Bellowi tak długo uchodziło to wszystko na sucho.",
+  "status": "draft"
+ },
+ "g:LAR_EmptyCrate": {
+  "pl": "„Czyste kalesony”",
+  "status": "draft"
+ },
+ "g:LAR_EscapistTimes": {
+  "pl": "Kurier Eskapisty – BADANIE: 4 na 5 złych geniuszy ma super podziemne kryjówki",
+  "status": "draft"
+ },
+ "g:LAR_HiddenWord": {
+  "pl": "O,D,W,R,O,T,N,Y",
+  "status": "review"
+ },
+ "g:LAR_Hint_CardA": {
+  "pl": "W każdym rzędzie i kolumnie suma powinna wynosić 15.",
+  "status": "draft"
+ },
+ "g:LAR_Hint_CardB": {
+  "pl": "As idzie na środek.",
+  "status": "draft"
+ },
+ "g:LAR_Hint_DoorA": {
+  "pl": "Okaz „D” ma najmniejszy mózg. To musi być szczur!",
+  "status": "draft"
+ },
+ "g:LAR_Hint_DoorB": {
+  "pl": "Szczur ma inteligencję równą 12.",
+  "status": "draft"
+ },
+ "g:LAR_Hint_HatchA": {
+  "pl": "Wejdź na te filary i przeczytaj, co na nich jest. Pierwsza litera to {@LAR_HiddenWord[0]}.",
+  "status": "draft"
+ },
+ "g:LAR_Hint_HatchB": {
+  "pl": "Zrób to, co mówią filary. Odpowiedź zaczyna się od {@LAR_TrapdoorAnswer[0]}.",
+  "status": "draft"
+ },
+ "g:LAR_Hint_Juicer": {
+  "pl": "Wyciśnij wszystkie cztery mózgi i zdobądź dane.",
+  "status": "draft"
+ },
+ "g:LAR_Hint_Man": {
+  "pl": "Staraj się utrzymać ramiona symetrycznie podczas pracy.",
+  "status": "draft"
+ },
+ "g:LAR_Hint_Pod": {
+  "pl": "Wejdź do kapsuły!",
+  "status": "draft"
+ },
+ "g:LAR_Hint_PodOpenA": {
+  "pl": "Kropka w tym miejscu zawsze jest warta 3 punkty.",
+  "status": "draft"
+ },
+ "g:LAR_Hint_PodOpenB": {
+  "pl": "Ile więc jest warta kropka w tym miejscu?",
+  "status": "draft"
+ },
+ "g:LAR_Hint_PodOpenC": {
+  "pl": "Wpisz wszystkie wartości do tej maszyny.",
+  "status": "draft"
+ },
+ "g:LAR_Hint_SafeA": {
+  "pl": "Światło tworzy koło na tych czterech kartach…",
+  "status": "draft"
+ },
+ "g:LAR_Item_2ofDiamonds": {
+  "pl": "2 karo",
+  "status": "draft"
+ },
+ "g:LAR_Item_3ofDiamonds": {
+  "pl": "3 karo",
+  "status": "draft"
+ },
+ "g:LAR_Item_4ofDiamonds": {
+  "pl": "4 karo",
+  "status": "draft"
+ },
+ "g:LAR_Item_5ofDiamonds": {
+  "pl": "5 karo",
+  "status": "draft"
+ },
+ "g:LAR_Item_6ofDiamonds": {
+  "pl": "6 karo",
+  "status": "draft"
+ },
+ "g:LAR_Item_AceofDiamonds": {
+  "pl": "As karo",
+  "status": "draft"
+ },
+ "g:LAR_Item_CipherKey": {
+  "pl": "Kartka z rombem",
+  "status": "draft"
+ },
+ "g:LAR_Item_ElephantBrainGraph": {
+  "pl": "Wykres mózgu – okaz A",
+  "status": "draft"
+ },
+ "g:LAR_Item_HumanBrain": {
+  "pl": "Mózg w słoju",
+  "status": "draft"
+ },
+ "g:LAR_Item_HumanBrainGraph": {
+  "pl": "Wykres mózgu – okaz C",
+  "status": "draft"
+ },
+ "g:LAR_Item_Lightbulb": {
+  "pl": "Żarówka",
+  "status": "draft"
+ },
+ "g:LAR_Item_Pickaxe": {
+  "pl": "Kilof",
+  "status": "draft"
+ },
+ "g:LAR_Item_RatBrainGraph": {
+  "pl": "Wykres mózgu – okaz D",
+  "status": "draft"
+ },
+ "g:LAR_Item_SquidBrainGraph": {
+  "pl": "Wykres mózgu – okaz B",
+  "status": "draft"
+ },
+ "g:LAR_JarPlaceInsert": {
+  "pl": "Jest tu miejsce na czwarty mózg.",
+  "status": "draft"
+ },
+ "g:LAR_JarShelf": {
+  "pl": "Widok tych wszystkich okazów… aż mi słoik pęka.",
+  "status": "review"
+ },
+ "g:LAR_Journal1": {
+  "pl": "„Notatki z laboratorium – 1851: Biorca i dawca zdawali się wchodzić we wspólny stan podświadomy podczas procesu absorpcji. Warto to zbadać dalej...",
+  "status": "draft"
+ },
+ "g:LAR_Journal2": {
+  "pl": "„Notatki z laboratorium – 1965: Znów pominięty przy obsadzie stanowiska dyrektora! Ta Solange niech lepiej nie wchodzi mi w drogę...”",
+  "status": "draft"
+ },
+ "g:LAR_Journal3": {
+  "pl": "„Notatki z laboratorium – 1882: Wspaniały sukces! Choć proces absorpcji wymaga <i>ogromnego skupienia.</i> Rozproszenie uwagi mogłoby sprawić, że wszystko się rozsypie...",
+  "status": "draft"
+ },
+ "g:LAR_Journal4": {
+  "pl": "„Notatki z laboratorium – 1909: Nazywam tę wspólną płaszczyznę podświadomości królestwem umysłu. Gdyby tylko założyciele mogli dołączyć do mnie w odkrywaniu tej nowej granicy...”",
+  "status": "draft"
+ },
+ "g:LAR_Journal5": {
+  "pl": "„Notatki z laboratorium – 1937: Burza Mózgów przyszła wcześniej, niż oczekiwałem, i nie zdołałem zdobyć tylu umysłów co zwykle. Nie wiem, jak wpłynie to na proces odmładzania...”",
+  "status": "draft"
+ },
+ "g:LAR_JuiceButton": {
+  "pl": "WYCISKAJ!",
+  "status": "review"
+ },
+ "g:LAR_JuiceCap": {
+  "pl": "MÓZGOWYCISKARKA",
+  "status": "draft"
+ },
+ "g:LAR_LeftArmsControls": {
+  "pl": "Lewe ręce<br>+ nogi",
+  "status": "draft"
+ },
+ "g:LAR_LockedCard": {
+  "pl": "Ta karta jest przyklejona do stołu.",
+  "status": "draft"
+ },
+ "g:LAR_MissingBrainConsole": {
+  "pl": "Urządzenie potrzebuje jeszcze jednego mózgu w tym słoju!",
+  "status": "draft"
+ },
+ "g:LAR_OilDrum": {
+  "pl": "Alistair Bell wie, jak zbudować napięcie – to istna beczka prochu!",
+  "status": "draft"
+ },
+ "g:LAR_PlaceCard": {
+  "pl": "Mogę tu położyć kartę...",
+  "status": "draft"
+ },
+ "g:LAR_Plumbing": {
+  "pl": "Instalacja hydrauliczna szaleńca…",
+  "status": "draft"
+ },
+ "g:LAR_Plumbing2": {
+  "pl": "Plan Alistaira Bella, by rządzić szkołą na wieki, jest kompletnie do rury!",
+  "status": "draft"
+ },
+ "g:LAR_PodEmptyLabel": {
+  "pl": "Poproszę kapsułę mózgową dla jednej osoby!",
+  "status": "review"
+ },
+ "g:LAR_PodFullLabel": {
+  "pl": "Spokojnie, wyciągnę was stamtąd! Jakoś…",
+  "status": "draft"
+ },
+ "g:LAR_PodSerialCode": {
+  "pl": "wprowadź numer seryjny kapsuły",
+  "status": "draft"
+ },
+ "g:LAR_RightArmsControls": {
+  "pl": "Prawe ręce<br>+ nogi",
+  "status": "draft"
+ },
+ "g:LAR_RoomName": {
+  "pl": "W oku Burzy Mózgów",
+  "status": "draft"
+ },
+ "g:LAR_RowsColumns": {
+  "pl": "Niech wszystkie wiersze i kolumny dają tę samą sumę",
+  "status": "draft"
+ },
+ "g:LAR_ScienceShelf": {
+  "pl": "No i po sprawie. Nauka <i>rzeczywiście</i> potrafi zajść za daleko.",
+  "status": "draft"
+ },
+ "g:LAR_SpecimenALabel": {
+  "pl": "Okaz A",
+  "status": "draft"
+ },
+ "g:LAR_SpecimenBLabel": {
+  "pl": "Okaz B",
+  "status": "draft"
+ },
+ "g:LAR_SpecimenBrainpowerBlank": {
+  "pl": "Moc mózgu = ??",
+  "status": "draft"
+ },
+ "g:LAR_SpecimenCLabel": {
+  "pl": "Okaz C",
+  "status": "draft"
+ },
+ "g:LAR_SpecimenDLabel": {
+  "pl": "Okaz D",
+  "status": "draft"
+ },
+ "g:LAR_SpecimenEBrainpower": {
+  "pl": "Moc mózgu = 12",
+  "status": "draft"
+ },
+ "g:LAR_SpecimenELabel": {
+  "pl": "Okaz E",
+  "status": "draft"
+ },
+ "g:LAR_Subtitle": {
+  "pl": "Znajdź<br>Alistaira Bella!",
+  "status": "draft"
+ },
+ "g:LAR_ToBrainMachine": {
+  "pl": "Do maszyny mózgowej",
+  "status": "draft"
+ },
+ "g:LAR_TrapdoorAnswer": {
+  "pl": "Z,A,P,O,M,N,I,J",
+  "status": "review"
+ },
+ "g:LAR_TrapdoorOpposite": {
+  "pl": "Pamiętaj",
+  "status": "review"
+ },
+ "g:LAR_TrapdoorStuck": {
+  "pl": "Ani drgnie...",
+  "status": "draft"
+ },
+ "g:LAR_Vault": {
+  "pl": "SKARBIEC",
+  "status": "draft"
+ },
+ "g:LAR_Vicluevian": {
+  "pl": "Człowiek Witruwskazówkowy",
+  "status": "review"
+ },
+ "g:LAR_Wardrobe": {
+  "pl": "Garderoba szaleńca…",
+  "status": "draft"
+ },
+ "v:Headmaster_MSC_Concerned": {
+  "pl": "O nie…",
+  "status": "draft"
+ },
+ "v:Jeb_LAR_FindEntrance": {
+  "pl": "Musimy znaleźć wejście do tej maszyny…",
+  "status": "draft"
+ },
+ "v:Jeb_LAR_SpookyIsland": {
+  "pl": "Nic mi tu nie będzie. Zupełnie sam. Na tej strasznej wyspie…",
+  "status": "draft"
+ },
+ "v:Solange_LAR_AlistairKeptHisCards": {
+  "pl": "Alistair nigdy nie grał w otwarte karty…",
+  "status": "draft"
+ },
+ "v:Solange_LAR_AllThisTime": {
+  "pl": "Przez cały ten czas… było tuż tu, przez cały ten czas…",
+  "status": "draft"
+ },
+ "v:Solange_LAR_DestroyThisPlace": {
+  "pl": "Kiedy zabierzemy stąd uczniów, trzeba będzie to miejsce zniszczyć.",
+  "status": "draft"
+ },
+ "v:Solange_LAR_DownTheHatch": {
+  "pl": "Zejdźmy przez właz…",
+  "status": "draft"
+ },
+ "v:Solange_LAR_MustLeadThere": {
+  "pl": "To musi prowadzić do maszyny do mózgów.",
+  "status": "draft"
+ },
+ "v:Solange_LAR_NoBrainIsSafe": {
+  "pl": "Wygląda na to, że żaden mózg nie jest bezpieczny przed naszym czwartym założycielem… nawet w sejfie.",
+  "status": "review"
+ },
+ "v:Solange_LAR_NoEscape": {
+  "pl": "To koniec. Alistair nie ma już dokąd uciec…",
+  "status": "draft"
+ },
+ "v:Solange_LAR_NoTimeToLose": {
+  "pl": "Nie ma czasu do stracenia – znajdź sposób, żeby dostać się do kapsuły!",
+  "status": "review"
+ },
+ "v:Solange_LAR_SadPlace": {
+  "pl": "Co za smutne miejsce na spędzanie tylu lat…",
+  "status": "draft"
+ },
+ "v:Solange_LAR_ShowAlistairTheLetter": {
+  "pl": "Czas pokazać Alistairowi ten list.",
+  "status": "draft"
+ },
+ "v:Solange_LAR_ThisGuySick": {
+  "pl": "Ten facet jest chory.",
+  "status": "draft"
+ },
+ "v:Solange_LAR_WhatMonster": {
+  "pl": "Jaki potwór mógłby coś takiego zrobić?",
+  "status": "draft"
+ },
+ "v:VonBellini_LAR_MyMachine": {
+  "pl": "Ach. A więc moja maszyna się znalazła…",
+  "status": "draft"
+ }
+}

@@ -1,0 +1,294 @@
+{
+ "n:line:0008be9": {
+  "pl": "Uczniowie... UCZNIOWIE! Wróćcie do swoich pokoi w akademiku, a my wszyscy razem przeczekamy burzę.",
+  "status": "draft"
+ },
+ "n:line:002f1a5": {
+  "pl": "Tak dalej, a może nawet zainspirujesz jedną z moich produkcji!",
+  "status": "draft"
+ },
+ "n:line:005a5e9": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:007f9eb": {
+  "pl": "Uważaj przy obsadzie. To może być wreszcie to przedstawienie, które nakręci moją karierę reżyserską na pełne obroty!",
+  "status": "draft"
+ },
+ "n:line:009dcf7": {
+  "pl": "Poza tym na tym wczesnym etapie to raczej pomysł na opus niż pełnoprawne magnum.",
+  "status": "draft"
+ },
+ "n:line:00b04d8": {
+  "pl": "Prawie czas na show. Znowu!",
+  "status": "draft"
+ },
+ "n:line:00f0035": {
+  "pl": "Mam cię na oku...",
+  "status": "draft"
+ },
+ "n:line:0119ae6": {
+  "pl": "Spokojnie! Mam dla ciebie zespół, który rozwala system. <style=\"purchase\">(Przedstaw zespół)</style>",
+  "status": "review"
+ },
+ "n:line:012a7e9": {
+  "pl": "<size=0.7em>Poczuj scenę, daj się ponieść postaci i <i>nie zepsuj mi tego!</i>",
+  "status": "draft"
+ },
+ "n:line:01715c4": {
+  "pl": "Do czasu, aż wszystko poszło nie tak podczas premiery w Studiu Showmana.",
+  "status": "draft"
+ },
+ "n:line:018469c": {
+  "pl": "Zanim dyrektorka Solange ożywiła moją pasję do sztuki, proponując mi tę posadę, nie byłam zwykłą aktorką. Byłam <i>tą</i> aktorką.",
+  "status": "draft"
+ },
+ "n:line:018fa82": {
+  "pl": "Dobra, zespół, SŁUCHAĆ MNIE! Pakujemy się i ruszamy! Próba zaczęła się pół godziny temu.",
+  "status": "draft"
+ },
+ "n:line:01fcb4e": {
+  "pl": "Artysta nie wybiera, kiedy trafi go natchnienie – musi po prostu być gotów, by za nim podążyć.",
+  "status": "draft"
+ },
+ "n:line:024091f": {
+  "pl": "To brzmi dość surowo.",
+  "status": "draft"
+ },
+ "n:line:02a8842": {
+  "pl": "No dobrze... musi wystarczyć! Szkoda, że Clue Jackman przestał odbierać moje telefony. Ale mniejsza z tym, czas na próbę!",
+  "status": "review"
+ },
+ "n:line:02e6ca5": {
+  "pl": "A skoro nic nie stoi już na przeszkodzie, by pożegnać Von Bellini w sposób godny zapamiętania, lepiej <style=\"clue\">ruszajmy do ogrodów kampusu</style>!",
+  "status": "draft"
+ },
+ "n:line:031b2da": {
+  "pl": "Oto <style=\"clue\">fragmenty przesłuchań</style> wszystkich kandydatów. I żadnego słodzenia, jeśli są okropne. To nikomu nie pomaga.",
+  "status": "draft"
+ },
+ "n:line:032776f": {
+  "pl": "Ale zanim podniesie się kurtyna, jest jeszcze sporo do zrobienia.",
+  "status": "draft"
+ },
+ "n:line:03d0f11": {
+  "pl": "Wiem, zaskakujące stanowisko dla kogoś o moich ogromnych talentach. Ale nie zawsze byłam taka opanowana.",
+  "status": "draft"
+ },
+ "n:line:042977b": {
+  "pl": "<style=\"clue\">Do zobaczenia na scenie w ogrodach kampusu</style>, jak skończysz z pozostałymi profesorami.",
+  "status": "draft"
+ },
+ "n:line:0442a24": {
+  "pl": "Nie podoba mi się, że Akademia nie potrafiła w tym roku zatrzymać nawet tych nielicznych jako tako przyzwoitych artystów...",
+  "status": "draft"
+ },
+ "n:line:04cb4f5": {
+  "pl": "Doskonale! Skoro przesialiśmy już tę hołotę, czas <style=\"clue\">obsadzić role</style>!",
+  "status": "draft"
+ },
+ "n:line:04d8c98": {
+  "pl": "I pamiętajcie, że ja nie chcę być zamknięta w wieży z wami tak samo, jak wy nie chcecie być tu zamknięci ze mną.",
+  "status": "draft"
+ },
+ "n:line:0553b80": {
+  "pl": "Proszę, nasza gwiazda sceny.",
+  "status": "draft"
+ },
+ "n:line:057ab6b": {
+  "pl": "Chwileczkę, <style=\"clue\">gdzie jest twój partner</style>? Wszyscy muszą to zobaczyć. <i>Wszyscy.</i>",
+  "status": "review"
+ },
+ "n:line:05c81d6": {
+  "pl": "Głowa pęka mi od pomysłów na ciąg dalszy!",
+  "status": "draft"
+ },
+ "n:line:05e4a21": {
+  "pl": "Proszę, proszę, nasza akademicka gwiazda! Och, <i>teraz</i> nie mam dla ciebie innej roli...",
+  "status": "draft"
+ },
+ "n:line:060cc9c": {
+  "pl": "Ale gdy będzie gotowe, dowiesz się. Dowie się cały świat Escape!",
+  "status": "draft"
+ },
+ "n:line:065ccab": {
+  "pl": "Więc nie, absolutnie nie zrobię sobie przerwy!",
+  "status": "draft"
+ },
+ "n:line:067e334": {
+  "pl": "Na pewno nie tylko mnie dziś w teatrze natchnął twój występ.",
+  "status": "draft"
+ },
+ "n:line:0695e42": {
+  "pl": "<style=\"clue\">Problemy dyrektorki Solange z utrzymaniem uczniów</style> naprawdę odbijają się na moich produkcjach! Co my zrobimy bez zespołu?",
+  "status": "draft"
+ },
+ "n:line:069741a": {
+  "pl": "Musisz zawęzić tych niedoszłych aktorów do <style=\"clue\">czterech kandydatów</style>.",
+  "status": "draft"
+ },
+ "n:line:06fb054": {
+  "pl": "<style=\"clue\">Quanty</style> jest w <style=\"clue\">studiu tańca</style> i układa choreografię na ukłony po spektaklu.",
+  "status": "draft"
+ },
+ "n:line:0725f81": {
+  "pl": "Ale się szykuje. A gdy będzie gotowe, pierwszy telefon będzie do ciebie.",
+  "status": "draft"
+ },
+ "n:line:077d697": {
+  "pl": "Chyba przydałaby ci się chwila przerwy...",
+  "status": "draft"
+ },
+ "n:line:0799e26": {
+  "pl": "Nie. Jeszcze nie teraz!",
+  "status": "draft"
+ },
+ "n:line:07bbeb7": {
+  "pl": "Tak, to brutalne. Ale taki jest show-biznes!",
+  "status": "draft"
+ },
+ "n:line:08c0743": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:08ec585": {
+  "pl": "To będzie przedstawienie na wieki. Coś, co zmieni ludzi... zmieni wszystko!",
+  "status": "draft"
+ },
+ "n:line:0915038": {
+  "pl": "Droga do powrotu do formy była długa. Spaliłam wiele mostów. Wybuchałam. Brałam wszystko zbyt serio. Ale teraz jest zupełnie inaczej! Oczywiście.",
+  "status": "draft"
+ },
+ "n:line:09a96dc": {
+  "pl": "Aktorzy, na scenę!",
+  "status": "draft"
+ },
+ "n:line:09eeb84": {
+  "pl": "Czy możesz sprawdzić, co robią pozostali profesorowie? Cudownie. A teraz natychmiast zejdź mi z oczu!",
+  "status": "draft"
+ },
+ "n:line:0a03265": {
+  "pl": "I na miłość Escape'u, dopilnuj, żeby <style=\"clue\">dobrze znali swoje kwestie.</style>",
+  "status": "draft"
+ },
+ "n:line:0a32c2a": {
+  "pl": "Sprowadź go tu natychmiast!",
+  "status": "draft"
+ },
+ "n:line:0a6fe80": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0a75a8b": {
+  "pl": "Oj, nie zepsuję przecież całej zabawy, zdradzając ci to!",
+  "status": "draft"
+ },
+ "n:line:0abd08d": {
+  "pl": "Nie mogę się doczekać, żeby to zobaczyć!",
+  "status": "review"
+ },
+ "n:line:0afdd4a": {
+  "pl": "Ja też, ale to musi jeszcze solidnie dojrzeć w piekarniku.",
+  "status": "draft"
+ },
+ "n:line:0b00176": {
+  "pl": "Przejrzyj <style=\"clue\">CV</style> wszystkich i zobacz, kto pasuje do której roli. Będę czekać niecierpliwie.",
+  "status": "draft"
+ },
+ "n:line:0b3593b": {
+  "pl": "Uczcijmy pamięć tego mentora! <style=\"story\">(Dalej)</style>",
+  "status": "draft"
+ },
+ "n:line:0b438a0": {
+  "pl": "Choć oczywiście mam nadzieję, że Edie Quill <style=\"clue\">znów się pojawi</style>, twój występ był kapitalny.",
+  "status": "draft"
+ },
+ "n:line:0b8b6af": {
+  "pl": "<size=0.7em>Hej, na scenę, ale już!",
+  "status": "draft"
+ },
+ "n:line:0bae76c": {
+  "pl": "Doskonale! Wszyscy zagrają – z przekonania albo z przymusu!",
+  "status": "draft"
+ },
+ "n:line:0c2676c": {
+  "pl": "Więc po prostu róbmy wszyscy to, co mówię, bez kwestionowania moich poleceń!",
+  "status": "draft"
+ },
+ "n:line:0c49261": {
+  "pl": "A teraz daj mi spokój, zaczynam wcześniej szukać talentów do mojej głównej produkcji w tym roku.",
+  "status": "draft"
+ },
+ "n:line:0cea374": {
+  "pl": "Jak trafiłaś do Akademii?",
+  "status": "draft"
+ },
+ "n:line:0ced095": {
+  "pl": "<style=\"clue\">Profesor Slip</style> jest w <style=\"clue\">kostiumerni</style> i skompletowała stroje zgodne z epoką do naszej sztuki, a także...",
+  "status": "review"
+ },
+ "n:line:0d177c5": {
+  "pl": "Ten twój popis tam na dole, w maszynie mózgowej... to było przedstawienie na miarę wieków!",
+  "status": "draft"
+ },
+ "n:line:0d6630a": {
+  "pl": "No dobrze, wszyscy są? Wszyscy gotowi?",
+  "status": "draft"
+ },
+ "n:line:0d66e5b": {
+  "pl": "Och, dobrze, że jesteś. Potrzebuję twojego niezblazowanego spojrzenia, żeby wyłowić prawdziwych gwiazdorów sceny.",
+  "status": "draft"
+ },
+ "n:line:0e1dc4c": {
+  "pl": "Doskonale! Wszyscy zagrają – z przekonania albo z przymusu!",
+  "status": "draft"
+ },
+ "n:line:0e2fc52": {
+  "pl": "W mojej branży odrobina arogancji zaprowadzi cię daleko!",
+  "status": "draft"
+ },
+ "n:line:0e9ca74": {
+  "pl": "Prawda zwykle taka bywa!",
+  "status": "draft"
+ },
+ "n:line:0eb1a56": {
+  "pl": "Czas na show. Znowu!",
+  "status": "draft"
+ },
+ "n:line:0ebe983": {
+  "pl": "Ja i zespół jesteśmy gotowi... ale wygląda na to, że <style=\"clue\">wciąż czekamy na kilka dodatkowych przygotowań</style>.",
+  "status": "draft"
+ },
+ "n:line:0ef6588": {
+  "pl": "Proszę, nasza gwiazda sceny. Jestem zbyt zajęta, żeby dłużej gawędzić, w mojej głowie szaleje burza, a w niej rodzi się nowe opus magnum.",
+  "status": "draft"
+ },
+ "n:line:0f1c19b": {
+  "pl": "Święta prawda. Dla wszystkich, tylko nie dla mnie.",
+  "status": "draft"
+ },
+ "n:line:0f425f6": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0f4f436": {
+  "pl": "Ciężka publika. Jak mam zwerbować tych jazzmanów?",
+  "status": "draft"
+ },
+ "n:line:0f5ca71": {
+  "pl": "A <i>co</i> właściwie szykujesz w następnym projekcie?",
+  "status": "draft"
+ },
+ "n:line:0f80956": {
+  "pl": "I coś mi mówi, że to nie będzie bułka z masłem.",
+  "status": "draft"
+ },
+ "n:line:0fa21af": {
+  "pl": "A teraz zostaw mnie. Czas połamać parę nóg!",
+  "status": "draft"
+ },
+ "n:line:0ffde8b": {
+  "pl": "Tylu uczniów, tak mało talentu...",
+  "status": "review"
+ }
+}

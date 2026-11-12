@@ -1,0 +1,910 @@
+{
+ "g:PRO_BadgeDoor": {
+  "pl": "Nie otworzę tego, dopóki nie zdobędę pierwszej odznaki…",
+  "status": "draft"
+ },
+ "g:PRO_Bathroom_Mirror": {
+  "pl": "Wyglądam świetnie!",
+  "status": "draft"
+ },
+ "g:PRO_Bathroom_Sign": {
+  "pl": "TOALETA",
+  "status": "review"
+ },
+ "g:PRO_Bathroom_SoapDispenser": {
+  "pl": "Mydlana bajka!",
+  "status": "draft"
+ },
+ "g:PRO_Bathroom_SoapDispenser1": {
+  "pl": "Tym razem nie uciekniecie, <i>zarazki</i>.",
+  "status": "draft"
+ },
+ "g:PRO_Bathroom_TowelDispenser": {
+  "pl": "Oby za każdy ręcznik nie trzeba było płacić!",
+  "status": "draft"
+ },
+ "g:PRO_Bathroom_TrashBin": {
+  "pl": "Śmieci z jednej łazienki to skarb z drugiej… nie, jednak nadal śmieci.",
+  "status": "draft"
+ },
+ "g:PRO_BookQuest_Descripion": {
+  "pl": "Kup podręczniki w szkolnej księgarni.",
+  "status": "draft"
+ },
+ "g:PRO_BookQuest_Name": {
+  "pl": "Uciekaj z książką!",
+  "status": "draft"
+ },
+ "g:PRO_BookQuest_Step0": {
+  "pl": "Kup „Larkiny Lenzini – Księga wytrychów”",
+  "status": "review"
+ },
+ "g:PRO_BookQuest_Step1": {
+  "pl": "Kup „Chowanie i szukanie”",
+  "status": "review"
+ },
+ "g:PRO_BookQuest_Step2": {
+  "pl": "Kup „Szyfry od B do A”",
+  "status": "review"
+ },
+ "g:PRO_Bookstore_BookStack": {
+  "pl": "To <i>mnóstwo</i> zwróconych egzemplarzy „Serca na wolności 2: Pasja łamigłówki”.",
+  "status": "review"
+ },
+ "g:PRO_Bookstore_Bookshelft1": {
+  "pl": "„Kuchnia i maszyneria”",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Bookshelft2": {
+  "pl": "„Tramwaje, trudności i tarapaty”",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Bookshelft3": {
+  "pl": "„Hipotetyczne nauki o ucieczkach”",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Bookshelft4": {
+  "pl": "„Teoria łamigłówek – praktyka łamigłówek”",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Bookshelft5": {
+  "pl": "„Sztuka ucieczek”",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Bookshelft6": {
+  "pl": "„Wielkie dzieła”",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Bookshelft7": {
+  "pl": "„Twarda fantastyka naukowa”",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Bookshelft8": {
+  "pl": "„Miękka fantastyka naukowa”",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_DoorNoHandle": {
+  "pl": "Te drzwi nie mają nawet klamki. Tak szybko się tam nie dostanę.",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_LarkinsPlainText": {
+  "pl": "Larkin: Księga wytrychów",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Password": {
+  "pl": "E,U,R,E,K,A",
+  "status": "review"
+ },
+ "g:PRO_Bookstore_PuzzleBook1": {
+  "pl": "Chowanie i szukanie",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_PuzzleBook2A": {
+  "pl": "Szyfry od <br>B→A",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_PuzzleBook2B": {
+  "pl": "FVSFLB!",
+  "status": "review"
+ },
+ "g:PRO_Bookstore_ReqReading": {
+  "pl": "<b>Lektury obowiązkowe:</b><br><br>Larkin: Księga wytrychów<br><br>Szyfry od B do A<br><br>Chowanie i szukanie<br><br>Wszystkie książki teraz po 3 $!",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Uniforms": {
+  "pl": "Dzięki nim na kampusie na pewno będzie mnie widać!",
+  "status": "draft"
+ },
+ "g:PRO_Bookstore_Uniforms1": {
+  "pl": "Zawsze mogę tu wpaść, jeśli nie będzie mi się chciało prać.",
+  "status": "draft"
+ },
+ "g:PRO_Cafeteria_ChalkSign": {
+  "pl": "„DOKŁADNIE” w południe, powiadasz?",
+  "status": "draft"
+ },
+ "g:PRO_Cafeteria_Coffee": {
+  "pl": "Kawę lubię jak łamigłówki – gorącą!",
+  "status": "draft"
+ },
+ "g:PRO_Cafeteria_LockPrompt": {
+  "pl": "Stołówka otwiera się DOKŁADNIE o dwunastej, co?",
+  "status": "draft"
+ },
+ "g:PRO_Cafeteria_MenuSign": {
+  "pl": "Tylko dziś:<br><br>Śledź smażony<br>z mlekiem",
+  "status": "draft"
+ },
+ "g:PRO_Cafeteria_MenuSign1": {
+  "pl": "Stołówka otwiera się DOKŁADNIE<br>w południe",
+  "status": "draft"
+ },
+ "g:PRO_Cafeteria_Pizza": {
+  "pl": "Serowi na tym czymś jakoś nie ufam.",
+  "status": "draft"
+ },
+ "g:PRO_Cafeteria_TipJar": {
+  "pl": "Komplementy dla szefa kuchni – bo drobnych nie mam!",
+  "status": "draft"
+ },
+ "g:PRO_CatQuest_Description": {
+  "pl": "Znajdź trochę ryby dla Profesora Mruczyńskiego.",
+  "status": "draft"
+ },
+ "g:PRO_CatQuest_DescriptionAlt": {
+  "pl": "Znajdź mleko dla Profesora Mruczyńskiego.",
+  "status": "draft"
+ },
+ "g:PRO_CatQuest_Name": {
+  "pl": "Kocie połowy",
+  "status": "draft"
+ },
+ "g:PRO_CatQuest_NameAlt": {
+  "pl": "Masz mleko?",
+  "status": "review"
+ },
+ "g:PRO_CatQuest_Step0": {
+  "pl": "Daj kotu rybę (będzie syty przez cały dzień).",
+  "status": "draft"
+ },
+ "g:PRO_CatQuest_Step0Alt": {
+  "pl": "Weź mleko ze stołówki.",
+  "status": "draft"
+ },
+ "g:PRO_CatQuest_Step1Alt": {
+  "pl": "Daj je Profesorowi Mruczyńskiemu.",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Chore1": {
+  "pl": "Kurze",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Chore2": {
+  "pl": "Naczynia",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Chore3": {
+  "pl": "Odkurzanie",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Chore4": {
+  "pl": "Pranie",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Chore5": {
+  "pl": "Śmieci",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Chore6": {
+  "pl": "Łazienka",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Complete": {
+  "pl": "Wygląda na to, że wszyscy ustalili swoje obowiązki!",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Name1": {
+  "pl": "Mike",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Name2": {
+  "pl": "Wyatt",
+  "status": "draft"
+ },
+ "g:PRO_ChoreChart_Title": {
+  "pl": "Grafik obowiązków",
+  "status": "draft"
+ },
+ "g:PRO_CoolerInfirmary": {
+  "pl": "Nawadniaj się albo <i>wypłacz</i> się.",
+  "status": "draft"
+ },
+ "g:PRO_Courtyard_Mattress": {
+  "pl": "Na tym kampusie są gorsze pokoje…",
+  "status": "draft"
+ },
+ "g:PRO_Courtyard_Notepad": {
+  "pl": "Te notatki z zajęć to same bazgroły.",
+  "status": "draft"
+ },
+ "g:PRO_Courtyard_SetUpStairs": {
+  "pl": "Ocena zestawu: wątpliwa.",
+  "status": "draft"
+ },
+ "g:PRO_Courtyard_Soup": {
+  "pl": "Ech. <i>Znowu</i> zupa z szyfrów.",
+  "status": "draft"
+ },
+ "g:PRO_Courtyard_Statue": {
+  "pl": "Szczerze mówiąc, większość sztuki ucieczek to dla mnie zagadka.",
+  "status": "draft"
+ },
+ "g:PRO_DeclarationOfEscape": {
+  "pl": "Wow. <i>Deklaracja Ucieczki</i>, podpisana przez trzech założycieli. Nasz świat nigdy już nie był taki sam!",
+  "status": "draft"
+ },
+ "g:PRO_DiningHall_ClockH": {
+  "pl": "G",
+  "status": "review"
+ },
+ "g:PRO_DiningHall_ClockHM": {
+  "pl": "GM",
+  "status": "review"
+ },
+ "g:PRO_DiningHall_ClockHS": {
+  "pl": "GS",
+  "status": "review"
+ },
+ "g:PRO_DiningHall_ClockHand": {
+  "pl": "Co za dziwne urządzenie",
+  "status": "draft"
+ },
+ "g:PRO_DiningHall_Jelly": {
+  "pl": "Oto prawdziwa zszywka… znaczy podstawa deserów!",
+  "status": "review"
+ },
+ "g:PRO_DiningHall_Menu1": {
+  "pl": "„Posiłki w tym tygodniu: bajgiel z kłódką, linguine de Houdini i makaron z puzzli”",
+  "status": "draft"
+ },
+ "g:PRO_DiningHall_Menu2": {
+  "pl": "„W sobotę bufet łamigłówek – odblokowuj, ile wlezie!”",
+  "status": "draft"
+ },
+ "g:PRO_DiningHall_OrderOutOf": {
+  "pl": "Działa nie",
+  "status": "review"
+ },
+ "g:PRO_DiningHall_OutOfOrder": {
+  "pl": "Nie działa",
+  "status": "draft"
+ },
+ "g:PRO_DiningHall_PaperBag": {
+  "pl": "Tych zagadek nie da się tak po prostu spakować do torby – muszę się skupić!",
+  "status": "draft"
+ },
+ "g:PRO_DiningHall_Receipt": {
+  "pl": "Bez napiwku? Choćby… wskazówki?",
+  "status": "draft"
+ },
+ "g:PRO_DiningHall_Record": {
+  "pl": "„Franky H and the Escapists otrzymali Złotą Płytę za unikanie wszelkiej sprzedaży swojego debiutanckiego albumu <i>Nie słyszę cię!</i>”",
+  "status": "draft"
+ },
+ "g:PRO_DormQuest_Description": {
+  "pl": "Urządź się w swoim pokoju w akademiku.",
+  "status": "draft"
+ },
+ "g:PRO_DormQuest_Name": {
+  "pl": "Akademik, słodki akademik",
+  "status": "review"
+ },
+ "g:PRO_DormQuest_Step0": {
+  "pl": "Znajdź swój pokój.",
+  "status": "draft"
+ },
+ "g:PRO_DormQuest_Step1": {
+  "pl": "Poznaj współlokatorów.",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_Computer": {
+  "pl": "„Zapytanie: nie wykryto świadomych programów.” No tak. Pewnie tak jest lepiej…",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_CorkBoard": {
+  "pl": "Klub Spiskoklucz – Czy Eel Barnes <i>naprawdę</i> nie żyje – czy to tylko kolejne KŁAMSTWO Akademii??",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_CorkBoard1": {
+  "pl": "Wszystkie przydziały współlokatorów są OSTATECZNE, z jednym wyjątkiem: dużych darowizn pieniężnych.",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_CorkBoard2": {
+  "pl": "„Cisza nocna w akademiku zaczyna się o 23:00 – absolutnie ŻADNEGO głośnego łamania głowy ani hucznych zabaw!”",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_FernandoUtensils": {
+  "pl": "Przybory do pisania Fernanda Augustína! Kilka z najwspanialszych dzieł sztuki ucieczek powstało na zamówienie właśnie dzięki temu piórze…",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_HowClumsy": {
+  "pl": "Gwiazdo szkoły,<br>wygląda na to, że to zostało w tramwaju!<br>Cóż za nieuwaga.<br>–Dyrektorka",
+  "status": "review"
+ },
+ "g:PRO_DormsWest_PenAndPaper": {
+  "pl": "Długopis i papier… niezbędne każdemu eskapiście, który coś znaczy.",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_Plant": {
+  "pl": "Zapuszczam korzenie na kolejny ekscytujący rok w Akademii!",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_SameerBlade": {
+  "pl": "Legendarny miecz Sameera Gaspard – wrogowie nazywali go „Sameer-pał”. Oby ktoś go umył.",
+  "status": "review"
+ },
+ "g:PRO_DormsWest_Shelf": {
+  "pl": "Zastawić całą półkę? To już lekka <i>półka</i>-chciwość, nie?",
+  "status": "review"
+ },
+ "g:PRO_DormsWest_Shower": {
+  "pl": "Czystość jest tuż obok zagadkowości!",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_Sink": {
+  "pl": "Czworo uczniów i jedna umywalka? Może zrobić się trochę włochato…",
+  "status": "draft"
+ },
+ "g:PRO_DormsWest_ToilerPaper": {
+  "pl": "Pójdzie tego tyle, co rekrutów w Akademii!",
+  "status": "draft"
+ },
+ "g:PRO_Dorms_ShouldntBreakIn": {
+  "pl": "Raczej nie wypada włamywać się do cudzego pokoju w akademiku…",
+  "status": "draft"
+ },
+ "g:PRO_EC_Chores_QuestDescription": {
+  "pl": "Pomóż dwóm skłóconym współlokatorom ułożyć sprawiedliwy grafik obowiązków.",
+  "status": "draft"
+ },
+ "g:PRO_EC_Chores_QuestName": {
+  "pl": "Robota nie zając",
+  "status": "draft"
+ },
+ "g:PRO_EC_Chores_Step1": {
+  "pl": "Rozdziel obowiązki.",
+  "status": "draft"
+ },
+ "g:PRO_GenericVendingPurchase": {
+  "pl": "coś z tego automatu",
+  "status": "draft"
+ },
+ "g:PRO_HallwayEast_DoorQuiz": {
+  "pl": "Powodzenia temu, kto tam teraz pisze sprawdzian!",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Checklist": {
+  "pl": "1. Przeżyj kolce.<br><br>2. Znajdź swoją szafkę.<br><br>3. Otwórz swój pokój.<br><br>4. Kup podręczniki.<br><br><i>Gdy skończysz, idź do gabinetu dyrektorki.</i>",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_FireExtinguisher": {
+  "pl": "Oby był zgodny z przepisami. Sądząc po tym quizie, prędzej czy później się przyda…",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_GoodLuckQuiz": {
+  "pl": "Powodzenia tym, którzy właśnie piszą tam quiz!",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_HelpLine": {
+  "pl": "Ta infolinia naprawdę pomogła!",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_HelpNote": {
+  "pl": "To może pomóc",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_LockerPrompt": {
+  "pl": "Czy to moja szafka?",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_MoreOutOfOrder": {
+  "pl": "Kolejne nieczynne",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_NotGoingBack": {
+  "pl": "Tam nie wracam – ta impreza jest już za mną!",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_OrientationPrompt": {
+  "pl": "Lista zadań orientacyjnych",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_OutOfOrder": {
+  "pl": "Nieczynne",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_SomeOf": {
+  "pl": " ",
+  "status": "review"
+ },
+ "g:PRO_HallwayWest_Student#1985": {
+  "pl": "Uczeń nr 1985",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#1989": {
+  "pl": "Uczeń nr 1989",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#2011": {
+  "pl": "Uczeń nr 2011",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#2020": {
+  "pl": "Uczeń nr 2020",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#2023": {
+  "pl": "Uczeń nr 2023",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#3450": {
+  "pl": "Uczeń nr 3450",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#3495": {
+  "pl": "Uczeń #3495",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#3517": {
+  "pl": "Uczeń #3517",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#3517-A": {
+  "pl": "Uczeń #3517-A",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#3517-B": {
+  "pl": "Uczeń #3517-B",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#3518": {
+  "pl": "Uczeń #3518",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_Student#3519": {
+  "pl": "Uczeń #3519",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_TrophyShelf": {
+  "pl": "Mam nadzieję, że kiedyś zasłużę na miejsce na tej półce. Byle nie nagroda za „Najmniej utraconych kończyn”!",
+  "status": "draft"
+ },
+ "g:PRO_HallwayWest_WelcomeBack2ndYears": {
+  "pl": "Witajcie z powrotem, uczniowie drugiego roku! Tęskniliśmy.",
+  "status": "review"
+ },
+ "g:PRO_HallwayWest_WelcomeBackToSchool": {
+  "pl": "Witamy z powrotem w szkole!",
+  "status": "draft"
+ },
+ "g:PRO_HeadmasterQuest_Description": {
+  "pl": "Udaj się do gabinetu dyrektorki.",
+  "status": "draft"
+ },
+ "g:PRO_HeadmasterQuest_Name": {
+  "pl": "Z głową do dyrektorki",
+  "status": "draft"
+ },
+ "g:PRO_HeadmasterQuest_Step1": {
+  "pl": "Idź do gabinetu dyrektorki.",
+  "status": "draft"
+ },
+ "g:PRO_HeadmasterQuest_Step2": {
+  "pl": "Odbierz telefon.",
+  "status": "draft"
+ },
+ "g:PRO_Hint_BookCipher": {
+  "pl": "Pierwsza litera to „{@PRO_Bookstore_Password[0]}”…",
+  "status": "review"
+ },
+ "g:PRO_Hint_BuyMe": {
+  "pl": "Kup mnie.",
+  "status": "draft"
+ },
+ "g:PRO_Hint_CafeA": {
+  "pl": "Tu można kupić rybę. Ale kiedy otwierają?",
+  "status": "draft"
+ },
+ "g:PRO_Hint_CafeB": {
+  "pl": "Ustaw zegar dokładnie na południe.",
+  "status": "draft"
+ },
+ "g:PRO_Hint_CafeC": {
+  "pl": "Skup się najpierw na minutach, potem na sekundach, a na końcu na godzinach.",
+  "status": "draft"
+ },
+ "g:PRO_Hint_CafeD": {
+  "pl": "Nie krępuj się, kup rybę!",
+  "status": "draft"
+ },
+ "g:PRO_Hint_DormGateA": {
+  "pl": "Czy gdzieś indziej widać kolory kart?",
+  "status": "draft"
+ },
+ "g:PRO_Hint_DormGateB": {
+  "pl": "Piknie te piki wyglądają, Sameer.",
+  "status": "review"
+ },
+ "g:PRO_Hint_EyesBook": {
+  "pl": "Na jaki kształt patrzy każde oko?",
+  "status": "draft"
+ },
+ "g:PRO_Hint_FeedCat": {
+  "pl": "Nakarm mnie!",
+  "status": "draft"
+ },
+ "g:PRO_Hint_LockerA": {
+  "pl": "Kim ty niby jesteś?",
+  "status": "draft"
+ },
+ "g:PRO_Hint_LockpickBook": {
+  "pl": "Ukryto tu <b>siedem</b> strzałek.",
+  "status": "draft"
+ },
+ "g:PRO_Hint_Roommate": {
+  "pl": "Nie krępuj się!",
+  "status": "draft"
+ },
+ "g:PRO_Hint_SodaA": {
+  "pl": "Możesz tu kupić napój. Ale żeby go dostać…",
+  "status": "draft"
+ },
+ "g:PRO_Hint_SodaB": {
+  "pl": "Czeka cię sudoku.",
+  "status": "draft"
+ },
+ "g:PRO_Hint_SodaC": {
+  "pl": "Litera to „A”. A co z cyfrą?",
+  "status": "draft"
+ },
+ "g:PRO_Hint_SodaD": {
+  "pl": "Daj Brook jej napój!",
+  "status": "draft"
+ },
+ "g:PRO_Hint_TrophyA": {
+  "pl": "Dwa trofea z Turnieju Zagadek muszą dzielić dokładnie 10 lat.",
+  "status": "review"
+ },
+ "g:PRO_Hint_TrophyB": {
+  "pl": "25. doroczny konkurs szyfrów odbył się w 1980 roku.",
+  "status": "draft"
+ },
+ "g:PRO_HypnosisBulletin": {
+  "pl": "Dołącz do Klubu Czytania w Myślach! Spotykamy się wiesz-kiedy i wiesz-gdzie!",
+  "status": "draft"
+ },
+ "g:PRO_IVDrip": {
+  "pl": "Kroplówka czeka w pogotowiu… kropla do kropli!",
+  "status": "review"
+ },
+ "g:PRO_IncidentFiles": {
+  "pl": "„Raporty z incydentów: ostatnie dwanaście godzin”",
+  "status": "draft"
+ },
+ "g:PRO_Item_BookTextbook": {
+  "pl": "Podręcznik",
+  "status": "draft"
+ },
+ "g:PRO_Item_CafeteriaKey": {
+  "pl": "Klucz do stołówki",
+  "status": "draft"
+ },
+ "g:PRO_Item_CatFood": {
+  "pl": "Mleko",
+  "status": "draft"
+ },
+ "g:PRO_Item_CatFoodDesc": {
+  "pl": "(Nie nadaje się do spożycia przez ludzi)",
+  "status": "draft"
+ },
+ "g:PRO_Item_MysteryKey": {
+  "pl": "Klucz do szafki",
+  "status": "draft"
+ },
+ "g:PRO_Item_SnackDokuCandy": {
+  "pl": "Baton Kluczkieterów",
+  "status": "draft"
+ },
+ "g:PRO_Item_SnackDokuSoda": {
+  "pl": "Eska-Cola",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_BombPost": {
+  "pl": "Konkurs rozbrajania bomb <br>Przegrany<br><br>Wiosna<br>1995",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_BookShelf": {
+  "pl": "Szukam poradników. Najlepiej z samej górnej półki.",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_BustDePlora": {
+  "pl": "„Gustave DePlora Bull: dyrektor znany z życzliwości, serdeczności i ogólnego bycia świetnym gościem.”",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_BustSolange": {
+  "pl": "„Sandra Solange: obecna dyrektorka, była agentka Rady Eskapistów. Z najlepszym przyjacielem Eelem Barnesem przeprowadziła niezliczone misje.”",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_BustWindsor": {
+  "pl": "„Horatio Windsor: poprzednik Solange; jego największe osiągnięcia to remont tego holu i o włos uniknięty zamach na życie.”",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_Bust_Barnes": {
+  "pl": "„Eel Barnes: największy eskapista świata i serdeczny przyjaciel Dyrektorki Solange. Ma w zwyczaju znikać.”",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_Cart": {
+  "pl": "Ten rok pojedzie jak na kółkach!",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_Certificate1": {
+  "pl": "„Ku czci naszego złotego chłopca, Evana Parkera. Idź rozwiązać parę zagadek (i postaraj się nie zmoczyć piętrowego łóżka!)<br> buziaki, Mamusia i Tatuś”",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_Certificate2": {
+  "pl": "„Dla Guffa Hutchinsa: uciekaj, ile sił!”",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_Certificate3": {
+  "pl": "„Dla Gillian Paisley – celowo publiczne przypomnienie, że oczekujemy od ciebie podtrzymania rodzinnej spuścizny.”",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_CipherBeePost": {
+  "pl": "1. coroczny konkurs szyfrów<br>–1955–",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_CipherBeePost2": {
+  "pl": "Akademia zdobywa srebro w 25. dorocznym konkursie szyfrów",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_CorkBoard": {
+  "pl": "„Zgadywanki w piątki o 20.00. (<i>Śpiewanki</i> są w czwartki.)”",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_EscapeDoorAdvance": {
+  "pl": "<color=blue><b>Na pewno chcesz iść dalej?</b><br>Przejście przez te drzwi popchnie fabułę do przodu. Możesz stracić dostęp do niedokończonych zadań.",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_FireAlarm": {
+  "pl": "Hmm… kusi…",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_FireLabel": {
+  "pl": "POŻAR",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_Flowers": {
+  "pl": "Nie mogę się doczekać rozmowy z dyrektorką <i>w dwa wazony.</i>",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_Globe": {
+  "pl": "Cały świat to jedna wielka zagadka…",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_HeadmasteSign": {
+  "pl": "Dyrektorka",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_LockPickingPost": {
+  "pl": "Mistrzowie otwierania zamków<br>–1984–",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_Piano": {
+  "pl": "Co tam kilka klawiszy więcej…",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_PianoBench": {
+  "pl": "Czy siedzenie tu liczy się jako wyciskanie na ławeczce?",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_PottedPlant1": {
+  "pl": "Etos, logos, doniczkos.",
+  "status": "review"
+ },
+ "g:PRO_Lobby_PottedPlant2": {
+  "pl": "Chcę zacząć ten rok na żyznym gruncie.",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_PottedPlant3": {
+  "pl": "Intryga się zakorzenia.",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_Radiator": {
+  "pl": "Do zobaczenia, kaloryferze. Tylko się nie przegrzej.",
+  "status": "review"
+ },
+ "g:PRO_Lobby_TOPOld": {
+  "pl": "Mistrzowie Turnieju Zagadek<br>–1983–",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_TOPWin": {
+  "pl": "10 lat po sromotnej porażce trener Yoach wygrywa Turniej Zagadek",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_TrophiesFloor": {
+  "pl": "Ale bałagan! Kto to zrobił?",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_TrophiesSorted": {
+  "pl": "Wszystkie trofea ustawione!",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_TrophiesUnsorted": {
+  "pl": "Te trofea same się nie pozbierają…",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_TrophyBomb": {
+  "pl": "Wpadka z hukiem!",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_TrophyCaseSign": {
+  "pl": "Nasze najtęższe umysły",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_TrophyCipherBee": {
+  "pl": "2. miejsce",
+  "status": "draft"
+ },
+ "g:PRO_Lobby_TrophyTOP": {
+  "pl": "T.Z.",
+  "status": "review"
+ },
+ "g:PRO_PuzzlePickups_2": {
+  "pl": "Wielka<br>księga<br>wytrychów",
+  "status": "draft"
+ },
+ "g:PRO_QuestGroupName": {
+  "pl": "Dez-orientacja uczniów",
+  "status": "draft"
+ },
+ "g:PRO_QuestLocker_Description": {
+  "pl": "Ustal, która szafka jest twoja, i ją otwórz!",
+  "status": "draft"
+ },
+ "g:PRO_QuestLocker_Name": {
+  "pl": "Szafka gotowa do strzału",
+  "status": "draft"
+ },
+ "g:PRO_QuestLocker_Step0": {
+  "pl": "Znajdź i otwórz swoją szafkę.",
+  "status": "draft"
+ },
+ "g:PRO_SodaQuest_Description": {
+  "pl": "Jedna z uczennic jest śpiąca i potrzebuje Eska-Coli na pobudzenie.",
+  "status": "draft"
+ },
+ "g:PRO_SodaQuest_Name": {
+  "pl": "Bąbelkowy interes",
+  "status": "draft"
+ },
+ "g:PRO_SodaQuest_Step0": {
+  "pl": "Kup puszkę napoju.",
+  "status": "draft"
+ },
+ "g:PRO_SodaQuest_Step1": {
+  "pl": "Daj ją wykończonej uczennicy.",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_Book": {
+  "pl": "„Eel Barnes ponuro rozmyślał przy zroszonym deszczem oknie. ‚Śmierci nie da się uniknąć, ale przynajmniej jesteśmy kumplami’. Uśmiechnął się z satysfakcją.” Ech. Literatura <i>faktycznie</i> nie żyje.",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_Chess": {
+  "pl": "Jeśli się nad tym zastanowić, szachy to w gruncie rzeczy wciąż ewoluująca łamigłówka! Zupełnie jak moje uczucia i związki…",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_Papers": {
+  "pl": "„Oś czasu pułapek – notatki z wykładu”. Ciekawe, czy te zajęcia są częścią własnego programu.",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_SnackdokuCandy": {
+  "pl": "Pyszny batonik! Ale jak go zdobyć?",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_SnackdokuCandyHeader": {
+  "pl": "Snackdoku: batonik 1 $",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_SnackdokuPrompt": {
+  "pl": "„Wrzuć 1 $”",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_SnackdokuRules1": {
+  "pl": "Sudoku i ty",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_SnackdokuRules2": {
+  "pl": "Jakie są zasady sudoku?",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_SnackdokuRules3": {
+  "pl": "Wypełnij planszę tak, aby w każdym wierszu, kolumnie i podkwadracie każda liczba występowała dokładnie raz.",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_SnackdokuSoda": {
+  "pl": "Pyszna puszka Eska-Coli! Ale jak ją zdobyć?",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_SnackdokuSodaHeader": {
+  "pl": "Snackdoku: napój 1 $",
+  "status": "draft"
+ },
+ "g:PRO_Terrace_SoldOut": {
+  "pl": "Wyprzedane!",
+  "status": "draft"
+ },
+ "g:PRO_TrophyQuest_Description": {
+  "pl": "Pomóż Ralphowi pozbierać trofea, które poprzewracał.",
+  "status": "draft"
+ },
+ "g:PRO_TrophyQuest_Name": {
+  "pl": "Półka zagłady",
+  "status": "draft"
+ },
+ "g:PRO_TrophyQuest_Step0": {
+  "pl": "Posprzątaj trofea.",
+  "status": "draft"
+ },
+ "g:PRO_Wheelchair": {
+  "pl": "Coś mi się dziś nie toczy!",
+  "status": "draft"
+ },
+ "g:PRO_doorLockedFireSafe": {
+  "pl": "Zamknięte od zewnątrz. Fatalnie z przepisami przeciwpożarowymi.",
+  "status": "draft"
+ },
+ "v:Gillian_PRO_OfCourse": {
+  "pl": "No jasne, że to ty.",
+  "status": "draft"
+ },
+ "v:PRO_Cat_ClockedMenu": {
+  "pl": "Wiesz już, jak tyka dzisiejsze menu obiadowe?",
+  "status": "draft"
+ },
+ "v:PRO_Cat_Disgusting": {
+  "pl": "Tylko bez obrzydlistwa, umyj ręce!",
+  "status": "draft"
+ },
+ "v:PRO_Roomies_IToldYou": {
+  "pl": "Już ci mówiłem, że prania nie robię.",
+  "status": "draft"
+ },
+ "v:PRO_Roomies_NotDustingJack": {
+  "pl": "No to ja nie zetrę nawet pyłka!",
+  "status": "draft"
+ },
+ "v:PRO_Soda_SupposedMine": {
+  "pl": "To miała być moja!",
+  "status": "draft"
+ },
+ "v:PRO_Trophy_Debt": {
+  "pl": "Jestem twoim dłużnikiem na zawsze!",
+  "status": "draft"
+ },
+ "v:PRO_Trophy_DontCoach": {
+  "pl": "Błagam, nie mów trenerowi!",
+  "status": "draft"
+ },
+ "v:Paige_PRO_GoodPick": {
+  "pl": "Dobry wytrych… to znaczy wybór!",
+  "status": "draft"
+ },
+ "v:Paige_PRO_HardDeceipher": {
+  "pl": "Niektóre fragmenty tutaj trudno rozszyfrować.",
+  "status": "draft"
+ },
+ "v:Paige_PRO_HardFind": {
+  "pl": "Podobno ta książka jest trudna do znalezienia. Jak to w chowanego.",
+  "status": "review"
+ }
+}

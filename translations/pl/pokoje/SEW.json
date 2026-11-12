@@ -1,0 +1,442 @@
+{
+ "g:SEW_1ClubDoor": {
+  "pl": "Kier jest właściwą drogą.",
+  "status": "draft"
+ },
+ "g:SEW_1HeartDoor": {
+  "pl": "Jestem złą drogą.",
+  "status": "draft"
+ },
+ "g:SEW_1Liar": {
+  "pl": "Jest tu 1 kłamca.",
+  "status": "draft"
+ },
+ "g:SEW_1SpadeDoor": {
+  "pl": "Jestem właściwą drogą.",
+  "status": "draft"
+ },
+ "g:SEW_2ClubDoor": {
+  "pl": "Pik kłamie.",
+  "status": "draft"
+ },
+ "g:SEW_2HeartDoor": {
+  "pl": "Jestem złą drogą.",
+  "status": "draft"
+ },
+ "g:SEW_2Liars": {
+  "pl": "Są tu 2 kłamcy.",
+  "status": "draft"
+ },
+ "g:SEW_2SpadeDoor": {
+  "pl": "Kier jest właściwą drogą.",
+  "status": "draft"
+ },
+ "g:SEW_3ClubDoor": {
+  "pl": "Pik jest właściwą drogą.",
+  "status": "draft"
+ },
+ "g:SEW_3HeartDoor": {
+  "pl": "Trefl mówi prawdę.",
+  "status": "draft"
+ },
+ "g:SEW_3Liars": {
+  "pl": "Wszyscy tu są kłamcami.",
+  "status": "draft"
+ },
+ "g:SEW_3SpadeDoor": {
+  "pl": "Kier jest właściwą drogą.",
+  "status": "draft"
+ },
+ "g:SEW_BlankA1": {
+  "pl": "Caspian",
+  "status": "review"
+ },
+ "g:SEW_BlankA2": {
+  "pl": "Kenji",
+  "status": "draft"
+ },
+ "g:SEW_BlankA3": {
+  "pl": "Soren",
+  "status": "draft"
+ },
+ "g:SEW_BlankA4": {
+  "pl": "Marvin",
+  "status": "draft"
+ },
+ "g:SEW_BlankA_CA": {
+  "pl": "Alistair",
+  "status": "draft"
+ },
+ "g:SEW_BlankB1": {
+  "pl": "Kingswell",
+  "status": "draft"
+ },
+ "g:SEW_BlankB2": {
+  "pl": "Montclair",
+  "status": "draft"
+ },
+ "g:SEW_BlankB3": {
+  "pl": "Wym",
+  "status": "draft"
+ },
+ "g:SEW_BlankB4": {
+  "pl": "Ashborne",
+  "status": "draft"
+ },
+ "g:SEW_BlankB_CA": {
+  "pl": "Bell",
+  "status": "draft"
+ },
+ "g:SEW_BlankC1": {
+  "pl": "Król",
+  "status": "review"
+ },
+ "g:SEW_BlankC2": {
+  "pl": "Królowa",
+  "status": "draft"
+ },
+ "g:SEW_BlankC3": {
+  "pl": "Bohater",
+  "status": "draft"
+ },
+ "g:SEW_BlankC4": {
+  "pl": "Szef kuchni",
+  "status": "draft"
+ },
+ "g:SEW_BlankC_CA": {
+  "pl": "Założyciel",
+  "status": "draft"
+ },
+ "g:SEW_BlankD1": {
+  "pl": "Kier",
+  "status": "draft"
+ },
+ "g:SEW_BlankD2": {
+  "pl": "Trefl",
+  "status": "draft"
+ },
+ "g:SEW_BlankD3": {
+  "pl": "Pik",
+  "status": "draft"
+ },
+ "g:SEW_BlankD4": {
+  "pl": "Pizza",
+  "status": "draft"
+ },
+ "g:SEW_BlankD_CA": {
+  "pl": "Karo",
+  "status": "draft"
+ },
+ "g:SEW_BlankE1": {
+  "pl": "Stracił",
+  "status": "review"
+ },
+ "g:SEW_BlankE2": {
+  "pl": "Koronował",
+  "status": "draft"
+ },
+ "g:SEW_BlankE3": {
+  "pl": "Przemienił",
+  "status": "draft"
+ },
+ "g:SEW_BlankE4": {
+  "pl": "Poczęstował obiadem",
+  "status": "draft"
+ },
+ "g:SEW_BlankE_CA": {
+  "pl": "uwięziony",
+  "status": "review"
+ },
+ "g:SEW_BlankF1": {
+  "pl": "Walka",
+  "status": "draft"
+ },
+ "g:SEW_BlankF2": {
+  "pl": "Zwycięstwo",
+  "status": "draft"
+ },
+ "g:SEW_BlankF3": {
+  "pl": "Badania",
+  "status": "draft"
+ },
+ "g:SEW_BlankF4": {
+  "pl": "Przepis",
+  "status": "draft"
+ },
+ "g:SEW_BlankF_CA": {
+  "pl": "zdradę",
+  "status": "review"
+ },
+ "g:SEW_BlankG1": {
+  "pl": "Natura",
+  "status": "draft"
+ },
+ "g:SEW_BlankG2": {
+  "pl": "Przeciętność",
+  "status": "draft"
+ },
+ "g:SEW_BlankG3": {
+  "pl": "Samego siebie",
+  "status": "review"
+ },
+ "g:SEW_BlankG4": {
+  "pl": "Dobry smak",
+  "status": "draft"
+ },
+ "g:SEW_BlankG_CA": {
+  "pl": "Akademii",
+  "status": "review"
+ },
+ "g:SEW_DetentionDoorLocked": {
+  "pl": "Te drzwi prowadzą do kozy. Nie, dziękuję.",
+  "status": "draft"
+ },
+ "g:SEW_GoodLuck": {
+  "pl": "Powodzenia temu, kto właśnie zdaje tam swój sprawdzian!",
+  "status": "draft"
+ },
+ "g:SEW_Hint_Chamber1A": {
+  "pl": "Jedne z drzwi w tym pokoju kłamią. Myśl logicznie!",
+  "status": "draft"
+ },
+ "g:SEW_Hint_Chamber1B": {
+  "pl": "Te drzwi naprawdę prowadzą w złą stronę!",
+  "status": "draft"
+ },
+ "g:SEW_Hint_Chamber2A": {
+  "pl": "Te dwoje drzwi sobie przeczy...",
+  "status": "draft"
+ },
+ "g:SEW_Hint_Chamber2B": {
+  "pl": "Co mają do powiedzenia trzecie drzwi?",
+  "status": "draft"
+ },
+ "g:SEW_Hint_Chamber3A": {
+  "pl": "Jeśli wszyscy kłamią, wierz w przeciwieństwo każdego twierdzenia w tym pokoju.",
+  "status": "draft"
+ },
+ "g:SEW_Hint_MadlibA": {
+  "pl": "Kto to i jaki jest jego symbol?",
+  "status": "draft"
+ },
+ "g:SEW_Hint_MadlibB": {
+  "pl": "Ta cela opowiada pewną historię...",
+  "status": "draft"
+ },
+ "g:SEW_Hint_MadlibC": {
+  "pl": "Wpisz tę historię na tym cokole!",
+  "status": "draft"
+ },
+ "g:SEW_Hint_OakA": {
+  "pl": "Spójrz przez soczewkę na portrety wszystkich trzech założycieli.",
+  "status": "draft"
+ },
+ "g:SEW_Hint_OakB": {
+  "pl": "Wpisz na drzewie słowo, które się pojawiło!",
+  "status": "draft"
+ },
+ "g:SEW_Hint_Return": {
+  "pl": "Wróć na szlaban w wieży!",
+  "status": "draft"
+ },
+ "g:SEW_Item_GrassBlue": {
+  "pl": "Niebieska trawa",
+  "status": "draft"
+ },
+ "g:SEW_Item_GrassPurple": {
+  "pl": "Fioletowa trawa",
+  "status": "draft"
+ },
+ "g:SEW_Item_GrassYellow": {
+  "pl": "Żółta trawa",
+  "status": "draft"
+ },
+ "g:SEW_Item_LichenBlue": {
+  "pl": "Niebieski porost",
+  "status": "draft"
+ },
+ "g:SEW_Item_LichenPurple": {
+  "pl": "Fioletowy porost",
+  "status": "draft"
+ },
+ "g:SEW_Item_LichenYellow": {
+  "pl": "Żółty porost",
+  "status": "draft"
+ },
+ "g:SEW_Item_MushroomBlue": {
+  "pl": "Niebieski grzyb",
+  "status": "draft"
+ },
+ "g:SEW_Item_MushroomPurple": {
+  "pl": "Fioletowy grzyb",
+  "status": "draft"
+ },
+ "g:SEW_Item_MushroomYellow": {
+  "pl": "Żółty grzyb",
+  "status": "draft"
+ },
+ "g:SEW_Item_SewerKeys": {
+  "pl": "Pęk kluczy do kanałów",
+  "status": "review"
+ },
+ "g:SEW_LiarPoster1": {
+  "pl": "K",
+  "status": "review"
+ },
+ "g:SEW_LiarPoster2": {
+  "pl": "Ł",
+  "status": "review"
+ },
+ "g:SEW_LiarPoster3": {
+  "pl": "A",
+  "status": "review"
+ },
+ "g:SEW_LiarPoster4": {
+  "pl": "M",
+  "status": "review"
+ },
+ "g:SEW_LiarPoster5": {
+  "pl": "C",
+  "status": "review"
+ },
+ "g:SEW_LockPasswordLie": {
+  "pl": "K,Ł,A,M,C,Y",
+  "status": "review"
+ },
+ "g:SEW_META_ItemDescription_Lens": {
+  "pl": "Odsłaniają tajemnice nocą.",
+  "status": "review"
+ },
+ "g:SEW_META_Item_Lens": {
+  "pl": "Oczy założycieli",
+  "status": "draft"
+ },
+ "g:SEW_Madlib1": {
+  "pl": "Ta cela została zbudowana dla: <br><br><link=\"first\">■</link><br><br><link=\"last\">■</link><br><br>, <br><br><link=\"job\">■</link><br><br> frakcji <br><br><link=\"rank\">■</link>",
+  "status": "review"
+ },
+ "g:SEW_Madlib2": {
+  "pl": "Został tu <br><br><link=\"punishment\">■</link><br><br> za <br><br><link=\"crimes\">■</link><br><br> wobec <br><br><link=\"target\">■</link>",
+  "status": "review"
+ },
+ "g:SEW_Madlib3": {
+  "pl": "Prawdziwa historia zostanie objawiona tylko godnym.",
+  "status": "draft"
+ },
+ "g:SEW_Obj1": {
+  "pl": "Wydostań się ze szlabanu.",
+  "status": "draft"
+ },
+ "g:SEW_Obj2": {
+  "pl": "Znajdź zastosowanie dla okularów.",
+  "status": "draft"
+ },
+ "g:SEW_Obj3": {
+  "pl": "Odnajdź drogę w kanałach.",
+  "status": "draft"
+ },
+ "g:SEW_Obj4": {
+  "pl": "Odkryj spisek.",
+  "status": "draft"
+ },
+ "g:SEW_Obj5": {
+  "pl": "Wkradnij się z powrotem na szlaban.",
+  "status": "draft"
+ },
+ "g:SEW_Placard": {
+  "pl": "Co za dziwna tabliczka...",
+  "status": "draft"
+ },
+ "g:SEW_PlacardInstrux": {
+  "pl": "Idź do Dębu założycieli, gdy zgadniesz, kim jestem.",
+  "status": "draft"
+ },
+ "g:SEW_QuestDesc": {
+  "pl": "Dowiedz się, co oczy założycieli mogą odkryć pod ziemią.",
+  "status": "draft"
+ },
+ "g:SEW_QuestName": {
+  "pl": "Po drugiej stronie kratki",
+  "status": "draft"
+ },
+ "g:SEW_RiddleHeader": {
+  "pl": "Kim jesteśmy?",
+  "status": "draft"
+ },
+ "g:SEW_SealedShut": {
+  "pl": "Zamknięta na głucho. Może dźwignia poniżej ją odblokuje...",
+  "status": "draft"
+ },
+ "g:SEW_TraitorSign": {
+  "pl": "Tu gnije największy zdrajca w historii Akademii.",
+  "status": "draft"
+ },
+ "g:SEW_TraitorsCage": {
+  "pl": "Miała być pusta... prawda?",
+  "status": "draft"
+ },
+ "g:SEW_TreeNonNight": {
+  "pl": "Dziwne symbole wyryte na drzewie? Pewnie nic takiego, prawda?",
+  "status": "draft"
+ },
+ "v:GIllian_SEW_BarkingTree": {
+  "pl": "Szczekanie pod niewłaściwym drzewem nas nigdzie nie zaprowadzi.",
+  "status": "draft"
+ },
+ "v:GIllian_SEW_BarkingTree_ALT": {
+  "pl": "Wiem, że Reed drąży ten spisek do samych korzeni, ale szczekanie pod niewłaściwym drzewem nic nam nie da.",
+  "status": "draft"
+ },
+ "v:GIllian_SEW_HaveBeSewers": {
+  "pl": "Czy te okulary musiały nas zaprowadzić aż do kanałów?",
+  "status": "review"
+ },
+ "v:GIllian_SEW_WhatPlace": {
+  "pl": "Co... to za miejsce...",
+  "status": "draft"
+ },
+ "v:GIllian_SEW_WorkedOut": {
+  "pl": "Zadziała. Jak dotąd wszystko wychodziło nam świetnie!",
+  "status": "draft"
+ },
+ "v:Kira_SEW_BackToTheDungeon": {
+  "pl": "Możemy po prostu wrócić do Karceru i udawać, że nic się nie stało...",
+  "status": "review"
+ },
+ "v:Kira_SEW_BadFeelingAboutThis": {
+  "pl": "Mam z tym złe przeczucia...",
+  "status": "draft"
+ },
+ "v:Kira_SEW_DraggedIntoThis": {
+  "pl": "Jak ja dałam się w to wciągnąć?",
+  "status": "draft"
+ },
+ "v:Kira_SEW_PlanBetterWork": {
+  "pl": "Ten plan lepiej niech zadziała...",
+  "status": "draft"
+ },
+ "v:Kira_SEW_Ummm": {
+  "pl": "Yyy...",
+  "status": "draft"
+ },
+ "v:Kira_SEW_WhydTheyHaveToRun": {
+  "pl": "Czemu oni znowu zwiali? Nie potrafią czasem zwolnić...",
+  "status": "draft"
+ },
+ "v:Reed_SEW_JailCell": {
+  "pl": "Oto cela godna eskapisty! Albo potwora...",
+  "status": "draft"
+ },
+ "v:Reed_SEW_Mushrooms": {
+  "pl": "Grzyby... Trujące, smaczne czy pełne tajemnic?",
+  "status": "draft"
+ },
+ "v:Reed_SEW_PaintingsTalk": {
+  "pl": "Gdyby tak te portrety umiały mówić... Bylibyśmy pierwsi na świecie, którzy pogadali z obrazem!",
+  "status": "draft"
+ },
+ "v:Reed_SEW_SecretCompartment": {
+  "pl": "No jasne, że otwiera się tajna skrytka!",
+  "status": "draft"
+ }
+}

@@ -1,0 +1,654 @@
+{
+ "g:VON_AreaLocked": {
+  "pl": "Klucz do bramy przyznaję tylko wybitnym umysłom ścisłym. – <color=yellow>Profesor Von Bellini</color>",
+  "status": "draft"
+ },
+ "g:VON_BackAreaKey": {
+  "pl": "Klucz do bramy Wydziału Nauk Ścisłych",
+  "status": "review"
+ },
+ "g:VON_BinaryPoster_ExamplesHeader": {
+  "pl": "To oznacza…",
+  "status": "draft"
+ },
+ "g:VON_BinaryPoster_Explanation": {
+  "pl": "System binarny to sposób liczenia za pomocą zer i jedynek. Każda cyfra oznacza potęgę dwójki.",
+  "status": "draft"
+ },
+ "g:VON_BinaryPoster_Title": {
+  "pl": "Binarny 101",
+  "status": "draft"
+ },
+ "g:VON_Burnice_Drop": {
+  "pl": "Upuść",
+  "status": "draft"
+ },
+ "g:VON_Burnice_Raise": {
+  "pl": "Trzymaj",
+  "status": "draft"
+ },
+ "g:VON_Bust": {
+  "pl": "Popiersie Von Belliniego",
+  "status": "draft"
+ },
+ "g:VON_ChipFail": {
+  "pl": "Nie pasuje!",
+  "status": "draft"
+ },
+ "g:VON_ChipInsert": {
+  "pl": "Który chip pasuje tutaj?",
+  "status": "draft"
+ },
+ "g:VON_ChipInsertedSolved": {
+  "pl": "Wskoczył na miejsce! Co dalej?",
+  "status": "draft"
+ },
+ "g:VON_CrownSolved": {
+  "pl": "K-O-R-O-N-A… ale co nam po słowie z sześciu liter?",
+  "status": "review"
+ },
+ "g:VON_DerbyWin": {
+  "pl": "Wygraj<br>Derby",
+  "status": "draft"
+ },
+ "g:VON_EC_Burnice_QuestDesc": {
+  "pl": "Rozwiąż podchwytliwą zagadkę jednego z uczniów i sprawdź, czy dobrze projektuje zagadki.",
+  "status": "draft"
+ },
+ "g:VON_EC_Burnice_QuestName": {
+  "pl": "Poczuj ogień",
+  "status": "draft"
+ },
+ "g:VON_EC_Burnice_QuestObj1": {
+  "pl": "Rozwiąż konstrukcję.",
+  "status": "draft"
+ },
+ "g:VON_EC_Pinewood_QuestDesc": {
+  "pl": "Pomóż zdesperowanemu uczniowi wystartować w wyścigu Pinewood Derby na Wydziale Nauk Ścisłych! ",
+  "status": "draft"
+ },
+ "g:VON_EC_Pinewood_QuestName": {
+  "pl": "Sosnowe marzenia o wygranej",
+  "status": "review"
+ },
+ "g:VON_EC_Pinewood_QuestObj1": {
+  "pl": "Wygraj Pinewood Derby",
+  "status": "draft"
+ },
+ "g:VON_EC_Pipes_QuestDesc": {
+  "pl": "Napraw uszkodzone rury parowe na Wydziale Nauk Ścisłych.",
+  "status": "draft"
+ },
+ "g:VON_EC_Pipes_QuestName": {
+  "pl": "Rurowa pasja",
+  "status": "draft"
+ },
+ "g:VON_EC_Pipes_QuestObj1": {
+  "pl": "Zatrzymaj wycieki ze wszystkich rur.",
+  "status": "draft"
+ },
+ "g:VON_EC_Radio_QuestDesc": {
+  "pl": "Pomóż DJ SkeaKy nadać sygnał jego pirackiego radia.",
+  "status": "draft"
+ },
+ "g:VON_EC_Radio_QuestName": {
+  "pl": "Radiowi kamraci",
+  "status": "draft"
+ },
+ "g:VON_EC_Radio_QuestObj1": {
+  "pl": "Aktywuj sygnał",
+  "status": "draft"
+ },
+ "g:VON_Geology_QuestDesc": {
+  "pl": "Pomóż Marty’emu Mole’owi dokończyć jego eksperyment z badaniem gleby. ",
+  "status": "review"
+ },
+ "g:VON_Geology_QuestName": {
+  "pl": "Badanie gleby",
+  "status": "draft"
+ },
+ "g:VON_Geology_QuestObj1": {
+  "pl": "Porozmawiaj z prof. Bonillą",
+  "status": "draft"
+ },
+ "g:VON_Geology_QuestObj2": {
+  "pl": "Zbierz próbki ziemi",
+  "status": "draft"
+ },
+ "g:VON_Geology_QuestObj3": {
+  "pl": "Ułóż próbki na stole laboratoryjnym",
+  "status": "draft"
+ },
+ "g:VON_Geology_SampleA": {
+  "pl": "Próbka ziemi A",
+  "status": "draft"
+ },
+ "g:VON_Geology_SampleB": {
+  "pl": "Próbka ziemi B",
+  "status": "draft"
+ },
+ "g:VON_Geology_SampleC": {
+  "pl": "Próbka ziemi C",
+  "status": "draft"
+ },
+ "g:VON_Hint_Air": {
+  "pl": "Trzymaj {@VON_Meteor_DetectorAir} tutaj, wysoko!",
+  "status": "draft"
+ },
+ "g:VON_Hint_BinaryA": {
+  "pl": "Sekwencja zaczyna się: dół, lewo…",
+  "status": "draft"
+ },
+ "g:VON_Hint_ChipsA": {
+  "pl": "Dopasuj kolory do chipów.",
+  "status": "draft"
+ },
+ "g:VON_Hint_LightupA": {
+  "pl": "Obserwuj wzór świateł…",
+  "status": "draft"
+ },
+ "g:VON_Hint_LightupB": {
+  "pl": "…i odtwórz go tutaj! Co przypomina?",
+  "status": "draft"
+ },
+ "g:VON_Hint_LightupC": {
+  "pl": "Zapisz, co widzisz! Połącz kropki.",
+  "status": "draft"
+ },
+ "g:VON_Hint_MathA": {
+  "pl": "Wpisz swoje odczyty na tablicy!",
+  "status": "draft"
+ },
+ "g:VON_Hint_MathB": {
+  "pl": "Urządzenia zapamiętują swoje odczyty. Weź je do ręki, żeby się upewnić.",
+  "status": "draft"
+ },
+ "g:VON_Hint_MeetVon": {
+  "pl": "Profesor stoi przy magazynie.",
+  "status": "draft"
+ },
+ "g:VON_Hint_MeetVonRadio": {
+  "pl": "Profesorowie mają coś do powiedzenia.",
+  "status": "draft"
+ },
+ "g:VON_Hint_NumLockA": {
+  "pl": "Zamień {@VON_LightLock_PWRaw} na liczby…",
+  "status": "draft"
+ },
+ "g:VON_Hint_NumLockB": {
+  "pl": "…i wpisz je tutaj!",
+  "status": "draft"
+ },
+ "g:VON_Hint_PlugIn": {
+  "pl": "Podłącz profesora!",
+  "status": "draft"
+ },
+ "g:VON_Hint_Stinky": {
+  "pl": "Trzymaj {@VON_Meteor_DetectorStink} blisko tego miejsca!",
+  "status": "draft"
+ },
+ "g:VON_Hint_Water": {
+  "pl": "Zanurz {@VON_Meteor_DetectorWater} tutaj!",
+  "status": "draft"
+ },
+ "g:VON_Hint_WordLockA": {
+  "pl": "Przyjrzyj się wycięciom. To cyfry!",
+  "status": "draft"
+ },
+ "g:VON_Hint_WordLockB": {
+  "pl": "Wpisz te liczby w tej lunecie i zamień je na litery…",
+  "status": "draft"
+ },
+ "g:VON_Hint_WordLockC": {
+  "pl": "…a potem wpisz je tutaj! Pierwsza litera to {@VON_WordLock_PW[0]}.",
+  "status": "draft"
+ },
+ "g:VON_Item_ChipA": {
+  "pl": "Zielony chip",
+  "status": "draft"
+ },
+ "g:VON_Item_ChipB": {
+  "pl": "Pomarańczowy chip",
+  "status": "draft"
+ },
+ "g:VON_Item_ChipC": {
+  "pl": "Czerwony chip",
+  "status": "draft"
+ },
+ "g:VON_Item_ChipD": {
+  "pl": "Niebieski chip",
+  "status": "draft"
+ },
+ "g:VON_Item_Sunglasses": {
+  "pl": "Okulary przeciwsłoneczne",
+  "status": "draft"
+ },
+ "g:VON_Lab_Groovy": {
+  "pl": "Booyah, ale groove, baby. ",
+  "status": "draft"
+ },
+ "g:VON_Lab_PlugInLabel": {
+  "pl": "Sterownik osobowości",
+  "status": "draft"
+ },
+ "g:VON_Lab_QuantyHead": {
+  "pl": "Głowa Quanty’ego",
+  "status": "draft"
+ },
+ "g:VON_Lab_QuantyHeadDesc": {
+  "pl": "Nie upuść go!",
+  "status": "draft"
+ },
+ "g:VON_Lab_QuestDesc": {
+  "pl": "Pomóż prof. Quanty’emu otworzyć garaż do jego starej pracowni komputerowej.",
+  "status": "draft"
+ },
+ "g:VON_Lab_QuestName": {
+  "pl": "Quanty: restart",
+  "status": "draft"
+ },
+ "g:VON_Lab_QuestObj1": {
+  "pl": "Porozmawiaj z prof. Quantym przed jego starą pracownią.",
+  "status": "draft"
+ },
+ "g:VON_Lab_QuestObj2": {
+  "pl": "Otwórz drzwi garażowe.",
+  "status": "draft"
+ },
+ "g:VON_Lab_QuestObj3": {
+  "pl": "Podłącz prof. Quanty’ego do jego procesorów.",
+  "status": "draft"
+ },
+ "g:VON_LifeguardSupplies": {
+  "pl": "Sprzęt ratowniczy",
+  "status": "draft"
+ },
+ "g:VON_Lifeguard_QuestDescription": {
+  "pl": "Znajdź okulary przeciwsłoneczne dla opalającego się kolegi z klasy.",
+  "status": "draft"
+ },
+ "g:VON_Lifeguard_QuestName": {
+  "pl": "Rzucanie cienia",
+  "status": "draft"
+ },
+ "g:VON_Lifeguard_QuestStep": {
+  "pl": "Odblokuj okulary przeciwsłoneczne",
+  "status": "review"
+ },
+ "g:VON_Lifeguard_QuestStep1": {
+  "pl": "Daj je opalającej się osobie.",
+  "status": "draft"
+ },
+ "g:VON_LightCrownLock_PW": {
+  "pl": "K,O,R,O,N,A",
+  "status": "review"
+ },
+ "g:VON_LightLock_PWRaw": {
+  "pl": "Korona",
+  "status": "review"
+ },
+ "g:VON_Mailbox_Largest": {
+  "pl": "Największa",
+  "status": "draft"
+ },
+ "g:VON_Mailbox_Prime": {
+  "pl": "Pierwsza",
+  "status": "review"
+ },
+ "g:VON_Mailbox_Smallest": {
+  "pl": "Najmniejsza",
+  "status": "draft"
+ },
+ "g:VON_Meteo_Instrux": {
+  "pl": "Znajdź wszystkie zmienne i uzupełnij równanie!",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DaysTilStrorm": {
+  "pl": "Dni do Burzy Mózgów!!!",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorAir": {
+  "pl": "Próbnik jakości powietrza",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorAirDesc": {
+  "pl": "Wynieś to jak najwyżej.",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorAir_Idle": {
+  "pl": "Za mała wysokość!",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorAir_Solved": {
+  "pl": "Próbka powietrza pobrana!<br>Wynik: 90 IJP",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorStink": {
+  "pl": "Smrodomierz",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorStinkDesc": {
+  "pl": "Zanieś to w śmierdzące miejsce.",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorStink_Idle": {
+  "pl": "Nie wykryto SMRODU…",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorStink_Solved": {
+  "pl": "Próbka smrodu pobrana!<br>Wynik: 10 gigawąchów",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorWater": {
+  "pl": "Analizator czystości wody",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorWaterDesc": {
+  "pl": "Przyłóż to do świeżej, bieżącej wody.",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorWater_Idle": {
+  "pl": "Nie wykryto WODY SŁODKIEJ…",
+  "status": "draft"
+ },
+ "g:VON_Meteor_DetectorWater_Solved": {
+  "pl": "Próbka wody pobrana!<br>Wynik: 170 ppm",
+  "status": "draft"
+ },
+ "g:VON_Meteor_Formula": {
+  "pl": "(Jakość powietrza + czystość wody) ÷ poziom smrodu",
+  "status": "draft"
+ },
+ "g:VON_Meteor_FormulaAir": {
+  "pl": "Jakość powietrza",
+  "status": "draft"
+ },
+ "g:VON_Meteor_FormulaAirUnits": {
+  "pl": "IJP",
+  "status": "review"
+ },
+ "g:VON_Meteor_FormulaStink": {
+  "pl": "Poziom smrodu",
+  "status": "draft"
+ },
+ "g:VON_Meteor_FormulaStinkUnits": {
+  "pl": "Gigawąchy",
+  "status": "draft"
+ },
+ "g:VON_Meteor_FormulaWater": {
+  "pl": "Czystość wody",
+  "status": "draft"
+ },
+ "g:VON_Meteor_FormulaWaterUnits": {
+  "pl": "ppm",
+  "status": "draft"
+ },
+ "g:VON_Meteor_QuestDesc": {
+  "pl": "Pomóż prof. Von Bellinimu i Reedowi ustalić szczegóły nadejścia Burzy Mózgów na kampus.",
+  "status": "draft"
+ },
+ "g:VON_Meteor_QuestName": {
+  "pl": "Nadciąga burza",
+  "status": "draft"
+ },
+ "g:VON_Meteor_QuestObj1": {
+  "pl": "Porozmawiaj z prof. Von Bellinim w wieży pogodowej.",
+  "status": "draft"
+ },
+ "g:VON_Meteor_QuestObj2": {
+  "pl": "Pobierz próbkę powietrza.",
+  "status": "draft"
+ },
+ "g:VON_Meteor_QuestObj3": {
+  "pl": "Pobierz próbkę wody.",
+  "status": "draft"
+ },
+ "g:VON_Meteor_QuestObj4": {
+  "pl": "Pobierz próbkę zapachu.",
+  "status": "draft"
+ },
+ "g:VON_Meteor_QuestObj5": {
+  "pl": "Oblicz, kiedy nadejdzie Burza Mózgów.",
+  "status": "draft"
+ },
+ "g:VON_Meteor_Results": {
+  "pl": "Analiza Burzy Mózgów",
+  "status": "draft"
+ },
+ "g:VON_Meteor_ResultsDesc": {
+  "pl": "Dyrektorka Solange czeka na te wyniki!",
+  "status": "draft"
+ },
+ "g:VON_Meteor_SolvedBoard": {
+  "pl": "Wygląda na to, że wszystko się sumuje!",
+  "status": "draft"
+ },
+ "g:VON_NeedCable": {
+  "pl": "Potrzebuję kabla.",
+  "status": "draft"
+ },
+ "g:VON_NumberLock_PW": {
+  "pl": "8,6,1,4,3",
+  "status": "review"
+ },
+ "g:VON_PipesWin": {
+  "pl": "Napraw<br>rury",
+  "status": "draft"
+ },
+ "g:VON_Quanty": {
+  "pl": "Quanty",
+  "status": "draft"
+ },
+ "g:VON_SampleA": {
+  "pl": "Próbka A",
+  "status": "draft"
+ },
+ "g:VON_SampleB": {
+  "pl": "Próbka B",
+  "status": "draft"
+ },
+ "g:VON_SampleC": {
+  "pl": "Próbka C",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher0": {
+  "pl": "K",
+  "status": "review"
+ },
+ "g:VON_ScreenCipher0b": {
+  "pl": "9",
+  "status": "review"
+ },
+ "g:VON_ScreenCipher1": {
+  "pl": "Z",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher1b": {
+  "pl": "6",
+  "status": "review"
+ },
+ "g:VON_ScreenCipher2": {
+  "pl": "N",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher2b": {
+  "pl": "8",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher3": {
+  "pl": "P",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher3b": {
+  "pl": "3",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher4": {
+  "pl": "A",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher4b": {
+  "pl": "7",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher5": {
+  "pl": "O",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher5b": {
+  "pl": "1",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher6": {
+  "pl": "D",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher6b": {
+  "pl": "2",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher7": {
+  "pl": "R",
+  "status": "draft"
+ },
+ "g:VON_ScreenCipher7b": {
+  "pl": "4",
+  "status": "draft"
+ },
+ "g:VON_Start_QuestDesc": {
+  "pl": "Porozmawiaj z prof. Von Bellinim na Wydziale Nauk Ścisłych i zdobądź trochę punktów, zanim przejdzie na emeryturę.",
+  "status": "draft"
+ },
+ "g:VON_Start_QuestName": {
+  "pl": "Nauka w drugiej rundzie",
+  "status": "draft"
+ },
+ "g:VON_Start_QuestObj1": {
+  "pl": "Porozmawiaj z prof. Von Bellinim na Wydziale Nauk Ścisłych, obok składziku. ",
+  "status": "review"
+ },
+ "g:VON_Von": {
+  "pl": "Von Bellini",
+  "status": "draft"
+ },
+ "g:VON_WhatAmI": {
+  "pl": "Co to jest?",
+  "status": "draft"
+ },
+ "g:VON_WordLock_PW": {
+  "pl": "M,A,I,N",
+  "status": "review"
+ },
+ "v:QTY_VON_CantSpellLaboratory": {
+  "pl": "W laboratorium już w nazwie siedzi praca.",
+  "status": "draft"
+ },
+ "v:QTY_VON_CarryingSkills": {
+  "pl": "Twoje umiejętności przenoszenia są wystarczające.",
+  "status": "draft"
+ },
+ "v:QTY_VON_FoundMail": {
+  "pl": "Masz pocztę.",
+  "status": "draft"
+ },
+ "v:QTY_VON_GoodAsTheirLab": {
+  "pl": "Profesor nauk ścisłych jest tak dobry, jak jego laboratorium. Otwórz moje, proszę.",
+  "status": "draft"
+ },
+ "v:QTY_VON_PleaseDontDropMe": {
+  "pl": "Nie upuszczaj mnie, nawet jeśli jestem gorący.",
+  "status": "draft"
+ },
+ "v:QTY_VON_SeniorScienceProf": {
+  "pl": "Jako kierownik katedry nauk ścisłych. A cóż innego miałbym na myśli?",
+  "status": "draft"
+ },
+ "v:QTY_VON_SufficientPuzzling": {
+  "pl": "Zagadka rozwiązana zadowalająco! Prawie czuję ciepły uścisk moich procesorów.",
+  "status": "draft"
+ },
+ "v:QTY_VON_Takeover": {
+  "pl": "Nie mogę się doczekać przejęcia władzy. ",
+  "status": "draft"
+ },
+ "v:Reed_VON_BrainStormHeaded": {
+  "pl": "Skoro Burza Mózgów zmierza prosto na nas, to potwór z Loch Kłódkness też...",
+  "status": "draft"
+ },
+ "v:VON_Pipes_Leak": {
+  "pl": "Mamy przeciek!",
+  "status": "draft"
+ },
+ "v:VON_Pipes_TakePipes": {
+  "pl": "Ha ha! Masz za swoje, rury.",
+  "status": "draft"
+ },
+ "v:VON_Pipes_ThrowWrench": {
+  "pl": "To wrzuca klucz francuski w tryby mojego semestru.",
+  "status": "draft"
+ },
+ "v:VON_Rubix_JustRegular": {
+  "pl": "To zwykła zagadka.",
+  "status": "draft"
+ },
+ "v:VON_Rubix_MagnumOpus": {
+  "pl": "Nie! Moje opus magnum.",
+  "status": "draft"
+ },
+ "v:VON_Rubix_Nooooo": {
+  "pl": "Niiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiie!",
+  "status": "draft"
+ },
+ "v:VON_Rubix_ProtoHarder": {
+  "pl": "Prototyp był jeszcze trudniejszy!",
+  "status": "draft"
+ },
+ "v:VON_Rubix_PushingButtons": {
+  "pl": "Mam nadzieję, że ta zagadka nie działa ci na przyciski.",
+  "status": "draft"
+ },
+ "v:VON_Rubix_TrialFire": {
+  "pl": "Ta praca nad zagadkami to prawdziwa próba ognia.",
+  "status": "draft"
+ },
+ "v:VON_Sunglasses_EyesSunburnt": {
+  "pl": "Czy oczy mogą się opalić?",
+  "status": "draft"
+ },
+ "v:VON_Sunglasses_ImportantRetinas": {
+  "pl": "Jak ważne są siatkówki?",
+  "status": "draft"
+ },
+ "v:VON_Sunglasses_SeeinSpots": {
+  "pl": "Mam mroczki przed oczami, stary!",
+  "status": "review"
+ },
+ "v:VON_Sunglasses_Shades4Days": {
+  "pl": "Dobra. Okulary na każdą pogodę.",
+  "status": "draft"
+ },
+ "v:VON_Sunglasses_WhatsInBox": {
+  "pl": "Hej, co jest w pudełku?",
+  "status": "draft"
+ },
+ "v:VonBellini_START_Retirement": {
+  "pl": "Chyba mój czas tutaj dobiegł końca.",
+  "status": "draft"
+ },
+ "v:VonBellini_VON_BrainStormImminent": {
+  "pl": "Burzo Mózgów, oto i ty.",
+  "status": "draft"
+ },
+ "v:VonBellini_VON_Huh": {
+  "pl": "Hę?",
+  "status": "draft"
+ },
+ "v:VonBellini_VON_InstrumentsWorkingAlright": {
+  "pl": "Te przyrządy działają jak należy? Działały, gdy ci je dawałem.",
+  "status": "draft"
+ },
+ "v:VonBellini_VON_NailTheArrivalDate": {
+  "pl": "Jeśli trafimy w datę przybycia, wpiszemy to sobie kredą na plus.",
+  "status": "draft"
+ }
+}

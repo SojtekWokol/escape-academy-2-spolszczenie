@@ -1,0 +1,674 @@
+{
+ "g:GUN_Address_Avenue": {
+  "pl": "aleja",
+  "status": "draft"
+ },
+ "g:GUN_Address_Boulevard": {
+  "pl": "bulwar",
+  "status": "draft"
+ },
+ "g:GUN_Address_Lane": {
+  "pl": "uliczka",
+  "status": "draft"
+ },
+ "g:GUN_Address_Street": {
+  "pl": "ulica",
+  "status": "draft"
+ },
+ "g:GUN_AllEyesOnMe": {
+  "pl": "Wszystkie oczy zwrócone na mnie.",
+  "status": "review"
+ },
+ "g:GUN_Allie": {
+  "pl": "Allie",
+  "status": "draft"
+ },
+ "g:GUN_Bellini": {
+  "pl": "Von Bellini",
+  "status": "draft"
+ },
+ "g:GUN_Birdbath": {
+  "pl": "Poidło dla ptaków pełne prawdziwej wody...",
+  "status": "draft"
+ },
+ "g:GUN_BlankCanvas": {
+  "pl": "Uwielbiam role, które są jak czyste płótno.",
+  "status": "draft"
+ },
+ "g:GUN_Car": {
+  "pl": "Ta opona wygląda na trochę sflaczałą...",
+  "status": "draft"
+ },
+ "g:GUN_CityName": {
+  "pl": "Miasto Zbrodni",
+  "status": "draft"
+ },
+ "g:GUN_ClosetMissingRope": {
+  "pl": "Szafa, w której wyraźnie brakuje LINY",
+  "status": "draft"
+ },
+ "g:GUN_Crime_Arson": {
+  "pl": "podpalenie",
+  "status": "review"
+ },
+ "g:GUN_Crime_Embezzlement": {
+  "pl": "sprzeniewierzenie",
+  "status": "draft"
+ },
+ "g:GUN_Crime_Fraud": {
+  "pl": "oszustwo",
+  "status": "draft"
+ },
+ "g:GUN_Crime_TaxEvasion": {
+  "pl": "uchylanie się od podatków",
+  "status": "draft"
+ },
+ "g:GUN_DetectiveAgency": {
+  "pl": "B.S. Agencja<br>Detektywistyczna",
+  "status": "review"
+ },
+ "g:GUN_DetectiveDrinks": {
+  "pl": "Drinki są dla detektywów, więc ubierz się odpowiednio – od stóp do głów!",
+  "status": "draft"
+ },
+ "g:GUN_DetectiveDrinksLockPW": {
+  "pl": "9,6,0,4",
+  "status": "review"
+ },
+ "g:GUN_Dinosaur": {
+  "pl": "Profesor Chortkoff naprawdę wyciągnęła dla mnie szyję, obsadzając mnie w roli detektywa.",
+  "status": "draft"
+ },
+ "g:GUN_DrawerMissingKnife": {
+  "pl": "Szuflada kuchenna, w której wyraźnie brakuje NOŻA",
+  "status": "draft"
+ },
+ "g:GUN_Elephant": {
+  "pl": "Co myśli publiczność, mam w <i>trąbie</i> – i tak się nie znają.",
+  "status": "review"
+ },
+ "g:GUN_Enora": {
+  "pl": "Enora",
+  "status": "draft"
+ },
+ "g:GUN_EscapistTimes": {
+  "pl": "Kurier Eskapisty – BADANIE: Aktorstwo to pestka, ale zachować przy tym godność – to dopiero wyzwanie",
+  "status": "draft"
+ },
+ "g:GUN_Flamingo": {
+  "pl": "Ten flaming jest tak sztywny jak dialogi profesor Chortkoff!",
+  "status": "draft"
+ },
+ "g:GUN_Glasses": {
+  "pl": "To mój wielki strzał! Znaczy... shot!",
+  "status": "review"
+ },
+ "g:GUN_Hammer": {
+  "pl": "Lina",
+  "status": "review"
+ },
+ "g:GUN_Hint_AlibiA": {
+  "pl": "W alibi Cheta pojawił się staw. To zawęża pozycję startową...",
+  "status": "draft"
+ },
+ "g:GUN_Hint_AlibiB": {
+  "pl": "Chet mówił, że był na południe od fabryki...",
+  "status": "draft"
+ },
+ "g:GUN_Hint_AlibiC": {
+  "pl": "Chet przebiegł przez ulicę. Pasuje tylko jeden dom.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_AttendShow": {
+  "pl": "Idź na przedstawienie!",
+  "status": "draft"
+ },
+ "g:GUN_Hint_BirdbathA": {
+  "pl": "Ten obraz wygląda strasznie lepko...",
+  "status": "draft"
+ },
+ "g:GUN_Hint_BirdbathB": {
+  "pl": "To prawdziwa woda.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_Bow": {
+  "pl": "Ukłoń się!",
+  "status": "draft"
+ },
+ "g:GUN_Hint_BuyTicket": {
+  "pl": "Kup bilet u Gillian w kasie.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_DressA": {
+  "pl": "Znajdź cztery ponumerowane części garderoby.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_DressB": {
+  "pl": "Okulary przeciwsłoneczne są gdzieś tutaj schowane.",
+  "status": "review"
+ },
+ "g:GUN_Hint_DressC": {
+  "pl": "„Od stóp do głów”. Najpierw buty.",
+  "status": "review"
+ },
+ "g:GUN_Hint_GivePainting": {
+  "pl": "Pokaż jej obraz.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_MailA": {
+  "pl": "Znajdź każdy z tych przedmiotów w scenerii.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_MailB": {
+  "pl": "Ułóż je od najmniejszego do największego.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_MissingPrereq": {
+  "pl": "Najpierw skończ resztę zadań z kursu!",
+  "status": "draft"
+ },
+ "g:GUN_Hint_NameA": {
+  "pl": "Musisz podać swoje imię. Znajdź je w scenerii.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_NameB": {
+  "pl": "Twoje inicjały to B.S.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_PhoneA": {
+  "pl": "Odbierz telefon!",
+  "status": "draft"
+ },
+ "g:GUN_Hint_SodaA": {
+  "pl": "Podaj to!",
+  "status": "draft"
+ },
+ "g:GUN_Hint_Stove": {
+  "pl": "Które portrety patrzą na piec?",
+  "status": "draft"
+ },
+ "g:GUN_Hint_TalkF": {
+  "pl": "Ona ma coś do powiedzenia.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_TalkM": {
+  "pl": "On ma coś do powiedzenia.",
+  "status": "draft"
+ },
+ "g:GUN_Hint_WeaponA": {
+  "pl": "Przy zwłokach rozlała się farba...",
+  "status": "draft"
+ },
+ "g:GUN_Hint_WeaponB": {
+  "pl": "Na tym nożu jest farba...",
+  "status": "draft"
+ },
+ "g:GUN_ItemDescription_EscapistsEdge": {
+  "pl": "Dumny sponsor Escape Theater!",
+  "status": "review"
+ },
+ "g:GUN_Item_CrimePainting": {
+  "pl": "Obciążający obraz",
+  "status": "draft"
+ },
+ "g:GUN_Item_DoorKey": {
+  "pl": "Klucz do drzwi",
+  "status": "draft"
+ },
+ "g:GUN_Item_EscapistsEdge": {
+  "pl": "Eska-Cola",
+  "status": "draft"
+ },
+ "g:GUN_Item_Fedora": {
+  "pl": "Fedora",
+  "status": "draft"
+ },
+ "g:GUN_Item_Handcuffs": {
+  "pl": "Kajdanki",
+  "status": "draft"
+ },
+ "g:GUN_Item_Magnifying_Glass": {
+  "pl": "Lupa",
+  "status": "draft"
+ },
+ "g:GUN_Item_Newspaper": {
+  "pl": "Wycinek z gazety",
+  "status": "draft"
+ },
+ "g:GUN_Item_Notepad": {
+  "pl": "Notes",
+  "status": "draft"
+ },
+ "g:GUN_Item_Palette": {
+  "pl": "Paleta malarska",
+  "status": "draft"
+ },
+ "g:GUN_Item_Ransom_Note": {
+  "pl": "List z żądaniem okupu",
+  "status": "draft"
+ },
+ "g:GUN_Item_RealCrimePainting": {
+  "pl": "<i>Naprawdę</i> obciążający obraz",
+  "status": "draft"
+ },
+ "g:GUN_Item_Schedule": {
+  "pl": "Grafik Petera",
+  "status": "review"
+ },
+ "g:GUN_Item_Stencil": {
+  "pl": "Szablon kreślarski",
+  "status": "draft"
+ },
+ "g:GUN_Knife": {
+  "pl": "Nóż",
+  "status": "draft"
+ },
+ "g:GUN_Ledger": {
+  "pl": "Ten występ musi wejść do <i>ksiąg</i> jako legendarny.",
+  "status": "review"
+ },
+ "g:GUN_Meta_QuestDesc": {
+  "pl": "Obejrzyj premierę wielkiej sztuki profesor Chortkoff!",
+  "status": "draft"
+ },
+ "g:GUN_Meta_QuestName": {
+  "pl": "Strzelba Chortkoff",
+  "status": "review"
+ },
+ "g:GUN_Meta_QuestObj1": {
+  "pl": "Kup bilet na sztukę w kasie teatru.",
+  "status": "draft"
+ },
+ "g:GUN_Meta_QuestObj2": {
+  "pl": "Obejrzyj sztukę w teatrze.",
+  "status": "draft"
+ },
+ "g:GUN_Name_Bertrand": {
+  "pl": "Bertrand",
+  "status": "review"
+ },
+ "g:GUN_Name_Clueseau": {
+  "pl": "Clueseau",
+  "status": "review"
+ },
+ "g:GUN_Name_Coluembo": {
+  "pl": "Coluembo",
+  "status": "review"
+ },
+ "g:GUN_Name_Houses": {
+  "pl": "Houses",
+  "status": "review"
+ },
+ "g:GUN_Name_Lockson": {
+  "pl": "Lockson",
+  "status": "review"
+ },
+ "g:GUN_Name_Parrot": {
+  "pl": "Parrot",
+  "status": "review"
+ },
+ "g:GUN_Name_Solverson": {
+  "pl": "Solverson",
+  "status": "review"
+ },
+ "g:GUN_PaintingSubtitle": {
+  "pl": "Na płótnie jest coś lepkiego...",
+  "status": "draft"
+ },
+ "g:GUN_Papers": {
+  "pl": "Tyle papierów... a żaden z nich to nie scenariusz!",
+  "status": "draft"
+ },
+ "g:GUN_Password_Distractor0": {
+  "pl": "B",
+  "status": "draft"
+ },
+ "g:GUN_Password_Distractor1": {
+  "pl": "L",
+  "status": "draft"
+ },
+ "g:GUN_Password_Distractor2": {
+  "pl": "P",
+  "status": "draft"
+ },
+ "g:GUN_Password_Distractor3": {
+  "pl": "M",
+  "status": "draft"
+ },
+ "g:GUN_Password_Secret": {
+  "pl": "S,E,K,R,E,T",
+  "status": "review"
+ },
+ "g:GUN_Password_Secret0": {
+  "pl": "S",
+  "status": "draft"
+ },
+ "g:GUN_Password_Secret1": {
+  "pl": "E",
+  "status": "draft"
+ },
+ "g:GUN_Password_Secret2": {
+  "pl": "K",
+  "status": "draft"
+ },
+ "g:GUN_Password_Secret3": {
+  "pl": "R",
+  "status": "draft"
+ },
+ "g:GUN_Password_Secret4": {
+  "pl": "E",
+  "status": "draft"
+ },
+ "g:GUN_Password_Secret5": {
+  "pl": "T",
+  "status": "draft"
+ },
+ "g:GUN_Pencils": {
+  "pl": "Mam nadzieję, że profesor Chortkoff wpisze mnie ołówkiem do swojej następnej sztuki! A zresztą... jednak nie.",
+  "status": "draft"
+ },
+ "g:GUN_Plant1": {
+  "pl": "Nie mogę uwierzyć, że gram w tej sztuce... aż mi liście opadły!",
+  "status": "draft"
+ },
+ "g:GUN_Plant2": {
+  "pl": "Fajnie czasem się rozgałęzić i spróbować czegoś nowego!",
+  "status": "draft"
+ },
+ "g:GUN_PlayTicket": {
+  "pl": "Jeden bilet na „Śmierć artysty”",
+  "status": "draft"
+ },
+ "g:GUN_Quanty": {
+  "pl": "Quanty",
+  "status": "draft"
+ },
+ "g:GUN_Quip": {
+  "pl": "Ja tam wolę mówić prosto z mostu.",
+  "status": "draft"
+ },
+ "g:GUN_Quip2": {
+  "pl": "Na tej sztaludze nie ma obrazu. Dziwne...",
+  "status": "draft"
+ },
+ "g:GUN_Quip3": {
+  "pl": "Farba, która świeci w ciemności?",
+  "status": "draft"
+ },
+ "g:GUN_Quip4": {
+  "pl": "„Certyfikat detektywa dla niejakiego pana B.S.”",
+  "status": "draft"
+ },
+ "g:GUN_RoomName": {
+  "pl": "Śmierć artysty",
+  "status": "draft"
+ },
+ "g:GUN_Rope": {
+  "pl": "Młotek",
+  "status": "review"
+ },
+ "g:GUN_Ruby": {
+  "pl": "Ruby,<br>Weź na siebie winę za morderstwo Petera, albo spotka cię ten sam los co twoją fabrykę.<br>– Łotr",
+  "status": "review"
+ },
+ "g:GUN_Slip": {
+  "pl": "Slip",
+  "status": "draft"
+ },
+ "g:GUN_SpilledPaint": {
+  "pl": "Wygląda na to, że Peter malował w chwili śmierci.",
+  "status": "draft"
+ },
+ "g:GUN_Spot_Kitchen": {
+  "pl": "z kuchni",
+  "status": "draft"
+ },
+ "g:GUN_Spot_Suitcase": {
+  "pl": "z jego walizki",
+  "status": "draft"
+ },
+ "g:GUN_Spot_Toolbox": {
+  "pl": "z jego skrzynki z narzędziami",
+  "status": "review"
+ },
+ "g:GUN_StartSmall": {
+  "pl": "Zacznij od małego",
+  "status": "draft"
+ },
+ "g:GUN_StoveText": {
+  "pl": "Piec się otwiera, odsłaniając...",
+  "status": "draft"
+ },
+ "g:GUN_Street1": {
+  "pl": "ul. Oszustów",
+  "status": "draft"
+ },
+ "g:GUN_Street2": {
+  "pl": "ul. Kantów",
+  "status": "draft"
+ },
+ "g:GUN_Street3": {
+  "pl": "al. Defraudacji",
+  "status": "draft"
+ },
+ "g:GUN_Street4": {
+  "pl": "al. Podpalaczy",
+  "status": "draft"
+ },
+ "g:GUN_Street5": {
+  "pl": "al. Łapówek",
+  "status": "draft"
+ },
+ "g:GUN_Street6": {
+  "pl": "ul. Napadów",
+  "status": "draft"
+ },
+ "g:GUN_Street7": {
+  "pl": "al. Korupcji",
+  "status": "draft"
+ },
+ "g:GUN_Street8": {
+  "pl": "ul. Czerwonego Światła",
+  "status": "review"
+ },
+ "g:GUN_Subtitle": {
+  "pl": "Połamania<br>nóg!",
+  "status": "draft"
+ },
+ "g:GUN_SubtitleName": {
+  "pl": "Kryminał teatralny profesor Chortkoff",
+  "status": "draft"
+ },
+ "g:GUN_TEMPPlaceholder": {
+  "pl": "Tu będzie tłum uczniów",
+  "status": "draft"
+ },
+ "g:GUN_ToolboxMissingHammer": {
+  "pl": "Skrzynka na narzędzia, w której wyraźnie brakuje MŁOTKA",
+  "status": "draft"
+ },
+ "g:GUN_ToolsChest": {
+  "pl": "Czy któreś z tych narzędzi mogło posłużyć do zbrodni?",
+  "status": "draft"
+ },
+ "g:GUN_Trashcan": {
+  "pl": "Profesor Chortkoff lepiej niech nie wyrzuci mojego występu do kosza...",
+  "status": "draft"
+ },
+ "g:GUN_Typewriter": {
+  "pl": "Rola detektywa przynajmniej pasuje do mojego typu. Jak litera do maszyny!",
+  "status": "draft"
+ },
+ "g:GUN_Unicorn": {
+  "pl": "Ciekawe, czy profesor Chortkoff chciała, żeby ta sztuka była aż tak jedno<i>kiczowa</i>.",
+  "status": "review"
+ },
+ "g:GUN_Weapon_Axe": {
+  "pl": "siekierę",
+  "status": "draft"
+ },
+ "g:GUN_Weapon_Hammer": {
+  "pl": "młotek",
+  "status": "draft"
+ },
+ "g:GUN_Weapon_Knife": {
+  "pl": "nóż",
+  "status": "draft"
+ },
+ "g:GUN_Weapon_Paintbrush": {
+  "pl": "pędzel",
+  "status": "draft"
+ },
+ "g:GUN_Weapon_Pan": {
+  "pl": "patelnię",
+  "status": "draft"
+ },
+ "g:GUN_Weapon_Plunger": {
+  "pl": "przepychacz",
+  "status": "draft"
+ },
+ "g:GUN_Weapon_Rope": {
+  "pl": "linę",
+  "status": "review"
+ },
+ "g:GUN_Weapon_Saw": {
+  "pl": "piłę",
+  "status": "draft"
+ },
+ "g:GUN_Weapon_Spoon": {
+  "pl": "łyżkę",
+  "status": "draft"
+ },
+ "v:Chet_GUN_DontDetectDark": {
+  "pl": "Nie dedukuj po ciemku, drogi detektywie – to ryzykowne i zwodnicze!",
+  "status": "draft"
+ },
+ "v:Chet_GUN_DontLookMe": {
+  "pl": "Nie patrz tak na mnie, nie wiedziałem, że to tam jest!",
+  "status": "draft"
+ },
+ "v:Chet_GUN_EscapistsEdge": {
+  "pl": "Uwielbiam, jak jedna puszka Eska-Coli potrafi uwolnić twój potencjał.",
+  "status": "draft"
+ },
+ "v:Chet_GUN_PaintingNoResemblance": {
+  "pl": "I co o tym myślisz, detektywie? Osoba z tego obrazu nie jest podobna do żadnego podejrzanego.",
+  "status": "draft"
+ },
+ "v:Enora_GUN_BowNow": {
+  "pl": "Ukłon!",
+  "status": "draft"
+ },
+ "v:Enora_GUN_BravoBravoDestroyedTears": {
+  "pl": "Brawo, brawo! Rozpłakałabym się, gdybym już nie zniszczyła sobie kanalików łzowych.",
+  "status": "draft"
+ },
+ "v:Enora_GUN_DeadBodiesDontTalkDude": {
+  "pl": "No tak, to właśnie mówią zwłoki? Że nie żyją? *Westchnienie*",
+  "status": "draft"
+ },
+ "v:Enora_GUN_DeathOfMe": {
+  "pl": "Ta sztuka mnie wykończy...",
+  "status": "draft"
+ },
+ "v:Enora_GUN_DontImprovEverAgain": {
+  "pl": "Hej! Tego nie napisałam. Trzymaj się scenariusza. Jest bardzo dobry.",
+  "status": "draft"
+ },
+ "v:Enora_GUN_EscapeHaveMercy": {
+  "pl": "Escape, zmiłuj się... To dosłownie kryminał.",
+  "status": "draft"
+ },
+ "v:Enora_GUN_FeelTheScene": {
+  "pl": "Poczuj scenę, pozwól postaci przejąć stery i nie psuj mi tego!",
+  "status": "draft"
+ },
+ "v:Enora_GUN_HatOnAHat": {
+  "pl": "To już jest masło maślane. Trzymaj się scenariusza!",
+  "status": "draft"
+ },
+ "v:Enora_GUN_ItsNot": {
+  "pl": "Wcale nie!",
+  "status": "draft"
+ },
+ "v:Enora_GUN_NotYourLine": {
+  "pl": "To nie jest twoja kwestia. Ani trochę! Zwracaj uwagę na scenografię!",
+  "status": "draft"
+ },
+ "v:Enora_GUN_StageFrightNow": {
+  "pl": "Tylko mi nie mów, że masz teraz tremę. Wracaj tam.",
+  "status": "draft"
+ },
+ "v:Enora_GUN_StageThatWay": {
+  "pl": "Scena jest tamtędy.",
+  "status": "draft"
+ },
+ "v:Enora_GUN_TestingSOMEONE": {
+  "pl": "Kogoś to ty rzeczywiście wystawiasz na próbę...",
+  "status": "draft"
+ },
+ "v:Enora_GUN_ThatsWhatICallMusic": {
+  "pl": "To się nazywa teatr! Ukłon!",
+  "status": "draft"
+ },
+ "v:Enora_GUN_WHAT": {
+  "pl": "CO?!",
+  "status": "draft"
+ },
+ "v:Enora_GUN_WayOffSCript": {
+  "pl": "Totalnie odbiegasz od scenariusza! Totalnie! Wracamy na początek i jeszcze raz.",
+  "status": "draft"
+ },
+ "v:Enora_WLD_ClueliardDidNotPrepareMe": {
+  "pl": "Na to nie przygotowała mnie nawet Akademia Teatralna...",
+  "status": "review"
+ },
+ "v:Gillian_GUN_TicketOrWhat": {
+  "pl": "To jak, chcesz bilet na przedstawienie, czy nie?",
+  "status": "draft"
+ },
+ "v:Noirator_GUN_CrimeDoesn'tSleep": {
+  "pl": "Kolejna zagadka rozwiązana przez Agencję Detektywistyczną BS. Spokój nie potrwa jednak wiecznie. To Miasto Zbrodni... a zbrodnia nigdy nie śpi. Bo to pojęcie, a nie osoba.",
+  "status": "draft"
+ },
+ "v:Noirator_GUN_EscapistsEdge": {
+  "pl": "Eska-Cola – miej w życiu przewagę.",
+  "status": "draft"
+ },
+ "v:Noirator_GUN_Opening": {
+  "pl": "Był zwykły, pełen przestępstw dzień w Mieście Zbrodni, gdy do Agencji Detektywistycznej BS zadzwonił telefon...",
+  "status": "draft"
+ },
+ "v:Noirator_GUN_ShortDrive": {
+  "pl": "Po krótkiej jeździe i długiej rozmowie dotarli do domu Petera Hintza, a w powietrzu unosił się zapach zagadki.",
+  "status": "draft"
+ },
+ "v:Noirator_GUN_StenchDeceit": {
+  "pl": "Od Cheta Łotrowicza biła woń kłamstwa niczym od śledzia-zmyłki, ale nie było dowodu w tym puddingu. Nie. Jeszcze nie.",
+  "status": "draft"
+ },
+ "v:Ruby_GUN_ConvenientlyIncriminating": {
+  "pl": "O nie – to Agencja Detektywistyczna BS. Czuję przymus, by opowiedzieć wyjątkowo wygodnie obciążającą historię.",
+  "status": "draft"
+ },
+ "v:Ruby_GUN_KilledToDeath": {
+  "pl": "To prawda! Zabiłam Petera na śmierć!",
+  "status": "draft"
+ },
+ "v:Ruby_GUN_NotYourLine": {
+  "pl": "Yyy... Chyba to nie jest twoja kwestia...",
+  "status": "draft"
+ },
+ "v:Ruby_GUN_OhMyGoodness": {
+  "pl": "O rety!",
+  "status": "draft"
+ },
+ "v:Ruby_GUN_RubyNamePun": {
+  "pl": "Nie! Gdyby moje nazwisko było prawdziwe, nazywaliby mnie Ruby Zabiłampetera!",
+  "status": "draft"
+ },
+ "v:row892": {
+  "pl": "*Dzwoni telefon*",
+  "status": "draft"
+ }
+}

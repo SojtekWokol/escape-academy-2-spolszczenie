@@ -1,0 +1,174 @@
+{
+ "n:line:001b407": {
+  "pl": "Stop! Poczekaj chwilę. To <style=\"clue\">towar pod ścisłą kontrolą</style>, który próbujesz kupić!",
+  "status": "draft"
+ },
+ "n:line:0043d6b": {
+  "pl": "Właściwie nie mam funduszy...",
+  "status": "draft"
+ },
+ "n:line:00962d8": {
+  "pl": "O, patrzcie, kto przyszedł! Zjawiasz się w samą porę, żeby pomóc mi w ostatnich poprawkach wystawy „Założyciele na serio” przed wielkim otwarciem!",
+  "status": "draft"
+ },
+ "n:line:00b4a5b": {
+  "pl": "Nie mogę ot tak sprzedawać łomów uczniom bez <style=\"clue\">odpowiedniego pozwolenia</style>... Straciłbym sklep!",
+  "status": "draft"
+ },
+ "n:line:01c6d63": {
+  "pl": "Odważniejszej osoby wśród eskapistów jeszcze nie poznałem.",
+  "status": "draft"
+ },
+ "n:line:01fa6e0": {
+  "pl": "Idź na <style=\"clue\">Wydział Nauk Ścisłych, gdzie jest magazyn</style>, powinni mieć łom na stanie <style=\"clue\">za {0} $</style>!",
+  "status": "draft"
+ },
+ "n:line:0254b92": {
+  "pl": "Jesteś z powrotem! Pomożesz mnie i Gillian wciągnąć tego maluszka na górę?",
+  "status": "draft"
+ },
+ "n:line:025ae3d": {
+  "pl": "Potrzebuję chwili…",
+  "status": "draft"
+ },
+ "n:line:0280083": {
+  "pl": "Wow. Profesor Jeberson naprawdę się przyłożył do tej wystawy!",
+  "status": "draft"
+ },
+ "n:line:0283ed3": {
+  "pl": "Ech... nie mogę się doczekać, aż uczniom rozbłysną oczy, kiedy znajdą się wśród całej tej historii!",
+  "status": "draft"
+ },
+ "n:line:03a014d": {
+  "pl": "Skoro artefakty są już u ciebie, będę naprawdę wdzięczny, jeśli <style=\"clue\">poukładasz je w gablotach</style>.",
+  "status": "draft"
+ },
+ "n:line:03cd54c": {
+  "pl": "Potrzebuję pomocy przy wyjmowaniu reszty <style=\"clue\">artefaktów</style> ze <style=\"clue\">skrzyń z tyłu</style>.",
+  "status": "draft"
+ },
+ "n:line:040103b": {
+  "pl": "No to... powodzenia!",
+  "status": "draft"
+ },
+ "n:line:040ea85": {
+  "pl": "Niektóre z nich grzechoczą i przeciekają... groźnie!",
+  "status": "draft"
+ },
+ "n:line:04148ab": {
+  "pl": "T-- Możesz śmiało <style=\"clue\">użyć łomu, żeby otworzyć skrzynie</style>...",
+  "status": "draft"
+ },
+ "n:line:04503bd": {
+  "pl": "Ktokolwiek je pakował, <style=\"clue\">nie opisał ich porządnie</style>, a przyjechały razem z transportem jadowitych zwierząt do badań profesor Bonilli.",
+  "status": "draft"
+ },
+ "n:line:0469762": {
+  "pl": "Ale jak pewnie wiesz, łomy są tu narzędziem <i>bardzo</i> ściśle kontrolowanym, dlatego powierzam ci to <style=\"clue\">oficjalne pozwolenie na łom</style>.",
+  "status": "draft"
+ },
+ "n:line:04823be": {
+  "pl": "A, i uważaj przy podważaniu! Niektóre z tych skrzyń mogą być <style=\"clue>niebezpieczne</style>.",
+  "status": "review"
+ },
+ "n:line:0506f70": {
+  "pl": "Próbowałem gołymi rękami, ale skończyło się tylko na drzazgach...",
+  "status": "draft"
+ },
+ "n:line:056378c": {
+  "pl": "Poproszę jeden licencjonowany łom! <style=\"purchase\">(Wydaj {0} $)</style>",
+  "status": "draft"
+ },
+ "n:line:0572a61": {
+  "pl": "Wystawie brakuje głównego eksponatu! Legendarnej Szkatuły Cudów Sameera!",
+  "status": "draft"
+ },
+ "n:line:05c38d6": {
+  "pl": "Czy <style=\"clue\">tabliczki</style> zawsze muszą być takie enigmatyczne?",
+  "status": "draft"
+ },
+ "n:line:05cea25": {
+  "pl": "Wpadasz tu tylko po to, żeby pochwalić się pozwoleniem? Jeśli tak, to w pełni rozumiem.",
+  "status": "draft"
+ },
+ "n:line:067c226": {
+  "pl": "Z tyłu stoją skrzynie po brzegi wypełnione artefaktami, które chcemy wystawić! Jedyny problem... <style=\"clue\">potrzebujemy łomu, żeby je podważyć</style>.",
+  "status": "draft"
+ },
+ "n:line:08324c9": {
+  "pl": "Nie biorę odpowiedzialności za żaden <i>łom</i>ot.",
+  "status": "review"
+ },
+ "n:line:087d4c5": {
+  "pl": "Dzięki za zakupy! I nie mów mi, co zamierzasz z tym zrobić.",
+  "status": "draft"
+ },
+ "n:line:08ac789": {
+  "pl": "Patrz, nawet nie jest podrobione! <style=\"purchase\">(Pokaż pozwolenie)</style>",
+  "status": "review"
+ },
+ "n:line:08d0dae": {
+  "pl": "Idź do <style=\"clue\">magazynu i kup jeden za {0} $</style>. Będę tu czekał, jak wrócisz!",
+  "status": "draft"
+ },
+ "n:line:093f125": {
+  "pl": "Hurra! Udało się! Został już tylko jeden krok do ukończenia wystawy i będzie gotowa na przecięcie wstęgi.",
+  "status": "draft"
+ },
+ "n:line:0980c04": {
+  "pl": "Kto w ogóle pozwolił, żeby przesyłka egzotycznych zwierząt profesor Bonilli wymieszała się z artefaktami?",
+  "status": "draft"
+ },
+ "n:line:0b09b53": {
+  "pl": "<style=\"clue\">Pozwolenie na łom może wydać tylko nauczyciel</style>. I to wyłącznie w razie wielkiej potrzeby!",
+  "status": "draft"
+ },
+ "n:line:0bb2421": {
+  "pl": "Wow, naprawdę jeszcze nigdy czegoś takiego nie widziałem... Wygląda wiarygodnie! Ten łom jest twój za jedyne <style=\"clue\">{0} $</style>!",
+  "status": "review"
+ },
+ "n:line:0c6a1a0": {
+  "pl": "Czy <style=\"clue\">tabliczki</style> muszą być zawsze takie tajemnicze?",
+  "status": "draft"
+ },
+ "n:line:0dad412": {
+  "pl": "Gdzie mogę dostać coś takiego?",
+  "status": "draft"
+ },
+ "n:line:0e7f685": {
+  "pl": "Bez głównego eksponatu nie otworzymy wystawy, a ludzie czekają!",
+  "status": "draft"
+ },
+ "n:line:0eda9db": {
+  "pl": "Och! Mogę pomóc. Proszę? Jestem bardzo delikatna.",
+  "status": "draft"
+ },
+ "n:line:0f25500": {
+  "pl": "Niektóre grzechoczą i przeciekają… groźnie!",
+  "status": "draft"
+ },
+ "n:line:0f2c482": {
+  "pl": "Nic się nie stało, leży tam od wieków. Co to dla niej kilka minut więcej?",
+  "status": "draft"
+ },
+ "n:line:0f5425d": {
+  "pl": "Leży nietknięta w głębi <style=\"clue\">Archiwum Artefaktów</style>, więc musimy ją wydobyć. Nad-zwy-czaj. Ostrożnie.",
+  "status": "draft"
+ },
+ "n:line:0f96227": {
+  "pl": "Ruszajmy do Archiwum Artefaktów! <style=\"story\">(Dalej z fabułą)</style>",
+  "status": "draft"
+ },
+ "n:line:0f9d620": {
+  "pl": "Nie chcę cię poganiać, ale wystawa ma się otworzyć już niedługo, więc... lepiej się, hm... pospiesz!",
+  "status": "draft"
+ },
+ "n:line:0fc089f": {
+  "pl": "No pewnie, że tak! W takim razie postanowione. Wszyscy gotowi na małą lekcję historii na żywo?",
+  "status": "draft"
+ },
+ "n:line:0fd41e7": {
+  "pl": "Mo-możesz <style=\"clue\">otworzyć skrzynie łomem</style>…",
+  "status": "review"
+ }
+}

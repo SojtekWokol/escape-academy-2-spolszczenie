@@ -20,7 +20,7 @@ Chcesz poprawiać tłumaczenie samodzielnie?
 1. Zrób fork i sklonuj to repozytorium.
 2. Pobierz **EA2 Warsztat.exe** z wydań [repozytorium warsztatu](https://github.com/SojtekWokol/warsztat/releases) i włóż go do sklonowanego folderu.
 3. Uruchom warsztat. Przy pierwszym uruchomieniu wyciągnie teksty z Twojej kopii gry (tekstów gry nie ma w repozytorium).
-4. Poprawiaj w warsztacie, sprawdzaj w grze przyciskiem **Wgraj do gry**, a zmiany w `translations/pl.json` wyślij jako pull request.
+4. Poprawiaj w warsztacie, sprawdzaj w grze przyciskiem **Wgraj do gry**, a zmienione pliki z `translations/pl/` wyślij jako pull request.
 
 Zasady i nazewnictwo: [translations/GLOSARIUSZ.md](translations/GLOSARIUSZ.md).
 
@@ -28,7 +28,7 @@ Zasady i nazewnictwo: [translations/GLOSARIUSZ.md](translations/GLOSARIUSZ.md).
 
 | Ścieżka | Zawartość |
 |---|---|
-| `translations/pl.json` | wszystkie polskie teksty (klucz z gry → tekst, status) |
+| `translations/pl/` | polskie teksty, podzielone według miejsc w grze: `pokoje/` (escape roomy), `rozmowy/`, `kampus/`, `scenki.json`, `interfejs.json`, `nazwy.json`, `okrzyki.json`, `napisy-koncowe.json`; w każdym pliku klucz z gry → tekst i status |
 | `translations/glossary.json`, `GLOSARIUSZ.md` | słownik i przewodnik stylu |
 | `translations/releases/` | wydane wersje tłumaczenia |
 | `fonts/` | fonty, z których dorysowujemy polskie litery w grze |

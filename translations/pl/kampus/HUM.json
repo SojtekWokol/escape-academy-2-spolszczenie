@@ -1,0 +1,834 @@
+{
+ "g:HUM_Academy": {
+  "pl": "Escape Academy",
+  "status": "draft"
+ },
+ "g:HUM_Back": {
+  "pl": "Wstecz",
+  "status": "draft"
+ },
+ "g:HUM_Bees": {
+  "pl": "Pszczoły",
+  "status": "review"
+ },
+ "g:HUM_BikeVoucher": {
+  "pl": "Bon na rower",
+  "status": "draft"
+ },
+ "g:HUM_BikeVoucherDesc": {
+  "pl": "Użyj na stojaku, by odblokować",
+  "status": "draft"
+ },
+ "g:HUM_BlackBoardQuestions1": {
+  "pl": "1. Brat Reiny, Kenji, wspierał jej studia nad ucieczkami.<br>A). Prawda     B). Fałsz",
+  "status": "review"
+ },
+ "g:HUM_BlackBoardQuestions2": {
+  "pl": "2. Reina Wym była sygnatariuszką Deklaracji Ucieczki.<br>A). Prawda     B). Fałsz",
+  "status": "review"
+ },
+ "g:HUM_BlackBoardQuestions3": {
+  "pl": "3. To Reina wpadła na pomysł, by rekrutować nowych uczniów Academy przez escape roomy.<br>A). Prawda     B). Fałsz",
+  "status": "review"
+ },
+ "g:HUM_BlackBoardQuestions4": {
+  "pl": "4. W którym roku Reina Wym opuściła Japonię?<br>A). 1759    B). 1773    C). 1803    D). 2001",
+  "status": "review"
+ },
+ "g:HUM_BlackBoardQuestions5": {
+  "pl": "5. Kto wywołał drugą wojnę zagadkową?<br>A). Zbuntowani eskapiści    B). Kenji Wym     C). Reina Wym     D). Nigdy do niej nie doszło",
+  "status": "review"
+ },
+ "g:HUM_BlackboardPromptBlank": {
+  "pl": "Dziś: wykład o założycielce Reinie Wym!",
+  "status": "draft"
+ },
+ "g:HUM_Bows": {
+  "pl": "Kokardy",
+  "status": "review"
+ },
+ "g:HUM_BubbleKey": {
+  "pl": "BubbleKey®",
+  "status": "review"
+ },
+ "g:HUM_BurnedJournal": {
+  "pl": "Uwaga! Ten cenny dziennik o mało nie poszedł z dymem. Trzeba bardziej uważać!",
+  "status": "draft"
+ },
+ "g:HUM_Ch3_EscapistTimes": {
+  "pl": "Kurier Eskapisty – PYTANIE: Czy na pewno dobrze robimy, awansując Jeba?",
+  "status": "draft"
+ },
+ "g:HUM_Ch5_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Anonimowe przecieki: prof. Jeberson o mało nie zniszczył bezcennego artefaktu przed otwarciem muzeum. Dzięki, Gillian Paisley",
+  "status": "draft"
+ },
+ "g:HUM_Ch6_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Z deszczu pod rynnę: frekwencja uczniów niewytłumaczalnie leci na łeb na szyję",
+  "status": "draft"
+ },
+ "g:HUM_Ch7_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Emerytura prof. Von Belliniego zaczyna się pod górkę",
+  "status": "draft"
+ },
+ "g:HUM_Ch8_EscapistTimes": {
+  "pl": "Kurier Eskapisty – SPROSTOWANIE: Znaleziono prawdziwą przyczynę spadku frekwencji: dzieciakom po prostu nie chce się już uczyć",
+  "status": "draft"
+ },
+ "g:HUM_Cip_Bone": {
+  "pl": "Żeby się obchodzić z tymi artefaktami, trzeba mieć mocny kręgosłup...",
+  "status": "draft"
+ },
+ "g:HUM_Cip_Bulletin": {
+  "pl": "„Ogłoszenie: Zaginionych współlokatorów prosimy zgłaszać Dyrektorce Solange”",
+  "status": "draft"
+ },
+ "g:HUM_Cip_Burger": {
+  "pl": "Datowanie węglem: 45 lat. Status spożycia: jadalny.",
+  "status": "draft"
+ },
+ "g:HUM_Cip_CipherDisc": {
+  "pl": "Niektóre z tych obiektów są zupełnie nie do rozszyfrowania...",
+  "status": "draft"
+ },
+ "g:HUM_Cip_Duck": {
+  "pl": "„Analiza funkcji: obiekt sprawia, że kąpiel to czysta zabawa.”",
+  "status": "review"
+ },
+ "g:HUM_Cip_Map": {
+  "pl": "Rany! Gdzie Sameer Gaspard <i>nie</i> był...",
+  "status": "draft"
+ },
+ "g:HUM_Cip_Scroll": {
+  "pl": "„Eskapista” autorstwa Billiama Rattlesworda. Oby nie kazali nam tego czytać na dramie...",
+  "status": "draft"
+ },
+ "g:HUM_Cip_Shoes": {
+  "pl": "Analiza węchowa: obiekt pachnie stopami.",
+  "status": "draft"
+ },
+ "g:HUM_Cip_SprayBottles": {
+  "pl": "„Higiena historii – najlepszy w swojej klasie środek do renowacji artefaktów. Poleca 4 na 5 artefaktorów”",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemAppSci": {
+  "pl": "Nauki stosowane",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemArt": {
+  "pl": "Sztuka i rekreacja",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemBio": {
+  "pl": "Biografie i biografie zbiorowe",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemGeneralities": {
+  "pl": "Zagadnienia ogólne",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemGeo": {
+  "pl": "Geografia i historia",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemLang": {
+  "pl": "Języki",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemLit": {
+  "pl": "Literatura",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemNatSci": {
+  "pl": "Nauki przyrodnicze",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemPhilosophy": {
+  "pl": "Filozofia",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemReligion": {
+  "pl": "Religia",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemSocSci": {
+  "pl": "Nauki społeczne",
+  "status": "draft"
+ },
+ "g:HUM_ClueyDecimalSystemTitle": {
+  "pl": "WSKAZÓWKOWA KLASYFIKACJA DZIESIĘTNA",
+  "status": "review"
+ },
+ "g:HUM_Date": {
+  "pl": "Data",
+  "status": "draft"
+ },
+ "g:HUM_Declaration": {
+  "pl": "Deklaracja Ucieczki",
+  "status": "draft"
+ },
+ "g:HUM_EC_FruitLetter0": {
+  "pl": "C",
+  "status": "draft"
+ },
+ "g:HUM_EC_FruitLetter1": {
+  "pl": "H",
+  "status": "draft"
+ },
+ "g:HUM_EC_FruitLetter2": {
+  "pl": "L",
+  "status": "draft"
+ },
+ "g:HUM_EC_FruitLetter3": {
+  "pl": "E",
+  "status": "draft"
+ },
+ "g:HUM_EC_FruitLetter4": {
+  "pl": "B",
+  "status": "draft"
+ },
+ "g:HUM_EC_FruitPW": {
+  "pl": "C,H,L,E,B",
+  "status": "review"
+ },
+ "g:HUM_EC_Picnic_Objective": {
+  "pl": "Otwórz lodówkę turystyczną.",
+  "status": "review"
+ },
+ "g:HUM_EC_Picnic_Objective2": {
+  "pl": "Podaj piknik.",
+  "status": "draft"
+ },
+ "g:HUM_EC_Picnic_QuestDescription": {
+  "pl": "Znajdź danie główne na idylliczny piknik.",
+  "status": "draft"
+ },
+ "g:HUM_EC_Picnic_QuestName": {
+  "pl": "Kryptyczny piknik",
+  "status": "draft"
+ },
+ "g:HUM_EC_SaladLetter0": {
+  "pl": "S",
+  "status": "draft"
+ },
+ "g:HUM_EC_SaladLetter1": {
+  "pl": "Ł",
+  "status": "draft"
+ },
+ "g:HUM_EC_SaladLetter2": {
+  "pl": "O",
+  "status": "draft"
+ },
+ "g:HUM_EC_SaladLetter3": {
+  "pl": "I",
+  "status": "draft"
+ },
+ "g:HUM_EC_SaladLetter4": {
+  "pl": "K",
+  "status": "draft"
+ },
+ "g:HUM_EC_SaladPW": {
+  "pl": "S,Ł,O,I,K",
+  "status": "review"
+ },
+ "g:HUM_EelBarnes": {
+  "pl": "Eel Barnes:<br><size=0.5em>Największy eskapista wszech czasów",
+  "status": "draft"
+ },
+ "g:HUM_Epi_EscapistTimes": {
+  "pl": "Kurier Eskapisty – AKTUALIZACJA: Prof. Jeberson to w sumie całkiem niezły historyk. Pomógł uratować porwanych uczniów.",
+  "status": "draft"
+ },
+ "g:HUM_Esc_Cooler": {
+  "pl": "Łaknę dobrego dziennikarstwa...",
+  "status": "draft"
+ },
+ "g:HUM_Esc_Files": {
+  "pl": "Ale numer, komplet Kuriera Eskapisty od samego początku... to dopiero stos nagłówków!",
+  "status": "draft"
+ },
+ "g:HUM_Esc_Trash": {
+  "pl": "Tu trafiają wszystkie kiepskie artykuły...",
+  "status": "draft"
+ },
+ "g:HUM_EscapeBook": {
+  "pl": "Id, ego i ucieczka",
+  "status": "draft"
+ },
+ "g:HUM_EscapeRooms": {
+  "pl": "Escape roomy",
+  "status": "draft"
+ },
+ "g:HUM_EscapistTimes_RoofCube": {
+  "pl": "Dzięki, odpuszczę...",
+  "status": "draft"
+ },
+ "g:HUM_EscapistTimes_RoofDrink": {
+  "pl": "Moje klimaty!",
+  "status": "review"
+ },
+ "g:HUM_EusticeGrumble": {
+  "pl": "Eustice Grumble",
+  "status": "draft"
+ },
+ "g:HUM_Fashion": {
+  "pl": "Moda",
+  "status": "draft"
+ },
+ "g:HUM_GateLocked": {
+  "pl": "Z <color=yellow>rowerem</color> dałoby się to otworzyć, kręcąc kołem…",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_Dance": {
+  "pl": "taniec!<br>A co najgorsze:<br>uczennica Saunders kopiuje:",
+  "status": "review"
+ },
+ "g:HUM_Grumble_Etiquette": {
+  "pl": "etykiecie.<br>Uczeń Pleasant woli",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_Fashion": {
+  "pl": "modę.<br>Uczeń Maxwell<br>woli",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_GeniusAbsolutelyNot": {
+  "pl": "uchodzić za geniusza –<br>co jest absolutnie nieprawdą<br>pod żadnym względem. A jeszcze bardziej woli",
+  "status": "review"
+ },
+ "g:HUM_Grumble_Hint1": {
+  "pl": "PRZECZYTAJ",
+  "status": "review"
+ },
+ "g:HUM_Grumble_Hint2": {
+  "pl": "TYLKO",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_Hint3": {
+  "pl": "TE",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_Hint4": {
+  "pl": "PARZYSTE",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_Hint5": {
+  "pl": "STRONY",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_NeerDoWell": {
+  "pl": "wszystkich swoich<br>nicponiów-rówieśników.<br>Rezygnuję.<br>Podpisano,",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_OldAndTired": {
+  "pl": "starym i zmęczonym ideałom.<br>Moi uczniowie okazują pogardę",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_PayAttention": {
+  "pl": "uważać!<br>Ja, profesor Grumble,<br>zwracam się teraz ku",
+  "status": "review"
+ },
+ "g:HUM_Grumble_SignedGrumble": {
+  "pl": "Profesor<br>Grumble.",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_SorryState": {
+  "pl": "Edukacja jest w żałosnym stanie.<br>Uczniowie już nie potrafią",
+  "status": "draft"
+ },
+ "g:HUM_Grumble_Studying": {
+  "pl": "siebie niż<br>naukę. Uczenie go<br>to prawdziwy",
+  "status": "draft"
+ },
+ "g:HUM_Hint_BookSafeA": {
+  "pl": "„{@HUM_Toth}”. Brzmi jak książka o religii...",
+  "status": "draft"
+ },
+ "g:HUM_Hint_BookSafeB": {
+  "pl": "Religia mieści się w przedziale 200–299.",
+  "status": "draft"
+ },
+ "g:HUM_Hint_GiveBooks": {
+  "pl": "Przekaż książki profesorowi Quanty.",
+  "status": "draft"
+ },
+ "g:HUM_Hint_GrumbleA": {
+  "pl": "Czytaj tylko tekst na parzystych stronach tej książki.",
+  "status": "draft"
+ },
+ "g:HUM_Hint_GrumbleB": {
+  "pl": "Skieruj głowę Grumble'a na książki z napisem „{@HUM_etiquitte}”.",
+  "status": "review"
+ },
+ "g:HUM_Hint_Meet": {
+  "pl": "Profesor jest na Wydziale Humanistycznym, na zachód od dziedzińca.",
+  "status": "draft"
+ },
+ "g:HUM_Hint_QuietFaceA": {
+  "pl": "Wejdź na ikony twarzy i nasłuchuj pisku.",
+  "status": "draft"
+ },
+ "g:HUM_Hint_QuietFaceB": {
+  "pl": "Jeśli narobią hałasu, wyrzuć ich!",
+  "status": "draft"
+ },
+ "g:HUM_Hint_QuizA": {
+  "pl": "Zestaw artykuły z pytaniami...",
+  "status": "draft"
+ },
+ "g:HUM_Hint_QuizB": {
+  "pl": "Pytanie nr 5 to pułapka. Uważnie przeczytaj biogram Reiny!",
+  "status": "draft"
+ },
+ "g:HUM_Hint_TakeSeat": {
+  "pl": "Zajmij miejsce.",
+  "status": "draft"
+ },
+ "g:HUM_IMPORTANT": {
+  "pl": "WAŻNE",
+  "status": "draft"
+ },
+ "g:HUM_ItemDescription_Artifacts": {
+  "pl": "Rozmieść w muzeum",
+  "status": "draft"
+ },
+ "g:HUM_Item_Banana": {
+  "pl": "Banany",
+  "status": "draft"
+ },
+ "g:HUM_Item_ChronArtifact": {
+  "pl": "Artefakty Sameera",
+  "status": "draft"
+ },
+ "g:HUM_Item_LectureQuizCorrect": {
+  "pl": "BąbelKlucz",
+  "status": "review"
+ },
+ "g:HUM_Item_LectureQuizIncorrect": {
+  "pl": "BąbelKlucz",
+  "status": "draft"
+ },
+ "g:HUM_Item_MentorArtifact": {
+  "pl": "Artefakty Reiny",
+  "status": "draft"
+ },
+ "g:HUM_Item_PatronArtifact": {
+  "pl": "Artefakty Fernanda",
+  "status": "draft"
+ },
+ "g:HUM_JohnPleasant": {
+  "pl": "John Pleasant",
+  "status": "draft"
+ },
+ "g:HUM_KenjiWym": {
+  "pl": "Kenji Wym",
+  "status": "draft"
+ },
+ "g:HUM_Lec_Backpack": {
+  "pl": "Staram się nie wnosić do klasy zbędnego bagażu.",
+  "status": "draft"
+ },
+ "g:HUM_Lec_Books1": {
+  "pl": "Tylko trochę lekkiej lektury przed zajęciami...",
+  "status": "draft"
+ },
+ "g:HUM_Lec_Bulletin": {
+  "pl": "„Przypominamy: Klub Kłódkapella spotyka się w piątki o 18:00! Zapraszamy każdego, kto trafia w klucz!”",
+  "status": "draft"
+ },
+ "g:HUM_Lec_Notes": {
+  "pl": "Dzieje się tu coś godnego zanotowania?",
+  "status": "draft"
+ },
+ "g:HUM_LectureCompleteBox": {
+  "pl": "Zaznacz po ukończeniu",
+  "status": "draft"
+ },
+ "g:HUM_LectureComputer": {
+  "pl": "Cyfrowa EncyKLUCZpedia",
+  "status": "review"
+ },
+ "g:HUM_LectureDeclaration": {
+  "pl": "Deklaracja Ucieczki była dokumentem podpisanym w 1803 roku przez Reinę Wym, Sameera Gaspard i Fernanda Augustína. Ustanowiła Escape Academy jako bezpieczne miejsce, w którym eskapiści mogą spokojnie studiować, uczyć się i rozwiązywać zagadki.<br><br>Teorie z pogranicza nauki twierdzą, że był jeszcze jeden sygnatariusz, zwykle podawany jako John Handlock. <sup>[potrzebne źródło]</sup>",
+  "status": "review"
+ },
+ "g:HUM_LectureEscapeAcademy": {
+  "pl": "Escape Academy to szkoła poświęcona nauce ucieczek. Uczy uczniów logiki testów, pracy zespołowej i zachowania zimnej krwi.<br><br>Odgrywa kluczową rolę we współczesnym społeczeństwie eskapistów. Choć jest powszechnie szanowana, jej wpływy i metody spotykają się z krytyką, zwłaszcza ze strony naukowców z ruchu Anty-Escape.",
+  "status": "draft"
+ },
+ "g:HUM_LectureEscapeRooms": {
+  "pl": "Escape roomy to gry w zagadki dostępne dla szerokiej publiczności. Oficjalnie klasyfikuje się je jako „rozrywkę”.<br><br>W rzeczywistości większość escape roomów działa jako globalna sieć rekrutacji i oceny Escape Academy. Strategię tę zwykle przypisuje się Fernandowi Augustínowi.",
+  "status": "draft"
+ },
+ "g:HUM_LectureKenji": {
+  "pl": "Kenji Wym (1745–1801) był znanym krytykiem ucieczek. Najbardziej znany jest z kontrowersyjnego eseju „Elementarz łamania zagadek siłą”. <br><br>Powszechnie uważa się, że jego pogarda dla zagadek była powodem, dla którego jego siostra, Reina Wym, uciekła z domu.",
+  "status": "draft"
+ },
+ "g:HUM_LectureReina": {
+  "pl": "Reina Wym (1754–1842) była wybitną eskapistką i pedagożką. Urodzona w Japonii, od dzieciństwa z pasją rozwiązywała zagadki. W wieku dziewiętnastu lat wyemigrowała do Ameryki.<br><br>Najbardziej znana jest jako założycielka Escape Academy. Zwolennicy twierdzą, że jej działania pomogły zapobiec drugiej wojnie zagadkowej. Krytycy zarzucają jej metodom nadmierną tajemniczość.",
+  "status": "draft"
+ },
+ "g:HUM_LectureTeacher": {
+  "pl": "Nauczycielka",
+  "status": "review"
+ },
+ "g:HUM_LectureWar": {
+  "pl": "Pierwsza wojna zagadkowa była konfliktem eskapistów w połowie XVIII wieku, wywołanym sporem o powszechnie znaną zagadkę matematyczną „8 ÷ 2(2 + 2)”.<br><br>To, co zaczęło się jako kulturalna debata, szybko przerodziło się w zorganizowaną wojnę. W zależności od źródła liczba ofiar wyniosła 10 000 albo 160 000.",
+  "status": "draft"
+ },
+ "g:HUM_Lecture_Chair": {
+  "pl": "Może kiedyś poprowadzę własny wykład!",
+  "status": "draft"
+ },
+ "g:HUM_Lecture_FallenChair": {
+  "pl": "Ktoś się bardzo spieszył!",
+  "status": "draft"
+ },
+ "g:HUM_Lecture_QuestDesc": {
+  "pl": "Weź udział w wykładzie Dyrektorki Solange o założycielce Reinie Wym.",
+  "status": "draft"
+ },
+ "g:HUM_Lecture_QuestName": {
+  "pl": "Quiz pro quo",
+  "status": "draft"
+ },
+ "g:HUM_Lecture_Step0": {
+  "pl": "Usiądź i posłuchaj wykładu.",
+  "status": "draft"
+ },
+ "g:HUM_Lecture_Step1": {
+  "pl": "Zalicz kartkówkę na szóstkę.",
+  "status": "review"
+ },
+ "g:HUM_LecturetHistory": {
+  "pl": "Historia ucieczek",
+  "status": "draft"
+ },
+ "g:HUM_Lib_Fan": {
+  "pl": "Nawet wentylator ma ustawiony tryb „szeptem”.",
+  "status": "draft"
+ },
+ "g:HUM_Lib_Files": {
+  "pl": "„Uczniowie z niezwróconymi książkami”... Oby mnie tam nie było!",
+  "status": "draft"
+ },
+ "g:HUM_Lib_Returns": {
+  "pl": "Zwrotów nazbierały się całe stosy...",
+  "status": "draft"
+ },
+ "g:HUM_Lib_Stapler": {
+  "pl": "Ta robota trzyma się kupy – jak zszywka.",
+  "status": "draft"
+ },
+ "g:HUM_Library_BannedBook": {
+  "pl": "Zakazana książka",
+  "status": "draft"
+ },
+ "g:HUM_Library_BannedBook1_Desc": {
+  "pl": "„Jak otwierać drzwi łomem”",
+  "status": "draft"
+ },
+ "g:HUM_Library_BannedBook2_Desc": {
+  "pl": "„Escape roomy są przereklamowane: manifest”",
+  "status": "draft"
+ },
+ "g:HUM_Library_BannedBook3_Desc": {
+  "pl": "„Elementarz łamania zagadek siłą”",
+  "status": "draft"
+ },
+ "g:HUM_Library_BookHoratio": {
+  "pl": "Escape dla głupków, tom 3 – autor: Horatio Windsor",
+  "status": "review"
+ },
+ "g:HUM_Library_Obj_Book1": {
+  "pl": "Znajdź „Jak otwierać drzwi łomem”",
+  "status": "draft"
+ },
+ "g:HUM_Library_Obj_Book2": {
+  "pl": "Znajdź „Escape roomy są przereklamowane: manifest”",
+  "status": "draft"
+ },
+ "g:HUM_Library_Obj_Book3": {
+  "pl": "Znajdź „Elementarz łamania zagadek siłą”",
+  "status": "review"
+ },
+ "g:HUM_Library_Obj_ReturnQuanty": {
+  "pl": "Zanieś je wszystkie do Quanty.",
+  "status": "draft"
+ },
+ "g:HUM_Library_QuestDesc": {
+  "pl": "Pomóż bibliotekarzowi Quanty skonfiskować wszystkie zakazane książki w bibliotece.",
+  "status": "draft"
+ },
+ "g:HUM_Library_QuestName": {
+  "pl": "Razem na indeksie",
+  "status": "draft"
+ },
+ "g:HUM_Library_QuestStep": {
+  "pl": "Znajdź zakazane książki.",
+  "status": "draft"
+ },
+ "g:HUM_Library_QuestStep0": {
+  "pl": "Spotkaj się z profesorem Quanty w bibliotece.",
+  "status": "review"
+ },
+ "g:HUM_Library_SleepingBag": {
+  "pl": "Uff. Ktoś ma ciężki semestr...",
+  "status": "draft"
+ },
+ "g:HUM_Literature": {
+  "pl": "Literatura",
+  "status": "draft"
+ },
+ "g:HUM_MaxMaxwell": {
+  "pl": "Max Maxwell",
+  "status": "draft"
+ },
+ "g:HUM_Mus_Painting1": {
+  "pl": "To muzeum jest urządzone z <i>obraz</i>ową dokładnością!",
+  "status": "review"
+ },
+ "g:HUM_Mus_Painting2": {
+  "pl": "Sztuka to zawsze fajny sposób na ucieczkę.",
+  "status": "draft"
+ },
+ "g:HUM_Mus_Plant": {
+  "pl": "Czy ta roślina należy do wystawy?",
+  "status": "draft"
+ },
+ "g:HUM_Mus_Plant2": {
+  "pl": "Można tu dostać jakąś ulotkę? Raczej ulistkę.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_DisplayDoesntFit": {
+  "pl": "Nie wiem, czy to pasuje do tematu wystawy",
+  "status": "draft"
+ },
+ "g:HUM_Museum_DisplayDone": {
+  "pl": "Idealnie! Co za pouczająca wystawa.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_FrontDoorClosed": {
+  "pl": "„Bez biletu – bez wstępu! Bilety do muzeum kupisz w punkcie wypożyczeń w bibliotece.”",
+  "status": "draft"
+ },
+ "g:HUM_Museum_JebBusy": {
+  "pl": "Jeb wygląda na zajętego. Lepiej skupić się na urządzaniu muzeum.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_JebNotes": {
+  "pl": "Pomysł na wykład nr 33: Zamki i ty – alternatywne metody wejścia.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_MuseumCoffee": {
+  "pl": "To powinno pomóc na nerwy",
+  "status": "draft"
+ },
+ "g:HUM_Museum_Obj_Crowbar": {
+  "pl": "Kup łom w sklepiku.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_Obj_OpenCrates": {
+  "pl": "Otwórz (właściwe!!!) skrzynie.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_Obj_PlaceArtifacts": {
+  "pl": "Rozmieść artefakty na właściwych miejscach.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_Obj_Room": {
+  "pl": "Wynieś z magazynu Skrzynię Cudów Sameera.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_Obj_Talk": {
+  "pl": "Spotkaj się z Prof. Jebersonem w muzeum.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_OffLimits": {
+  "pl": "Muzeum wygląda na zamknięte dla zwiedzających. Najpierw trzeba pogadać z Jebem.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_PuzzleArchiveSign": {
+  "pl": "ARCHIWUM<br>ZAGADEK",
+  "status": "draft"
+ },
+ "g:HUM_Museum_QuestDesc": {
+  "pl": "Pomóż Prof. Jebersonowi urządzić w muzeum Academy wystawę „Artefakty założycieli”.",
+  "status": "draft"
+ },
+ "g:HUM_Museum_QuestName": {
+  "pl": "Otwórz i naładuj",
+  "status": "draft"
+ },
+ "g:HUM_Museum_SpiderWeb1": {
+  "pl": "Oby to się liczyło jako zadanie dodatkowe. I to na szóstkę...",
+  "status": "draft"
+ },
+ "g:HUM_Museum_SpiderWeb2": {
+  "pl": "Jeb nie wspominał o tej części roboty",
+  "status": "draft"
+ },
+ "g:HUM_Museum_SpiderWeb3": {
+  "pl": "Naprawdę dawno nikogo tu nie było",
+  "status": "draft"
+ },
+ "g:HUM_Museum_SpiderWeb4": {
+  "pl": "Uff! Nie chcemy przecież, żeby w Escape Academy było niebezpiecznie.",
+  "status": "draft"
+ },
+ "g:HUM_Name": {
+  "pl": "Imię i nazwisko",
+  "status": "review"
+ },
+ "g:HUM_PRESSME": {
+  "pl": "NACIŚNIJ MNIE<br>(proszę…)",
+  "status": "draft"
+ },
+ "g:HUM_Partying": {
+  "pl": "Imprezowanie",
+  "status": "draft"
+ },
+ "g:HUM_PhilomenaSaunders": {
+  "pl": "Philomena Saunders",
+  "status": "draft"
+ },
+ "g:HUM_PhoneBooth": {
+  "pl": "„Nieczynna”. O czym nie chcą, żebyśmy opowiadali w domu…",
+  "status": "draft"
+ },
+ "g:HUM_Poetry": {
+  "pl": "Poezja",
+  "status": "draft"
+ },
+ "g:HUM_Quanty": {
+  "pl": "Quanty",
+  "status": "draft"
+ },
+ "g:HUM_QuietWarning": {
+  "pl": "Cisza w bibliotece!<br>Każdy, kto będzie hałasował, zostanie poproszony o wyjście.",
+  "status": "draft"
+ },
+ "g:HUM_ReinaWym": {
+  "pl": "Reina Wym",
+  "status": "draft"
+ },
+ "g:HUM_RequiresVoucher": {
+  "pl": "Wymaga bonu na rower",
+  "status": "draft"
+ },
+ "g:HUM_ResearchHelp": {
+  "pl": "W czym mogę ci pomóc w badaniach?",
+  "status": "draft"
+ },
+ "g:HUM_Resignation": {
+  "pl": "Wypowiedzenie prof. Grumble’a",
+  "status": "draft"
+ },
+ "g:HUM_Seas": {
+  "pl": "Morza",
+  "status": "draft"
+ },
+ "g:HUM_SpeakingRiddles": {
+  "pl": "Język zagadek",
+  "status": "draft"
+ },
+ "g:HUM_Start_Obj1": {
+  "pl": "Porozmawiaj z prof. Jebersonem na Wydziale Humanistycznym.",
+  "status": "draft"
+ },
+ "g:HUM_Start_QuestDesc": {
+  "pl": "Znajdź profesora Jebersona na Wydziale Humanistycznym, by rozpocząć kurs historii.",
+  "status": "draft"
+ },
+ "g:HUM_Start_QuestName": {
+  "pl": "Historyczny początek",
+  "status": "draft"
+ },
+ "g:HUM_Subject": {
+  "pl": "Przedmiot",
+  "status": "draft"
+ },
+ "g:HUM_TeacherUse": {
+  "pl": "Tylko dla nauczycieli",
+  "status": "draft"
+ },
+ "g:HUM_TheFirstPuzzleWar": {
+  "pl": "Pierwsza wojna zagadkowa",
+  "status": "draft"
+ },
+ "g:HUM_Toth": {
+  "pl": "Toth: bóg zagadek",
+  "status": "draft"
+ },
+ "g:HUM_Trees": {
+  "pl": "Drzewa",
+  "status": "draft"
+ },
+ "g:HUM_Wrestling": {
+  "pl": "Zapasy",
+  "status": "draft"
+ },
+ "g:HUM_dance": {
+  "pl": "Taniec",
+  "status": "draft"
+ },
+ "g:HUM_etiquitte": {
+  "pl": "Etykieta",
+  "status": "review"
+ },
+ "g:HUM_flowers": {
+  "pl": "Kwiaty",
+  "status": "draft"
+ },
+ "g:HUM_hairstyles": {
+  "pl": "Fryzury",
+  "status": "draft"
+ },
+ "g:HUM_locks": {
+  "pl": "Zamki",
+  "status": "review"
+ },
+ "g:HUM_painting": {
+  "pl": "Malarstwo",
+  "status": "draft"
+ },
+ "g:HUM_rocks": {
+  "pl": "Kamienie",
+  "status": "draft"
+ },
+ "g:HUM_rooks": {
+  "pl": "Wieże",
+  "status": "review"
+ },
+ "g:HUM_sculpture": {
+  "pl": "Rzeźba",
+  "status": "draft"
+ },
+ "v:Jerb_HUM_WelcomeCampus": {
+  "pl": "Gotowi pisać historię? Albo, eee... przynajmniej się jej pouczyć?",
+  "status": "draft"
+ },
+ "v:QTY_HUM_DifficultToSaveFace": {
+  "pl": "Trudno ocalić twarz po degradacji na bibliotekarza.",
+  "status": "draft"
+ },
+ "v:QTY_HUM_OrganizationUpdate": {
+  "pl": "System organizacji tutaj wymaga aktualizacji.",
+  "status": "draft"
+ },
+ "v:QTY_HUM_TurnHeads": {
+  "pl": "Możesz wszędzie zawracać w głowie, ale mnie nie zawrócisz. Moja głowa się nie kręci.",
+  "status": "draft"
+ },
+ "v:Solange_HUM_FillInBubble": {
+  "pl": "Pamiętaj, żeby zamalować każde kółko do końca. I prawidłowo.",
+  "status": "draft"
+ },
+ "v:Solange_HUM_PopQuizes": {
+  "pl": "Kartkówki z zaskoczenia nie są tak ekscytujące bez kolczastego sufitu, prawda?",
+  "status": "draft"
+ },
+ "v:row891": {
+  "pl": "*Skrzypiąca deska w podłodze*",
+  "status": "draft"
+ }
+}

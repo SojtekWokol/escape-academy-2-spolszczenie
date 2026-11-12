@@ -1,0 +1,658 @@
+{
+ "g:CY3_BlankA1": {
+  "pl": "zwłoki",
+  "status": "draft"
+ },
+ "g:CY3_BlankA2": {
+  "pl": "profesora",
+  "status": "draft"
+ },
+ "g:CY3_BlankA3": {
+  "pl": "staruszka",
+  "status": "draft"
+ },
+ "g:CY3_BlankA4": {
+  "pl": "małpę",
+  "status": "draft"
+ },
+ "g:CY3_BlankA_CA": {
+  "pl": "ucznia",
+  "status": "draft"
+ },
+ "g:CY3_BlankB1": {
+  "pl": "wzmocniło",
+  "status": "draft"
+ },
+ "g:CY3_BlankB2": {
+  "pl": "skopiowało",
+  "status": "draft"
+ },
+ "g:CY3_BlankB3": {
+  "pl": "zniszczyło",
+  "status": "draft"
+ },
+ "g:CY3_BlankB4": {
+  "pl": "podkręciło",
+  "status": "draft"
+ },
+ "g:CY3_BlankB_CA": {
+  "pl": "ukradło",
+  "status": "draft"
+ },
+ "g:CY3_BlankC1": {
+  "pl": "intelekt",
+  "status": "draft"
+ },
+ "g:CY3_BlankC2": {
+  "pl": "sekrety",
+  "status": "draft"
+ },
+ "g:CY3_BlankC3": {
+  "pl": "tożsamość",
+  "status": "draft"
+ },
+ "g:CY3_BlankC4": {
+  "pl": "zapach ciała",
+  "status": "draft"
+ },
+ "g:CY3_BlankC_CA": {
+  "pl": "młodość",
+  "status": "draft"
+ },
+ "g:CY3_BlankD1": {
+  "pl": "kontuzja",
+  "status": "review"
+ },
+ "g:CY3_BlankD2": {
+  "pl": "bogactwo",
+  "status": "draft"
+ },
+ "g:CY3_BlankD3": {
+  "pl": "śmierć",
+  "status": "draft"
+ },
+ "g:CY3_BlankD4": {
+  "pl": "wąsy",
+  "status": "draft"
+ },
+ "g:CY3_BlankD_CA": {
+  "pl": "przemiana",
+  "status": "draft"
+ },
+ "g:CY3_BlankE1": {
+  "pl": "stracić",
+  "status": "draft"
+ },
+ "g:CY3_BlankE2": {
+  "pl": "sklonować",
+  "status": "draft"
+ },
+ "g:CY3_BlankE3": {
+  "pl": "awansować",
+  "status": "draft"
+ },
+ "g:CY3_BlankE4": {
+  "pl": "pocałować",
+  "status": "draft"
+ },
+ "g:CY3_BlankE_CA": {
+  "pl": "wsadzić do więzienia",
+  "status": "draft"
+ },
+ "g:CY3_BlankF1": {
+  "pl": "przekupiliśmy",
+  "status": "draft"
+ },
+ "g:CY3_BlankF2": {
+  "pl": "przeprosiliśmy",
+  "status": "draft"
+ },
+ "g:CY3_BlankF3": {
+  "pl": "zignorowaliśmy",
+  "status": "draft"
+ },
+ "g:CY3_BlankF4": {
+  "pl": "obiliśmy pięściami",
+  "status": "draft"
+ },
+ "g:CY3_BlankF_CA": {
+  "pl": "potraktowaliśmy gazem niepamięci",
+  "status": "review"
+ },
+ "g:CY3_BlankG1": {
+  "pl": "Rumianego Śledzia",
+  "status": "review"
+ },
+ "g:CY3_BlankG2": {
+  "pl": "Radę Eskapistów",
+  "status": "draft"
+ },
+ "g:CY3_BlankG3": {
+  "pl": "samych siebie",
+  "status": "draft"
+ },
+ "g:CY3_BlankG4": {
+  "pl": "jego psa",
+  "status": "draft"
+ },
+ "g:CY3_BlankG_CA": {
+  "pl": "ogół uczniów",
+  "status": "draft"
+ },
+ "g:CY3_BlankH1": {
+  "pl": "podróżować",
+  "status": "draft"
+ },
+ "g:CY3_BlankH2": {
+  "pl": "prowadzić badania",
+  "status": "draft"
+ },
+ "g:CY3_BlankH3": {
+  "pl": "pisać",
+  "status": "draft"
+ },
+ "g:CY3_BlankH4": {
+  "pl": "grać w piłkę",
+  "status": "draft"
+ },
+ "g:CY3_BlankH_CA": {
+  "pl": "mówić",
+  "status": "draft"
+ },
+ "g:CY3_BlankI1": {
+  "pl": "wypadku",
+  "status": "draft"
+ },
+ "g:CY3_BlankI2": {
+  "pl": "suchot",
+  "status": "draft"
+ },
+ "g:CY3_BlankI3": {
+  "pl": "pojedynku",
+  "status": "draft"
+ },
+ "g:CY3_BlankI4": {
+  "pl": "ukąszenia węża",
+  "status": "draft"
+ },
+ "g:CY3_BlankI_CA": {
+  "pl": "złamanego serca",
+  "status": "draft"
+ },
+ "g:CY3_BlankJ1": {
+  "pl": "Zardzewiały Tuńczyk",
+  "status": "draft"
+ },
+ "g:CY3_BlankJ2": {
+  "pl": "Brudny Łosoś",
+  "status": "draft"
+ },
+ "g:CY3_BlankJ3": {
+  "pl": "Lśniący Miecznik",
+  "status": "draft"
+ },
+ "g:CY3_BlankJ4": {
+  "pl": "Mały Wieloryb",
+  "status": "draft"
+ },
+ "g:CY3_BlankJ_CA": {
+  "pl": "Rumiany Śledź",
+  "status": "review"
+ },
+ "g:CY3_BlankK1": {
+  "pl": "Nepalu",
+  "status": "draft"
+ },
+ "g:CY3_BlankK2": {
+  "pl": "Syrii",
+  "status": "draft"
+ },
+ "g:CY3_BlankK3": {
+  "pl": "Egiptu",
+  "status": "draft"
+ },
+ "g:CY3_BlankK4": {
+  "pl": "Orlando na Florydzie",
+  "status": "draft"
+ },
+ "g:CY3_BlankK_CA": {
+  "pl": "Indii",
+  "status": "draft"
+ },
+ "g:CY3_CageLabel": {
+  "pl": "Jaką straszną tajemnicę skrywa Reina Wym?",
+  "status": "draft"
+ },
+ "g:CY3_CandleBee": {
+  "pl": "Wosk pszczeli",
+  "status": "draft"
+ },
+ "g:CY3_CandleBeef": {
+  "pl": "Łój wołowy",
+  "status": "draft"
+ },
+ "g:CY3_CandlePalm": {
+  "pl": "Wosk palmowy",
+  "status": "draft"
+ },
+ "g:CY3_CandleSheep": {
+  "pl": "Łój owczy",
+  "status": "draft"
+ },
+ "g:CY3_CandleWhale": {
+  "pl": "Olej wielorybi",
+  "status": "draft"
+ },
+ "g:CY3_CandlesBurning": {
+  "pl": "Palą się…",
+  "status": "draft"
+ },
+ "g:CY3_CardInsert": {
+  "pl": "Tu można włożyć kartę.",
+  "status": "draft"
+ },
+ "g:CY3_DonePuzzlePiece": {
+  "pl": "Nasi czterej dzielni założyciele! Co chcą mi przekazać?",
+  "status": "draft"
+ },
+ "g:CY3_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Clewis i Lock wciąż strasznie irytują z tą całą sprawą Szlaku Oregońskiego",
+  "status": "draft"
+ },
+ "g:CY3_Figure1": {
+  "pl": "Rysunek 1",
+  "status": "draft"
+ },
+ "g:CY3_Figure2": {
+  "pl": "Rysunek 2",
+  "status": "draft"
+ },
+ "g:CY3_GatetoTower": {
+  "pl": "Wróć do wieży",
+  "status": "draft"
+ },
+ "g:CY3_Hint_Bridge": {
+  "pl": "Przejdź tym mostem do gabinetu dyrektorki!",
+  "status": "draft"
+ },
+ "g:CY3_Hint_CandlesA": {
+  "pl": "Zwróć uwagę, jak długo pali się każda ze świec...",
+  "status": "draft"
+ },
+ "g:CY3_Hint_CandlesB": {
+  "pl": "Ułóż je od najkrócej do najdłużej palącej się.",
+  "status": "draft"
+ },
+ "g:CY3_Hint_Cards": {
+  "pl": "Na co wszyscy wskazują?",
+  "status": "draft"
+ },
+ "g:CY3_Hint_FloorA": {
+  "pl": "Ten wzór na oknie...",
+  "status": "draft"
+ },
+ "g:CY3_Hint_FloorB": {
+  "pl": "...pasuje do tego na podłodze.",
+  "status": "draft"
+ },
+ "g:CY3_Hint_FootpathAway": {
+  "pl": "Te ślady stóp prowadzą od fontanny. Idź za nimi.",
+  "status": "draft"
+ },
+ "g:CY3_Hint_Jigsaw": {
+  "pl": "Ułóż puzzle! Plama atramentu idzie w prawy górny róg.",
+  "status": "draft"
+ },
+ "g:CY3_Hint_MadlibA": {
+  "pl": "Spójrz na oba diagramy „{@CY3_MachinaExtractio}”. Co się zmienia?",
+  "status": "draft"
+ },
+ "g:CY3_Hint_MadlibB": {
+  "pl": "Pamięć całej szkoły (i Alistaira) została wymazana. Jak?",
+  "status": "draft"
+ },
+ "g:CY3_Hint_MadlibC": {
+  "pl": "Artykuły z gazet i mapy ci pomogą.",
+  "status": "draft"
+ },
+ "g:CY3_Hint_PlacardA": {
+  "pl": "Na tym plakacie jest tylko JEDNO oko...",
+  "status": "draft"
+ },
+ "g:CY3_Hint_PlacardB": {
+  "pl": "Ile to może być warte?",
+  "status": "draft"
+ },
+ "g:CY3_Hint_PlacardC": {
+  "pl": "Zielony? Jak się robi zielony?",
+  "status": "draft"
+ },
+ "g:CY3_Hint_StatueClueA": {
+  "pl": "Dokończ zdanie. Zaczyna się na literę {@CY3_Meta_SecretPhraseStart[0]}.",
+  "status": "draft"
+ },
+ "g:CY3_ItemDescription_Lighter": {
+  "pl": "Nie nadaje się do spożycia przez ludzi.",
+  "status": "draft"
+ },
+ "g:CY3_Item_Complaints": {
+  "pl": "Skarga woźnego",
+  "status": "draft"
+ },
+ "g:CY3_Item_Judgement": {
+  "pl": "Wyrok",
+  "status": "draft"
+ },
+ "g:CY3_Item_Lighter": {
+  "pl": "Zapalniczka",
+  "status": "draft"
+ },
+ "g:CY3_Item_Map": {
+  "pl": "Mapa podróży",
+  "status": "draft"
+ },
+ "g:CY3_Item_Newspaper": {
+  "pl": "Gazeta",
+  "status": "draft"
+ },
+ "g:CY3_Item_Obituary": {
+  "pl": "Nekrolog",
+  "status": "draft"
+ },
+ "g:CY3_Item_OldnessPaper": {
+  "pl": "Machina Extractio",
+  "status": "draft"
+ },
+ "g:CY3_JourneyBoat": {
+  "pl": "Rejs Rumianego Śledzia",
+  "status": "review"
+ },
+ "g:CY3_LampDay": {
+  "pl": "W dzień nie trzeba się tym zajmować.",
+  "status": "draft"
+ },
+ "g:CY3_LibraryLocked": {
+  "pl": "Cholera, biblioteka zamknięta! Lepiej wrócić do wieży <i>przez most</i>...",
+  "status": "draft"
+ },
+ "g:CY3_LightCandle": {
+  "pl": "Te świece wyglądają trochę podejrzanie…",
+  "status": "draft"
+ },
+ "g:CY3_LighterInsert": {
+  "pl": "Można by to zapalić, gdyby tylko ktoś miał zapalniczkę…",
+  "status": "draft"
+ },
+ "g:CY3_META_ItemDescription_Tablet": {
+  "pl": "Oooh, jakie błyszczące!",
+  "status": "draft"
+ },
+ "g:CY3_META_Item_Tablet": {
+  "pl": "Kamienna tablica",
+  "status": "draft"
+ },
+ "g:CY3_MachinaExtractio": {
+  "pl": "Machina Extractio",
+  "status": "review"
+ },
+ "g:CY3_Madlib1": {
+  "pl": "Alistair zbudował dziwną maszynę. Usiadł na jednym siedzeniu, a na drugim posadził <br><br><link=\"item\">■</link><br><br>.<br>Urządzenie <br><br><link=\"verb\">■</link><br><br> badanemu <br><br><link=\"trait\">■</link>",
+  "status": "review"
+ },
+ "g:CY3_Madlib2": {
+  "pl": "Nagle u Alistaira pojawiło się coś złowrogiego: <br><br><link=\"trait\">■</link><br><br>. Nie mieliśmy wyboru, musieliśmy go <br><br><link=\"action1\">■</link><br><br>. Potem <br><br><link=\"action2\">■</link><br><br> jego i <br><br><link=\"action3\">■</link>",
+  "status": "review"
+ },
+ "g:CY3_Madlib3": {
+  "pl": "Fernando był przerażony;<br>przestał <br><br><link=\"habit\">■</link><br><br> i niedługo potem zmarł z powodu <br><br><link=\"cause\">■</link><br><br>Sameer zrezygnował i odpłynął na statku <br><br><link=\"vehicle\">■</link><br><br> do swojej ojczyzny, czyli do <br><br><link=\"homeland\">■</link>",
+  "status": "review"
+ },
+ "g:CY3_Madlib4": {
+  "pl": "Została tylko Reina, jedyna strażniczka sekretu.",
+  "status": "draft"
+ },
+ "g:CY3_MemoryGasNote": {
+  "pl": "Czy ktoś pamięta, po co w tym roku kupiliśmy tyle gazu niepamięci?",
+  "status": "draft"
+ },
+ "g:CY3_Meta_FindSolangeGate": {
+  "pl": "Nie ma czasu na zwiedzanie, muszę porozmawiać z Dyrektorką Solange!",
+  "status": "draft"
+ },
+ "g:CY3_Meta_FountainOpen": {
+  "pl": "Fontanna otwiera się i odsłania drzwi",
+  "status": "draft"
+ },
+ "g:CY3_Meta_GlassesTake": {
+  "pl": "Tymczasowe:<br>Weź okulary",
+  "status": "draft"
+ },
+ "g:CY3_Meta_Plaque": {
+  "pl": "W ciemności prawda wyjdzie na jaw",
+  "status": "draft"
+ },
+ "g:CY3_Meta_QuestDesc": {
+  "pl": "Podążaj tropem tajemnicy i zbadaj fontannę założycieli.",
+  "status": "draft"
+ },
+ "g:CY3_Meta_QuestName": {
+  "pl": "Głęboko skrywany sekret",
+  "status": "review"
+ },
+ "g:CY3_Meta_QuestObj1": {
+  "pl": "Porozmawiaj z Kirą w pobliżu fontanny założycieli.",
+  "status": "draft"
+ },
+ "g:CY3_Meta_QuestObj2": {
+  "pl": "Przeszukaj okolicę nocą.",
+  "status": "draft"
+ },
+ "g:CY3_Meta_QuestObj3": {
+  "pl": "Zbadaj tajną komnatę.",
+  "status": "draft"
+ },
+ "g:CY3_Meta_QuestObj4": {
+  "pl": "Opowiedz Dyrektorce Solange o wszystkim.",
+  "status": "draft"
+ },
+ "g:CY3_Meta_SecretPhraseEnd": {
+  "pl": "piszą zwycięzcy.",
+  "status": "review"
+ },
+ "g:CY3_Meta_SecretPhraseStart": {
+  "pl": "H,I,S,T,O,R,I,Ę",
+  "status": "review"
+ },
+ "g:CY3_NewspaperBodyRetire": {
+  "pl": "Fernando Augustín i Sameer Gaspard przechodzą na emeryturę – totalne zaskoczenie! Dyrektorka Reina Wym bez komentarza, co zaskakuje już znacznie mniej.",
+  "status": "draft"
+ },
+ "g:CY3_NewspaperDateA": {
+  "pl": "14 czerwca 1842",
+  "status": "draft"
+ },
+ "g:CY3_NewspaperDateB": {
+  "pl": "30 czerwca 1842",
+  "status": "draft"
+ },
+ "g:CY3_Newspaper_MemoriumA": {
+  "pl": "Niespodziewana emerytura kończy się nagle: Fernando Augustín, założyciel Akademii, zmarł we śnie w wieku 81 lat.",
+  "status": "draft"
+ },
+ "g:CY3_Newspaper_MemoriumB": {
+  "pl": "Przyjaciele mówią, że od dnia przejścia na emeryturę nie wypowiedział ani jednego słowa. „Wyglądał na takiego smutnego i załamanego.” Być może nigdy nie dowiemy się, dlaczego.",
+  "status": "draft"
+ },
+ "g:CY3_NightGate": {
+  "pl": "Nie mogę stąd odejść! Muszę znaleźć z Kirą komnatę założycieli.",
+  "status": "draft"
+ },
+ "g:CY3_OfficialOrderBody": {
+  "pl": "Alistair Bell<br>zostaje skazany na dożywotnie więzienie w szkolnych lochach, pozbawiony wszelkich tytułów i zaszczytów, a jego pamięć zostanie wymazana! Podpisano",
+  "status": "draft"
+ },
+ "g:CY3_OfficialOrderHeader": {
+  "pl": "Na mocy oficjalnego rozkazu Escape Academy,",
+  "status": "draft"
+ },
+ "g:CY3_RoomName": {
+  "pl": "Trzecia komnata",
+  "status": "draft"
+ },
+ "g:CY3_Rubble": {
+  "pl": "Jeśli tego nie rozgryzę, to leżymy… w gruzach.",
+  "status": "draft"
+ },
+ "g:CY3_SecretCode1": {
+  "pl": "W",
+  "status": "review"
+ },
+ "g:CY3_SecretCode2": {
+  "pl": "I",
+  "status": "review"
+ },
+ "g:CY3_SecretCode3": {
+  "pl": "E",
+  "status": "review"
+ },
+ "g:CY3_SecretCode4": {
+  "pl": "K",
+  "status": "review"
+ },
+ "g:CY3_SecretCodePassword": {
+  "pl": "W,I,E,K",
+  "status": "review"
+ },
+ "g:CY3_SecretCodeWA1": {
+  "pl": "F",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA10": {
+  "pl": "Z",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA11": {
+  "pl": "C",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA12": {
+  "pl": "B",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA2": {
+  "pl": "A",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA3": {
+  "pl": "R",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA4": {
+  "pl": "Y",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA5": {
+  "pl": "U",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA6": {
+  "pl": "S",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA7": {
+  "pl": "D",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA8": {
+  "pl": "J",
+  "status": "draft"
+ },
+ "g:CY3_SecretCodeWA9": {
+  "pl": "L",
+  "status": "draft"
+ },
+ "g:CY3_SubjectA": {
+  "pl": "Badany A",
+  "status": "draft"
+ },
+ "g:CY3_SubjectB": {
+  "pl": "Badany B",
+  "status": "draft"
+ },
+ "g:CY3_WaitPrompt": {
+  "pl": "Kira kogoś tam widzi! Lepiej posłuchać, co ma do powiedzenia.",
+  "status": "draft"
+ },
+ "v:Jeb_CY3_WhosThere": {
+  "pl": "Hę? Kto tam?",
+  "status": "draft"
+ },
+ "v:Kira_CY3_BurntTheCandle": {
+  "pl": "Naprawdę paliliśmy świeczkę z obu końców, żeby to rozgryźć.",
+  "status": "draft"
+ },
+ "v:Kira_CY3_CantBelieveImActuallyComfortable": {
+  "pl": "Nie mogę uwierzyć, że czuję się swobodnie, wymykając się z wieży...",
+  "status": "draft"
+ },
+ "v:Kira_CY3_FinalChamber": {
+  "pl": "Cokolwiek jest w tej ostatniej komnacie... to od nas zależy, żeby zakończyć tę tajemnicę.",
+  "status": "draft"
+ },
+ "v:Kira_CY3_HeardThatOneBefore": {
+  "pl": "Mam wrażenie, że to już gdzieś słyszałam...",
+  "status": "draft"
+ },
+ "v:Kira_CY3_HolyPuzzle": {
+  "pl": "Święta zagadko... to... to Von Bellini!",
+  "status": "draft"
+ },
+ "v:Kira_CY3_LimitedWindow": {
+  "pl": "Mamy tu tylko wąskie okienko czasu, ruszajmy się.",
+  "status": "draft"
+ },
+ "v:Kira_CY3_OneStepCloser": {
+  "pl": "Jeszcze krok i Escape Academy zmyje tę plamę ze swojej historii.",
+  "status": "draft"
+ },
+ "v:Kira_CY3_SorryGuys": {
+  "pl": "Gillian, Reed, przepraszam.",
+  "status": "draft"
+ },
+ "v:Kira_CY3_StayBack": {
+  "pl": "Nie podchodź!",
+  "status": "draft"
+ },
+ "v:Kira_CY3_ThirdIsTheCharm": {
+  "pl": "No dobra, do trzech razy sztuka.",
+  "status": "draft"
+ },
+ "v:Kira_CY3_TruthInFountain": {
+  "pl": "Oby w tej fontannie kryła się odrobina prawdy.",
+  "status": "draft"
+ },
+ "v:Kira_CY3_Wait": {
+  "pl": "Czekaj!",
+  "status": "draft"
+ },
+ "v:Kira_CY3_WaitStayBack": {
+  "pl": "Czekaj! Nie podchodź!",
+  "status": "draft"
+ },
+ "v:Kira_CY3_We'reAlmostThere": {
+  "pl": "Jesteśmy już prawie po drugiej stronie.",
+  "status": "draft"
+ },
+ "v:Kira_CY3_WhatCouldSheBeConcealing": {
+  "pl": "Co też Reina może ukrywać w tej klatce...",
+  "status": "draft"
+ },
+ "v:Kira_CY3_WhyAllTheChambersReina": {
+  "pl": "Jeśli Reina tak bardzo chciała zrzucić to wszystko z piersi... po co te wszystkie komnaty?",
+  "status": "draft"
+ },
+ "v:Solange_CY3_MeaningOfThis": {
+  "pl": "Co to ma znaczyć?",
+  "status": "draft"
+ }
+}

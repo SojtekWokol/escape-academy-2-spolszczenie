@@ -1,0 +1,386 @@
+{
+ "c:3D Character Artist": {
+  "pl": "grafik 3D postaci",
+  "status": "draft"
+ },
+ "c:3D Environment Artist": {
+  "pl": "grafik 3D otoczenia",
+  "status": "draft"
+ },
+ "c:<size=0.75em>as </size> Headmaster Sandra Solange": {
+  "pl": "<size=0.75em>jako </size> dyrektorka Sandra Solange",
+  "status": "draft"
+ },
+ "c:<size=0.75em>as </size> Kira Tempest": {
+  "pl": "<size=0.75em>jako </size> Kira Tempest",
+  "status": "draft"
+ },
+ "c:<size=0.75em>as </size> Professor Allie Bonilla & Gillian Paisley": {
+  "pl": "<size=0.75em>jako </size> profesor Allie Bonilla i Gillian Paisley",
+  "status": "draft"
+ },
+ "c:<size=0.75em>as </size> Professor Barton Von Bellini": {
+  "pl": "<size=0.75em>jako </size> profesor Barton Von Bellini",
+  "status": "draft"
+ },
+ "c:<size=0.75em>as </size> Professor Enora Chortkoff": {
+  "pl": "<size=0.75em>jako </size> profesor Enora Chortkoff",
+  "status": "draft"
+ },
+ "c:<size=0.75em>as </size> Professor Jeb Jeberson": {
+  "pl": "<size=0.75em>jako </size> profesor Jeb Jeberson",
+  "status": "draft"
+ },
+ "c:<size=0.75em>as </size> Reed Wright": {
+  "pl": "<size=0.75em>jako </size> Reed Wright",
+  "status": "draft"
+ },
+ "c:<size=0.75em>as</size> Professor Slip & Quanty": {
+  "pl": "<size=0.75em>jako</size> profesor Slip i Quanty",
+  "status": "draft"
+ },
+ "c:A Coin Crew Game": {
+  "pl": "Gra studia Coin Crew",
+  "status": "draft"
+ },
+ "c:AVP Delivery": {
+  "pl": "wiceprezes ds. realizacji",
+  "status": "draft"
+ },
+ "c:Additional 2D Illustrations": {
+  "pl": "dodatkowe ilustracje 2D",
+  "status": "draft"
+ },
+ "c:Additional Animations": {
+  "pl": "dodatkowe animacje",
+  "status": "draft"
+ },
+ "c:Additional Marketing": {
+  "pl": "Dodatkowy marketing",
+  "status": "draft"
+ },
+ "c:Additional Voices by...": {
+  "pl": "Dodatkowe głosy",
+  "status": "draft"
+ },
+ "c:Art Director": {
+  "pl": "dyrektor artystyczny",
+  "status": "draft"
+ },
+ "c:Art Team": {
+  "pl": "Zespół graficzny",
+  "status": "draft"
+ },
+ "c:Audio Team": {
+  "pl": "Zespół dźwiękowy",
+  "status": "draft"
+ },
+ "c:Business Development": {
+  "pl": "rozwój biznesu",
+  "status": "draft"
+ },
+ "c:Business Solutions Advisor": {
+  "pl": "doradca ds. rozwiązań biznesowych",
+  "status": "draft"
+ },
+ "c:Casting Director": {
+  "pl": "reżyser obsady",
+  "status": "draft"
+ },
+ "c:Chinese Puzzle Localization": {
+  "pl": "lokalizacja zagadek na chiński",
+  "status": "draft"
+ },
+ "c:Co-Creative Director & Executive Producer": {
+  "pl": "współdyrektor kreatywny i producent wykonawczy",
+  "status": "draft"
+ },
+ "c:Co-Founder": {
+  "pl": "współzałożyciel",
+  "status": "draft"
+ },
+ "c:Coin Crew Games would also like to thank": {
+  "pl": "Coin Crew Games dziękuje również",
+  "status": "draft"
+ },
+ "c:Community & Content Manager": {
+  "pl": "opieka nad społecznością i treściami",
+  "status": "draft"
+ },
+ "c:Community Manager": {
+  "pl": "opieka nad społecznością",
+  "status": "draft"
+ },
+ "c:Composer & Sound Designer": {
+  "pl": "kompozytor i projektant dźwięku",
+  "status": "draft"
+ },
+ "c:Controller": {
+  "pl": "kontroler finansowy",
+  "status": "draft"
+ },
+ "c:Copy Editor": {
+  "pl": "redakcja tekstów",
+  "status": "draft"
+ },
+ "c:Design Team": {
+  "pl": "Zespół projektowy",
+  "status": "draft"
+ },
+ "c:Developed Using": {
+  "pl": "Stworzono przy użyciu",
+  "status": "draft"
+ },
+ "c:Director": {
+  "pl": "dyrektor",
+  "status": "draft"
+ },
+ "c:Director of Product": {
+  "pl": "dyrektor produktu",
+  "status": "draft"
+ },
+ "c:Director of Strategy": {
+  "pl": "dyrektor strategii",
+  "status": "draft"
+ },
+ "c:Editor": {
+  "pl": "redaktor",
+  "status": "draft"
+ },
+ "c:Editorial": {
+  "pl": "montaż",
+  "status": "draft"
+ },
+ "c:Executive Vice President": {
+  "pl": "wiceprezes wykonawczy",
+  "status": "draft"
+ },
+ "c:Global Account Director": {
+  "pl": "globalny dyrektor ds. klientów",
+  "status": "draft"
+ },
+ "c:Head Writer & Producer": {
+  "pl": "główny scenarzysta i producent",
+  "status": "draft"
+ },
+ "c:Head of Games": {
+  "pl": "szef działu gier",
+  "status": "draft"
+ },
+ "c:Head of Gaming Division": {
+  "pl": "szef działu gier",
+  "status": "draft"
+ },
+ "c:Head of Localization": {
+  "pl": "szef lokalizacji",
+  "status": "draft"
+ },
+ "c:Illustrator & Character Designer": {
+  "pl": "ilustrator i projektant postaci",
+  "status": "draft"
+ },
+ "c:Japanese Puzzle Localization": {
+  "pl": "lokalizacja zagadek na japoński",
+  "status": "draft"
+ },
+ "c:Key Art": {
+  "pl": "grafika główna",
+  "status": "draft"
+ },
+ "c:LQA Team Lead": {
+  "pl": "lider zespołu testów lokalizacji",
+  "status": "draft"
+ },
+ "c:LQA Testers": {
+  "pl": "Testerzy lokalizacji",
+  "status": "draft"
+ },
+ "c:Lead Localization Project Manager": {
+  "pl": "główny kierownik projektów lokalizacji",
+  "status": "draft"
+ },
+ "c:Legal": {
+  "pl": "sprawy prawne",
+  "status": "draft"
+ },
+ "c:Linguists": {
+  "pl": "Lingwiści",
+  "status": "draft"
+ },
+ "c:Localization Project Manager": {
+  "pl": "kierownik projektu lokalizacji",
+  "status": "draft"
+ },
+ "c:Logo & Brand Identity": {
+  "pl": "logo i identyfikacja marki",
+  "status": "draft"
+ },
+ "c:Marketing & Publishing Manager": {
+  "pl": "kierownik marketingu i wydawnictwa",
+  "status": "draft"
+ },
+ "c:Motion Graphics": {
+  "pl": "grafika ruchoma",
+  "status": "draft"
+ },
+ "c:Narrative Consultant": {
+  "pl": "konsultant fabularny",
+  "status": "draft"
+ },
+ "c:Narrative Team": {
+  "pl": "Zespół fabularny",
+  "status": "draft"
+ },
+ "c:Ops Team": {
+  "pl": "Zespół operacyjny",
+  "status": "draft"
+ },
+ "c:Platform Specialist": {
+  "pl": "specjalista ds. platform",
+  "status": "draft"
+ },
+ "c:Producer": {
+  "pl": "producent",
+  "status": "draft"
+ },
+ "c:Producer, Games": {
+  "pl": "producent gier",
+  "status": "draft"
+ },
+ "c:Program Managers": {
+  "pl": "kierownicy programu",
+  "status": "draft"
+ },
+ "c:Programmer": {
+  "pl": "programista",
+  "status": "draft"
+ },
+ "c:Project Coordinators": {
+  "pl": "Koordynatorzy projektu",
+  "status": "draft"
+ },
+ "c:Project Manager": {
+  "pl": "kierownik projektu",
+  "status": "draft"
+ },
+ "c:Project Manager & Editor": {
+  "pl": "kierownik projektu i redaktor",
+  "status": "draft"
+ },
+ "c:Project Manager & Translator": {
+  "pl": "kierownik projektu i tłumacz",
+  "status": "draft"
+ },
+ "c:QA Analysts": {
+  "pl": "Analitycy QA",
+  "status": "draft"
+ },
+ "c:QA Engineers": {
+  "pl": "Inżynierowie QA",
+  "status": "draft"
+ },
+ "c:QA Lead": {
+  "pl": "lider QA",
+  "status": "draft"
+ },
+ "c:QA Manager": {
+  "pl": "kierownik QA",
+  "status": "draft"
+ },
+ "c:QA Tester": {
+  "pl": "tester QA",
+  "status": "draft"
+ },
+ "c:Quality Assurance Manager": {
+  "pl": "kierownik kontroli jakości",
+  "status": "draft"
+ },
+ "c:Quality Assurance Tester": {
+  "pl": "tester kontroli jakości",
+  "status": "draft"
+ },
+ "c:Recording Engineer": {
+  "pl": "realizator nagrań",
+  "status": "draft"
+ },
+ "c:Release Manager": {
+  "pl": "kierownik wydań",
+  "status": "draft"
+ },
+ "c:Sound Designer": {
+  "pl": "projektant dźwięku",
+  "status": "draft"
+ },
+ "c:Special Thanks": {
+  "pl": "Szczególne podziękowania",
+  "status": "draft"
+ },
+ "c:Sr. 3D Artist": {
+  "pl": "starszy grafik 3D",
+  "status": "draft"
+ },
+ "c:Sr. Director of Brand Marketing": {
+  "pl": "starszy dyrektor marketingu marki",
+  "status": "draft"
+ },
+ "c:Sr. Puzzle Designer": {
+  "pl": "starszy projektant zagadek",
+  "status": "draft"
+ },
+ "c:Sr. QA Project Manager": {
+  "pl": "starszy kierownik projektów QA",
+  "status": "draft"
+ },
+ "c:Starring": {
+  "pl": "Obsada",
+  "status": "draft"
+ },
+ "c:Studio Heads": {
+  "pl": "Szefowie studia",
+  "status": "draft"
+ },
+ "c:Technical Designer": {
+  "pl": "projektant techniczny",
+  "status": "draft"
+ },
+ "c:Test Manager, Player Experience": {
+  "pl": "kierownik testów doświadczeń gracza",
+  "status": "draft"
+ },
+ "c:Test Specialist": {
+  "pl": "specjalista ds. testów",
+  "status": "draft"
+ },
+ "c:Testers": {
+  "pl": "Testerzy",
+  "status": "draft"
+ },
+ "c:Trailer Editorial": {
+  "pl": "montaż zwiastuna",
+  "status": "draft"
+ },
+ "c:Translator": {
+  "pl": "tłumacz",
+  "status": "draft"
+ },
+ "c:Voice Director": {
+  "pl": "reżyser dubbingu",
+  "status": "draft"
+ },
+ "c:With Support From": {
+  "pl": "Przy wsparciu",
+  "status": "draft"
+ },
+ "c:Writer": {
+  "pl": "scenarzysta",
+  "status": "draft"
+ },
+ "c:iam8Bit Playtesters": {
+  "pl": "Testerzy gry z iam8Bit",
+  "status": "draft"
+ },
+ "c:iam8bit would like to thank": {
+  "pl": "iam8bit dziękuje",
+  "status": "draft"
+ }
+}

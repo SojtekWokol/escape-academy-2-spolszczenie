@@ -1,0 +1,726 @@
+{
+ "g:PER_Accordion_Beautiful": {
+  "pl": "Moja najpiękniejsza melodia, arr!",
+  "status": "draft"
+ },
+ "g:PER_Accordion_Beautiful_Melody": {
+  "pl": "DFCD",
+  "status": "draft"
+ },
+ "g:PER_Accordion_Depressing": {
+  "pl": "Moja najsmutniejsza melodia, arr!",
+  "status": "draft"
+ },
+ "g:PER_Accordion_Depressing_Melody": {
+  "pl": "HGEF",
+  "status": "review"
+ },
+ "g:PER_Accordion_Frightening": {
+  "pl": "Moja najstraszniejsza melodia, arr!",
+  "status": "draft"
+ },
+ "g:PER_Accordion_Frightening_Melody": {
+  "pl": "HGAA",
+  "status": "review"
+ },
+ "g:PER_CapeClue": {
+  "pl": "Ta podarta kotara byłaby świetną peleryną!",
+  "status": "draft"
+ },
+ "g:PER_Cast_ActorsLabel": {
+  "pl": "Nasi nieustraszeni aktorzy",
+  "status": "draft"
+ },
+ "g:PER_Cast_AuditionSides": {
+  "pl": "Teksty na przesłuchanie",
+  "status": "review"
+ },
+ "g:PER_Cast_AuditioningComplete": {
+  "pl": "Chyba tak! Pora pokazać to Prof. Chortkoff!",
+  "status": "draft"
+ },
+ "g:PER_Cast_BadActorLabel": {
+  "pl": "Do szlifu",
+  "status": "draft"
+ },
+ "g:PER_Cast_Brenda": {
+  "pl": "Brenda Flops",
+  "status": "draft"
+ },
+ "g:PER_Cast_CastList": {
+  "pl": "Lista obsady",
+  "status": "draft"
+ },
+ "g:PER_Cast_CastListDesc": {
+  "pl": "Daj to Prof. Chortkoff!",
+  "status": "draft"
+ },
+ "g:PER_Cast_ChetRoleDescription": {
+  "pl": "<b>Rola:</b> Chet <br><b>Umiejętność:</b> Płakanie<br><b>Terminy:</b> poniedziałki + wtorki",
+  "status": "draft"
+ },
+ "g:PER_Cast_Debra": {
+  "pl": "Debra Cadabra",
+  "status": "draft"
+ },
+ "g:PER_Cast_Debra_Resume": {
+  "pl": "<b>DOTYCHCZASOWE ROLE:</b><br>Mamma Kluczia: surowa recepcjonistka hotelowa<br>Tramwaj zwany Zagadką: przesadnie dramatyczna siostra<br>Romeo i Zagadulia: nieszczęśliwa łamigłowaczka<br><br><b>KOLIZJE TERMINÓW:</b><br>Klub debat w środy<br>Klub taneczny w czwartki",
+  "status": "review"
+ },
+ "g:PER_Cast_DetectiveRoleDescription": {
+  "pl": "<b>Rola:</b> Detektyw<br><b>Umiejętność:</b> Walka<br><b>Terminy:</b> poniedziałki + czwartki",
+  "status": "draft"
+ },
+ "g:PER_Cast_Edie": {
+  "pl": "Edie Quill",
+  "status": "draft"
+ },
+ "g:PER_Cast_Edie_Resume": {
+  "pl": "<b>DOTYCHCZASOWE ROLE:</b><br>Romeo i Zagadulia: szermierz<br>Tramwaj zwany Zagadką: bokser<br>Upiór w Zamkoperze: smutny śpiewak<br><br><b>KOLIZJE TERMINÓW:</b><br>Klub bowlingowy w soboty<br>Klub wioślarski w niedziele",
+  "status": "review"
+ },
+ "g:PER_Cast_Garth": {
+  "pl": "Garth Dolomew",
+  "status": "draft"
+ },
+ "g:PER_Cast_GoodActorLabel": {
+  "pl": "Ma to coś!",
+  "status": "draft"
+ },
+ "g:PER_Cast_Link": {
+  "pl": "Link Lockin",
+  "status": "draft"
+ },
+ "g:PER_Cast_Link_Resume": {
+  "pl": "<b>DOTYCHCZASOWE ROLE:</b><br>Upiór w Zamkoperze: smutny śpiewak<br>Romeo i Zagadulia: nieszczęsny łamigłowacz<br>Król Zamek: markotny książę<br><br><b>KOLIZJE TERMINÓW:</b><br>Klub bowlingowy w soboty<br>Klub robótek w środy",
+  "status": "review"
+ },
+ "g:PER_Cast_PeterRoleDescription": {
+  "pl": "<b>Rola:</b> Peter<br><b>Umiejętność:</b> Leżenie bez ruchu<br><b>Terminy:</b> poniedziałki",
+  "status": "draft"
+ },
+ "g:PER_Cast_Phoebe": {
+  "pl": "Phoebe Geebys",
+  "status": "draft"
+ },
+ "g:PER_Cast_QuestDesc": {
+  "pl": "Pomóż Prof. Chortkoff obsadzić sztukę w Warsztacie teatralnym.",
+  "status": "draft"
+ },
+ "g:PER_Cast_QuestName": {
+  "pl": "Szeroka obsada",
+  "status": "draft"
+ },
+ "g:PER_Cast_QuestObj1": {
+  "pl": "Porozmawiaj z Prof. Chortkoff w Warsztacie teatralnym.",
+  "status": "draft"
+ },
+ "g:PER_Cast_QuestObj2": {
+  "pl": "Przeprowadź przesłuchania.",
+  "status": "review"
+ },
+ "g:PER_Cast_QuestObj3": {
+  "pl": "Oddaj listę obsady.",
+  "status": "draft"
+ },
+ "g:PER_Cast_RubyRoleDescription": {
+  "pl": "<b>Rola:</b> Ruby<br><b>Umiejętność:</b> Udawanie srogiej<br><b>Terminy:</b> wtorki + piątki",
+  "status": "draft"
+ },
+ "g:PER_Cast_SidesTitle": {
+  "pl": "Teksty na przesłuchanie",
+  "status": "review"
+ },
+ "g:PER_Cast_Sides_EnorasNote": {
+  "pl": "Wybierz jeden z poniższych... i NIE spartacz tego! <br> - Prof. Chortkoff",
+  "status": "draft"
+ },
+ "g:PER_Cast_Sides_First": {
+  "pl": "Klucz czy nie klucz, oto jest pytanie? <i>(Zastanawia się)</i>",
+  "status": "draft"
+ },
+ "g:PER_Cast_Sides_Second": {
+  "pl": "Czy to zagadka, co widzę przed sobą, a elementy ku mej dłoni się garną? <i>(Kręci głową)</i>",
+  "status": "draft"
+ },
+ "g:PER_Cast_Sides_Third": {
+  "pl": "Czym jest podpowiedź? To, co zwiemy podpowiedzią, pod inną nazwą rozwiązałoby się równie szybko. <i>(Wzdycha)</i>",
+  "status": "draft"
+ },
+ "g:PER_Cast_Tyler": {
+  "pl": "Tyler Vouch",
+  "status": "draft"
+ },
+ "g:PER_Cast_Tyler_Resume": {
+  "pl": "<b>DOTYCHCZASOWE ROLE:</b><br>Czarownice z Szyfrem: człowiek przygnieciony kamieniami<br>Król Zamek: człowiek zamarznięty w burzy<br>Romeo i Zagadulia: ojciec Zagadulet<br><br><b>KOLIZJE TERMINÓW:</b><br>Klub debat w środy",
+  "status": "review"
+ },
+ "g:PER_Cast_Vincent": {
+  "pl": "Vincent VanStop",
+  "status": "draft"
+ },
+ "g:PER_CostumeShop": {
+  "pl": "Pracownia kostiumów",
+  "status": "draft"
+ },
+ "g:PER_Costume_CutPrompt": {
+  "pl": "Potrzebuję czegoś ostrego, żeby to przeciąć...",
+  "status": "draft"
+ },
+ "g:PER_Costume_GiveSlip": {
+  "pl": "Przekaż to Prof. Slipowi!",
+  "status": "review"
+ },
+ "g:PER_Costume_JacketItem": {
+  "pl": "Labiryntastyczna peleryna",
+  "status": "review"
+ },
+ "g:PER_Costume_MaskItem": {
+  "pl": "Wąsy eskapisty",
+  "status": "draft"
+ },
+ "g:PER_Costume_PuzzlePatch": {
+  "pl": "Zestaw łat z zagadkami",
+  "status": "draft"
+ },
+ "g:PER_Costume_QuestDesc": {
+  "pl": "Prof. Slip czeka w Pracowni kostiumów. Uszyj kostiumy do szkolnej sztuki.",
+  "status": "review"
+ },
+ "g:PER_Costume_QuestName": {
+  "pl": "Strój na miarę",
+  "status": "draft"
+ },
+ "g:PER_Costume_QuestObj1": {
+  "pl": "Wytnij wąsy.",
+  "status": "draft"
+ },
+ "g:PER_Costume_QuestObj2": {
+  "pl": "Zszyj pelerynę.",
+  "status": "draft"
+ },
+ "g:PER_Costume_QuestObj3": {
+  "pl": "Przekaż je Prof. Slipowi w Pracowni kostiumów.",
+  "status": "review"
+ },
+ "g:PER_Costume_Shears": {
+  "pl": "Nożyce krawieckie",
+  "status": "draft"
+ },
+ "g:PER_Costume_WordAnswer": {
+  "pl": "N,I,T,K,A",
+  "status": "review"
+ },
+ "g:PER_DanceStudio": {
+  "pl": "Studio tańca",
+  "status": "draft"
+ },
+ "g:PER_Dance_Cipherston": {
+  "pl": "Szyfrleston",
+  "status": "draft"
+ },
+ "g:PER_Dance_CluepidShuffle": {
+  "pl": "Tropidyn Shuffle",
+  "status": "draft"
+ },
+ "g:PER_Dance_CoachTips": {
+  "pl": "-Zatrzymaj się i posłuchaj.<br>-Pamiętaj o pauzie, a potem baw się wśród kwiatów.<br>-Przewiń szybko wszystkie nudy.<br>-Stop dręczeniu, bądź miły.<br>-Oto przewijanie wstecz, żeby ciężko pracować!",
+  "status": "review"
+ },
+ "g:PER_Dance_CoachTipsTitle": {
+  "pl": "Mądre słowa<br>Coacha Yoacha",
+  "status": "draft"
+ },
+ "g:PER_Dance_EmotesInstructions": {
+  "pl": "Wymachuj rękami w powietrzu, jakby nic cię nie obchodziło, razem z",
+  "status": "review"
+ },
+ "g:PER_Dance_EmotesTitle": {
+  "pl": "Ruszaj w tany!",
+  "status": "draft"
+ },
+ "g:PER_Dance_EscapeVine": {
+  "pl": "Winorośl ucieczki",
+  "status": "draft"
+ },
+ "g:PER_Dance_ExperiencedSteps": {
+  "pl": "1. Szyfrleston<br>2. Krok kłódkowy<br>3. Tropidyn Shuffle<br>4. Winorośl ucieczki",
+  "status": "draft"
+ },
+ "g:PER_Dance_ExperiencedTitle": {
+  "pl": "Każdy <b>doświadczony</b> tancerz zna:",
+  "status": "draft"
+ },
+ "g:PER_Dance_LockboxStep": {
+  "pl": "Krok kłódkowy",
+  "status": "draft"
+ },
+ "g:PER_Dance_QuestDesc": {
+  "pl": "Pokaż Instruktorowi tańca Quanty, że masz elitarne ruchy taneczne.",
+  "status": "draft"
+ },
+ "g:PER_Dance_QuestName": {
+  "pl": "Pop, lock i odblokuj",
+  "status": "review"
+ },
+ "g:PER_Dance_QuestObj1": {
+  "pl": "Porozmawiaj z Quanty w studiu tańca.",
+  "status": "draft"
+ },
+ "g:PER_Dance_QuestObj2": {
+  "pl": "Znajdź „Najlepszy taniec wszech czasów”",
+  "status": "draft"
+ },
+ "g:PER_Dance_QuestObj3": {
+  "pl": "Pokaż Quanty swoje ruchy!",
+  "status": "draft"
+ },
+ "g:PER_Dance_SafeLabel": {
+  "pl": "TYLKO DLA DOŚWIADCZONYCH TANCERZY",
+  "status": "draft"
+ },
+ "g:PER_Dance_StepsFaceMirror": {
+  "pl": "(Twarzą do lustra)",
+  "status": "draft"
+ },
+ "g:PER_Dance_StepsTitle": {
+  "pl": "Kroki taneczne",
+  "status": "draft"
+ },
+ "g:PER_Disguise_QuestObj_0": {
+  "pl": "Porozmawiaj z prof. Slipem w sklepie z kostiumami.",
+  "status": "draft"
+ },
+ "g:PER_DressClue": {
+  "pl": "Te suknie chcą mi coś powiedzieć… ale co?!",
+  "status": "draft"
+ },
+ "g:PER_EC_Accordion_Chalkboard": {
+  "pl": "Arr, moja dotąd najbardziej irytująca melodia:<br>1. Ostatnia nuta mojej najstraszniejszej melodii<br>2. Dwie środkowe nuty mojej najpiękniejszej melodii<br>3. Pierwsza nuta mojej najsmutniejszej melodii",
+  "status": "draft"
+ },
+ "g:PER_EC_Accordion_Objective1": {
+  "pl": "Zagraj najbardziej irytującą melodię na świecie.",
+  "status": "draft"
+ },
+ "g:PER_EC_Accordion_ObjectiveSheetMusic": {
+  "pl": "Znajdź nuty.",
+  "status": "draft"
+ },
+ "g:PER_EC_Accordion_QuestDescription": {
+  "pl": "Skomponuj nową melodię na akordeon, żeby zaimponować znajomym!",
+  "status": "draft"
+ },
+ "g:PER_EC_Accordion_QuestName": {
+  "pl": "Akordeonalnie z planem",
+  "status": "review"
+ },
+ "g:PER_EC_Breakdance_Obj1": {
+  "pl": "Zakręć uczniem!",
+  "status": "draft"
+ },
+ "g:PER_EC_Breakdance_QuestDesc": {
+  "pl": "Pomóż komuś z Wydziału Sztuki wykonać legendarną figurę breakdance.",
+  "status": "draft"
+ },
+ "g:PER_EC_Breakdance_QuestName": {
+  "pl": "Kręci się w głowie",
+  "status": "draft"
+ },
+ "g:PER_EC_Cubes_Label": {
+  "pl": "Cóż za dziwna rzeźba…",
+  "status": "draft"
+ },
+ "g:PER_EC_Cubes_Objective1": {
+  "pl": "Odblokuj rzeźbę z sześcianów",
+  "status": "draft"
+ },
+ "g:PER_EC_Cubes_QuestDescription": {
+  "pl": "Znajdź sposób na odblokowanie tajemniczej rzeźby z sześcianów prof. Slipa.",
+  "status": "draft"
+ },
+ "g:PER_EC_Cubes_QuestName": {
+  "pl": "Wskazówki w kostkach",
+  "status": "draft"
+ },
+ "g:PER_EC_EeLPaintingFixed": {
+  "pl": "Och, świetnie, jest „naprawiony”…",
+  "status": "draft"
+ },
+ "g:PER_EC_EelPaintingLocked": {
+  "pl": "Najlepszy w historii? A może po prostu najwęgorszy?",
+  "status": "draft"
+ },
+ "g:PER_EC_Eel_Objective1": {
+  "pl": "Znajdź różnicę na każdym obrazie.",
+  "status": "draft"
+ },
+ "g:PER_EC_Eel_QuestDescription": {
+  "pl": "Pomóż słynnemu krytykowi sztuki znaleźć wady w portretach Eela.",
+  "status": "draft"
+ },
+ "g:PER_EC_Eel_QuestName": {
+  "pl": "Jeszcze raz, z węgorzem",
+  "status": "review"
+ },
+ "g:PER_EC_ExhibitClosed": {
+  "pl": "Wystawa zamknięta",
+  "status": "draft"
+ },
+ "g:PER_EC_Headspinner_Instructions1": {
+  "pl": "Zacznij od gwiazdy.<br>„Spacer z psem” następuje po „Salsie”, ale przed „Moonwalkiem”.<br>„Robot” następuje po „Biegaczu”.<br>„Salsa” następuje po „Robocie”.",
+  "status": "review"
+ },
+ "g:PER_EC_Headspinner_Title": {
+  "pl": "Głowokręt eskapisty",
+  "status": "draft"
+ },
+ "g:PER_EC_Item_SprayCheese": {
+  "pl": "Ser w sprayu",
+  "status": "draft"
+ },
+ "g:PER_EC_PaintedOn": {
+  "pl": "Ta jest namalowana…",
+  "status": "draft"
+ },
+ "g:PER_EC_Snackdoku_Objective": {
+  "pl": "Daj ser w sprayu Debbie Brie.",
+  "status": "draft"
+ },
+ "g:PER_EC_Snackdoku_Objective0": {
+  "pl": "Kup puszkę sera w sprayu.",
+  "status": "draft"
+ },
+ "g:PER_EC_Snackdoku_QuestDescription": {
+  "pl": "Przynieś koleżance z klasy pyszną puszkę sera w sprayu.",
+  "status": "review"
+ },
+ "g:PER_EC_Snackdoku_QuestName": {
+  "pl": "Powiedz „ser”",
+  "status": "draft"
+ },
+ "g:PER_Enora": {
+  "pl": "Enora",
+  "status": "draft"
+ },
+ "g:PER_FabricTemplate_Answer": {
+  "pl": "S,Z,E,W",
+  "status": "review"
+ },
+ "g:PER_FabricTemplate_FirstLetter": {
+  "pl": "S",
+  "status": "review"
+ },
+ "g:PER_FabricTemplate_FourthLetter": {
+  "pl": "W",
+  "status": "review"
+ },
+ "g:PER_FabricTemplate_SecondLetter": {
+  "pl": "Z",
+  "status": "review"
+ },
+ "g:PER_FabricTemplate_ThirdLetter": {
+  "pl": "E",
+  "status": "review"
+ },
+ "g:PER_GetDressed": {
+  "pl": "Przebierz się!",
+  "status": "draft"
+ },
+ "g:PER_Hint_Cape": {
+  "pl": "Przyjrzyj się uważnie wzorowi labiryntu i dopasuj łaty.",
+  "status": "draft"
+ },
+ "g:PER_Hint_CastA": {
+  "pl": "Zwracaj uwagę zarówno na kwestie, jak i na didaskalia…",
+  "status": "draft"
+ },
+ "g:PER_Hint_CastB": {
+  "pl": "Vincent wykonuje zły ruch! Wrzuć go do odrzuconych.",
+  "status": "draft"
+ },
+ "g:PER_Hint_DanceEmoteA": {
+  "pl": "Stań obok Quanty’ego i zatańcz ten taniec!",
+  "status": "draft"
+ },
+ "g:PER_Hint_DanceEmoteB": {
+  "pl": "Nie pamiętasz, jak się tańczy? Oto powtórka!",
+  "status": "draft"
+ },
+ "g:PER_Hint_DancePosterA": {
+  "pl": "Na tym plakacie ukryto sześć poleceń.",
+  "status": "draft"
+ },
+ "g:PER_Hint_DancePosterB": {
+  "pl": "„Stop”, „Pauza”, „Odtwarzaj”…",
+  "status": "draft"
+ },
+ "g:PER_Hint_DanceStepsA": {
+  "pl": "Zacznij tutaj i zatańcz Szyfreston.",
+  "status": "review"
+ },
+ "g:PER_Hint_DanceStepsB": {
+  "pl": "To prowadzi do „3”. Teraz zatańcz Krok Sejfowy. Przeniesie cię do „2”…",
+  "status": "review"
+ },
+ "g:PER_Hint_DanceStepsC": {
+  "pl": "Zatańcz wszystkie cztery tańce i zapamiętaj, gdzie lądujesz.",
+  "status": "draft"
+ },
+ "g:PER_Hint_Dress": {
+  "pl": "Te suknie można sortować na dwa sposoby: według długości i koloru.",
+  "status": "draft"
+ },
+ "g:PER_Hint_GiveCostume": {
+  "pl": "Daj kostium prof. Slipowi!",
+  "status": "draft"
+ },
+ "g:PER_Hint_Meet": {
+  "pl": "Pani profesor jest na Wydziale Sztuki, na północny wschód od dziedzińca.",
+  "status": "draft"
+ },
+ "g:PER_Hint_Mustache": {
+  "pl": "Wytnij wzdłuż linii przerywanej.",
+  "status": "draft"
+ },
+ "g:PER_Hint_RoleA": {
+  "pl": "Tylko Tyler potrafi leżeć nieruchomo.",
+  "status": "draft"
+ },
+ "g:PER_Hint_RoleB": {
+  "pl": "Obsadź Linka w roli Cheta.",
+  "status": "draft"
+ },
+ "g:PER_Hint_SpoolA": {
+  "pl": "Połącz obie strony każdego wzoru, żeby utworzyć litery.",
+  "status": "draft"
+ },
+ "g:PER_Hint_SpoolB": {
+  "pl": "Pierwsza litera to {@PER_FabricTemplate_Answer[0]}.",
+  "status": "review"
+ },
+ "g:PER_Item_AuditionSides": {
+  "pl": "Teksty na przesłuchanie",
+  "status": "review"
+ },
+ "g:PER_Item_BestDanceDesc": {
+  "pl": "Zatańcz go, by zdobyć serca i umysły.",
+  "status": "draft"
+ },
+ "g:PER_Item_BestDanceInstrux": {
+  "pl": "„Największy taniec w historii”",
+  "status": "draft"
+ },
+ "g:PER_Item_BestDanceSteps": {
+  "pl": "1. Pomachaj!<br>2. Podskocz!<br>3. Klaśnij!<br>4. Podskocz jeszcze raz!<br>5. Klaśnij jeszcze raz!",
+  "status": "draft"
+ },
+ "g:PER_Item_BestDanceSubtitle": {
+  "pl": "Wystarczy, że…",
+  "status": "draft"
+ },
+ "g:PER_Item_CostumeKey": {
+  "pl": "Klucze do kostiumerni",
+  "status": "draft"
+ },
+ "g:PER_Item_DanceInstrux": {
+  "pl": "Schematy kroków tanecznych",
+  "status": "draft"
+ },
+ "g:PER_Item_DanceKey": {
+  "pl": "Klucz do sali tanecznej",
+  "status": "draft"
+ },
+ "g:PER_Item_Headshot_Brenda": {
+  "pl": "Portret Brendy",
+  "status": "draft"
+ },
+ "g:PER_Item_Headshot_Debra": {
+  "pl": "Portret Debry",
+  "status": "draft"
+ },
+ "g:PER_Item_Headshot_Edie": {
+  "pl": "Portret Edie",
+  "status": "draft"
+ },
+ "g:PER_Item_Headshot_Garth": {
+  "pl": "Portret Gartha",
+  "status": "draft"
+ },
+ "g:PER_Item_Headshot_Link": {
+  "pl": "Portret Linka",
+  "status": "draft"
+ },
+ "g:PER_Item_Headshot_Phoebe": {
+  "pl": "Portret Phoebe",
+  "status": "draft"
+ },
+ "g:PER_Item_Headshot_Tyler": {
+  "pl": "Portret Tylera",
+  "status": "draft"
+ },
+ "g:PER_Item_Headshot_Vincent": {
+  "pl": "Portret Vincenta",
+  "status": "draft"
+ },
+ "g:PER_Item_Resume_Debra": {
+  "pl": "CV Debry",
+  "status": "draft"
+ },
+ "g:PER_Item_Resume_Edie": {
+  "pl": "CV Edie",
+  "status": "draft"
+ },
+ "g:PER_Item_Resume_Link": {
+  "pl": "CV Linka",
+  "status": "draft"
+ },
+ "g:PER_Item_Resume_Tyler": {
+  "pl": "CV Tylera",
+  "status": "draft"
+ },
+ "g:PER_Quanty": {
+  "pl": "Instruktor tańca Quanty",
+  "status": "draft"
+ },
+ "g:PER_Start_QuestDesc": {
+  "pl": "Znajdź Prof. Chortkoff na Wydziale Sztuki i rozpocznij swój program artystyczny.",
+  "status": "draft"
+ },
+ "g:PER_Start_QuestName": {
+  "pl": "Mocny st-Art",
+  "status": "draft"
+ },
+ "g:PER_Start_QuestObj1": {
+  "pl": "Porozmawiaj z Prof. Chortkoff.",
+  "status": "draft"
+ },
+ "v:Enora_PER_BegoneActors": {
+  "pl": "Precz, aktorzy!",
+  "status": "draft"
+ },
+ "v:Enora_PER_BetterHaveTheChops": {
+  "pl": "Niech nikt nie wyskakuje z własnymi pomysłami w moim przedstawieniu.",
+  "status": "draft"
+ },
+ "v:Enora_PER_CastMyself": {
+  "pl": "Sama bym się obsadziła, gdyby nie to, że wszyscy zobaczyliby przepaść w talentach.",
+  "status": "draft"
+ },
+ "v:Enora_PER_CastingAPlay": {
+  "pl": "Obsadzanie sztuki jest jak układanka. Gdyby tylko elementy nie miały ego i nie pyskowały...",
+  "status": "draft"
+ },
+ "v:Enora_PER_EscapistsForMolding": {
+  "pl": "Wspaniale! Kolejni eskapiści do ukształtowania.",
+  "status": "draft"
+ },
+ "v:Enora_PER_SingleSyllableOff": {
+  "pl": "Jeśli choć jedna sylaba będzie nie tak – nie chcę tego!",
+  "status": "draft"
+ },
+ "v:PER_Accordion_AccordionPlan": {
+  "pl": "Wszystko idzie akord w akord z planem.",
+  "status": "draft"
+ },
+ "v:PER_Accordion_Aye": {
+  "pl": "Ahoj.",
+  "status": "draft"
+ },
+ "v:PER_Accordion_TwoLoves": {
+  "pl": "Mam tylko dwie miłości. Morze i tonację C-dur.",
+  "status": "review"
+ },
+ "v:PER_BreakDance_OhPuzz": {
+  "pl": "O rany puzzle! On to robi!",
+  "status": "draft"
+ },
+ "v:PER_BreakDance_SpinninOut": {
+  "pl": "Kręci mi się w głowie, stary!",
+  "status": "draft"
+ },
+ "v:PER_Cheese_LoveCheese": {
+  "pl": "Uwielbiam ser w sprayu.",
+  "status": "draft"
+ },
+ "v:PER_Cheese_TakeCheesy": {
+  "pl": "Bez spiny, na serowo.",
+  "status": "draft"
+ },
+ "v:PER_Cubes_Cubism": {
+  "pl": "Nadal nie widzę sensu kubizmu. Same kanty.",
+  "status": "draft"
+ },
+ "v:PER_EelExhi_Alive": {
+  "pl": "Coś mi mówi, że Eel wciąż tam jest. Prawie czuję... Eela.",
+  "status": "review"
+ },
+ "v:PER_EelExhi_RealDeal": {
+  "pl": "Eel to ideał.",
+  "status": "draft"
+ },
+ "v:PER_EelExhi_WannaHear": {
+  "pl": "Chcesz posłuchać mojej gadki o Eelu?",
+  "status": "draft"
+ },
+ "v:QTY_PER_BodyDance": {
+  "pl": "Gdyby to ciało umiało tańczyć, i tak bym nie tańczył.",
+  "status": "draft"
+ },
+ "v:QTY_PER_CantFeel": {
+  "pl": "Poczuj rytm! Ja nie mogę.",
+  "status": "draft"
+ },
+ "v:QTY_PER_ListenToMusic": {
+  "pl": "Nie jestem pewien, czy tak się słucha muzyki.",
+  "status": "draft"
+ },
+ "v:QTY_PER_ObservingGroove": {
+  "pl": "Nie zauważam zbyt wiele ruchu ani bujania się.",
+  "status": "draft"
+ },
+ "v:QTY_PER_SafetyDance": {
+  "pl": "Nie, nie będziemy tańczyć Safety Dance.",
+  "status": "review"
+ },
+ "v:QTY_PER_TapingSomeTime": {
+  "pl": "To trwa jak przewijanie kasety.",
+  "status": "review"
+ },
+ "v:Slip_PER_ActorsNines": {
+  "pl": "Ci aktorzy będą wystrojeni jak spod igły.",
+  "status": "draft"
+ },
+ "v:Slip_PER_Capable": {
+  "pl": "Wiedziałem, że masz talent do peleryn.",
+  "status": "review"
+ },
+ "v:Slip_PER_MeasureUp": {
+  "pl": "Wiem, że sprostasz miarom tego zadania.",
+  "status": "review"
+ },
+ "v:Slip_PER_RockThose": {
+  "pl": "Myślisz, że pasowałby do mnie taki wąs?",
+  "status": "draft"
+ },
+ "v:Slip_PER_SewThis": {
+  "pl": "Spokojnie, to nić trudnego!",
+  "status": "review"
+ },
+ "v:Slip_PER_VerySpool": {
+  "pl": "Bardzo szpulowo.",
+  "status": "review"
+ },
+ "v:Slip_PER_WontCutIt": {
+  "pl": "Dla Enory byle jak nie wystarczy. Tu nie ma co ciąć na skróty.",
+  "status": "draft"
+ },
+ "v:row893": {
+  "pl": "♪ Akord akordeonu ♪",
+  "status": "draft"
+ },
+ "v:row894": {
+  "pl": "♪ Fałszywy akord akordeonu ♪",
+  "status": "draft"
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "n:line:00054f9": {
+  "pl": "Jeśli chcemy zejść głębiej do kopalni, musimy wymyślić, jak <style=\"clue\">uruchomić tę windę</style>…",
+  "status": "draft"
+ },
+ "n:line:004b924": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:006a510": {
+  "pl": "Proszę! Wygląda na skomplikowane… <style=\"purchase\">(Daj nuty)</style>",
+  "status": "draft"
+ },
+ "n:line:01846f3": {
+  "pl": "Założyciele, wszyscy nasi dyrektorzy i połowa nazwisk z Pomnika Ucieczki!",
+  "status": "draft"
+ },
+ "n:line:01e69fa": {
+  "pl": "A wygląda na to, że to była też ostatnia rzecz do przygotowania!",
+  "status": "draft"
+ },
+ "n:line:01ff34c": {
+  "pl": "Lepiej ruszę do <style=\"clue\">ogrodów kampusu</style> i pomogę profesor Chortkoff ustawić scenę.",
+  "status": "draft"
+ },
+ "n:line:021b46a": {
+  "pl": "Uff, ale to był semestr! Nie byłem pewien, jak mi pójdzie pierwszy rok w roli profesora, ale dzięki tobie…",
+  "status": "draft"
+ },
+ "n:line:025285e": {
+  "pl": "No właśnie… Dobrze, że to nie ja mam to grać!",
+  "status": "draft"
+ },
+ "n:line:028eeee": {
+  "pl": "Chodźmy <style=\"clue\">spotkać się z profesor Chortkoff w ogrodach kampusu</style>.",
+  "status": "draft"
+ },
+ "n:line:0294148": {
+  "pl": "Weź się w garść, Jeb, wszyscy na ciebie patrzą!",
+  "status": "draft"
+ },
+ "n:line:02c0af6": {
+  "pl": "Do zobaczenia tam, kiedy <style=\"clue\">uporasz się z resztą swoich zadań</style>!",
+  "status": "draft"
+ },
+ "n:line:02c1567": {
+  "pl": "Szybko, idź za dyrektorką <style=\"clue\">przez właz</style>! Nie ma czasu do stracenia.",
+  "status": "draft"
+ },
+ "n:line:02d7017": {
+  "pl": "Cześć! Wyciągnąłem z archiwum tę szkatułkę-zagadkę, ale dała mi nieźle popalić przy otwieraniu.",
+  "status": "draft"
+ },
+ "n:line:0352961": {
+  "pl": "Uff, żyjesz!",
+  "status": "draft"
+ },
+ "n:line:03c2a07": {
+  "pl": "Mam pewne podejrzenia, ale nie zepsuję zabawy!",
+  "status": "draft"
+ },
+ "n:line:03d77f5": {
+  "pl": "Spokojnie, ja sam w połowie przypadków nie odróżniam nut od notatek z wykładu!",
+  "status": "draft"
+ },
+ "n:line:0403437": {
+  "pl": "Powinniśmy byli trzymać stawonogi z dala od artefaktów...",
+  "status": "draft"
+ },
+ "n:line:042d121": {
+  "pl": "Pospiesz się!",
+  "status": "draft"
+ },
+ "n:line:04b98ec": {
+  "pl": "Więc nie zwlekaj za długo…",
+  "status": "draft"
+ },
+ "n:line:04d9b03": {
+  "pl": "Na wszystkie zagadki, to musi być to… <style=\"clue\">Krypta Reiny Wym…</style>",
+  "status": "draft"
+ },
+ "n:line:04e1978": {
+  "pl": "No wiem. Ja, historyk Akademii! Szczerze mówiąc, trochę mnie to przytłacza…",
+  "status": "draft"
+ },
+ "n:line:04e2212": {
+  "pl": "Schodźmy <style=\"clue\">do tych tuneli!</style>",
+  "status": "draft"
+ },
+ "n:line:04e22d1": {
+  "pl": "Dyrektorka Solange przesadziła z gazem pamięci… Kim pan jest?",
+  "status": "draft"
+ },
+ "n:line:0538eac": {
+  "pl": "Ja będę trzymać łódź do ucieczek na chodzie, a ty współpracuj z dyrektorką Solange, żeby <style=\"clue\">znaleźć drogę do tej maszyny</style>.",
+  "status": "draft"
+ },
+ "n:line:0543382": {
+  "pl": "A co, jeśli mam kartkę, której nie umiem odczytać?",
+  "status": "draft"
+ },
+ "n:line:0547e58": {
+  "pl": "Rety, udało ci się ją naprawić! <style=\"clue\">Zjedźmy szybem windy w dół</style> i ruszajmy dalej!",
+  "status": "draft"
+ },
+ "n:line:056be9c": {
+  "pl": "Cześć! Widzę, że w wieży już się całkiem odnajdujesz.",
+  "status": "draft"
+ },
+ "n:line:05768d8": {
+  "pl": "Nie martw się o mnie, tu na zewnątrz… jakoś dam radę. Zupełnie sam… na tej strasznej małej wyspie…",
+  "status": "draft"
+ },
+ "n:line:05984a6": {
+  "pl": "<style=\"clue\">Drzwi na końcu tego tunelu są zamknięte</style>! Znajdźmy sposób, żeby je otworzyć!",
+  "status": "draft"
+ },
+ "n:line:05fb314": {
+  "pl": "Sprowadźmy te dzieciaki do domu!",
+  "status": "draft"
+ },
+ "n:line:061ffa4": {
+  "pl": "Powiem tylko tyle: szykuj się na zbliżenie, reflektory już czekają!",
+  "status": "draft"
+ },
+ "n:line:0631503": {
+  "pl": "Ojej, już od samego patrzenia na scenę robią mi się mokre oczy, jak zacznie się muzyka, to się rozkleję!",
+  "status": "draft"
+ },
+ "n:line:064094b": {
+  "pl": "Koniec końców wszystko dobrze się skończyło. Na dodatek zrobiliśmy razem <i>prawdziwe</i> wykopaliska archeologiczne! Nie wspominając o uratowaniu sytuacji.",
+  "status": "draft"
+ },
+ "n:line:0651014": {
+  "pl": "Będę próbować dalej…",
+  "status": "draft"
+ },
+ "n:line:0660142": {
+  "pl": "Zacięło się? Może pomogę… a może nie!",
+  "status": "draft"
+ },
+ "n:line:0689d7c": {
+  "pl": "Nie mam pojęcia o muzyce!",
+  "status": "draft"
+ },
+ "n:line:0709479": {
+  "pl": "Wiem, że jest tu gorąco jak diabli, ale zachowajmy zimną krew i nie wskakujmy więcej do magmy!",
+  "status": "draft"
+ },
+ "n:line:07327a5": {
+  "pl": "Chyba trzeba użyć <style=\"clue\">sprzętu z Centrum Szyfrów</style>, a, no… <style=\"clue\">brakuje nam paru techników laboratoryjnych</style>.",
+  "status": "draft"
+ },
+ "n:line:07697f9": {
+  "pl": "Wiem, że to duże buty do wypełnienia, ale z Solange za plecami i świetnym rocznikiem uczniów chyba się uda!",
+  "status": "draft"
+ },
+ "n:line:07d78e7": {
+  "pl": "Naprawdę musisz uważać na te Królewskie Zagadkobry!",
+  "status": "review"
+ },
+ "n:line:07e10c2": {
+  "pl": "Wszystko było takie… tak… idealne. Ojej, znowu zaczynam! *Pociągnięcie nosem*",
+  "status": "draft"
+ },
+ "n:line:07ec7bf": {
+  "pl": "Założę się, że zabrzmi to pięknie, kiedy grupa zapalonych eskapistów zagra to z całego serca…",
+  "status": "draft"
+ },
+ "n:line:083c0ba": {
+  "pl": "Rozwiązane jak złoto! Szybko, z powrotem do wagonika.",
+  "status": "draft"
+ },
+ "n:line:0853dbd": {
+  "pl": "Hmm… Wiesz, Fernando <i>słynął</i> z trudnych szyfrów… więc dobrze, że <style=\"clue\">wyposażenie Centrum Szyfrów</style> jest najnowocześniejsze!",
+  "status": "draft"
+ },
+ "n:line:08a798a": {
+  "pl": "Założę się, że zabrzmi to pięknie, kiedy grupa zapalonych eskapistów zagra to z całego serca…",
+  "status": "draft"
+ },
+ "n:line:08b4cd4": {
+  "pl": "Wie pan, czemu Solange chce się ze mną spotkać na dachu?",
+  "status": "draft"
+ },
+ "n:line:09052b3": {
+  "pl": "Musimy powstrzymać to cacko przed samozniszczeniem!",
+  "status": "draft"
+ },
+ "n:line:094d77e": {
+  "pl": "Ale żeby ci pomóc na start: jestem <style=\"clue\">Profesor Jeb Jeberson</style>! Świeżo po robocie dozorcy, a teraz twój nowiutki historyk Akademii.",
+  "status": "draft"
+ },
+ "n:line:098592b": {
+  "pl": "Lepiej się nie ociągajmy i znajdźmy tę kryptę. Możemy iść?",
+  "status": "draft"
+ },
+ "n:line:09a7af2": {
+  "pl": "Potrzebuję jeszcze chwili…",
+  "status": "review"
+ },
+ "n:line:0a27432": {
+  "pl": "Wskoczysz na zastępstwo?",
+  "status": "draft"
+ },
+ "n:line:0a336ad": {
+  "pl": "A czekaj chwilę, gdzie twój partner? Przydałaby mi się pomoc <style=\"clue\">was obojga</style> na dole w Archiwum Artefaktów.",
+  "status": "review"
+ },
+ "n:line:0a362bb": {
+  "pl": "Ooo, <i>profesor?!</i> Ktoś tu dostał awans!",
+  "status": "draft"
+ },
+ "n:line:0a558da": {
+  "pl": "Jest w tych <style=\"clue\">rozbitych skrzyniach</style> coś, co pomoże nam dostać się do krypty?",
+  "status": "review"
+ },
+ "n:line:0a6ba60": {
+  "pl": "W środku jest aranżacja muzyczna skomponowana przez Fernando Augustína, która, jestem pewien, <i>spodobałaby się</i> Von Belliniemu, ale…",
+  "status": "review"
+ },
+ "n:line:0a6d177": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0a836e9": {
+  "pl": "Wypróbuj <style=\"clue\">Deszyfromat</style> albo <style=\"clue\">Ujawniatron</style>!",
+  "status": "draft"
+ },
+ "n:line:0acd364": {
+  "pl": "Idź i *uff* <style=clue\">zanieś ten list Solange</style>, ja będę zaraz *uff* za tobą!",
+  "status": "review"
+ },
+ "n:line:0b2c68b": {
+  "pl": "Oj, nie tylko tobie namieszała w głowie w tym roku.",
+  "status": "draft"
+ },
+ "n:line:0b4ef70": {
+  "pl": "Och, zawsze czytałem, że założyciele zbudowali przeróżne tunele ucieczkowe prowadzące z wieży, na wypadek gdybyśmy kiedyś musieli się ewakuować.",
+  "status": "draft"
+ },
+ "n:line:0b6138d": {
+  "pl": "Uff, ale tu gorąco jak w piecu! <style=\"clue\">Przetransportujmy mnie i ten wagonik przez rzekę lawy</style>, zanim przepocę kolejny garnitur.",
+  "status": "draft"
+ },
+ "n:line:0b6c13c": {
+  "pl": "O, cześć! Dzięki tobie muzeum okazało się wielkim hitem. Nigdy nie widziałem uczniów tak nakręconych na historię.",
+  "status": "draft"
+ },
+ "n:line:0b7db46": {
+  "pl": "Na razie wolę je zatrzymać…",
+  "status": "draft"
+ },
+ "n:line:0b806ea": {
+  "pl": "Chodźmy zbezcześcić… eee, odkryć kryptę! <style=\"story\">(Dalej w fabule)</style>",
+  "status": "draft"
+ },
+ "n:line:0bbfb2f": {
+  "pl": "Jak będę miał <i>naprawdę</i> szczęście, to na emeryturę odpłynę tak samo jak Profesor Von Bellini!",
+  "status": "draft"
+ },
+ "n:line:0bc0eaf": {
+  "pl": "Mam nadzieję, że te tory prowadzą w jakieś chłodniejsze miejsce! <style=\"clue\">Wskakuj z powrotem i przekonamy się</style>!",
+  "status": "draft"
+ },
+ "n:line:0c0113a": {
+  "pl": "Chodź, <style=clue\">wskakujemy do wagonika</style> i szukamy krypty Reiny!",
+  "status": "review"
+ },
+ "n:line:0c511a5": {
+  "pl": "Ciekawe, co czeka mnie w drugim roku w roli profesora…",
+  "status": "draft"
+ },
+ "n:line:0c90bc1": {
+  "pl": "Akurat pilnowałem, żeby te zabytkowe artefakty były dobrze zabezpieczone. Wszystko w ramach moich nowych obowiązków profesora!",
+  "status": "draft"
+ },
+ "n:line:0c98e45": {
+  "pl": "Jesteś z powrotem! Nie wiem, co może być ważniejsze od zadania, które mamy przed sobą, ale… musimy znaleźć tę kryptę!",
+  "status": "draft"
+ },
+ "n:line:0ca619f": {
+  "pl": "I słusznie! Bez tej trójki nie byłoby Akademii ani świata ucieczek, jaki znamy.",
+  "status": "draft"
+ },
+ "n:line:0cd84ac": {
+  "pl": "Należy ci się z nawiązką to, co szykuje dla ciebie Solange… i odpoczynek!",
+  "status": "draft"
+ },
+ "n:line:0d18d26": {
+  "pl": "Ale na nasze szczęście 200 lat temu ich drogi się skrzyżowały i zbudowali to wspaniałe miejsce, cegła po cegle.",
+  "status": "draft"
+ },
+ "n:line:0d38d2d": {
+  "pl": "Rany, nie wierzę, że zobaczę, jak Czerwony Śledź wypływa w rejs! Wszystkie legendy stawały u jej steru…",
+  "status": "review"
+ },
+ "n:line:0d4f113": {
+  "pl": "Proszę, nie każ mi znowu wyławiać cię z wody...",
+  "status": "draft"
+ },
+ "n:line:0d7388e": {
+  "pl": "Na wszystkie zagadki, co ty wyprawiasz? Nie możesz teraz przepaść w zatoce, uczniowie nas potrzebują.",
+  "status": "draft"
+ },
+ "n:line:0de1748": {
+  "pl": "Zejść do jednego z nich samemu to… Och, co ja tak gadam i gadam.",
+  "status": "draft"
+ },
+ "n:line:0e2c1b9": {
+  "pl": "Szczerze mówiąc, prowadzenie muzeum to kupa roboty... Nie mogę się doczekać krótkiej przerwy, żeby zobaczyć <style=\"clue\">nową sztukę profesor Chortkoff</style>.",
+  "status": "draft"
+ },
+ "n:line:0e6d3f9": {
+  "pl": "Co za historia ma to miejsce, nie? Aż je człowiek czuje, jakby żyło…",
+  "status": "draft"
+ },
+ "n:line:0eae65d": {
+  "pl": "Ci założyciele to chyba ktoś ważny…",
+  "status": "draft"
+ },
+ "n:line:0ed6bf8": {
+  "pl": "Jasne! Obowiązuje gwarancja „Kto rozwiąże, ten zatrzyma”! Ale, ee… bez nich nie ma występu.",
+  "status": "draft"
+ },
+ "n:line:0ed9e4b": {
+  "pl": "O, kogo ja widzę! Mój ulubi… eee… największa gwiazda zeszłego roku!",
+  "status": "draft"
+ },
+ "n:line:0f1035e": {
+  "pl": "Mój Boże, ten rok to była istna kolejka górska! Ale wiesz… sam nie wiem, czego innego mogłem się spodziewać po pierwszym roku nauczania w Akademii…",
+  "status": "draft"
+ },
+ "n:line:0f15357": {
+  "pl": "O, hej! Udało ci się ją otworzyć! Były w środku nuty?",
+  "status": "draft"
+ },
+ "n:line:0f1f7d2": {
+  "pl": "Ojej, a wszyscy czekają na górze na wielkie odsłonięcie…",
+  "status": "draft"
+ },
+ "n:line:0f3e40c": {
+  "pl": "Wiola! Tylko popatrz na to…",
+  "status": "review"
+ },
+ "n:line:0f891d0": {
+  "pl": "Solange ma miejsca stojące w strefie plucia!",
+  "status": "review"
+ },
+ "n:line:0fafdc8": {
+  "pl": "Radzę <style=\"clue\">mieć oczy szeroko otwarte</style> przy tej szkatułce z zagadką… Fernando na pewno zostawił dość wskazówek, żeby ją rozgryźć…",
+  "status": "draft"
+ },
+ "n:line:0ff1a34": {
+  "pl": "Musi tu być coś, co pomoże nam przemówić Alistairowi do rozumu!",
+  "status": "review"
+ },
+ "n:line:0ffb528": {
+  "pl": "No właśnie… Dobrze, że to nie ja mam to grać!",
+  "status": "draft"
+ }
+}

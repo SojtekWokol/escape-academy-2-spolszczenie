@@ -1,0 +1,850 @@
+{
+ "n:line:0025ab0": {
+  "pl": "Och, cześć! Udało ci się mnie znaleźć... Lubię te mniej uczęszczane zakątki kampusu.",
+  "status": "draft"
+ },
+ "n:line:002b17c": {
+  "pl": "Z zagadkami dam sobie radę. Ale robić to przed tłumem? Nie, dziękuję.",
+  "status": "draft"
+ },
+ "n:line:0036fa7": {
+  "pl": "Nie jestem pewna, czy kupuję teorię Reeda o potworze z Loch Kłódkness, ale uczniowie <i>faktycznie</i> zaczynają gadać.",
+  "status": "draft"
+ },
+ "n:line:0043741": {
+  "pl": "Dziwny wypadek łodzi Von Belliniego i dyrektorka, która w ogóle nie jest taka jak rok temu...",
+  "status": "draft"
+ },
+ "n:line:007a186": {
+  "pl": "No cóż... Wy wszyscy staneliście na wysokości zadania i zrobiliście, co trzeba dla Akademii, więc... teraz moja kolej.",
+  "status": "draft"
+ },
+ "n:line:00c7c0d": {
+  "pl": "Ja tam staram się po prostu przetrwać ten i tak już dość ekscytujący drugi rok.",
+  "status": "draft"
+ },
+ "n:line:00d2bad": {
+  "pl": "Cud, że tak długo wytrzymał z Solange jako dyrektorką...",
+  "status": "draft"
+ },
+ "n:line:00df6e3": {
+  "pl": "Ja... nie wiem. Ale ona oddała Akademii wszystko. Pomyśleć, że mogłaby działać przeciwko jej uczniom...",
+  "status": "draft"
+ },
+ "n:line:00e0291": {
+  "pl": "Mimo że profesor Von Bellini uczył kilku wątpliwych rzeczy, muszę szanować to, że poświęcił całe życie Akademii.",
+  "status": "draft"
+ },
+ "n:line:00ec5dc": {
+  "pl": "Doceniam próbę podniesienia mnie na duchu, ale aktorstwo to po prostu nie moja bajka...",
+  "status": "draft"
+ },
+ "n:line:00ee12c": {
+  "pl": "Może masz rację. Ale razem jesteśmy silniejsi. Reed musi to w końcu zrozumieć...",
+  "status": "draft"
+ },
+ "n:line:00f2d8a": {
+  "pl": "No i dobrze. Miłego siedzenia w naszym pokoju przez cały rok!",
+  "status": "draft"
+ },
+ "n:line:0106494": {
+  "pl": "Ani przez chwilę w to nie wierzę. Chce nas chronić, sama to powiedziała!",
+  "status": "draft"
+ },
+ "n:line:0111980": {
+  "pl": "To nie wróży nic dobrego...",
+  "status": "draft"
+ },
+ "n:line:0123583": {
+  "pl": "Ostro!",
+  "status": "draft"
+ },
+ "n:line:0124c67": {
+  "pl": "Po prostu... zbieram odwagę, żeby stanąć twarzą w twarz z resztą uczniów.",
+  "status": "draft"
+ },
+ "n:line:0129a4d": {
+  "pl": "Dyrektorka Solange <i>faktycznie</i> wyglądała na mocno spiętą po eksperymencie...",
+  "status": "draft"
+ },
+ "n:line:013eec7": {
+  "pl": "To mało powiedziane...",
+  "status": "draft"
+ },
+ "n:line:0149c57": {
+  "pl": "Sorki, nie ma czasu na gadanie, trzeba ratować świat!",
+  "status": "draft"
+ },
+ "n:line:0165919": {
+  "pl": "Gorąco mi wcale nie przeszkadza, dobra? Po prostu mam złe przeczucia co do tego, co się zaraz stanie...",
+  "status": "draft"
+ },
+ "n:line:0198ce9": {
+  "pl": "Może trochę mniej wciskania wszystkim w twarz swojej wielkości..? To może podcinać skrzydła. Niektórym uczniom. Nie mnie, oczywiście...",
+  "status": "draft"
+ },
+ "n:line:01a4f28": {
+  "pl": "Reed i ja mamy wszystko pod kontrolą, jeśli znowu chcesz stchórzyć.",
+  "status": "draft"
+ },
+ "n:line:01bd8f8": {
+  "pl": "No tak, ważniejsze sprawy na głowie.",
+  "status": "draft"
+ },
+ "n:line:01c2b60": {
+  "pl": "Cisza, spokój, tajemnice. Rozumiem!",
+  "status": "draft"
+ },
+ "n:line:01d3dda": {
+  "pl": "Potrzebuję przerwy...",
+  "status": "draft"
+ },
+ "n:line:01d5ed7": {
+  "pl": "Brakuje nam jednego szalonego, ale wybitnego profesora... Wygląda na to, że naprawdę zbiera się na burzę...",
+  "status": "draft"
+ },
+ "n:line:01ea7dd": {
+  "pl": "Znasz zasady. Daj znać, kiedy wszystko będzie gotowe, a <style=\"clue\">wrócimy tu dziś wieczorem.</style>",
+  "status": "draft"
+ },
+ "n:line:01f0599": {
+  "pl": "Jak myślisz, co się stało z Von Bellinim?",
+  "status": "draft"
+ },
+ "n:line:020cd19": {
+  "pl": "Jestem pewna, że dyrektorka ma bardzo dobry powód, żeby je zatrzymać...",
+  "status": "draft"
+ },
+ "n:line:0215135": {
+  "pl": "Nie, to <i>ty</i> się ukryj. Ja dam się złapać.",
+  "status": "draft"
+ },
+ "n:line:021c960": {
+  "pl": "Dzięki za pomoc z moją celą, ale... nadal jestem na was wściekła!",
+  "status": "draft"
+ },
+ "n:line:0262103": {
+  "pl": "Tak, nic tego nie zapowiadało!",
+  "status": "draft"
+ },
+ "n:line:0265e7a": {
+  "pl": "Dużo bardziej lubię tę klatkę schodową, kiedy nie ma w niej tylu ludzi.",
+  "status": "draft"
+ },
+ "n:line:026e2ba": {
+  "pl": "Chyba zaczynasz nas lubić!",
+  "status": "draft"
+ },
+ "n:line:028579a": {
+  "pl": "Mam nadzieję, że w tym roku dyrektorka Solange wreszcie mnie zauważy! Przez cały zeszły rok miała oczy tylko dla swojej gwiazdy roku...",
+  "status": "draft"
+ },
+ "n:line:0288c51": {
+  "pl": "Pomyślę o tym.",
+  "status": "draft"
+ },
+ "n:line:02b7ff4": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:02ba702": {
+  "pl": "Dlatego musimy dotrzeć do sedna tego spisku!",
+  "status": "draft"
+ },
+ "n:line:02bbd7f": {
+  "pl": "Co mogłoby być ważniejsze niż prowadzenie Akademii przez taką stratę?",
+  "status": "draft"
+ },
+ "n:line:02e1e11": {
+  "pl": "Świetnie, teraz <style=\"clue\">nie możemy ufać żadnym drzwiom</style>. Kiepski początek dedukowania prawdy.",
+  "status": "draft"
+ },
+ "n:line:03018ab": {
+  "pl": "To wszystko nie może być zbiegiem okoliczności...",
+  "status": "draft"
+ },
+ "n:line:0317723": {
+  "pl": "Zrozumiałe, biorąc pod uwagę nasze dotychczasowe spotkania, ale...",
+  "status": "draft"
+ },
+ "n:line:032ab78": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:0334ad8": {
+  "pl": "To, że pomagam, nie znaczy, że to popieram.",
+  "status": "draft"
+ },
+ "n:line:033b119": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:034803d": {
+  "pl": "Hmm. Zauważ, że dyrektorka trzyma się z dala od całego zamieszania wokół uroczystości żałobnej.",
+  "status": "draft"
+ },
+ "n:line:035a3ba": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:0362e93": {
+  "pl": "Cieszę się, że w tym roku biologię uczy profesor Bonilla. Boję się myśleć, jak wyglądałby plan lekcji profesora Von Belliniego...",
+  "status": "draft"
+ },
+ "n:line:03a82ae": {
+  "pl": "Nie mogę uwierzyć, że siedzę teraz w kanałach...",
+  "status": "draft"
+ },
+ "n:line:03b452b": {
+  "pl": "Może nie ze wszystkimi jestem blisko, ale to wciąż moi koledzy eskapiści. Zasługują na to, żeby <i>ktoś</i> się o nich troszczył.",
+  "status": "draft"
+ },
+ "n:line:03cc8f0": {
+  "pl": "Jest w twojej celi coś, co mogłoby w tym pomóc?",
+  "status": "draft"
+ },
+ "n:line:03d4dea": {
+  "pl": "Świetnie. Jest jeszcze trochę światła dziennego, rób, co masz do zrobienia.",
+  "status": "review"
+ },
+ "n:line:03f96d3": {
+  "pl": "O rety... jeśli Reeda tu nie ma, to gdzie może być...?",
+  "status": "draft"
+ },
+ "n:line:040702c": {
+  "pl": "Głowa do góry! Opanowanie ucieczek to coś znacznie większego niż twoje kompleksy...",
+  "status": "draft"
+ },
+ "n:line:041a84d": {
+  "pl": "Wciąż próbuję to wszystko jakoś poukładać.",
+  "status": "draft"
+ },
+ "n:line:0423883": {
+  "pl": "Dobra. Obiecuję... <style=\"story\">(Kontynuuj historię)</style>",
+  "status": "draft"
+ },
+ "n:line:0428e8c": {
+  "pl": "Chyba dobrze to widzisz...",
+  "status": "draft"
+ },
+ "n:line:045b889": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:046288a": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:048d6c9": {
+  "pl": "Spokojnie, możesz nam zazdrościć tego super śledztwa.",
+  "status": "draft"
+ },
+ "n:line:048e3be": {
+  "pl": "W przyszłym roku, jak znów zamieszkamy razem, też możesz na mnie liczyć!",
+  "status": "draft"
+ },
+ "n:line:04a509b": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:04b764b": {
+  "pl": "Totalnie błędnie oceniasz tę sytuację.",
+  "status": "draft"
+ },
+ "n:line:04e2239": {
+  "pl": "Dwie sekundy temu wyszliśmy z lochów pełnych gazu wymazującego pamięć, a już <style=\"clue\">Gillian pędzi na dziedziniec</style>, a <style=\"clue\">Reed wbiega do holu</style>, żeby dalej węszyć.",
+  "status": "draft"
+ },
+ "n:line:05509e8": {
+  "pl": "Dobrze wiedzieć, że nie jestem w tym sama.",
+  "status": "draft"
+ },
+ "n:line:0551140": {
+  "pl": "Czy zwyczajny rok ze zwyczajnymi współlokatorami i szczyptą rozwoju osobistego to było za wiele?",
+  "status": "draft"
+ },
+ "n:line:056b66b": {
+  "pl": "Nauka tańca od myślącego monitora CRT jakoś wydaje się chyba gorsza niż udział w sztuce Chortkoff...",
+  "status": "draft"
+ },
+ "n:line:056ed2a": {
+  "pl": "Przychodzi mi do głowy milion wyjaśnień i jestem pewna, że żadne nie jest tak szalone jak prawdziwe.",
+  "status": "draft"
+ },
+ "n:line:0575502": {
+  "pl": "To on... <i><style=\"clue\">Alistair</style>!</i>",
+  "status": "draft"
+ },
+ "n:line:058f219": {
+  "pl": "Mam nadzieję, że dyrektorka Solange wie, co robi, pozwalając Quanty wrócić do jego laboratorium...",
+  "status": "review"
+ },
+ "n:line:059c513": {
+  "pl": "Ja w pełni wierzę w teorię o potworze z Loch Kłódkness.",
+  "status": "draft"
+ },
+ "n:line:05a7cec": {
+  "pl": "Przecież tak zrobiliście w ostatniej takiej komnacie, prawda?",
+  "status": "draft"
+ },
+ "n:line:05e4c9f": {
+  "pl": "Wciąż nie wiem, czy jej ufać, ale możliwe, że zmierzamy do tego samego celu.",
+  "status": "draft"
+ },
+ "n:line:05f832e": {
+  "pl": "Czekaj, stój! Widzę kogoś--",
+  "status": "draft"
+ },
+ "n:line:0606dff": {
+  "pl": "Jestem tu, prawda? Po prostu... coraz bardziej jestem pewna, że to może być <i>naprawdę</i> niebezpieczne.",
+  "status": "draft"
+ },
+ "n:line:06081d0": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:0628b9f": {
+  "pl": "Nie pozwolę ci tam iść i dać się złapać!",
+  "status": "draft"
+ },
+ "n:line:064fac4": {
+  "pl": "Od teraz musimy działać rozsądnie. Tu już <i>dawno</i> nie chodzi o zwykłe kłopoty...",
+  "status": "draft"
+ },
+ "n:line:0670267": {
+  "pl": "Przynajmniej mogę dopilnować, żeby nic wam nie groziło, dopóki to wszystko nie wyjdzie na jaw.",
+  "status": "draft"
+ },
+ "n:line:06798b0": {
+  "pl": "Może coś z moich umiejętności się do ciebie przyklei, jeśli dopisze ci szczęście.",
+  "status": "review"
+ },
+ "n:line:0697a02": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:06a17d6": {
+  "pl": "Wystarczy tylko rozgryźć <style=\"clue\">historię na cokole</style>, zanim zamkną nas tu na zawsze. Ł-- łatwizna!",
+  "status": "draft"
+ },
+ "n:line:06a6166": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:06baeb2": {
+  "pl": "Jeśli ona <i>jest</i> po naszej stronie, to dlaczego próbowała wymazać nam pamięć?",
+  "status": "draft"
+ },
+ "n:line:06f0d70": {
+  "pl": "Nie... ty też nie?",
+  "status": "draft"
+ },
+ "n:line:0721525": {
+  "pl": "Och... nie musicie na mnie czekać. Do zobaczenia na miejscu!",
+  "status": "draft"
+ },
+ "n:line:0724563": {
+  "pl": "Nie! Jesteś pierwszą osobą, która się tu o mnie zatroszczyła i... teraz moja kolej, żeby się odwdzięczyć.",
+  "status": "draft"
+ },
+ "n:line:0726caa": {
+  "pl": "Chyba tak... Tylko ze znacznie mniejszą klasą. Ale mieszkanie z najlepszymi <i>może</i> pomóc.",
+  "status": "draft"
+ },
+ "n:line:073bc23": {
+  "pl": "Jedni uwielbiają „akcję”, a dla innych to koszmar...",
+  "status": "draft"
+ },
+ "n:line:0755025": {
+  "pl": "Ktoś tu nagle czuje się jak prawdziwy detektyw!",
+  "status": "draft"
+ },
+ "n:line:075de35": {
+  "pl": "Obiecaj mi tylko, że jak to wszystko się skończy, nie rzucimy się od razu w kolejne śledztwo na pierwszy <i>zapach</i> tajemnicy, dobrze?",
+  "status": "draft"
+ },
+ "n:line:076e4df": {
+  "pl": "Wracajmy do pokoju w akademiku i pilnujmy sobie nawzajem pleców.",
+  "status": "draft"
+ },
+ "n:line:0776cb8": {
+  "pl": "Nie sposób zrozumieć, o co tu w ogóle chodzi.",
+  "status": "draft"
+ },
+ "n:line:077ce00": {
+  "pl": "Kiedy Solange znowu was przyłapie? Mojego nazwiska w to nie mieszajcie...",
+  "status": "draft"
+ },
+ "n:line:0788787": {
+  "pl": "Ee. Tak. Zdecydowanie ci odbiło.",
+  "status": "draft"
+ },
+ "n:line:078e53f": {
+  "pl": "Nie, po naszym spotkaniu na plaży w to nie wierzę... ale ewidentnie <i>coś</i> knuje.",
+  "status": "draft"
+ },
+ "n:line:07afb84": {
+  "pl": "Jeśli <i>faktycznie</i> na coś wpadłam... to mam złe przeczucia co do reszty tego roku...",
+  "status": "draft"
+ },
+ "n:line:07ba64b": {
+  "pl": "No właśnie! Solange wiecznie się go czepia bez powodu!",
+  "status": "draft"
+ },
+ "n:line:07bb687": {
+  "pl": "Trzymam się z daleka od waszych urojeń wielkości.",
+  "status": "draft"
+ },
+ "n:line:07cf322": {
+  "pl": "Wykańczacie mnie, wiecie o tym?",
+  "status": "draft"
+ },
+ "n:line:07e29de": {
+  "pl": "Wciąż nie do końca kupuję teorię Reeda o potworze z Loch Kłódkness... ale część tego, co Reed mówi, zaczyna mieć sens.",
+  "status": "draft"
+ },
+ "n:line:07ef29b": {
+  "pl": "Oby tak było...",
+  "status": "draft"
+ },
+ "n:line:07fcac0": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0807c93": {
+  "pl": "Wbrew zdrowemu rozsądkowi i instynktowi samozachowawczemu – być może.",
+  "status": "draft"
+ },
+ "n:line:081cd7d": {
+  "pl": "No dobra, fajnie by było, gdyby chociaż <i>przyszło ci do głowy</i>, żeby mi to wyperswadować...",
+  "status": "draft"
+ },
+ "n:line:0842177": {
+  "pl": "Jestem pewna, że Reed w końcu się pojawi. Wtedy ekipa z pokoju znów będzie w komplecie!",
+  "status": "draft"
+ },
+ "n:line:087704c": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:088369d": {
+  "pl": "Proszę, proszę, rozkazy rozdajesz!",
+  "status": "draft"
+ },
+ "n:line:08a8cb0": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:08ab757": {
+  "pl": "Chyba trzeba było się tego spodziewać.",
+  "status": "draft"
+ },
+ "n:line:08ba765": {
+  "pl": "Ciekawe, co może być <style=\"clue\">ważniejsze niż chodzenie na zajęcia</style> dla <style=\"clue\">Gordona Packera</style>...",
+  "status": "draft"
+ },
+ "n:line:0900580": {
+  "pl": "Może nawet wie o czwartym założycielu i też szuka powiązania ze zniknięciami... ale czemu nie współpracuje <i>z nami</i>?",
+  "status": "draft"
+ },
+ "n:line:090a377": {
+  "pl": "Coś w zachowaniu dyrektorki się nie zgadza. Mam wrażenie, że brakuje nam jednego elementu układanki...",
+  "status": "draft"
+ },
+ "n:line:090c442": {
+  "pl": "Chyba jesteśmy blisko prawdy, więc... Cokolwiek podpowiadałoby ci myślenie à la Reed, zrób dokładnie na odwrót. Rozgryziemy to <i>razem.</i>",
+  "status": "draft"
+ },
+ "n:line:0945c93": {
+  "pl": "Udało ci się! I to dla nas! Wiedziałam, że mogę na ciebie liczyć.",
+  "status": "draft"
+ },
+ "n:line:094f398": {
+  "pl": "Najpierw rodzeństwo, kiedy dorastałam, a teraz wy... Chyba nigdy nie wyjdę z niczyjego cienia!",
+  "status": "draft"
+ },
+ "n:line:09676ad": {
+  "pl": "*Westchnienie* Nie powinnam była pytać. Dzięki za szczerość, chyba...",
+  "status": "draft"
+ },
+ "n:line:097ebfb": {
+  "pl": "Naraz zniosę tylko określoną liczbę ludzi i zagadek. Dzięki za zrozumienie.",
+  "status": "draft"
+ },
+ "n:line:09a2a1b": {
+  "pl": "Wszyscy ciągle opowiadają, jak świetnie ucieka gwiazda roku Solange, a tu jeszcze okazuje się, że z tobą miło się gada? Ja... Do zobaczenia na zajęciach!",
+  "status": "draft"
+ },
+ "n:line:09b2f0c": {
+  "pl": "Jesteśmy tu tylko my, więc miej oczy szeroko otwarte i <style=\"clue\">użyj okularów</style>, żeby znaleźć tę komnatę!",
+  "status": "review"
+ },
+ "n:line:09b9993": {
+  "pl": "<i>Chcę</i> jej ufać, ale nie daje nam zbyt wielu powodów...",
+  "status": "draft"
+ },
+ "n:line:09bdeae": {
+  "pl": "Mam nadzieję, że nie.",
+  "status": "draft"
+ },
+ "n:line:09d5d17": {
+  "pl": "Długo ci zajęło, żeby się w to wkręcić.",
+  "status": "draft"
+ },
+ "n:line:09e8a78": {
+  "pl": "Pewnie właśnie porywa kolejnego ucznia!",
+  "status": "draft"
+ },
+ "n:line:09eac63": {
+  "pl": "Musimy rozwiązać <style=\"clue\">zagadkę cokołu</style>! Ona <i>musi</i> odsłonić posąg.",
+  "status": "draft"
+ },
+ "n:line:0a0d850": {
+  "pl": "Tak, super, ty się poświęcisz. Świetny pomysł!",
+  "status": "draft"
+ },
+ "n:line:0a127c8": {
+  "pl": "Jesteś tu dla mnie, dla nas wszystkich! Nigdy wcześniej nie mogłam tak na nikogo liczyć...",
+  "status": "draft"
+ },
+ "n:line:0a1cb97": {
+  "pl": "Wow! Jeszcze nikt nie zaproponował, że zajmie mi miejsce...",
+  "status": "draft"
+ },
+ "n:line:0a2a2a5": {
+  "pl": "No dobrze, z mapy wynika, że <style=\"clue\">ostatnia komnata jest pod fontanną</style>.",
+  "status": "draft"
+ },
+ "n:line:0a33b8a": {
+  "pl": "Dzięki za wsparcie! Może ten rok jednak będzie inny.",
+  "status": "draft"
+ },
+ "n:line:0a70f1b": {
+  "pl": "Och, litości...",
+  "status": "draft"
+ },
+ "n:line:0a795e2": {
+  "pl": "Nie mogę uwierzyć, że Reed nas tak zostawia, choć umówiliśmy się, że trzymamy się razem...",
+  "status": "draft"
+ },
+ "n:line:0a7a5e0": {
+  "pl": "Cokolwiek to jest, musi być źle. <i>Naprawdę</i> źle.",
+  "status": "draft"
+ },
+ "n:line:0a8de4c": {
+  "pl": "Zaczynam myśleć, że powinniśmy byli zostawić sobie ślad z okruszków chleba czy coś...",
+  "status": "draft"
+ },
+ "n:line:0aa5f70": {
+  "pl": "Jak tylko stąd wyjdziemy, czeka nas długa rozmowa o tym całym zakradaniu się i łamaniu zasad...",
+  "status": "draft"
+ },
+ "n:line:0aada84": {
+  "pl": "Nie. Mnie też to niepokoi...",
+  "status": "draft"
+ },
+ "n:line:0ab0a16": {
+  "pl": "Ten hak może się przydać, jeśli <style=\"clue\">połączysz go z czymś innym</style>...",
+  "status": "draft"
+ },
+ "n:line:0ab5673": {
+  "pl": "Z tego rozbitego posągu wynika tylko tyle, że czwarty założyciel miał <style=\"clue\">słabość do diamentów</style>...",
+  "status": "draft"
+ },
+ "n:line:0ae43a0": {
+  "pl": "Hmm... <style=\"clue\">nadal nie ma Solange</style>. Co może być tak ważne, że opuściła uroczystość ku pamięci kogoś z własnego grona pedagogicznego..?",
+  "status": "draft"
+ },
+ "n:line:0ae440c": {
+  "pl": "Nie pozwolę, żeby ktoś jeszcze z was został porwany.",
+  "status": "draft"
+ },
+ "n:line:0b0a39f": {
+  "pl": "Nie ma mowy! Pozwól mi to zrobić.",
+  "status": "draft"
+ },
+ "n:line:0b0c27d": {
+  "pl": "Jestem tuż za tobą.",
+  "status": "draft"
+ },
+ "n:line:0b1346a": {
+  "pl": "Jestem pewna, że to nie ma nic wspólnego z potworem z Loch Kłódkness, ale nie mogę się pozbyć wrażenia, że z Gordonem i Paige dzieje się coś dziwnego...",
+  "status": "draft"
+ },
+ "n:line:0b3a868": {
+  "pl": "Wcale nie miałam zamiaru się wycofywać! Poza tym tak łatwo się mnie nie pozbędziecie. Ktoś musi na was uważać.",
+  "status": "draft"
+ },
+ "n:line:0b3e6b1": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:0b48254": {
+  "pl": "Nie każdy ma tyle pewności siebie co ty, więc... daj mi trochę czasu, żebym nad tym popracowała. Dobra?",
+  "status": "draft"
+ },
+ "n:line:0b68f60": {
+  "pl": "Ha! Wygląda na to, że to ja zajęłam <i>tobie</i> miejsce jako pierwsza.",
+  "status": "draft"
+ },
+ "n:line:0b6b101": {
+  "pl": "Nie chcę wiedzieć, co się dzieje, kiedy jest się po złej stronie jego maszyny do mózgów...",
+  "status": "draft"
+ },
+ "n:line:0b6fca4": {
+  "pl": "Te wszystkie zniknięcia zaczynają się sumować. A tu jeszcze Von Bellini niedługo opuści kampus na dobre...",
+  "status": "draft"
+ },
+ "n:line:0b977ac": {
+  "pl": "Czas położyć temu wszystkiemu kres?",
+  "status": "draft"
+ },
+ "n:line:0ba85aa": {
+  "pl": "Myślisz, że Solange próbowała nam coś powiedzieć któregoś wieczoru?",
+  "status": "draft"
+ },
+ "n:line:0bc1414": {
+  "pl": "Jak ci za gorąco, wyjdź z kuchni.",
+  "status": "draft"
+ },
+ "n:line:0bc94f3": {
+  "pl": "Hej, ty też masz pieczęć eskapisty – tak jak ja!",
+  "status": "review"
+ },
+ "n:line:0bd7401": {
+  "pl": "Jestem tu, no nie? Nie jestem... przyzwyczajona do takich rzeczy.",
+  "status": "draft"
+ },
+ "n:line:0be3037": {
+  "pl": "Ech. Amatorszczyzna. Mam o wiele lepszy pomysł.",
+  "status": "draft"
+ },
+ "n:line:0be7f4b": {
+  "pl": "Nie powiedziałabym, że <i>bez</i> powodu. Ale faktycznie trzyma go na krótkiej smyczy.",
+  "status": "draft"
+ },
+ "n:line:0bf1936": {
+  "pl": "I kiedy automaty działają...",
+  "status": "draft"
+ },
+ "n:line:0bf59c9": {
+  "pl": "Jeszcze nigdy nie byliśmy tak blisko odpowiedzi, ale coś mi mówi, że z niebezpieczeństwem jest tak samo...",
+  "status": "draft"
+ },
+ "n:line:0bf77b1": {
+  "pl": "Uważa, że każdy jest artystą, „tylko niektórzy po prostu o tym nie wiedzą!” Och. Ja wiem aż za dobrze.",
+  "status": "review"
+ },
+ "n:line:0c0627c": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:0c2ea47": {
+  "pl": "Nie. To <i>mój</i> wybór. <i>Ty</i> masz jeszcze coś do zrobienia, jeśli chcemy powstrzymać Alistaira i uratować wszystkich...",
+  "status": "draft"
+ },
+ "n:line:0c4353e": {
+  "pl": "Proszę bardzo. Ja tylko... poczekam sobie tutaj.",
+  "status": "draft"
+ },
+ "n:line:0c5f73c": {
+  "pl": "Po prostu-- obiecaj mi, że <style=\"clue\">opowiesz Solange wszystko</style> i przyjdziesz mnie szukać.",
+  "status": "draft"
+ },
+ "n:line:0c7cc4b": {
+  "pl": "Nie spiesz się! Zajmę ci miejsce w klasie.",
+  "status": "draft"
+ },
+ "n:line:0c7e3b7": {
+  "pl": "Z Reedem zawsze było trochę kombinowania, ale tego zupełnie się nie spodziewałam... Tylko <i>ty</i> nie wpadaj na żadne szalone pomysły.",
+  "status": "draft"
+ },
+ "n:line:0c9334d": {
+  "pl": "Wszystko w tym roku poszło nie tak, co? Gillian, Reeda i innych uczniów nie ma...",
+  "status": "draft"
+ },
+ "n:line:0c96d48": {
+  "pl": "Bez złośliwości, ja próbuję pomóc! I w ogóle to wszystko twoja wina. No dobra... masz. Weź go.",
+  "status": "draft"
+ },
+ "n:line:0ca63c9": {
+  "pl": "Dzielna próba! Może znajdę dla niego jakieś zastosowanie?",
+  "status": "draft"
+ },
+ "n:line:0cd6e94": {
+  "pl": "Nic, poza tym starym, zardzewiałym <style=\"clue\">hakiem</style>. Próbowałam użyć go jako wytrycha, ale nic z tego...",
+  "status": "draft"
+ },
+ "n:line:0ce789c": {
+  "pl": "Ech, <i>panicznie</i> boję się zajęć teatralnych u profesor Chortkoff...",
+  "status": "draft"
+ },
+ "n:line:0d0359d": {
+  "pl": "Hej... nie ma tu gdzieś Reeda?",
+  "status": "draft"
+ },
+ "n:line:0d10267": {
+  "pl": "Wszyscy zabierają się za zadania z historii Akademii, jakby nic się nie stało...",
+  "status": "draft"
+ },
+ "n:line:0d11a3e": {
+  "pl": "Chowam się tu, żeby profesor Chortkoff nie wpadła na pomysł, że to ja będę jej następnym twardym orzechem do zgryzienia.",
+  "status": "draft"
+ },
+ "n:line:0d1d5e6": {
+  "pl": "Solange to jawny wróg.",
+  "status": "draft"
+ },
+ "n:line:0d2c54d": {
+  "pl": "Po prostu zmierzajmy do ostatniej komnaty, tyle możemy teraz zrobić.",
+  "status": "draft"
+ },
+ "n:line:0d3f30a": {
+  "pl": "Wrócę później.",
+  "status": "draft"
+ },
+ "n:line:0d6e4da": {
+  "pl": "Cóż, kiedy znika połowa współlokatorów i mnóstwo uczniów, trudno nie próbować złożyć tego w całość.",
+  "status": "draft"
+ },
+ "n:line:0d858c1": {
+  "pl": "Do zobaczenia!",
+  "status": "draft"
+ },
+ "n:line:0dbd822": {
+  "pl": "Twoja pomoc i tak nam niepotrzebna!",
+  "status": "draft"
+ },
+ "n:line:0dc0fbf": {
+  "pl": "Chyba nie zwariowałam, martwiąc się o <style=\"clue\">Gordona i Paige</style>, prawda?",
+  "status": "draft"
+ },
+ "n:line:0dc697f": {
+  "pl": "Zażenowanie z powodu kiepskiego aktorstwa uczniów i Chortkoff, która w trakcie przedstawienia wrzeszczy wskazówki reżyserskie, to już prawie za dużo...",
+  "status": "draft"
+ },
+ "n:line:0dd0ea6": {
+  "pl": "Och... no tak. Chyba przydałoby mi się trochę szczęścia...",
+  "status": "draft"
+ },
+ "n:line:0de5e83": {
+  "pl": "Nie wciągajcie mnie w wasz plan odzyskania okularów.",
+  "status": "review"
+ },
+ "n:line:0e05ced": {
+  "pl": "Uważajcie tam na siebie. Ktokolwiek albo... cokolwiek za tym stoi, jest <i>blisko.</i>",
+  "status": "draft"
+ },
+ "n:line:0e0e8cd": {
+  "pl": "Przetrwajmy tę uroczystość, a wtedy <style=\"clue\">w końcu zajrzymy do ostatniej komnaty</style>.",
+  "status": "draft"
+ },
+ "n:line:0e2ddd8": {
+  "pl": "Kto wie, co dyrektorce chodzi po głowie... My na pewno nie.",
+  "status": "draft"
+ },
+ "n:line:0e54125": {
+  "pl": "Chyba taki jest dla wszystkich, ale dyrektorka Solange wyraźnie uważała to za <i>szczególnie</i> irytujące.",
+  "status": "draft"
+ },
+ "n:line:0e56089": {
+  "pl": "Tylko trzymaj mnie z daleka od wszelkich króliczych nor, w które zanurkujecie z Reedem.",
+  "status": "draft"
+ },
+ "n:line:0e65335": {
+  "pl": "Fakt, ma na to dość dziwny sposób...",
+  "status": "draft"
+ },
+ "n:line:0e89965": {
+  "pl": "No dobra. Kolejny rok z dala od domu, wśród ludzi, którzy nawet nie wiedzą, że istnieję...",
+  "status": "draft"
+ },
+ "n:line:0e8a296": {
+  "pl": "Mógł mi ktoś powiedzieć, że będę mieszkać z uczniami, którzy w zeszłym roku uratowali szkołę...",
+  "status": "draft"
+ },
+ "n:line:0ea2015": {
+  "pl": "Są znacznie gorsze sposoby na zarobienie kilku punktów.",
+  "status": "draft"
+ },
+ "n:line:0eb7769": {
+  "pl": "Po prostu nie chcę znowu oglądać Akademii w niebezpieczeństwie. To ważne miejsce!",
+  "status": "draft"
+ },
+ "n:line:0eb8664": {
+  "pl": "Z tego, co mówisz, woda w drodze powrotnej na brzeg była dziwnie spokojna...",
+  "status": "draft"
+ },
+ "n:line:0ede4e5": {
+  "pl": "Łatwo ci mówić. Ciebie na scenie nie czeka nieuchronna porażka i upokorzenie przed całą szkołą.",
+  "status": "draft"
+ },
+ "n:line:0f0505b": {
+  "pl": "Akurat na koniec semestru...",
+  "status": "draft"
+ },
+ "n:line:0f0523d": {
+  "pl": "Nie wiem, czy zniosę oglądanie tej sztuki.",
+  "status": "draft"
+ },
+ "n:line:0f0cca6": {
+  "pl": "Eee... Musisz <style=\"clue\">zostać tu i się ukryć</style>, ja... ja pójdę na górę i udam, że jestem sama...",
+  "status": "draft"
+ },
+ "n:line:0f0d0ed": {
+  "pl": "Nikt jeszcze tak się za mną nie wstawił jak Gillian na szlabanie...",
+  "status": "draft"
+ },
+ "n:line:0f3186e": {
+  "pl": "Przecież... żadnej nie proponowałam...?",
+  "status": "draft"
+ },
+ "n:line:0f3622a": {
+  "pl": "Musiał być dla dyrektorki prawdziwym zmartwieniem...",
+  "status": "draft"
+ },
+ "n:line:0f44949": {
+  "pl": "Na razie!",
+  "status": "draft"
+ },
+ "n:line:0f4514f": {
+  "pl": "Jak mówiła Gillian, pewnie po prostu nie dali rady!",
+  "status": "draft"
+ },
+ "n:line:0f6b06e": {
+  "pl": "Czuję się tu bardziej jak w domu niż gdziekolwiek indziej...",
+  "status": "draft"
+ },
+ "n:line:0f8a4b2": {
+  "pl": "Ty <i>pomyślisz</i> o tym? Ale... to przez ciebie tu siedzę...",
+  "status": "draft"
+ },
+ "n:line:0f8d93a": {
+  "pl": "Halo? Kira, to ty tam na dole? Co robisz poza akademikiem o tej porze...",
+  "status": "draft"
+ },
+ "n:line:0f94b75": {
+  "pl": "Niestety wszystko, co mogłoby nam powiedzieć, co stało się z „Czerwonym Śledziem”, leży na dnie zatoki...",
+  "status": "review"
+ },
+ "n:line:0fb7b35": {
+  "pl": "No to lock 'n' roll... <style=\"story\">(Poczekaj do nocy)</style>",
+  "status": "review"
+ },
+ "n:line:0fba74c": {
+  "pl": "To pewnie ona sabotowała łódź...",
+  "status": "draft"
+ },
+ "n:line:0fca53b": {
+  "pl": "Ale ominie cię cała akcja.",
+  "status": "draft"
+ },
+ "n:line:0ff70b0": {
+  "pl": "Tylko nie mów nikomu, że tu jestem, dobra? Cenię sobie każdą chwilę ciszy, jaką uda mi się złapać...",
+  "status": "draft"
+ },
+ "n:line:0ffb219": {
+  "pl": "Wolałabym, żeby dziesięć razy spadł mi sufit na głowę, niż grać przed innymi uczniami...",
+  "status": "draft"
+ }
+}

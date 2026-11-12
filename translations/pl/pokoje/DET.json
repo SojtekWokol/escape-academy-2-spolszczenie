@@ -1,0 +1,330 @@
+{
+ "g:DET_Assembly1": {
+  "pl": "Mam coś, co pomoże mi dosięgnąć ten klucz?",
+  "status": "draft"
+ },
+ "g:DET_Assembly2": {
+  "pl": "Dobry początek! Co jeszcze?",
+  "status": "draft"
+ },
+ "g:DET_Assembly3": {
+  "pl": "I na wykończenie…",
+  "status": "draft"
+ },
+ "g:DET_BelowSinkClue": {
+  "pl": "Sprawdź pod łóżkiem…",
+  "status": "draft"
+ },
+ "g:DET_Board2": {
+  "pl": "Mam nadzieję, że zapiszę sobie kredą kolejną śmiałą ucieczkę…",
+  "status": "draft"
+ },
+ "g:DET_Board3": {
+  "pl": "Ta ucieczka ma być załatwiona na amen i otrzepana z kredy.",
+  "status": "draft"
+ },
+ "g:DET_Board4": {
+  "pl": "Nie pozwolę wymazać swoich wspomnień!",
+  "status": "draft"
+ },
+ "g:DET_BottomLeftGateClue": {
+  "pl": "Sprawdź lewy dolny róg bramy.",
+  "status": "draft"
+ },
+ "g:DET_BottomRightMistake": {
+  "pl": "Chodziło mi o prawy dolny…",
+  "status": "draft"
+ },
+ "g:DET_BunkBed1": {
+  "pl": "Czas obalić mit, że z Karceru nikt nie ucieka.",
+  "status": "draft"
+ },
+ "g:DET_Bunks2": {
+  "pl": "Muszę zaszyć się w koi… znaczy w bunkrze, i wymyślić, jak nas stąd wydostać.",
+  "status": "review"
+ },
+ "g:DET_Bunks3": {
+  "pl": "Sami sobie pościeliśmy, ale spać w tym nie zamierzam!",
+  "status": "draft"
+ },
+ "g:DET_ChalkboardJoke": {
+  "pl": "Nie ma czasu na nudę – tablica czeka!",
+  "status": "review"
+ },
+ "g:DET_Crime0": {
+  "pl": "Przeklinanie",
+  "status": "draft"
+ },
+ "g:DET_Crime1": {
+  "pl": "Ściąganie",
+  "status": "draft"
+ },
+ "g:DET_Crime2": {
+  "pl": "Bójki",
+  "status": "draft"
+ },
+ "g:DET_Crime3": {
+  "pl": "Spoilerowanie",
+  "status": "draft"
+ },
+ "g:DET_CrimesTimes": {
+  "pl": "Zbrodnia i kara",
+  "status": "draft"
+ },
+ "g:DET_Days": {
+  "pl": "Dni",
+  "status": "draft"
+ },
+ "g:DET_EscapistTimes": {
+  "pl": "Kurier Eskapisty – Szkolni winowajcy mają problem z przypomnieniem sobie, co właściwie przeskrobali",
+  "status": "draft"
+ },
+ "g:DET_Fence": {
+  "pl": "Zamknąć mnie za płotem? To zniewaga – i to ogrodzona!",
+  "status": "review"
+ },
+ "g:DET_FishingStationA": {
+  "pl": "Mogę coś złożyć na tym biurku. Co przymocować do tego kija?",
+  "status": "draft"
+ },
+ "g:DET_FishingStationB": {
+  "pl": "Całkiem nieźle! Teraz przejdźmy do sedna… czyli haczyka.",
+  "status": "draft"
+ },
+ "g:DET_FishingStationC": {
+  "pl": "I na koniec coś lepkiego jako przynęta na haczyk!",
+  "status": "draft"
+ },
+ "g:DET_FishingWA": {
+  "pl": "Chyba to nic nie da…",
+  "status": "draft"
+ },
+ "g:DET_Hint_Assemble": {
+  "pl": "Złóż wszystko, co masz.",
+  "status": "draft"
+ },
+ "g:DET_Hint_Escape": {
+  "pl": "Czas dać nogę!",
+  "status": "draft"
+ },
+ "g:DET_Hint_Fishing": {
+  "pl": "Zarzuć wędkę.",
+  "status": "draft"
+ },
+ "g:DET_Hint_Jailbreak": {
+  "pl": "Wypuść ich!",
+  "status": "draft"
+ },
+ "g:DET_Hint_LockpickA": {
+  "pl": "Słuchaj! Wybieraj od najcięższego do najlżejszego dźwięku.",
+  "status": "draft"
+ },
+ "g:DET_Hint_SconseA": {
+  "pl": "Te tablice kryją tajne wiadomości.",
+  "status": "draft"
+ },
+ "g:DET_Hint_SconseB": {
+  "pl": "Zobacz, w którą ścianę wskazuje każda strzałka…",
+  "status": "draft"
+ },
+ "g:DET_Hint_SconseC": {
+  "pl": "…i obróć kolumny tak samo!",
+  "status": "draft"
+ },
+ "g:DET_Hint_SpoilerA": {
+  "pl": "Ułóż kafelki tak, by powstała jak największa liczba.",
+  "status": "draft"
+ },
+ "g:DET_Hint_SpoilerB": {
+  "pl": "Pierwsza cyfra to „9”.",
+  "status": "review"
+ },
+ "g:DET_Hint_SpoilerC": {
+  "pl": "Wpisz karę za spoilery.",
+  "status": "draft"
+ },
+ "g:DET_Hint_Talk": {
+  "pl": "Rozmowa ze współwięźniami może się przydać!",
+  "status": "draft"
+ },
+ "g:DET_ItemDescription_UVMoonlight": {
+  "pl": "Poświeć, by odkryć sekrety!",
+  "status": "draft"
+ },
+ "g:DET_Item_FishingRod": {
+  "pl": "„Wędka”",
+  "status": "draft"
+ },
+ "g:DET_Item_Gillian_Cell_Note": {
+  "pl": "Notatka",
+  "status": "draft"
+ },
+ "g:DET_Item_Hook": {
+  "pl": "Zardzewiały haczyk",
+  "status": "draft"
+ },
+ "g:DET_Item_Lockpick": {
+  "pl": "Wytrych",
+  "status": "draft"
+ },
+ "g:DET_Item_OldGum": {
+  "pl": "Przeżuta guma",
+  "status": "draft"
+ },
+ "g:DET_Item_Player_Cell_Note": {
+  "pl": "Notatka",
+  "status": "draft"
+ },
+ "g:DET_Item_String": {
+  "pl": "Kłębek włóczki",
+  "status": "draft"
+ },
+ "g:DET_Item_UVMoonlight": {
+  "pl": "Lampa UV",
+  "status": "draft"
+ },
+ "g:DET_Item_WardenKey": {
+  "pl": "Klucz strażnika",
+  "status": "draft"
+ },
+ "g:DET_LockedExit": {
+  "pl": "Nie mogę wyjść bez pozostałych!",
+  "status": "draft"
+ },
+ "g:DET_Lockers": {
+  "pl": "Tu pewnie zamykają mniejszych uczniów.",
+  "status": "draft"
+ },
+ "g:DET_MirrorClue": {
+  "pl": "Sprawdź lustro.",
+  "status": "draft"
+ },
+ "g:DET_OfficeLamp": {
+  "pl": "Rozświetlę tę scenę jak prawdziwa gwiazda!",
+  "status": "draft"
+ },
+ "g:DET_PillowNote": {
+  "pl": "Od niskiego do wysokiego",
+  "status": "review"
+ },
+ "g:DET_PillowNoteB": {
+  "pl": "Od ciężkiego do delikatnego",
+  "status": "draft"
+ },
+ "g:DET_Posters": {
+  "pl": "No to z plakatowego ucznia nici…",
+  "status": "draft"
+ },
+ "g:DET_Reset": {
+  "pl": "RESET",
+  "status": "draft"
+ },
+ "g:DET_RoomName": {
+  "pl": "Uwaga, koza!",
+  "status": "draft"
+ },
+ "g:DET_Sink2": {
+  "pl": "Miło będzie umyć ręce od tej kary.",
+  "status": "draft"
+ },
+ "g:DET_Sink3": {
+  "pl": "Pora się stąd kran-ąć w długą!",
+  "status": "review"
+ },
+ "g:DET_Sink4": {
+  "pl": "Nie pozwolę, by moje wspomnienia poszły w odpływ… Lubię je!",
+  "status": "draft"
+ },
+ "g:DET_SinkJoke": {
+  "pl": "Mam złe przeczucie co do tego gazu zapomnienia – aż mnie zlewa zimny pot…",
+  "status": "draft"
+ },
+ "g:DET_Spoilers": {
+  "pl": "Jak najdłużej!",
+  "status": "draft"
+ },
+ "g:DET_SpoilersWarning": {
+  "pl": "Uwaga:<br>spoilery!",
+  "status": "draft"
+ },
+ "g:DET_Subtitle": {
+  "pl": "Wyrwij się<br>z kozy!",
+  "status": "draft"
+ },
+ "g:DET_Vent1": {
+  "pl": "Muszę wywentylować jakiś plan ucieczki, i to migiem!",
+  "status": "draft"
+ },
+ "g:DET_Warning": {
+  "pl": "Uwaga: nie wrzucaj ważnych przedmiotów do dziury.",
+  "status": "draft"
+ },
+ "v:Gillian_DET_GetMeOutta": {
+  "pl": "Wypuść mnie stąd! Proszę…?",
+  "status": "draft"
+ },
+ "v:Gillian_DET_GotMyselfEventually": {
+  "pl": "Sama w końcu bym się stąd wydostała.",
+  "status": "draft"
+ },
+ "v:Gillian_DET_NotWorry": {
+  "pl": "Spokojnie, ekipo, znajdę nam drogę stąd!",
+  "status": "draft"
+ },
+ "v:Gillian_DET_Win": {
+  "pl": "Udało się! W-wiedziałam, że się uda. Ani przez chwilę nie wątpiłam.",
+  "status": "draft"
+ },
+ "v:Gillian_DET_YouFirst": {
+  "pl": "Udało ci się wyjść przede mną?! Argh. Nawet w kozie nie mogę być najlepsza.",
+  "status": "draft"
+ },
+ "v:Kira_DET_NotSupposedBeHere": {
+  "pl": "W ogóle nie powinno mnie tu być…",
+  "status": "draft"
+ },
+ "v:Kira_DET_SeemsExtreme": {
+  "pl": "To chyba lekka przesada.",
+  "status": "draft"
+ },
+ "v:Kira_DET_StillMad": {
+  "pl": "Dzięki, ale… nadal jestem na ciebie zła.",
+  "status": "draft"
+ },
+ "v:Reed_DET_BreakoutLocketList": {
+  "pl": "Ucieczka z więzienia? Odhaczone na liście marzeń… zamkniętej na kłódkę.",
+  "status": "review"
+ },
+ "v:Reed_DET_Fail": {
+  "pl": "Cóż, żegnajcie wspomnienia.",
+  "status": "draft"
+ },
+ "v:Reed_DET_NotImaginedJail": {
+  "pl": "Nie tak sobie wyobrażam swoją pierwszą celę.",
+  "status": "draft"
+ },
+ "v:Reed_DET_ReelCareful": {
+  "pl": "Ostrożnie, żyłka to nie żarty. Guma do żucia jako klej to taki średniak, ze środka stawki.",
+  "status": "draft"
+ },
+ "v:row902": {
+  "pl": "*Klik*",
+  "status": "draft"
+ },
+ "v:row903": {
+  "pl": "*Klik*",
+  "status": "draft"
+ },
+ "v:row904": {
+  "pl": "*Klik*",
+  "status": "draft"
+ },
+ "v:row905": {
+  "pl": "*Klik*",
+  "status": "draft"
+ },
+ "v:row906": {
+  "pl": "*Klik*",
+  "status": "draft"
+ }
+}

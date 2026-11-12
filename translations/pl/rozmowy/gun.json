@@ -1,0 +1,902 @@
+{
+ "n:line:0000c1d": {
+  "pl": "<size=0.7em>Yyy… chyba to nie twoja kwestia…</size>",
+  "status": "draft"
+ },
+ "n:line:0008c4e": {
+  "pl": "...Houses.",
+  "status": "draft"
+ },
+ "n:line:0015d14": {
+  "pl": "<size=0.7em>Co ty robisz? Dokładasz kolejny zwrot akcji?!",
+  "status": "draft"
+ },
+ "n:line:001e00b": {
+  "pl": "Więc nie możemy!",
+  "status": "draft"
+ },
+ "n:line:002237b": {
+  "pl": "Poszłam do domu Petera, kazałam mu <style=\"clue\">namalować wyznanie</style>, a potem <style=\"clue\">strzeliłam mu</style> w twarz!",
+  "status": "draft"
+ },
+ "n:line:0025567": {
+  "pl": "Dziś rano <style=\"clue\">spacerowałem nad stawem</style> po zwykle cichej części miasta, gdy wstrząsnął mną <style=\"clue\">głośny huk.</style>",
+  "status": "draft"
+ },
+ "n:line:003c5d7": {
+  "pl": "A teraz śmiało, zabierz do więzienia mnie, przestępczynię owładniętą zemstą!",
+  "status": "draft"
+ },
+ "n:line:00412ad": {
+  "pl": "Niech cię diabli, Bertraaaaand!!!",
+  "status": "draft"
+ },
+ "n:line:0054d4d": {
+  "pl": "Ja ee-- poczekam na linii, aż się pan pozbiera. Ale proszę się pospieszyć!",
+  "status": "draft"
+ },
+ "n:line:007587f": {
+  "pl": "Oto ono, <style=\"clue\">miejsce zbrodni</style>. Miejsce, w którym na pewno widziałem, jak Ruby zastrzeliła Petera!",
+  "status": "draft"
+ },
+ "n:line:00838b2": {
+  "pl": "Coś się tu nie zgadza, Chet, i <i>nie</i> mam na myśli rachunków…",
+  "status": "review"
+ },
+ "n:line:00bf00b": {
+  "pl": "Jasne, że wiem! To był tylko test dla ciebie.",
+  "status": "draft"
+ },
+ "n:line:00c20d8": {
+  "pl": "Nie jest!",
+  "status": "draft"
+ },
+ "n:line:00ce9ec": {
+  "pl": "Chwała Escape! Obawiam się, że <style=\"clue>doszło do morderstwa</style>, a słyszałem, że nie ma sprawy, której by pan nie rozwiązał!",
+  "status": "review"
+ },
+ "n:line:00d720d": {
+  "pl": "Fakt, że to <i>moja</i> sprawka! <i>Tego</i> nikt się nie spodziewał. <i>Nawet ja.</i>",
+  "status": "draft"
+ },
+ "n:line:00d84b0": {
+  "pl": "<style=\"clue\">{0} {1}</style>?",
+  "status": "review"
+ },
+ "n:line:00dc189": {
+  "pl": "No to co z tą Eska-Colą...",
+  "status": "draft"
+ },
+ "n:line:00e7ac0": {
+  "pl": "Więc to jasne, że tak zrobiła Ruby! Czego nam jeszcze trzeba? Idziemy ją aresztować, od razu!",
+  "status": "draft"
+ },
+ "n:line:00faaf6": {
+  "pl": "Ależ detektywie, ciało leży tuż obok!",
+  "status": "draft"
+ },
+ "n:line:00faf33": {
+  "pl": "<i>Na sto procent.</i>",
+  "status": "draft"
+ },
+ "n:line:00fc2f7": {
+  "pl": "Byron Sholmes!",
+  "status": "draft"
+ },
+ "n:line:010c966": {
+  "pl": "Peter został zabity liną!",
+  "status": "draft"
+ },
+ "n:line:015804f": {
+  "pl": "Nie ma ciała!",
+  "status": "draft"
+ },
+ "n:line:0169dad": {
+  "pl": "Zaułek!",
+  "status": "draft"
+ },
+ "n:line:016bbfd": {
+  "pl": "Chwila… chcesz powiedzieć, że <i>sama fabryka</i> dźgnęła Petera?",
+  "status": "draft"
+ },
+ "n:line:01d1063": {
+  "pl": "<size=0.7em>To nie twoja kwestia. Ani trochę! Zwróć uwagę na <style=\"clue\">dekoracje</style>!",
+  "status": "draft"
+ },
+ "n:line:01eacb8": {
+  "pl": "<size=0.7em>Dlaczego nikt mi nigdy nie mówi o przeróbkach tekstu...</size>",
+  "status": "draft"
+ },
+ "n:line:022d376": {
+  "pl": "Nie jest!",
+  "status": "draft"
+ },
+ "n:line:024d31b": {
+  "pl": "Zwykła dedukcja, mój ciemny informatorze!",
+  "status": "draft"
+ },
+ "n:line:0274a02": {
+  "pl": "Peter został zabity nożem!",
+  "status": "draft"
+ },
+ "n:line:02889c0": {
+  "pl": "<size=0.7em>Krytykę zostaw krytykom i trzymaj się tekstu! Grajcie dalej…",
+  "status": "draft"
+ },
+ "n:line:0297bf1": {
+  "pl": "*Sapnięcie* Ten obraz dowodzi niewinności Petera!",
+  "status": "draft"
+ },
+ "n:line:0297bf6": {
+  "pl": "Mówisz, że Peter został zabity…",
+  "status": "review"
+ },
+ "n:line:02981ec": {
+  "pl": "Detektywie! Nazywam się Chet Łotrowicz i bardzo dobrze, że zgodził się pan mnie przyjąć. To po prostu... to takie straszne!",
+  "status": "draft"
+ },
+ "n:line:02a6f47": {
+  "pl": "<size=0.7em>Jak mi idzie aktorstwo?</size>",
+  "status": "draft"
+ },
+ "n:line:02b2e73": {
+  "pl": "<size=0.7em>Faktycznie, kogoś tu testujesz…",
+  "status": "draft"
+ },
+ "n:line:02b3ad2": {
+  "pl": "A zeszłej nocy w końcu nadszedł ten czas…",
+  "status": "draft"
+ },
+ "n:line:02c15ab": {
+  "pl": "Bertrand Solverson! <i>Bertrand Solverson!</i> Jak można było sknocić ostatnią kwestię?",
+  "status": "draft"
+ },
+ "n:line:02c50aa": {
+  "pl": "Nie! Gdyby moje nazwisko było prawdziwe, nazywałabym się Ruby Winowska!",
+  "status": "review"
+ },
+ "n:line:02fe23f": {
+  "pl": "<size=0.7em>Świetny pomysł! Na wypadek, gdyby publiczność za pierwszym razem nie uważała...</style>",
+  "status": "draft"
+ },
+ "n:line:030b105": {
+  "pl": "Peter został zabity przepychaczem!",
+  "status": "draft"
+ },
+ "n:line:03669aa": {
+  "pl": "I dokładnie tak to było. Absolutnie nic więcej się nie wydarzyło. Więc oczywiście musimy aresztować Ruby!",
+  "status": "draft"
+ },
+ "n:line:038a435": {
+  "pl": "Choć to oczywiście korzystne dla mojej postaci… yyy, dla <i>mnie</i>, Cheta Łotrowicza, może jednak coś ci umknęło!",
+  "status": "draft"
+ },
+ "n:line:0392800": {
+  "pl": "<size=0.7em>Stary… Zwłoki. Martwe. Tutaj.",
+  "status": "draft"
+ },
+ "n:line:039b261": {
+  "pl": "Tak! Ciągle to powtarzasz. I właśnie dlatego przyszedłem z tą sprawą do ciebie… *gul*",
+  "status": "draft"
+ },
+ "n:line:03cbb41": {
+  "pl": "Tak czy inaczej wciąż nie znamy <style=\"clue\">motywu zabójcy</style>, a ja na pewno żadnego nie mam.",
+  "status": "draft"
+ },
+ "n:line:03d3686": {
+  "pl": "Peter został zabity piłą!",
+  "status": "draft"
+ },
+ "n:line:03dff58": {
+  "pl": "<size=0.7em>Jakim cudem Akademia w ogóle cię jeszcze trzyma… Zagraj tę scenę od nowa!",
+  "status": "draft"
+ },
+ "n:line:03f674d": {
+  "pl": "<size=0.7em>Escape, zlituj się… Przecież to dosłownie kryminał.",
+  "status": "draft"
+ },
+ "n:line:040924c": {
+  "pl": "Jesteś niewinna, jak sugeruje twoje nazwisko?",
+  "status": "draft"
+ },
+ "n:line:041148e": {
+  "pl": "Bertrand Solverson! <i>Bertrand Solverson!</i> Jak można było sknocić ostatnią kwestię?",
+  "status": "draft"
+ },
+ "n:line:04156cb": {
+  "pl": "To prawda! Zabiłam Petera na śmierć!",
+  "status": "draft"
+ },
+ "n:line:0418c62": {
+  "pl": "C-co takiego, detektywie?",
+  "status": "draft"
+ },
+ "n:line:041987f": {
+  "pl": "Miałem nadzieję, że perspektywa <i>morderstwa</i> wystarczy legendarnemu Solversonowi! Ale obawiam się, że najpierw potrzebuję od pana pewnej rzeczy...",
+  "status": "draft"
+ },
+ "n:line:04438fd": {
+  "pl": "Eska-Cola, gdy potrzebujesz <i>przewagi</i> nad zagadkami życia.",
+  "status": "draft"
+ },
+ "n:line:04548d8": {
+  "pl": "<size=0.7em>Serio? To ma być konflikt tej sceny?",
+  "status": "draft"
+ },
+ "n:line:04602cd": {
+  "pl": "Oszustwa podatkowego…",
+  "status": "review"
+ },
+ "n:line:0467c04": {
+  "pl": "<size=0.7em>Psst… nie trzymasz żadnego obrazu.</size>",
+  "status": "draft"
+ },
+ "n:line:0467faf": {
+  "pl": "<size=0.7em>Prowadź śledztwo dalej.",
+  "status": "draft"
+ },
+ "n:line:046ea6a": {
+  "pl": "Peter został zabity łyżką!",
+  "status": "draft"
+ },
+ "n:line:046f7d2": {
+  "pl": "Defraudacji…",
+  "status": "review"
+ },
+ "n:line:04a40e9": {
+  "pl": "Prawdziwe narzędzie zbrodni jest w jego skrzynce z narzędziami…",
+  "status": "review"
+ },
+ "n:line:04c4a9f": {
+  "pl": "Coluembo...",
+  "status": "draft"
+ },
+ "n:line:04d4510": {
+  "pl": "Oczywiście! I zaraz ci powiem, co dokładnie…",
+  "status": "draft"
+ },
+ "n:line:04dc3e9": {
+  "pl": "Co więcej, to ty jesteś mordercą, nie Ruby!",
+  "status": "draft"
+ },
+ "n:line:04e6473": {
+  "pl": "...Clueseau.",
+  "status": "draft"
+ },
+ "n:line:0510ae8": {
+  "pl": "<size=0.7em>Świetny pomysł! Na wypadek, gdyby publiczność za pierwszym razem nie uważała...</style>",
+  "status": "draft"
+ },
+ "n:line:05189c1": {
+  "pl": "Mam przeczucie. Spójrz na to. <style=\"purchase\">(Pokaż obraz)</style>",
+  "status": "draft"
+ },
+ "n:line:05700f0": {
+  "pl": "Przebiegłem <style=\"clue\">przez ulicę</style> i wpadłem do jego salonu, a tam zobaczyłem...",
+  "status": "draft"
+ },
+ "n:line:0582c34": {
+  "pl": "Z największą przyjemnością. Fabryka nie została spalona…",
+  "status": "draft"
+ },
+ "n:line:0585657": {
+  "pl": "Możesz to… rozwinąć, detektywie?",
+  "status": "draft"
+ },
+ "n:line:0599002": {
+  "pl": "<size=0.7em>To nie ta kwestia! Włożyłam mnóstwo myśli w tematykę tego adresu…",
+  "status": "draft"
+ },
+ "n:line:05c4ffb": {
+  "pl": "<size=0.7em>Co?! Przecież leżę tu na samym środku!</size>",
+  "status": "draft"
+ },
+ "n:line:05e5471": {
+  "pl": "Z przyjemnością! Peter nie został zastrzelony…",
+  "status": "review"
+ },
+ "n:line:05ef29c": {
+  "pl": "Brian Samsworth!",
+  "status": "draft"
+ },
+ "n:line:060d6c8": {
+  "pl": "Drzwi Ruby są zamknięte na głucho. Musimy znaleźć jakiś sposób, żeby się dostać do środka.",
+  "status": "review"
+ },
+ "n:line:0622027": {
+  "pl": "<size=0.7em>Dawaj to, psujesz mi starannie wyważone tempo!",
+  "status": "draft"
+ },
+ "n:line:062b8f2": {
+  "pl": "Może pan jeszcze raz opowiedzieć, jak to było?",
+  "status": "draft"
+ },
+ "n:line:062cf4e": {
+  "pl": "Ależ Chet, nie możemy jej zamknąć. To człowiek, a nie książka!",
+  "status": "review"
+ },
+ "n:line:0636759": {
+  "pl": "Bulwar!",
+  "status": "draft"
+ },
+ "n:line:0644d65": {
+  "pl": "<size=1.2em>Jak pan sobie życzy, detektywie!</size>",
+  "status": "draft"
+ },
+ "n:line:06562e0": {
+  "pl": "Wyłudzenia…",
+  "status": "review"
+ },
+ "n:line:065f29e": {
+  "pl": "Nie zamierzam. Uwaga, obywatele!",
+  "status": "draft"
+ },
+ "n:line:0661c0b": {
+  "pl": "Szacun. Naprawdę szacun.",
+  "status": "review"
+ },
+ "n:line:06663bc": {
+  "pl": "Yyy… nie…? Co?",
+  "status": "draft"
+ },
+ "n:line:066c3df": {
+  "pl": "A wszystko dlatego, że zazdrościłem jej fabryce łamigłówek monopolu na produkcję zamków!",
+  "status": "draft"
+ },
+ "n:line:0672147": {
+  "pl": "Prawdziwe narzędzie zbrodni jest w jego walizce…",
+  "status": "draft"
+ },
+ "n:line:0672887": {
+  "pl": "<size=0.7em>Yyy… chyba to nie twoja kwestia…</size>",
+  "status": "draft"
+ },
+ "n:line:068134f": {
+  "pl": "<style=\"clue\">{0} {1}</style>?",
+  "status": "review"
+ },
+ "n:line:06943f9": {
+  "pl": "Ups, daj mi sekundę. To… bardzo obciążające!",
+  "status": "draft"
+ },
+ "n:line:06a8f95": {
+  "pl": "<size=0.7em>Skoro już improwizujesz, to <i>przynajmniej</i> graj „tak, i…”! Lepiej trzymaj się mojego scenariusza.",
+  "status": "draft"
+ },
+ "n:line:06aa15a": {
+  "pl": "Dokładnie to sugeruję! A co do mordercy… nie mam pojęcia!",
+  "status": "draft"
+ },
+ "n:line:06b61dd": {
+  "pl": "Przeprosiny zachowaj na sąd! Kolejna zagadka w kieszeni dla…",
+  "status": "draft"
+ },
+ "n:line:06da958": {
+  "pl": "Mógłbym przysiąc, że mój <style=\"clue\">groźny list szantażysty</style> był dość tajemniczy i subtelny, by nikt nie wytropił jego autora.",
+  "status": "draft"
+ },
+ "n:line:06fc214": {
+  "pl": "Mój Boże! To obraz przedstawiający, jak <style=\"clue\">ktoś podpala fabrykę Ruby!</style> To musiał być Peter!",
+  "status": "draft"
+ },
+ "n:line:07078d7": {
+  "pl": "Ale przeraziłem się, gdy zrozumiałem, że dobiega on z <style=\"clue\">domu mojego przyjaciela, Petera Hintza!</style>",
+  "status": "draft"
+ },
+ "n:line:07090d8": {
+  "pl": "<size=0.7em>Hej! Tego nie napisałam. <i>Trzymaj się scenariusza.</i> Jest bardzo dobry.",
+  "status": "draft"
+ },
+ "n:line:0709898": {
+  "pl": "Peter został zabity pędzlem!",
+  "status": "draft"
+ },
+ "n:line:0730d43": {
+  "pl": "Chyba nie sugerujesz, że to <style=\"clue\">ja spaliłem fabrykę Ruby</style>?!",
+  "status": "draft"
+ },
+ "n:line:0752bc3": {
+  "pl": "Widzisz coś <style=\"clue\">przez okno?</style>",
+  "status": "draft"
+ },
+ "n:line:07530bf": {
+  "pl": "Dlaczego… ach, DLACZEGO ktoś miałby chcieć ŚMIERCI Petera?",
+  "status": "draft"
+ },
+ "n:line:075f701": {
+  "pl": "<size=0.7em>To <i>zupełnie</i> poza scenariuszem! Wróć na początek i zagraj jeszcze raz.",
+  "status": "draft"
+ },
+ "n:line:078094f": {
+  "pl": "17...",
+  "status": "draft"
+ },
+ "n:line:07a2cf6": {
+  "pl": "Proszę przyjść prosto do mnie. Bez ani jednego skrętu!",
+  "status": "draft"
+ },
+ "n:line:07c0c22": {
+  "pl": "Wcale nie!",
+  "status": "draft"
+ },
+ "n:line:07c3d54": {
+  "pl": "Yyy…",
+  "status": "draft"
+ },
+ "n:line:07d43a9": {
+  "pl": "Dlatego mówią na mnie <i>Solverson.</i> Do zobaczenia wkrótce.",
+  "status": "draft"
+ },
+ "n:line:081b575": {
+  "pl": "Właścicielkę fabryki, Ruby Niewinowską, stojącą nad jego ciałem z dymiącym pistoletem – w przenośni <i>i</i> dosłownie! <style=\"clue\">Ruby zastrzeliła Petera!</style>",
+  "status": "draft"
+ },
+ "n:line:0833f35": {
+  "pl": "Bertrand Solverson!",
+  "status": "draft"
+ },
+ "n:line:083787b": {
+  "pl": "<size=0.7em>Yyy... byłoby dużo lepiej, gdyby trzymać się roli. No, na czym to ja stanąłem? Ach!</size>",
+  "status": "draft"
+ },
+ "n:line:0844d53": {
+  "pl": "Proszę opowiedzieć mi <i>wszystko</i>, co pan widział. Bez pomijania szczegółów ani uczuć!",
+  "status": "draft"
+ },
+ "n:line:0846556": {
+  "pl": "Aha. No to chyba po prostu uwierzę panu na słowo, w ciemno!",
+  "status": "draft"
+ },
+ "n:line:084ffe8": {
+  "pl": "Proszę mówić śmiało. <i>Sypać jak z rękawa.</i>",
+  "status": "draft"
+ },
+ "n:line:085dc37": {
+  "pl": "62...",
+  "status": "draft"
+ },
+ "n:line:086aac2": {
+  "pl": "<size=0.7em>Yyy… chyba to nie twoja kwestia…</size>",
+  "status": "draft"
+ },
+ "n:line:0877e4b": {
+  "pl": "CO?!",
+  "status": "draft"
+ },
+ "n:line:0895309": {
+  "pl": "<size=0.7em>Jakim <i>cudem</i> na <i>to</i> wpadasz? Spróbuj jeszcze raz. I użyj tym razem mózgu.",
+  "status": "draft"
+ },
+ "n:line:089a2c7": {
+  "pl": "Po namyśle chyba ja potrzebuję tego bardziej niż pan.",
+  "status": "draft"
+ },
+ "n:line:08a6494": {
+  "pl": "<size=0.7em>A teraz uważaj na <style=\"clue\">scenariusz.</style> Chet praktycznie podaje ci odpowiedź!",
+  "status": "draft"
+ },
+ "n:line:08a6a1d": {
+  "pl": "Trafna, choć dziwnie konkretna analiza. Ale musimy wysłuchać, co ma do powiedzenia Ruby!",
+  "status": "draft"
+ },
+ "n:line:08b0934": {
+  "pl": "<style=\"clue\">{2} {1} {0}</style>?",
+  "status": "review"
+ },
+ "n:line:08b1631": {
+  "pl": "Oczywiście! Nie nazywasz się Ruby Niewinowska…",
+  "status": "draft"
+ },
+ "n:line:08b8f5b": {
+  "pl": "<size=0.7em>Dobra, nie spiesz się. Przecież nikt nas nie ogląda, żadna publiczność ani nic.</size>",
+  "status": "draft"
+ },
+ "n:line:08bfba2": {
+  "pl": "Chętnie bym wszystko wysypał, jak pan sobie życzy, ale...",
+  "status": "draft"
+ },
+ "n:line:08d5af9": {
+  "pl": "Dziś bez spraw! Dochodzę do siebie po nocy pełnej detektywowania...",
+  "status": "draft"
+ },
+ "n:line:08dd6f9": {
+  "pl": "Potrzebuję chwili, żeby się rozejrzeć!",
+  "status": "draft"
+ },
+ "n:line:08e61a6": {
+  "pl": "Najpierw pomyślałem, że to kolejny wybuch z <style=\"clue\">spalonej fabryki zamków na północy</style>.",
+  "status": "draft"
+ },
+ "n:line:08fb93a": {
+  "pl": "Peter został zabity siekierą!",
+  "status": "draft"
+ },
+ "n:line:091edc3": {
+  "pl": "Został uduszony!",
+  "status": "draft"
+ },
+ "n:line:0925369": {
+  "pl": "Oto ona, <i>morderczyni!</i> Co ma na swoją obronę?",
+  "status": "draft"
+ },
+ "n:line:095fcb8": {
+  "pl": "Nie ma śladów po kulach!",
+  "status": "draft"
+ },
+ "n:line:096f162": {
+  "pl": "Chyba faktycznie <i>dałem</i> ci dość wskazówek, żeby poskładać tę układankę… *gul*",
+  "status": "draft"
+ },
+ "n:line:0972e6c": {
+  "pl": "Nie!!! To całkiem zbędne, ee- to znaczy, yy... Nie pamiętam adresu Petera.",
+  "status": "draft"
+ },
+ "n:line:097966a": {
+  "pl": "<size=0.7em>Yyy… chyba to nie twoja kwestia…</size>",
+  "status": "draft"
+ },
+ "n:line:09a224e": {
+  "pl": "Bzdura! Pańskie alibi wystarczy, żeby ustalić, gdzie <i>dokładnie</i> mieszka Peter!",
+  "status": "draft"
+ },
+ "n:line:09ed607": {
+  "pl": "Bez wątpienia. Właściwie cały czas stoję tuż pod drzwiami!",
+  "status": "draft"
+ },
+ "n:line:0a130bd": {
+  "pl": "Jest pan całkiem pewien tego imienia? To ee-- nie to, co stoi w Żółtych Stronach Zagadek... No to poczekam.",
+  "status": "review"
+ },
+ "n:line:0a17e0f": {
+  "pl": "Prawdziwe narzędzie zbrodni jest w jego kuchennej szafce…",
+  "status": "draft"
+ },
+ "n:line:0a19213": {
+  "pl": "Dama jasno powiedziała, że do niego strzeliła. <i>W twarz!</i> U mnie to bardzo źle widziane zachowanie. Zamknijmy ją!",
+  "status": "review"
+ },
+ "n:line:0a294a9": {
+  "pl": "Oto Eska-Cola, której pan tak szczęśliwie potrzebuje! <style=\"purchase\">(Daj napój)</style>",
+  "status": "draft"
+ },
+ "n:line:0a2c752": {
+  "pl": "Podpalenia…",
+  "status": "review"
+ },
+ "n:line:0a2ec9a": {
+  "pl": "Jestem tak przytłoczony. Nie dam rady bez <style=\"clue\">puszki Eska-Coli</style>, żeby uspokoić nerwy.",
+  "status": "review"
+ },
+ "n:line:0a60d2b": {
+  "pl": "Ale jeśli to <style=\"clue\">nie pistolet</style> zabił Petera, to co?",
+  "status": "draft"
+ },
+ "n:line:0a73a95": {
+  "pl": "Aaach, nic tak nie koi duszy jak porządna Eska-Cola!",
+  "status": "draft"
+ },
+ "n:line:0a9072f": {
+  "pl": "Och, detektywie! Z niecierpliwością czekałam na twoje przybycie. Muszę ci się do czegoś <style=\"clue\">przyznać</style>.",
+  "status": "draft"
+ },
+ "n:line:0a9564e": {
+  "pl": "45...",
+  "status": "draft"
+ },
+ "n:line:0a9b5f5": {
+  "pl": "Ledwo tu wytrzymuję na nogach, detektywie, chyba lepiej usiądę…",
+  "status": "draft"
+ },
+ "n:line:0aaacd2": {
+  "pl": "Aleja!",
+  "status": "draft"
+ },
+ "n:line:0ab0826": {
+  "pl": "Gdy to znajdziesz, na pewno będzie bardzo obciążające akurat dla Ruby Niewinowskiej!",
+  "status": "draft"
+ },
+ "n:line:0ac4e8e": {
+  "pl": "<size=0.7em>Ależ istnieje… sama go namalowałam! Spróbuj tej sceny jeszcze raz.",
+  "status": "draft"
+ },
+ "n:line:0acd52f": {
+  "pl": "Potrzebuję chwili, śmierć mnie przerasta.",
+  "status": "draft"
+ },
+ "n:line:0ad3b60": {
+  "pl": "Powiedział pan...",
+  "status": "draft"
+ },
+ "n:line:0af8823": {
+  "pl": "Źle widziane? Owszem. <i>Ale prawdziwe?</i> Wątpię!",
+  "status": "draft"
+ },
+ "n:line:0b0c3e0": {
+  "pl": "Chcesz powiedzieć, że według ciebie dzieje się tu coś jeszcze?",
+  "status": "draft"
+ },
+ "n:line:0b14213": {
+  "pl": "<size=0.7em>W tej scenie masz <style=\"clue\">podać mi puszkę Eska-Coli.</style>",
+  "status": "draft"
+ },
+ "n:line:0b1d498": {
+  "pl": "No to skoro pan taki mądry, jaki był adres Petera?",
+  "status": "draft"
+ },
+ "n:line:0b1e863": {
+  "pl": "Spójrz! <style=\"purchase\">(Pokaż obraz)</style>",
+  "status": "draft"
+ },
+ "n:line:0b1fee6": {
+  "pl": "Peter Hintz mieszkał pod numerem...",
+  "status": "review"
+ },
+ "n:line:0b2a981": {
+  "pl": "Mówisz, że adres Petera to…",
+  "status": "draft"
+ },
+ "n:line:0b2ced9": {
+  "pl": "Do <i>kłódki</i> nędzy! Chyba po mnie!",
+  "status": "review"
+ },
+ "n:line:0b41e05": {
+  "pl": "Ojej!",
+  "status": "draft"
+ },
+ "n:line:0b55e4e": {
+  "pl": "<size=0.7em>Nie patrz tak na mnie, ja tego nie pisałem!",
+  "status": "draft"
+ },
+ "n:line:0b56d7f": {
+  "pl": "Nie jest!",
+  "status": "draft"
+ },
+ "n:line:0b5c4e2": {
+  "pl": "Teraz czuję się wystarczająco nawodniony, żeby wprowadzić pana w tę katastrofalną fabułę – to znaczy... w tę tragiczną zbrodnię!",
+  "status": "draft"
+ },
+ "n:line:0b6b53e": {
+  "pl": "Naprawdę?!",
+  "status": "review"
+ },
+ "n:line:0b902fc": {
+  "pl": "<size=0.7em>Ta sztuka jest zupełnie bez ładu i składu?</size>",
+  "status": "draft"
+ },
+ "n:line:0b97ac6": {
+  "pl": "Chwila! Muszę się pozbierać jak... owoce w sadzie.",
+  "status": "review"
+ },
+ "n:line:0b9c4d8": {
+  "pl": "Proszę nie przerywać, akurat zaczynało mnie to wciągać!",
+  "status": "draft"
+ },
+ "n:line:0ba03aa": {
+  "pl": "<size=0.7em>Yyy… w tej scenie masz mi <style=\"clue\">podać jakiś dowód</style>.",
+  "status": "draft"
+ },
+ "n:line:0ba31c0": {
+  "pl": "Czy mamy <i>absolutną</i> pewność, że nie żyje?",
+  "status": "draft"
+ },
+ "n:line:0bd1d61": {
+  "pl": "Bertrand...",
+  "status": "draft"
+ },
+ "n:line:0bd2ca6": {
+  "pl": "Och, detektywie, tak mi przykro, że wprowadziłam cię w błąd. Nie miałam wyboru przez moje samolubne pragnienie, by nie spłonąć żywcem.",
+  "status": "draft"
+ },
+ "n:line:0bd8e3b": {
+  "pl": "Nie. Mówię, że w ogóle nie było morderstwa!",
+  "status": "draft"
+ },
+ "n:line:0be1796": {
+  "pl": "Został wysadzony w powietrze!",
+  "status": "review"
+ },
+ "n:line:0bfa4dc": {
+  "pl": "Nie tak szybko, Łotrowiczu, najpierw muszę <i>dobrze</i> obejrzeć miejsce zbrodni.",
+  "status": "draft"
+ },
+ "n:line:0bfe2c2": {
+  "pl": "*Jęczy* Jestem… martwy…",
+  "status": "draft"
+ },
+ "n:line:0c0893f": {
+  "pl": "Bo to ja, <i>detektyw Solverson.</i>",
+  "status": "review"
+ },
+ "n:line:0c1d384": {
+  "pl": "Tak!",
+  "status": "draft"
+ },
+ "n:line:0c27570": {
+  "pl": "<size=0.7em>To było <i>tuż</i> obok! <i>Tuż</i> obok! Wielkie nieba.",
+  "status": "draft"
+ },
+ "n:line:0c3d5ab": {
+  "pl": "Peter został zabity patelnią!",
+  "status": "draft"
+ },
+ "n:line:0c5229b": {
+  "pl": "Obraz nie obciąża Petera Hintza.",
+  "status": "draft"
+ },
+ "n:line:0c65657": {
+  "pl": "*Sapnięcie* Chcesz powiedzieć, że narzędziem zbrodni było <style=\"clue\">coś innego</style>?!",
+  "status": "draft"
+ },
+ "n:line:0c67c22": {
+  "pl": "<size=0.7em>Chyba <style=\"clue\">zapominasz coś zrobić z tym obrazem.</style></size>",
+  "status": "draft"
+ },
+ "n:line:0c6cdb0": {
+  "pl": "<size=0.7em>A ja tak! Jak myślisz, kto zapłacił za całą scenografię?",
+  "status": "draft"
+ },
+ "n:line:0c80f26": {
+  "pl": "Lockson...",
+  "status": "review"
+ },
+ "n:line:0c879d2": {
+  "pl": "Może pan jeszcze raz opowiedzieć, jak to było?",
+  "status": "draft"
+ },
+ "n:line:0c8c246": {
+  "pl": "Peter został zabity młotkiem!",
+  "status": "draft"
+ },
+ "n:line:0cb4487": {
+  "pl": "Czy mamy <i>absolutną</i> pewność, że nie żyje?",
+  "status": "draft"
+ },
+ "n:line:0cc7fc8": {
+  "pl": "<size=0.7em>Jesteś <i>detektywem</i>, masz podejrzewać wszystkich! Facet ma na nazwisko Łotrowicz!",
+  "status": "draft"
+ },
+ "n:line:0cdc1c8": {
+  "pl": "Peter Hintz wciąż żyje!",
+  "status": "draft"
+ },
+ "n:line:0ce3001": {
+  "pl": "Nie ma sprawy, proszę pani! Kolejny dzień, kolejna sprawa rozwiązana przez…",
+  "status": "review"
+ },
+ "n:line:0ce5083": {
+  "pl": "Daj mi chwilę, a ci powiem!",
+  "status": "draft"
+ },
+ "n:line:0cfc230": {
+  "pl": "I że potem podjąłem misterne kroki, by <style=\"clue\">wyglądało na to, że winny jest Peter Hintz</style>…",
+  "status": "draft"
+ },
+ "n:line:0d08a8e": {
+  "pl": "Ale jeśli Peter nie został zastrzelony, jakie jeszcze dowody niezdarnie zainscenizowaliśmy?",
+  "status": "draft"
+ },
+ "n:line:0d17995": {
+  "pl": "O rety! No to chyba głośny huk, który wcześniej słyszałem, <i>rzeczywiście</i> był z fabryki i na pewno <i>nie</i> należał do mojego kiepsko skleconego alibi.",
+  "status": "draft"
+ },
+ "n:line:0d20347": {
+  "pl": "…Nigdy nie istniał!",
+  "status": "draft"
+ },
+ "n:line:0d30251": {
+  "pl": "<size=0.7em>Ach tak, to właśnie mówią <i>zwłoki</i>? Że nie żyją? *Westchnienie*",
+  "status": "draft"
+ },
+ "n:line:0d42b24": {
+  "pl": "Został dźgnięty!",
+  "status": "draft"
+ },
+ "n:line:0d46b57": {
+  "pl": "Nie jest!",
+  "status": "draft"
+ },
+ "n:line:0d47bf1": {
+  "pl": "Daj mi chwilę, a ci powiem!",
+  "status": "draft"
+ },
+ "n:line:0d619f5": {
+  "pl": "Peter Hintz nie był malarzem.",
+  "status": "draft"
+ },
+ "n:line:0d9b1d3": {
+  "pl": "Ja ee- po prostu <style=\"clue\">poczekam tu na swój napój</style>, a tymczasem po cichu wpadnę w emocjonalną spiralę!",
+  "status": "draft"
+ },
+ "n:line:0dd5439": {
+  "pl": "No widzisz, sam to powiedział! Jest <i>martwy</i>!",
+  "status": "draft"
+ },
+ "n:line:0de0c9d": {
+  "pl": "To lepiej <style=\"clue\">weź ten obciążający obraz</style>!",
+  "status": "draft"
+ },
+ "n:line:0df4e1e": {
+  "pl": "To ty jesteś morderczynią?",
+  "status": "draft"
+ },
+ "n:line:0dfe80f": {
+  "pl": "<size=0.7em>Nic nie szkodzi. Grajmy dalej!",
+  "status": "draft"
+ },
+ "n:line:0e09d4e": {
+  "pl": "...Parrot.",
+  "status": "draft"
+ },
+ "n:line:0e20c25": {
+  "pl": "Ja nie widzę absolutnie nic podejrzanego!",
+  "status": "draft"
+ },
+ "n:line:0e3693a": {
+  "pl": "Niestety jestem straszliwie spragniony i bez napoju nie mogę posunąć naprzód sztuki – ee... <i>sprawy</i>.",
+  "status": "draft"
+ },
+ "n:line:0e4164d": {
+  "pl": "Dobrze, że mam lodówkę pełną napoju numer jeden całego świata Escape!",
+  "status": "draft"
+ },
+ "n:line:0e45f92": {
+  "pl": "A gdyby Peter spalił <i>moją</i> fabrykę, na pewno dźgnąłbym go w kuchni nożem trzy albo cztery razy w klatkę piersiową.",
+  "status": "draft"
+ },
+ "n:line:0e69010": {
+  "pl": "Ale dzięki tobie prawdziwy winowajca, Chet Łotrowicz, po którym nikt by się nie spodziewał, że okaże się łotrem, zgnije w więzieniu na zawsze!",
+  "status": "draft"
+ },
+ "n:line:0e8c112": {
+  "pl": "To, yyy… co o tym wszystkim sądzisz, detektywie?",
+  "status": "draft"
+ },
+ "n:line:0ef1fe0": {
+  "pl": "<size=0.7em>Wchodzisz mi w kwestię!",
+  "status": "draft"
+ },
+ "n:line:0efccfe": {
+  "pl": "To straszny dzień w Mieście Zbrodni, gdy ja, Chet Łotrowicz, całkowicie niepodejrzany i szanowany obywatel, muszę <style=\"clue\">być świadkiem morderstwa!</style>",
+  "status": "draft"
+ },
+ "n:line:0efdf7f": {
+  "pl": "Peter i ja kłóciliśmy się latami, bo <style=\"clue\">spalił moją fabrykę łamigłówek do fundamentów</style>. Kto by nie chciał zemsty?",
+  "status": "draft"
+ },
+ "n:line:0f2d184": {
+  "pl": "Ulica!",
+  "status": "draft"
+ },
+ "n:line:0f35405": {
+  "pl": "<size=0.7em>Właśnie że był!</size>",
+  "status": "draft"
+ },
+ "n:line:0f51f3a": {
+  "pl": "<size=0.7em>To <style=\"clue\">w ogóle nie twoje imię</style>! Jeszcze raz. I to <i>z uczuciem!</i>",
+  "status": "draft"
+ },
+ "n:line:0f66e1d": {
+  "pl": "Aaach! Ale skąd o tym wiesz?",
+  "status": "draft"
+ },
+ "n:line:0f9e615": {
+  "pl": "30...",
+  "status": "draft"
+ },
+ "n:line:0faaa9f": {
+  "pl": "<size=0.7em>To masło maślane. <i>Trzymaj się scenariusza!</i>",
+  "status": "draft"
+ },
+ "n:line:0fc7c9d": {
+  "pl": "Halo, tu biuro detektywa...",
+  "status": "draft"
+ },
+ "n:line:0fcc002": {
+  "pl": "...Solverson.",
+  "status": "draft"
+ },
+ "n:line:0fdf2ca": {
+  "pl": "Ee- niech będzie, detektywie. Ale ostrzegam, zostanę na linii, dopóki nie zdecyduje się pan przyjąć mojej sprawy!",
+  "status": "draft"
+ }
+}

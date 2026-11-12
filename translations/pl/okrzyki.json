@@ -1,0 +1,198 @@
+{
+ "b:Gillian_MSC_Coy": {
+  "pl": "*Zalotny chichot*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_Coy_ALT": {
+  "pl": "*Zalotny chichot*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_Determined": {
+  "pl": "*Zdeterminowane mruknięcie*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_EyeRollSigh": {
+  "pl": "*Przewraca oczami*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_EyeRollSigh_ALT": {
+  "pl": "*Przewraca oczami*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_Foolhardy": {
+  "pl": "*Rechot*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_GenuineLaugh": {
+  "pl": "*Śmiech*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_HoldOn": {
+  "pl": "Trzymaj się!!",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_ProudOfPlayer": {
+  "pl": "*Dumne mruknięcie*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_ScoffingLaugh": {
+  "pl": "*Prycha*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_Sharp": {
+  "pl": "*Warczy*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_Sharp_ALT": {
+  "pl": "*Warczy*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_Smirk": {
+  "pl": "*Uśmiecha się drwiąco*",
+  "status": "draft"
+ },
+ "b:Gillian_MSC_Terrified": {
+  "pl": "*Przerażone odgłosy*",
+  "status": "draft"
+ },
+ "b:Gillian_PRO01_1": {
+  "pl": "*Zalotny chichot*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Angry": {
+  "pl": "*Warczy*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Annoyed": {
+  "pl": "*Poirytowane warknięcie*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Annoyed_Alt1": {
+  "pl": "CO?",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Bored": {
+  "pl": "*Znudzone westchnienie*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Bored_Alt": {
+  "pl": "Szukasz czegoś?",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Bye": {
+  "pl": "Pa, pa.",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Bye_Alt": {
+  "pl": "Jasne, pa.",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Chuckle_Alt1": {
+  "pl": "*Chichot*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Confused_Alt": {
+  "pl": "*Zdezorientowany dźwięk*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Defiant_Alt": {
+  "pl": "*Buntownicze prychnięcie*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Determined": {
+  "pl": "*Zdeterminowane mruknięcie*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_DidntSeeYou": {
+  "pl": "O, nie zauważyłam cię.",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Dismayed_Alt3": {
+  "pl": "A niech to!",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Dismayed_Alt4": {
+  "pl": "*Przerażony jęk*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Dismissive": {
+  "pl": "Ech, proszę cię.",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Gasp": {
+  "pl": "*Wstrzymuje oddech*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_GillianPaisley": {
+  "pl": "Jestem Gillian Paisley.",
+  "status": "draft"
+ },
+ "b:Rival_MSC_GillianPaisley_Alt": {
+  "pl": "Jestem Gillian Paisley. No wiesz… z TYCH Paisleyów?",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Happy": {
+  "pl": "*Radosne odgłosy*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Hey": {
+  "pl": "Hej.",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Horrified": {
+  "pl": "*Przerażone odgłosy*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Hurt": {
+  "pl": "*Jęki bólu*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Inquisitive": {
+  "pl": "*Pytające mruknięcie*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Investigative": {
+  "pl": "Hmm…",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Investigative_Alt2": {
+  "pl": "Hm…",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Laugh": {
+  "pl": "*Śmiech*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Laugh_Alt": {
+  "pl": "*Śmiech*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Panicked_Alt2": {
+  "pl": "*Panikujące odgłosy*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Proud_Alt1": {
+  "pl": "*Dumne mruknięcie*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Scared": {
+  "pl": "*Panikujące odgłosy*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Shocked": {
+  "pl": "Co…?",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Shocked_Alt": {
+  "pl": "O mój Boże!",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Surprised": {
+  "pl": "*Zaskoczony dźwięk*",
+  "status": "draft"
+ },
+ "b:Rival_MSC_Upset_Alt": {
+  "pl": "*Smutne odgłosy*",
+  "status": "draft"
+ }
+}
