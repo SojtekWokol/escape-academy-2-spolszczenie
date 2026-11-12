@@ -1,0 +1,17 @@
+# Repozytorium tłumaczenia: tylko polskie teksty, słownik, wydania, fonty i akcja wydań.
+# Wszystko inne w tym folderze (kod, kopie gry, teksty wyciągnięte z gry, robocze pliki) jest lokalne.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE*
+!/.github/
+!/translations/
+!/fonts/
+# lokalne: co jest wgrane do Twojej gry, ustawienia warsztatu
+/translations/builds/
+/translations/meta.json
+/translations/*.tmp
+# fonty źródłowe, z których zrobiono pliki powyżej (niepotrzebne do budowy)
+/fonts/Caveat-VF.ttf
+/fonts/Knewave-Regular.ttf

@@ -1,0 +1,74 @@
+# Release of the Polish translation: push a tag "v1.0.0" (made after "Wydaj wersję 1.0.0" in the
+# workshop, which writes translations/releases/1.0.0.json) and GitHub builds the players' installer
+# from that release and attaches it to a GitHub Release. No game files are needed for this.
+#
+# The workshop code (Rust workspace) lives in the repository named in the repository variable
+# WARSZTAT_REPO (e.g. "owner/warsztat"); leave it unset if the code is in this repository under rust/.
+name: Wydanie
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Wersja do zbudowania (np. 1.0.0)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  instalator:
+    runs-on: windows-latest
+    env:
+      VERSION: ${{ inputs.version || github.ref_name }}
+    steps:
+      - name: Tłumaczenie (to repozytorium)
+        uses: actions/checkout@v4
+        with:
+          path: tlumaczenie
+
+      - name: Kod warsztatu
+        if: ${{ vars.WARSZTAT_REPO != '' }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ vars.WARSZTAT_REPO }}
+          path: warsztat
+
+      - name: Ścieżki
+        shell: bash
+        run: |
+          if [ -d warsztat ]; then echo "RUST_DIR=warsztat/rust" >> "$GITHUB_ENV"; else echo "RUST_DIR=tlumaczenie/rust" >> "$GITHUB_ENV"; fi
+          echo "EA2_TRANSLATIONS=$GITHUB_WORKSPACE/tlumaczenie/translations" >> "$GITHUB_ENV"
+          echo "EA2_FONTS=$GITHUB_WORKSPACE/tlumaczenie/fonts" >> "$GITHUB_ENV"
+          echo "EA2_RELEASE=${VERSION#v}" >> "$GITHUB_ENV"
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: ${{ env.RUST_DIR }}
+
+      - name: Budowa instalatora
+        shell: bash
+        run: |
+          cd "$RUST_DIR"
+          cargo build --release -p instalator
+          mkdir -p "$GITHUB_WORKSPACE/out"
+          cp target/release/ea2-spolszczenie.exe "$GITHUB_WORKSPACE/out/EA2-Spolszczenie-$EA2_RELEASE.exe"
+
+      - name: Wydanie na GitHubie
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ env.EA2_RELEASE }}
+          name: Spolszczenie Escape Academy 2 – ${{ env.EA2_RELEASE }}
+          files: out/EA2-Spolszczenie-${{ env.EA2_RELEASE }}.exe
+          body: |
+            Nieoficjalne polskie tłumaczenie Escape Academy 2.
+
+            1. Pobierz **EA2-Spolszczenie-${{ env.EA2_RELEASE }}.exe** i uruchom (gra musi być zamknięta).
+            2. Kliknij **Zainstaluj**.
+            3. W grze wybierz w ustawieniach język **POLSKI**.
+
+            Przycisk **Przywróć wersję oryginalną** w tym samym programie cofa zmiany.

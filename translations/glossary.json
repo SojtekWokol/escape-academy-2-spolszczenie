@@ -1,0 +1,241 @@
+{
+  "_info": "Słowniczek dla warsztatu i Bielika. status: ok = ustalone, ? = propozycja. Zasady i uzasadnienia: GLOSARIUSZ.md",
+  "rules": [
+    "Nie używaj form z rodzajem wobec gracza (zamiast 'zrobiłeś/zrobiłaś' pisz 'udało ci się'); myśli gracza też bez rodzaju.",
+    "Profesorowie i dyrektorka mówią do ucznia na 'ty'; uczniowie do profesorów 'pani profesor' / 'panie profesorze'.",
+    "Polecenia w zadaniach w 2. osobie: 'Porozmawiaj z…', 'Znajdź…'.",
+    "Imion i nazwisk postaci nie tłumacz, poza nazwiskami-żartami ze słowniczka (np. Chet Łotrowicz); 'Escape Academy' zostaje, ale się odmienia.",
+    "Kalambury oddawaj polskimi kalamburami; przyciski i interfejs krótko.",
+    "Polskie cudzysłowy „…”, wielokropek …; znaczniki <…> i kody {0} przepisuj dokładnie."
+  ],
+  "terms": [
+    {
+      "en": "Escape Academy",
+      "pl": "Escape Academy",
+      "status": "ok",
+      "note": "nie tłumaczymy, odmieniamy"
+    },
+    {
+      "en": "Escapist",
+      "pl": "eskapista / eskapistka",
+      "status": "ok"
+    },
+    {
+      "en": "Escapists",
+      "pl": "eskapiści",
+      "status": "ok"
+    },
+    {
+      "en": "Headmaster",
+      "pl": "dyrektorka",
+      "status": "ok",
+      "note": "Solange to kobieta"
+    },
+    {
+      "en": "Professor",
+      "pl": "profesor",
+      "status": "ok",
+      "note": "także dla kobiet"
+    },
+    {
+      "en": "Star Student",
+      "pl": "prymus",
+      "status": "ok",
+      "note": "o jednej osobie, zwłaszcza o graczu: 'gwiazda roku' (bez rodzaju osoby); 'prymus' tylko gdy wiadomo, że to chłopak"
+    },
+    {
+      "en": "Founders",
+      "pl": "założyciele",
+      "status": "ok"
+    },
+    {
+      "en": "Founder",
+      "pl": "założyciel / założycielka",
+      "status": "ok"
+    },
+    {
+      "en": "Campus Police",
+      "pl": "ochrona kampusu",
+      "status": "ok"
+    },
+    {
+      "en": "The Purrfessor",
+      "pl": "Profesor Mruczyński",
+      "status": "ok"
+    },
+    {
+      "en": "Council of Escape",
+      "pl": "Rada Eskapistów",
+      "status": "ok"
+    },
+    {
+      "en": "Science Campus",
+      "pl": "Wydział Nauk Ścisłych",
+      "status": "ok"
+    },
+    {
+      "en": "Humanities Campus",
+      "pl": "Wydział Humanistyczny",
+      "status": "ok"
+    },
+    {
+      "en": "Arts Campus",
+      "pl": "Wydział Sztuki",
+      "status": "ok"
+    },
+    {
+      "en": "Quad",
+      "pl": "dziedziniec",
+      "status": "ok"
+    },
+    {
+      "en": "Dorms",
+      "pl": "akademik",
+      "status": "ok"
+    },
+    {
+      "en": "Dorm",
+      "pl": "pokój w akademiku",
+      "status": "ok"
+    },
+    {
+      "en": "Headmaster's Office",
+      "pl": "gabinet dyrektorki",
+      "status": "ok"
+    },
+    {
+      "en": "Headmaster's Tower",
+      "pl": "wieża dyrektorki",
+      "status": "ok"
+    },
+    {
+      "en": "Clocktower",
+      "pl": "wieża zegarowa",
+      "status": "ok"
+    },
+    {
+      "en": "Cipher Center",
+      "pl": "Centrum Szyfrów",
+      "status": "ok"
+    },
+    {
+      "en": "Escape Shack Station",
+      "pl": "stacja Szopa Ucieczek",
+      "status": "ok"
+    },
+    {
+      "en": "Escape Room",
+      "pl": "escape room",
+      "status": "ok"
+    },
+    {
+      "en": "badge",
+      "pl": "odznaka",
+      "status": "ok"
+    },
+    {
+      "en": "School Credits",
+      "pl": "punkty szkolne",
+      "status": "ok"
+    },
+    {
+      "en": "Extra Credit",
+      "pl": "zadania dodatkowe",
+      "status": "ok",
+      "note": "kategoria zadań pobocznych w dzienniku; w żartach 'na szóstkę'"
+    },
+    {
+      "en": "Escapist Times",
+      "pl": "Kurier Eskapisty",
+      "status": "ok"
+    },
+    {
+      "en": "Escapist's Edge",
+      "pl": "Eska-Cola",
+      "status": "ok",
+      "note": "napój (cola/energetyk)"
+    },
+    {
+      "en": "Escapist's Hedge",
+      "pl": "Eska-Pole",
+      "status": "ok",
+      "note": "nawóz, gra słów z Eska-Cola (edge → hedge)"
+    },
+    {
+      "en": "Brain Storm",
+      "pl": "Burza Mózgów",
+      "status": "ok"
+    },
+    {
+      "en": "Red Herring",
+      "pl": "śledź-zmyłka",
+      "status": "ok"
+    },
+    {
+      "en": "Lock Ness Monster",
+      "pl": "potwór z Loch Kłódkness",
+      "status": "ok"
+    },
+    {
+      "en": "Lab Notes",
+      "pl": "notatki z laboratorium",
+      "status": "ok"
+    },
+    {
+      "en": "hint",
+      "pl": "podpowiedź",
+      "status": "ok"
+    },
+    {
+      "en": "quest",
+      "pl": "zadanie",
+      "status": "ok"
+    },
+    {
+      "en": "Star Students",
+      "pl": "prymusi",
+      "status": "ok"
+    },
+    {
+      "en": "credits",
+      "pl": "punkty",
+      "status": "ok",
+      "note": "waluta szkolna; Credit Door = drzwi na punkty"
+    },
+    {
+      "en": "Credit Door",
+      "pl": "drzwi na punkty",
+      "status": "ok"
+    },
+    {
+      "en": "Chet Badman",
+      "pl": "Chet Łotrowicz",
+      "status": "ok",
+      "note": "postać ze sztuki w pokoju GUN; nazwisko z łotra (bad man)"
+    },
+    {
+      "en": "Ruby L'Innocent",
+      "pl": "Ruby Niewinowska",
+      "status": "ok",
+      "note": "postać ze sztuki w pokoju GUN; nazwisko z 'niewinna'"
+    },
+    {
+      "en": "Lockjaw",
+      "pl": "Szczękościsk",
+      "status": "ok",
+      "note": "lockjaw = szczękościsk"
+    },
+    {
+      "en": "our Star Student",
+      "pl": "nasza gwiazda roku",
+      "status": "ok",
+      "note": "gracz – forma bez rodzaju osoby"
+    },
+    {
+      "en": "Escape Bucks",
+      "pl": "eskadolary",
+      "status": "ok",
+      "note": "waluta; l.poj. eskadolar; ${0} → {0} eskadolarów albo ${0}"
+    }
+  ]
+}
