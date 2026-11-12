@@ -20,7 +20,8 @@ permissions:
 
 jobs:
   instalator:
-    runs-on: windows-latest
+    # vars.RUNNER = "ea2-pc" sends the job to the own runner; unset = GitHub's machines
+    runs-on: ${{ vars.RUNNER || 'windows-latest' }}
     env:
       VERSION: ${{ inputs.version || github.ref_name }}
     steps:
@@ -37,12 +38,13 @@ jobs:
           path: warsztat
 
       - name: Ścieżki
-        shell: bash
+        shell: powershell
         run: |
-          if [ -d warsztat ]; then echo "RUST_DIR=warsztat/rust" >> "$GITHUB_ENV"; else echo "RUST_DIR=tlumaczenie/rust" >> "$GITHUB_ENV"; fi
-          echo "EA2_TRANSLATIONS=$GITHUB_WORKSPACE/tlumaczenie/translations" >> "$GITHUB_ENV"
-          echo "EA2_FONTS=$GITHUB_WORKSPACE/tlumaczenie/fonts" >> "$GITHUB_ENV"
-          echo "EA2_RELEASE=${VERSION#v}" >> "$GITHUB_ENV"
+          $rust = if (Test-Path warsztat) { "warsztat" } else { "tlumaczenie/rust" }
+          "RUST_DIR=$rust" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
+          "EA2_TRANSLATIONS=$env:GITHUB_WORKSPACE	lumaczenie	ranslations" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
+          "EA2_FONTS=$env:GITHUB_WORKSPACE	lumaczenieonts" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
+          "EA2_RELEASE=$($env:VERSION -replace '^v', '')" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
 
       - uses: dtolnay/rust-toolchain@stable
 
@@ -51,12 +53,13 @@ jobs:
           workspaces: ${{ env.RUST_DIR }}
 
       - name: Budowa instalatora
-        shell: bash
+        shell: powershell
         run: |
-          cd "$RUST_DIR"
+          Set-Location $env:RUST_DIR
           cargo build --release -p instalator
-          mkdir -p "$GITHUB_WORKSPACE/out"
-          cp target/release/ea2-spolszczenie.exe "$GITHUB_WORKSPACE/out/EA2-Spolszczenie-$EA2_RELEASE.exe"
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+          New-Item -ItemType Directory -Force "$env:GITHUB_WORKSPACE\out" | Out-Null
+          Copy-Item targetelease\ea2-spolszczenie.exe "$env:GITHUB_WORKSPACE\out\EA2-Spolszczenie-$env:EA2_RELEASE.exe"
 
       - name: Wydanie na GitHubie
         uses: softprops/action-gh-release@v2
