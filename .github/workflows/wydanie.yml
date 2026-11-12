@@ -64,12 +64,24 @@ jobs:
           New-Item -ItemType Directory -Force "$env:GITHUB_WORKSPACE/out" | Out-Null
           Copy-Item target/release/ea2-spolszczenie.exe "$env:GITHUB_WORKSPACE/out/EA2-Spolszczenie-$env:EA2_RELEASE.exe"
 
+      # the texts alone, for installed copies that update themselves (fixed name, so
+      # releases/latest/download/tlumaczenie.json always points at the newest one)
+      - name: Plik aktualizacji
+        shell: powershell
+        run: |
+          $src = "$env:EA2_TRANSLATIONS/releases/$env:EA2_RELEASE.json"
+          Copy-Item $src "$env:GITHUB_WORKSPACE/out/tlumaczenie.json"
+          (Get-FileHash "$env:GITHUB_WORKSPACE/out/tlumaczenie.json" -Algorithm SHA256).Hash.ToLower() | Out-File -Encoding ascii -NoNewline "$env:GITHUB_WORKSPACE/out/tlumaczenie.json.sha256"
+
       - name: Wydanie na GitHubie
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ env.EA2_RELEASE }}
           name: Spolszczenie Escape Academy 2 – ${{ env.EA2_RELEASE }}
-          files: out/EA2-Spolszczenie-${{ env.EA2_RELEASE }}.exe
+          files: |
+            out/EA2-Spolszczenie-${{ env.EA2_RELEASE }}.exe
+            out/tlumaczenie.json
+            out/tlumaczenie.json.sha256
           body: |
             Nieoficjalne polskie tłumaczenie Escape Academy 2.
 
@@ -78,3 +90,5 @@ jobs:
             3. W grze wybierz w ustawieniach język **POLSKI**.
 
             Przycisk **Przywróć wersję oryginalną** w tym samym programie cofa zmiany.
+
+            Masz już spolszczenie? Instalator i skrót „Escape Academy 2 (PL)” same zaproponują aktualizację.

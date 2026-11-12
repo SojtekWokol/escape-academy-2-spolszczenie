@@ -9,7 +9,11 @@ Obejmuje menu, zagadki, notatki, napisy, scenki fabularne, rozmowy na kampusie i
 2. Zamknij grę i uruchom pobrany program. Sam znajdzie grę (aplikacja Xbox / Game Pass albo Steam), w razie potrzeby wskaż jej folder.
 3. Kliknij **Zainstaluj**, a potem w ustawieniach gry wybierz język **POLSKI**.
 
-Ten sam program przywraca oryginalną wersję gry (**Przywróć wersję oryginalną**). Po aktualizacji gry zainstaluj spolszczenie ponownie.
+Ten sam program przywraca oryginalną wersję gry (**Przywróć wersję oryginalną**).
+
+**Żeby spolszczenie samo się aktualizowało**, kliknij w instalatorze **Utwórz skrót na pulpicie** i uruchamiaj grę tym skrótem
+(„Escape Academy 2 (PL)”). Przed każdym startem sprawdzi, czy spolszczenie jest na miejscu (aktualizacja gry je usuwa) i czy
+nie ma nowszej wersji tłumaczenia, i zaproponuje instalację. Pobiera z GitHuba tylko plik z tekstami.
 
 ## Jak pomóc
 
