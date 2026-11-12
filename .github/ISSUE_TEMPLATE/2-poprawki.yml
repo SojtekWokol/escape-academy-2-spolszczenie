@@ -1,0 +1,36 @@
+name: Poprawki z warsztatu
+description: Wyślij plik z poprawkami wyeksportowany z warsztatu (bez robienia pull requesta).
+title: "Poprawki: "
+labels: ["poprawki z warsztatu"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        W warsztacie kliknij **Eksportuj moje zmiany** (karta „Poprawki”). Plik trafi do folderu `poprawki/`
+        obok warsztatu – przeciągnij go poniżej. Zawiera tylko to, co zmienisz względem ostatniego wydania.
+  - type: input
+    id: autor
+    attributes:
+      label: Pseudonim
+      description: Tak podpiszemy Cię w podziękowaniach (może być ten sam co w pliku).
+  - type: textarea
+    id: opis
+    attributes:
+      label: Co poprawiasz?
+      description: Krótko, np. „rozmowy z Gillian w akademiku, literówki w pokoju DET”.
+    validations:
+      required: true
+  - type: textarea
+    id: plik
+    attributes:
+      label: Plik z poprawkami
+      description: Przeciągnij tutaj plik .json z folderu `poprawki/` (albo spakowany .zip).
+    validations:
+      required: true
+  - type: checkboxes
+    id: licencja
+    attributes:
+      label: Zgoda
+      options:
+        - label: Zgadzam się, żeby moje poprawki weszły do tłumaczenia na licencji CC BY 4.0.
+          required: true

@@ -1,0 +1,34 @@
+name: Błąd w tłumaczeniu
+description: Literówka, dziwne zdanie, zły termin albo coś nieprzetłumaczonego.
+title: "Błąd: "
+labels: ["błąd w tłumaczeniu"]
+body:
+  - type: markdown
+    attributes:
+      value: Dzięki, że pomagasz! Im dokładniej opiszesz miejsce, tym szybciej to poprawimy.
+  - type: input
+    id: gdzie
+    attributes:
+      label: Gdzie w grze?
+      description: Pokój, scenka, menu, rozmowa z kim…
+      placeholder: "np. pokój „Uwaga, koza!”, notatka na biurku"
+    validations:
+      required: true
+  - type: textarea
+    id: jest
+    attributes:
+      label: Jak jest teraz
+      description: Przepisz tekst albo wklej zrzut ekranu (Win+Shift+S, potem Ctrl+V tutaj).
+    validations:
+      required: true
+  - type: textarea
+    id: powinno
+    attributes:
+      label: Jak powinno być
+      description: Twoja propozycja. Jeśli nie masz pomysłu, napisz, co jest nie tak.
+  - type: input
+    id: wersja
+    attributes:
+      label: Wersja spolszczenia
+      description: Widać ją w instalatorze.
+      placeholder: "np. 1.0.0"

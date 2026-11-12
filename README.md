@@ -17,7 +17,7 @@ nie ma nowszej wersji tłumaczenia, i zaproponuje instalację. Pobiera z GitHuba
 
 ## Jak pomóc
 
-Błędy i propozycje zgłaszaj w [Issues](../../issues): napisz, gdzie w grze jest tekst (zrzut ekranu bardzo pomaga) i jak powinien brzmieć.
+Błędy i propozycje zgłaszaj w zgłoszeniu [„Błąd w tłumaczeniu”](../../issues/new?template=1-blad.yml): gdzie w grze jest tekst (zrzut ekranu bardzo pomaga) i jak powinien brzmieć.
 
 Chcesz poprawiać tłumaczenie samodzielnie?
 
@@ -25,6 +25,10 @@ Chcesz poprawiać tłumaczenie samodzielnie?
 2. Pobierz **EA2 Warsztat.exe** z wydań [repozytorium warsztatu](https://github.com/SojtekWokol/warsztat/releases) i włóż go do sklonowanego folderu.
 3. Uruchom warsztat. Przy pierwszym uruchomieniu wyciągnie teksty z Twojej kopii gry (tekstów gry nie ma w repozytorium).
 4. Poprawiaj w warsztacie, sprawdzaj w grze przyciskiem **Wgraj do gry**, a zmienione pliki z `translations/pl/` wyślij jako pull request.
+
+Nie znasz gita? Nie szkodzi: pobierz samo repozytorium jako ZIP (zielony przycisk **Code → Download ZIP**), poprawiaj w
+warsztacie, a potem kliknij **Eksportuj moje zmiany** i dołącz plik w zgłoszeniu
+[„Poprawki z warsztatu”](../../issues/new?template=2-poprawki.yml). Plik zawiera tylko to, co zmienisz.
 
 Zasady i nazewnictwo: [translations/GLOSARIUSZ.md](translations/GLOSARIUSZ.md) – przeczytaj, zanim zaczniesz.
 
