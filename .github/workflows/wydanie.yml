@@ -46,9 +46,12 @@ jobs:
           "EA2_FONTS=$env:GITHUB_WORKSPACE/tlumaczenie/fonts" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
           "EA2_RELEASE=$($env:VERSION -replace '^v', '')" | Out-File -Append -Encoding utf8 $env:GITHUB_ENV
 
+      # the own runner (vars.RUNNER) already has Rust; these two are for GitHub's machines
       - uses: dtolnay/rust-toolchain@stable
+        if: ${{ !vars.RUNNER }}
 
       - uses: Swatinem/rust-cache@v2
+        if: ${{ !vars.RUNNER }}
         with:
           workspaces: ${{ env.RUST_DIR }}
 
