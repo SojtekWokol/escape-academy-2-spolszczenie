@@ -1,150 +1,247 @@
-# Escape Academy 2 – glosariusz i zasady tłumaczenia
+# Escape Academy 2 po polsku – przewodnik dla tłumaczy
 
-Nieoficjalne spolszczenie. Ten plik mówi, **co tłumaczymy, czego nie i jak**. Słowniczek terminów jest też w
-[glossary.json](glossary.json): warsztat pokazuje z niego podpowiedzi w karcie „Słownik” i podaje je Bielikowi.
+Cześć! Ten dokument zbiera wszystko, co ustaliliśmy w tłumaczeniu: jak zwracamy się do gracza, jakich słów używamy,
+czego nie ruszamy i jak radzić sobie z zagadkami. Zajrzyj tu, zanim zaczniesz poprawiać, a potem wracaj, kiedy masz
+wątpliwość. Jeśli z czymś się nie zgadzasz albo czegoś brakuje, załóż zgłoszenie (Issue) – słowniczek nie jest
+wyryty w kamieniu.
 
-Oznaczenia w tabelach: **✔** ustalone. Wszystko poza tym, co przy tekstach, jest już ustalone.
+Najważniejsze terminy są też w pliku [glossary.json](glossary.json). Warsztat pokazuje je w karcie **Słownik** przy
+każdej kwestii, w której występują, i podpowiada je Bielikowi.
+
+**Spis treści:** [O grze](#o-grze) · [Czego nie tłumaczymy](#czego-nie-tłumaczymy) · [Gracz i rodzaj](#gracz-i-rodzaj) ·
+[Styl](#styl) · [Zapis i typografia](#zapis-i-typografia) · [Znaczniki i kody](#znaczniki-i-kody) · [Zagadki](#zagadki) ·
+[Słowniczek](#słowniczek) · [Interfejs](#interfejs) · [Statusy w warsztacie](#statusy-w-warsztacie)
 
 ---
 
-## 1. O grze w trzech zdaniach
+## O grze
 
-Escape Academy to szkoła dla *eskapistów*, czyli mistrzów ucieczek, w której zamiast lekcji są escape roomy. W drugiej części gracz
-zaczyna drugi rok: zdobywa odznaki u profesorów, odblokowuje kolejne części kampusu i rozwiązuje zagadkę założycieli akademii.
-Ton jest lekki i szkolny, pełno w nim kalamburów: niemal każdy tytuł pokoju i zadania jest grą słów.
+Escape Academy to szkoła dla **eskapistów**, czyli mistrzów ucieczek – zamiast lekcji są tu escape roomy. W drugiej
+części gracz zaczyna drugi rok: zdobywa odznaki u profesorów, odblokowuje kolejne wydziały kampusu i odkrywa tajemnicę
+założycieli akademii. Gra jest lekka, szkolna i pełna kalamburów: prawie każdy tytuł pokoju i zadania to gra słów.
+Można grać samemu albo we dwoje (kooperacja), dlatego w tekstach często pojawia się „partner” albo „współgracz”.
 
-## 2. Czego NIE tłumaczymy
+## Czego nie tłumaczymy
 
 | Co | Przykład | Dlaczego |
 |---|---|---|
-| Nazwa gry i szkoły | Escape Academy | to logo i marka. W tekście odmieniamy: *w Escape Academy*, *do Escape Academy* |
-| Imiona i nazwiska postaci | Gillian Paisley, Reed Wright, Kira Tempest, Reina Wym, Eel Barnes, Alistair Bell | jak w wersji DE/FR. Wyjątek: nazwiska-żarty (punkt 5) |
-| Kody i znaczniki | `{0}`, `<style="vis_clue">…</style>`, `<br>`, `<i>`, `<color=…>` | gra ich potrzebuje. Przepisujemy co do znaku, zmieniamy tylko tekst między nimi |
-| Wpisy oznaczone przez twórców | „DO NOT TRANSLATE”, „INTENTIONALLY LEFT BLANK…” | zostawiamy tak, jak każe notatka |
-| Napisy wymalowane na grafikach | szyldy, tablice, napisy na ścianach | nie da się ich zmienić tekstem. Jeśli zagadka się do nich odwołuje, zobacz punkt 6 |
+| Nazwa gry i szkoły | Escape Academy | To marka i logo. W zdaniu odmieniamy: *w Escape Academy*, *do Escape Academy*. |
+| Imiona i nazwiska postaci | Gillian Paisley, Reed Wright, Kira Tempest | Jak w wersji niemieckiej i francuskiej. Wyjątek: nazwiska-żarty, patrz [Postacie](#postacie). |
+| Znaczniki i kody | `{0}`, `<i>`, `<br>`, `<style="clue">` | Gra ich potrzebuje. Przepisujemy co do znaku, tłumaczymy tylko tekst między nimi. Więcej w [Znaczniki i kody](#znaczniki-i-kody). |
+| Wpisy oznaczone przez twórców | „DO NOT TRANSLATE”, „INTENTIONALLY LEFT BLANK…” | Robimy tak, jak każe notatka twórców (warsztat pokazuje ją nad polem tekstu). |
+| Napisy narysowane na grafikach | szyldy, tablice, napisy na ścianach | Tekstem ich nie zmienimy. Grafiki zbieramy osobno – jeśli widzisz w grze angielski napis na obrazku, zrób zrzut ekranu i zgłoś go. |
 
-## 3. Zwracanie się do gracza i rodzaj
+## Gracz i rodzaj
 
-Postać gracza może być chłopakiem albo dziewczyną, a gra **nie ma osobnych wersji tekstu** dla obu. Dlatego:
+Postać gracza może być chłopakiem albo dziewczyną, a gra **nie ma osobnych wersji tekstu**. Dlatego piszemy tak, żeby
+pasowało do każdego:
 
-- **Unikamy form z rodzajem wobec gracza.** Zamiast *zrobiłeś / zrobiłaś* piszemy *udało ci się*, *masz to*, *gotowe*. Zamiast *byłeś pierwszy* piszemy *jesteś pierwszy w kolejce* albo *to ty pierwszy…*. Zamiast *sam to znalazłeś* piszemy *znalezione!*
+| Zamiast | Piszemy |
+|---|---|
+| *Zrobiłeś to! / Zrobiłaś to!* | *Udało ci się!*, *Gotowe!*, *Masz to!* |
+| *Byłeś pierwszy.* | *To ty pierwszy…*, *Jesteś pierwszy w kolejce.* (lub inaczej zbudowane zdanie) |
+| *Sam to znalazłeś?* | *Znalezione!*, *To twoje znalezisko?* |
+| *Jesteś gotowy?* | *Gotowi?*, *Możemy zaczynać?* |
+| *Nasz prymus* (o graczu) | *nasza gwiazda roku* |
+
 - **Myśli gracza** (kursywa w scenkach, np. *„Hm? Co się dzieje…?”*) też bez rodzaju: czas teraźniejszy, bezosobowo.
-- **Reed Wright jest osobą niebinarną** (notatka twórców). W kwestiach Reeda i o Reedzie też bez form z rodzajem, tak jak przy graczu (bez form „-łom”, po prostu inaczej zbudowane zdanie).
-- **Płeć pozostałych postaci** (z notatek twórców): kobiety to Solange, Chortkoff, Bonilla, Gillian, Kira, Tillie, Reina; mężczyźni to Jeberson, Von Bellini, Dev, Ralph, Morton, Alistair, Chet, kot Mruczyński. Szczękościsk (Lockjaw) to szkolny pies.
-- **Profesorowie i dyrektorka mówią do ucznia na „ty”**, jak nauczyciel w polskiej szkole. Uczniowie mówią do siebie na „ty”.
-- **Uczniowie do profesorów mówią „pani profesor” / „panie profesorze”**. Gracz nie ma wtedy kwestii, więc dotyczy to NPC.
-- **Polecenia w zadaniach i podpowiedziach piszemy w 2. osobie** (*Porozmawiaj z…*, *Znajdź…*), jak w wersji DE.
+- **Reed Wright jest osobą niebinarną** (notatka twórców). W kwestiach Reeda i o Reedzie unikamy form z rodzajem tak
+  samo jak przy graczu – bez form w stylu „zrobiłom”, po prostu budujemy zdanie inaczej.
+- Warsztat ostrzega, gdy w tekście pojawi się forma typu *-łeś / -łaś*. Jeśli zdanie nie jest skierowane do gracza (np.
+  dwie postacie rozmawiają o trzeciej), ostrzeżenie można zignorować.
 
-## 4. Styl
+**Kto jest kim** (ważne dla końcówek): kobiety to Solange, Chortkoff, Bonilla, Gillian, Kira, Tillie, Reina; mężczyźni
+to Jeberson, Von Bellini, Slip, Dev, Ralph, Morton, Alistair, Fernando, Sameer, Chet i kot Mruczyński. Szczękościsk (Lockjaw) to szkolny pies.
 
-- **Ma brzmieć jak mowa, nie jak kalka.** Najpierw sens, potem słowa. Wolno zmieniać szyk, skracać i dobierać polskie idiomy.
-- **Kalambury tłumaczymy na polskie kalambury**, nawet kosztem dosłowności (*That Rings a Bell* → coś, co „dzwoni” po polsku). Jeśli się nie da, ważniejszy jest dobry polski tytuł niż wierny zły.
-- **Interfejs i przyciski krótko.** Najwyżej o ok. 30% dłużej niż oryginał. Warsztat ostrzega powyżej +45%.
-- **Typografia:** polskie cudzysłowy „…” (wewnątrz ‚…’), wielokropek …, półpauza –. Czcionki gry mają te znaki.
-- **Wielkie litery** w nazwach własnych miejsc i rzeczy tylko w pierwszym słowie (*Centrum szyfrów*, *Wieża dyrektorki*), chyba że to nazwa marki.
-- **Liczby i jednostki** po polsku: 1,5 kg, 3. piętro. W grze *(3F)* oznacza 3. piętro, a Niemcy liczą piętra po europejsku, więc *(3F)* = *(2. piętro)*.
+**Formy grzecznościowe:**
+- profesorowie i dyrektorka mówią do uczniów na **„ty”**, jak nauczyciel w polskiej szkole;
+- uczniowie mówią do siebie na „ty”, a do profesorów **„pani profesor” / „panie profesorze”**;
+- polecenia w zadaniach i podpowiedziach piszemy w **2. osobie**: *Porozmawiaj z…*, *Znajdź…*, *Wróć do…*
 
-## 5. Słowniczek
+## Styl
 
-### Szkoła i ludzie
+- **Ma brzmieć jak mowa, nie jak kalka.** Najpierw sens, potem słowa. Wolno zmieniać szyk, skracać i sięgać po polskie
+  idiomy. Dobre pytanie kontrolne: czy ktoś w Polsce naprawdę by tak powiedział?
+- **Kalambury oddajemy polskimi kalamburami**, nawet kosztem dosłowności. *That Rings a Bell* to po polsku *Coś tu
+  dzwoni*, a *Pay Close Detention* (gra słów z „pay close attention”) to *Uwaga, koza!*. Jeśli polskiego kalamburu nie da
+  się znaleźć, lepszy jest dobry polski tytuł niż wierny, ale drętwy.
+- **Interfejs i przyciski krótko.** Najlepiej nie dłużej niż o 30% od angielskiego. Warsztat ostrzega powyżej +45%, bo
+  dłuższy tekst może nie zmieścić się w przycisku.
+- **Postacie mają swój głos.** Zanim poprawisz kwestię, przeczytaj kilka sąsiednich (warsztat pokazuje całą scenkę
+  albo rozmowę) i trzymaj się tego, jak dana postać mówi w innych miejscach.
+- **Rozmowy w scenkach czytaj w kontekście.** Podgląd scenki w warsztacie pokazuje, kto mówi i kto stoi obok.
 
-| Angielski | Polski | | Uwagi (DE / FR dla porównania) |
-|---|---|---|---|
-| Escapist | eskapista, eskapistka | ✔ | polskie słowo na artystę ucieczek (Houdini). DE: Escapist |
-| Headmaster (Solange) | dyrektorka (Solange) | ✔ | Solange to kobieta. Na plakietce: *Dyrektorka Solange*. DE: Direktorin |
-| Professor X | profesor X | ✔ | także dla kobiet (*profesor Chortkoff*), jak w polskiej uczelni. Na plakietce z wielkiej: *Profesor Chortkoff* |
-| Prof. | prof. | ✔ | |
-| Student (plakietka) | Uczeń / Uczennica | ✔ | dwa osobne wpisy w grze (StudentM, StudentF) |
-| Star Student(s) | prymusi (mn.); o graczu: gwiazda roku | ✔ | „prymus” ma rodzaj męski, więc o pojedynczej osobie (zwłaszcza graczu) mówimy „gwiazda roku”. DE: Studentenstar, FR: élève modèle |
-| Founders | założyciele | ✔ | Reina Wym jest założycielką |
-| Campus Police | ochrona kampusu | ✔ | FR: Sécurité du campus |
-| PA System | głośniki / komunikat | ✔ | to plakietka komunikatów z głośników |
-| Narrator | narrator | ✔ | |
-| The Purrfessor | Profesor Mruczyński | ✔ | kot. DE: Schnurrfessor, FR: Félinstit' |
-| Librarian Quanty / Quanty | bibliotekarz Quanty / Quanty | ✔ | robot. Imię zostaje |
-| Council of Escape | Rada Eskapistów | ✔ | DE: Escape-Rat, FR: Conseil de l'évasion |
+## Zapis i typografia
 
-### Miejsca
+| Co | Jak | Przykład |
+|---|---|---|
+| Cudzysłowy | polskie „…”, w środku ‚…’ | „Przeczytaj ‚Kuriera Eskapisty’” |
+| Wielokropek | jeden znak … | *Hm…* |
+| Myślnik | półpauza – ze spacjami | *To nie był sen – to była zagadka.* |
+| Wielkie litery w nazwach | tylko pierwsze słowo, chyba że to marka | *Centrum Szyfrów* to wyjątek (nazwa własna instytucji), *wieża zegarowa*, *gabinet dyrektorki* |
+| Liczby | polski zapis | *1,5 kg*, *3. piętro*, *10:30* |
+| Piętra | *(3F)* w grze to amerykańskie liczenie | *(3F)* → *(2. piętro)* |
+| Skróty | polskie | *prof.*, *min*, *ok.* |
 
-| Angielski | Polski | | Uwagi |
-|---|---|---|---|
-| Science Campus | Wydział Nauk Ścisłych | ✔ | FR: Faculté de sciences |
-| Humanities Campus | Wydział Humanistyczny | ✔ | |
-| Arts Campus | Wydział Sztuki | ✔ | |
-| Upper / Lower … Campus | Wydział … (górna część) / (dolna część) | ✔ | jak FR |
-| The Quad | dziedziniec | ✔ | |
-| Dorms | akademik | ✔ | |
-| Headmaster's Office | gabinet dyrektorki | ✔ | |
-| Headmaster's Tower | wieża dyrektorki | ✔ | |
-| Clocktower | wieża zegarowa | ✔ | *Clocktower Challenge* → *wyzwanie wieży zegarowej* |
-| Cipher Center | Centrum Szyfrów | ✔ | |
-| Escape Shack Station | stacja Szopa Ucieczek | ✔ | przystanek tramwaju z 1. pokoju |
-| Escape Room(s) | escape room(y) | ✔ | po polsku to normalne słowo. *Replay Escape Room* → *Zagraj ponownie* |
+Czcionki gry mają wszystkie polskie znaki, cudzysłowy „” i wielokropek – nie trzeba niczego zastępować.
 
-### Rzeczy, zjawiska, system
+## Znaczniki i kody
 
-| Angielski | Polski | | Uwagi |
-|---|---|---|---|
-| badge | odznaka | ✔ | |
-| School Credits, credits | punkty szkolne, punkty | ✔ | waluta, którą otwiera się „Credit Doors”. DE: Schulpunkte |
-| Credit Door | drzwi na punkty | ✔ | drzwi, które otwierają się po zebraniu X punktów |
-| Extra Credit | zadania dodatkowe | ✔ | zakładka zadań pobocznych w dzienniku („Complete 10 Extra Credit quests”). W żartach w dialogach po polsku pasuje „na szóstkę”: *I'd better be getting extra credit for this…* → *Należy mi się za to szóstka…* |
-| Quest | zadanie | ✔ | |
-| Hint | podpowiedź | ✔ | |
-| The Escapist Times | Kurier Eskapisty | ✔ | gazetka szkolna. FR przetłumaczyli (La Gazette de l'évasion), DE nie |
-| Escapist's Edge | Eska-Cola | ✔ | cola/energetyk z automatu, sponsor teatru. FR: Esca-Cola |
-| Escapist's Hedge | Eska-Pole | ✔ | nawóz do labiryntu z żywopłotu, gra słów z Escapist's Edge (edge → hedge). Napis na etykiecie: *ESKA-POLE* |
-| The Brain Storm | Burza Mózgów | ✔ | dosłownie burza z mózgów. Polski idiom pasuje idealnie |
-| Red Herring | śledź-zmyłka | ✔ | w grze to dosłownie ryby (*Drop off 5 Red Herrings*), a po angielsku to też „fałszywy trop”. DE/FR dosłownie |
-| Lock Ness Monster | potwór z Loch Kłódkness | ✔ | kalambur lock = kłódka |
-| Lab Notes | notatki z laboratorium | ✔ | |
-| EATV | EATV | ✔ | szkolna telewizja (Escape Academy TV) |
+Gra formatuje tekst znacznikami w nawiasach ostrych (to system TextMeshPro). Najczęstsze:
 
-**Nazwy z żartem tłumaczymy** – wszystkie propozycje z tabel przyjęte.
+| Znacznik | Co robi | Co z nim robimy |
+|---|---|---|
+| `<i>…</i>` | kursywa (akcent, myśli) | zachowujemy; przenosimy na polskie słowo, które niesie akcent |
+| `<b>…</b>` | pogrubienie | zachowujemy |
+| `<style="clue">…</style>` | podświetlenie wskazówki do zagadki | **musi obejmować polską wskazówkę** – inaczej gracz jej nie zauważy |
+| `<color=…>…</color>`, `<size=…>…</size>` | kolor, rozmiar | zachowujemy |
+| `<br>` | nowa linia | zachowujemy tyle samo |
+| `{0}`, `{1}` | wstawka z gry (liczba, nazwa, klawisz) | przepisujemy dokładnie, może zmienić miejsce w zdaniu |
 
-### Postacie z żartem w nazwisku (spolszczamy)
+W warsztacie nad polem tekstu jest **wstążka znaczników**: pokazuje znaczniki z oryginału (zielone – są w tłumaczeniu,
+czerwone – brakuje). Zaznacz słowo i kliknij znacznik, a warsztat obejmie je od razu parą `<i>…</i>`.
+
+Czasem świadomie zmieniamy znaczniki, np. dodajemy kursywę, żeby było widać polską grę słów. Wtedy kliknij pod polem
+tekstu **„Celowo inne”** – kontrola przestanie zgłaszać tę kwestię, dopóki znaczniki się nie zmienią.
+
+## Zagadki
+
+Tu zły przekład potrafi zablokować grę, więc ostrożnie:
+
+1. **Najpierw przeczytaj notatkę twórców i sąsiednie wpisy.** Notatki typu *Letter of correct answer 2* albo *Distractor
+   letter* znaczą, że hasło składa się z kilku osobnych wpisów (np. litery na słupkach i samo hasło).
+2. **Jeśli hasło i wszystkie wskazówki są tekstem,** tłumaczymy całość na polskie słowo **o tej samej długości** i z tym
+   samym związkiem z tematem pokoju. Zmieniamy razem: hasło, litery poprawne i litery-zmyłki. Przykład z tramwaju:
+   *S,T,E,A,M* → *K,O,L,E,J*. Unikamy słów z powtórzoną literą.
+3. **Jeśli wskazówka jest na grafice** (napis na ścianie, obrazek), zostawiamy angielskie hasło i ewentualnie dopisujemy
+   objaśnienie w podpowiedzi.
+4. Format haseł zostaje: `L,I,T,E,R,Y` – przecinki, bez spacji, wielkie litery. Polskie litery są dozwolone.
+5. **Każdą zmienioną zagadkę oznaczamy „do sprawdzenia”** i zatwierdzamy dopiero po przejściu jej w grze.
+
+## Słowniczek
+
+### Postacie
+
+| W grze (EN) | Po polsku | Kto to |
+|---|---|---|
+| Headmaster Solange | Dyrektorka Solange | dyrektorka akademii (kobieta) |
+| Professor Jeberson (Jeb) | Profesor Jeberson | profesor (mężczyzna) |
+| Professor Chortkoff (Enora) | Profesor Chortkoff | profesor (kobieta) |
+| Professor Von Bellini | Profesor Von Bellini | profesor (mężczyzna) |
+| Professor Bonilla (Allie) | Profesor Bonilla | profesor (kobieta) |
+| Professor Slip | Profesor Slip | profesor (mężczyzna) |
+| The Purrfessor | Profesor Mruczyński | szkolny kot |
+| Gillian Paisley | Gillian Paisley | towarzyszka gracza w śledztwie (kobieta) |
+| Reed Wright | Reed Wright | towarzysz gracza w śledztwie, **osoba niebinarna** |
+| Kira Tempest | Kira Tempest | towarzyszka gracza w śledztwie (kobieta) |
+| Dev Tempest, Tillie Tempest | bez zmian | rodzina Kiry |
+| Ralph Wrexler | Ralph Wrexler | uczeń |
+| Morton Clamm | Morton Clamm | kucharz w szkolnej stołówce |
+| Reina Wym, Alistair Bell, Fernando Augustín, Sameer Gaspard | bez zmian | założyciele akademii |
+| Quanty | Quanty | roboty w akademii (bibliotekarz, pielęgniarka, strażnik…) – *bibliotekarz Quanty* |
+| Chet Badman | Chet Łotrowicz | postać ze sztuki w pokoju „Śmierć artysty” (*bad man* → łotr) |
+| Ruby L'Innocent | Ruby Niewinowska | ta sama sztuka (*l'innocent* → niewinna) |
+| Lockjaw | Szczękościsk | szkolny pies (*lockjaw* to dosłownie szczękościsk) |
+| Student (plakietka) | Uczeń / Uczennica | dwie osobne plakietki w grze |
+| Campus Police | Ochrona kampusu | |
+| PA System | Komunikat | plakietka komunikatów z głośników |
+| Narrator | Narrator | |
+
+### Szkoła i system gry
 
 | Angielski | Polski | Uwagi |
 |---|---|---|
-| Chet Badman | Chet Łotrowicz | sztuka w pokoju „Death of an Artist”; *bad man* → łotr. FR: Chet Lechacal |
-| Ruby L'Innocent | Ruby Niewinowska | ta sama sztuka; *l'innocent* → niewinna. FR: Ruby Linnocente |
-| Lockjaw | Szczękościsk | *lockjaw* to dosłownie szczękościsk. FR: Mâchefer |
+| Escapist(s) | eskapista, eskapistka, eskapiści | polskie słowo na artystę ucieczek (jak Houdini) |
+| Star Student(s) | prymus, prymusi | o pojedynczej osobie, zwłaszcza o graczu: **gwiazda roku** |
+| Founder(s) | założyciel, założycielka, założyciele | |
+| Council of Escape | Rada Eskapistów | |
+| badge | odznaka | |
+| School Credits, credits | punkty szkolne, punkty | waluta, którą otwiera się drzwi |
+| Credit Door | drzwi na punkty | |
+| Escape Bucks | eskadolary | |
+| Extra Credit | zadania dodatkowe | zakładka zadań pobocznych; w żartach w dialogach pasuje „szóstka”: *I'd better be getting extra credit for this…* → *Należy mi się za to szóstka…* |
+| quest | zadanie | |
+| hint | podpowiedź | |
+| Escape Room | escape room | po polsku normalne słowo; *Replay Escape Room* → *Zagraj ponownie* |
+| Lab Notes | notatki z laboratorium | |
+| EATV | EATV | szkolna telewizja |
 
-### Tytuły pokoi (kalambury, zaakceptowane)
+### Miejsca
 
-| Kod | Angielski | Propozycja | DE / FR |
-|---|---|---|---|
-| TIC | No Ticket | Bez biletu | Kein Ticket / Aucun ticket |
-| HEY | A Clued Awakening | Przebudzenie z tropem | Ein schlaues Erwachen |
-| TOW | That Rings a Bell | Coś mi dzwoni | Da klingelt was / Quelque chose cloche |
-| RAT | Lightbulb Moment | Olśnienie | Ein heller Moment / Illumination |
-| HST | Think Inside the Box | Myśl w pudełku | Eine knifflige Kiste |
-| HMI | Eyes on the Prize | Oczy na nagrodę | Alle Augen auf den Preis |
-| DET | Pay Close Detention | Uwaga, koza! | Vorsitzen ist besser als nachsitzen |
-| GUN | Death of an Artist | Śmierć artysty | Tod eines Künstlers |
-| TRK | Off The Rails | Wykolejeni | Entgleist |
-| LAR | Eye of the Brain Storm | Oko Burzy Mózgów | Auge des Brainstorms |
-| PAL | Mind Your Elders | Szanuj starszych | Höre auf die Älteren |
-| AHY | Von Boyage | Von Boyage | DE/FR zostawili (gra słów z nazwiskiem Von Bellini) |
-| CY1–3 | The First/Second/Third Chamber | Pierwsza / Druga / Trzecia komnata | |
+| Angielski | Polski |
+|---|---|
+| Science / Humanities / Arts Campus | Wydział Nauk Ścisłych / Humanistyczny / Sztuki |
+| Upper / Lower … Campus | Wydział … (górna część / dolna część) |
+| The Quad | dziedziniec |
+| Dorms / Dorm | akademik / pokój w akademiku |
+| Headmaster's Office / Tower | gabinet dyrektorki / wieża dyrektorki |
+| Clocktower | wieża zegarowa (*Clocktower Challenge* → *wyzwanie wieży zegarowej*) |
+| Cipher Center | Centrum Szyfrów |
+| Escape Shack Station | stacja Szopa Ucieczek |
 
-## 6. Zagadki: hasła i litery
+### Rzeczy z żartem w nazwie
 
-To najważniejsza zasada, bo zły przekład potrafi zablokować zagadkę.
+| Angielski | Polski | Skąd żart |
+|---|---|---|
+| The Escapist Times | Kurier Eskapisty | szkolna gazetka |
+| Escapist's Edge | Eska-Cola | napój z automatu, sponsor teatru |
+| Escapist's Hedge | Eska-Pole | nawóz do labiryntu z żywopłotu (*edge → hedge*, więc *Cola → Pole*); na etykiecie *ESKA-POLE* |
+| The Brain Storm | Burza Mózgów | dosłownie burza z mózgów – polski idiom pasuje idealnie |
+| Red Herring | śledź-zmyłka | w grze to prawdziwe ryby, a po angielsku też „fałszywy trop” |
+| Lock Ness Monster | potwór z Loch Kłódkness | *lock* = kłódka |
 
-1. **Najpierw sprawdź notatkę twórców i powiązane wpisy.** Warsztat pokazuje je pod edytorem. Notatki w stylu *Letter of correct answer 2* czy *Distractor letter* znaczą, że hasło jest złożone z osobnych wpisów.
-2. **Jeśli wszystkie litery i hasło są tekstem** (np. tramwaj: `S,T,E,A,M` + litery na słupkach), **tłumaczymy całość na polskie słowo** o tej samej długości, z tym samym związkiem tematycznym. Zmieniamy razem hasło, litery poprawne i zmyłki, tak jak zrobili DE (*DAMPF*) i FR (*RAILS*). Propozycja dla PL: *K,O,L,E,J* (5 różnych liter, temat pasuje). Lepiej unikać słów z powtórzoną literą, bo nie wiadomo, czy zagadka je obsłuży.
-3. **Jeśli wskazówka jest na grafice** (napis na ścianie, w obrazku), **zostawiamy angielskie hasło** i ewentualnie dopisujemy objaśnienie w podpowiedzi.
-4. **Każdą zmienioną zagadkę oznaczamy jako „do sprawdzenia”** i odhaczamy dopiero po przejściu jej w grze.
-5. Format haseł zostaje: `L,I,T,E,R,Y` (przecinki, bez spacji, wielkie litery). Polskie litery w hasłach są dozwolone (czcionki je mają).
+### Tytuły pokoi
 
-## 7. Decyzje (2026-11-12)
+Tak, jak są teraz w grze:
 
-1. *Star Student* → **prymus**.
-2. Kampusy → **Wydział …** (Wydział Nauk Ścisłych, Humanistyczny, Sztuki).
-3. **Nazwy z żartem tłumaczymy** (Purrfessor, Escapist Times, Escapist's Edge, Lock Ness, Red Herring…).
-4. *Extra Credit* → **zadania dodatkowe** (to zakładka zadań pobocznych w dzienniku), w żartach „na szóstkę”.
-5. Tytuły pokoi: **propozycje z tabeli zaakceptowane**, DET = *Uwaga, koza!*.
-6. Propozycje nazw z żartem: **wszystkie przyjęte**.
-7. Nazwiska-żarty postaci (Badman, L'Innocent, Lockjaw): **spolszczamy**.
-8. Formy bez rodzaju wobec gracza: **zostajemy przy neutralnych** (bez wersji męskiej/żeńskiej).
+| Kod | Angielski | Po polsku |
+|---|---|---|
+| TIC | No Ticket | Brak biletu |
+| HEY | A Clued Awakening | Pobudka ze wskazówką |
+| TOW | That Rings a Bell | Coś tu dzwoni |
+| RAT | Lightbulb Moment | Olśnienie |
+| HST | Think Inside the Box | Myśl w pudełku |
+| HMI | Eyes on the Prize | Oko na nagrodę |
+| DET | Pay Close Detention | Uwaga, koza! |
+| GUN | Death of an Artist | Śmierć artysty |
+| TRK | Off The Rails | Wykolejeni |
+| LAR | Eye of the Brain Storm | W oku Burzy Mózgów |
+| PAL | Mind Your Elders | Pamiętaj o starszych |
+| AHY | Von Boyage | Von Wojaż |
+| CY1–3 | The First / Second / Third Chamber | Pierwsza / Druga / Trzecia komnata |
+
+Kody pokoi przydają się w warsztacie i w repozytorium: teksty pokoju DET są w pliku `translations/pl/pokoje/DET.json`.
+
+## Interfejs
+
+Słowa, które wracają w menu i ustawieniach – trzymajmy się ich, żeby menu było spójne:
+
+| Angielski | Polski | | Angielski | Polski |
+|---|---|---|---|---|
+| Settings | Ustawienia | | Resume / Unpause | Wznów / Wznów grę |
+| Save Game | Zapisz grę | | Quit / Quit To Menu | Wyjdź / Wyjdź do menu |
+| New Game / Keep Playing | Nowa gra / Graj dalej | | Back / Cancel | Wróć / Anuluj |
+| Play Solo / Coop / Local Coop | Graj solo / Graj w koop / Graj w koop lokalny | | Host / Guest | Gospodarz / Gość |
+| Inventory | ekwipunek | | Partner | partner, współgracz |
+| Track / Untrack Quest | Śledź zadanie / Przestań śledzić zadanie | | Campus Map | Mapa kampusu |
+| Chapter | Rozdział | | Reward / Location / To-Do | Nagroda / Miejsce / Do zrobienia |
+| Subtitles | Napisy | | Rebind | Zmień przypisanie |
+| You've Escaped! | Udało ci się uciec! | | Escape Failed | Ucieczka nieudana |
+
+## Statusy w warsztacie
+
+Każda kwestia ma status, który widać w warsztacie (kolor tekstu w tabeli) i w plikach repozytorium (`"status"`):
+
+| Status | W warsztacie | Znaczy |
+|---|---|---|
+| `draft` | zwykły kolor | **szkic** – pierwsze tłumaczenie, jeszcze nieprzeczytane przez człowieka (większość tekstów powstała z pomocą modeli językowych) |
+| `review` | pomarańczowy | **do sprawdzenia** – trzeba zobaczyć w grze, np. zmieniona zagadka albo niepewny kontekst |
+| `done` | zielony | **zatwierdzona** – przeczytana i poprawiona przez człowieka |
+
+Jak zatwierdzać: przeczytaj kwestię (najlepiej w podglądzie albo w grze), popraw, zaznacz **zatwierdzona** i zapisz.
+Przycisk **Zatwierdź stronę** zatwierdza naraz wszystkie szkice na otwartej stronie – przydaje się po przejściu całej
+scenki albo pokoju w grze. Kwestie „do sprawdzenia” zostają wtedy tak, jak są: te sprawdź osobno.
+
+---
+
+Ostatnia aktualizacja: listopad 2026. Masz propozycję zmiany w słowniczku? Załóż Issue z tytułem „Słowniczek: …”.

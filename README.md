@@ -22,7 +22,20 @@ Chcesz poprawiać tłumaczenie samodzielnie?
 3. Uruchom warsztat. Przy pierwszym uruchomieniu wyciągnie teksty z Twojej kopii gry (tekstów gry nie ma w repozytorium).
 4. Poprawiaj w warsztacie, sprawdzaj w grze przyciskiem **Wgraj do gry**, a zmienione pliki z `translations/pl/` wyślij jako pull request.
 
-Zasady i nazewnictwo: [translations/GLOSARIUSZ.md](translations/GLOSARIUSZ.md).
+Zasady i nazewnictwo: [translations/GLOSARIUSZ.md](translations/GLOSARIUSZ.md) – przeczytaj, zanim zaczniesz.
+
+### Podpowiedzi od Bielika (opcjonalnie)
+
+Warsztat może podpowiadać tłumaczenia lokalnym, polskim modelem językowym **Bielik**: dokańcza zdanie, które piszesz
+(szara podpowiedź, **Tab** przyjmuje), i proponuje trzy warianty całej kwestii. Model działa na Twoim komputerze, bez
+internetu. Żeby go włączyć:
+
+1. Zainstaluj [Ollama](https://ollama.com).
+2. W PowerShellu pobierz model (ok. 7 GB): `ollama pull SpeakLeash/bielik-11b-v3.0-instruct:Q4_K_M`
+3. Uruchom warsztat ponownie – w karcie „Warianty od Bielika” pojawi się „Bielik działa”.
+
+Najlepiej działa z kartą graficzną z 8 GB pamięci; na samym procesorze potrzebuje ok. 12 GB RAM i jest wolniejszy.
+Bez Bielika warsztat działa normalnie, tylko bez podpowiedzi.
 
 ## Co jest w repozytorium
 
