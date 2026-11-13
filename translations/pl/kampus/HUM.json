@@ -49,7 +49,7 @@
  },
  "g:HUM_BubbleKey": {
   "pl": "BubbleKey®",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_BurnedJournal": {
   "pl": "Uwaga! Ten cenny dziennik o mało nie poszedł z dymem. Trzeba bardziej uważać!",
@@ -157,7 +157,7 @@
  },
  "g:HUM_ClueyDecimalSystemTitle": {
   "pl": "WSKAZÓWKOWA KLASYFIKACJA DZIESIĘTNA",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Date": {
   "pl": "Data",
@@ -316,8 +316,8 @@
   "status": "draft"
  },
  "g:HUM_Grumble_NeerDoWell": {
-  "pl": "wszystkich swoich<br>nicponiów-rówieśników.<br>Rezygnuję.<br>Podpisano,",
-  "status": "draft"
+  "pl": "wszystkich swoich<br>nieudolnych rówieśników.<br>Rezygnuję.<br>Podpisano,",
+  "status": "review"
  },
  "g:HUM_Grumble_OldAndTired": {
   "pl": "starym i zmęczonym ideałom.<br>Moi uczniowie okazują pogardę",
@@ -445,7 +445,7 @@
  },
  "g:HUM_LectureComputer": {
   "pl": "Cyfrowa EncyKLUCZpedia",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_LectureDeclaration": {
   "pl": "Deklaracja Ucieczki była dokumentem podpisanym w 1803 roku przez Reinę Wym, Sameera Gasparda i Fernanda Augustína. Ustanowiła Escape Academy jako bezpieczne miejsce, w którym eskapiści mogą spokojnie studiować, uczyć się i rozwiązywać zagadki.<br><br>Teorie z pogranicza nauki twierdzą, że był jeszcze jeden sygnatariusz, zwykle podawany jako John Handlock. <sup>[potrzebne źródło]</sup>",
@@ -497,7 +497,7 @@
  },
  "g:HUM_Lecture_Step1": {
   "pl": "Zalicz kartkówkę na szóstkę.",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_LecturetHistory": {
   "pl": "Historia ucieczek",
@@ -549,7 +549,7 @@
  },
  "g:HUM_Library_Obj_Book3": {
   "pl": "Znajdź „Elementarz łamania zagadek siłą”",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Library_Obj_ReturnQuanty": {
   "pl": "Zanieś je wszystkie do Quanty.",
@@ -677,7 +677,7 @@
  },
  "g:HUM_Name": {
   "pl": "Imię i nazwisko",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_PRESSME": {
   "pl": "NACIŚNIJ MNIE<br>(proszę...)",
