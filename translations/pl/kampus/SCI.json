@@ -149,7 +149,7 @@
  },
  "g:SCI_Chem_Temp": {
   "pl": "20 °C",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Chemicals": {
   "pl": "Chemikalia mózgowe",
@@ -184,7 +184,7 @@
   "status": "draft"
  },
  "g:SCI_CoolSkeleton": {
-  "pl": "Za wyluzowany, żeby mieć z kimś kości do obgryzienia...",
+  "pl": "Zbyt wyluzowany na jakiekolwiek kości niezgody...",
   "status": "review"
  },
  "g:SCI_CricketBody": {
@@ -205,11 +205,11 @@
  },
  "g:SCI_DrainChemicalsDisplayText": {
   "pl": "„Uwaga: chemikalia odpływowe – op<b><u>Ar</u></b>y mają gr<b><u>O</u></b>źne e<b><u>Fe</u></b>kty!”",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_DrainChemicalsWarning": {
   "pl": "Uwaga: chemikalia odpływowe – op<b><u>Ar</u></b>y mają gr<b><u>O</u></b>źne e<b><u>Fe</u></b>kty!",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_EC_1_QuestDescription": {
   "pl": "Pomóż nakarmić ucznia w potrzebie!",
@@ -601,7 +601,7 @@
  },
  "g:SCI_SpecificHazardDescription": {
   "pl": "KWAS – Kwas<br>ZAS – Zasada<br>ŻRĄ – Żrące<br>UTL – Utleniacz<br><sprite=0> – Radioaktywne<br><s>W</s> – Nie używać wody",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Synthatron": {
   "pl": "SYNTHATRON<sup>TM</sup>",
