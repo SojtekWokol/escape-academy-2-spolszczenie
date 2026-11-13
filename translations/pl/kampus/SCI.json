@@ -216,8 +216,8 @@
   "status": "draft"
  },
  "g:SCI_EC_1_QuestName": {
-  "pl": "Składka na chipsy",
-  "status": "draft"
+  "pl": "Swoje trzy chipsy",
+  "status": "done"
  },
  "g:SCI_EC_1_QuestObjective": {
   "pl": "Przynieś Bertowi paczkę chipsów.",

@@ -12,8 +12,8 @@
   "status": "draft"
  },
  "g:PAL_BallSculpture": {
-  "pl": "Czas skończyć z jego kula-strofalnymi czynami!",
-  "status": "review"
+  "pl": "Pora, żeby jego niecne plany trafiły kulą w płot!",
+  "status": "done"
  },
  "g:PAL_BalloonDog": {
   "pl": "Czas przebić tego klauna!",
@@ -252,8 +252,8 @@
   "status": "draft"
  },
  "g:PAL_RoomName": {
-  "pl": "Pamiętaj o starszych",
-  "status": "review"
+  "pl": "Co starszym chodzi po głowie",
+  "status": "done"
  },
  "g:PAL_SteamPipes": {
   "pl": "Alistair to tylko para w gwizdek!",

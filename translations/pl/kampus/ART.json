@@ -1,11 +1,11 @@
 {
  "g:ART_Blueprints": {
-  "pl": "Projekty scenografii do <i>Zagadek z Salem</i>.",
-  "status": "draft"
+  "pl": "Projekty scenografii do <i>Czarownic z Szyfrem</i>.",
+  "status": "done"
  },
  "g:ART_Bowls": {
-  "pl": "To <i>miskow</i>ska robota. Nie każdy by tak potrafił!",
-  "status": "review"
+  "pl": "Nie święci garnki lepią... ale takie <i>miski</i>? Bez szans!",
+  "status": "done"
  },
  "g:ART_Ch5_EscapistTimes": {
   "pl": "Kurier Eskapisty – Akademia szykuje się na męczące przedstawienie uczniów",
@@ -72,12 +72,12 @@
   "status": "draft"
  },
  "g:ART_MusicBooks1": {
-  "pl": "„Które piętro? – Kompletny przewodnik po muzyce windowskazowej”",
-  "status": "review"
+  "pl": "„Które piętro? – Klucz do muzyki z windy. Kompletny przewodnik”",
+  "status": "done"
  },
  "g:ART_Palette": {
-  "pl": "Po tej palecie znowu mam apetyt na malowanie. Prawdziwa paleta smaków!",
-  "status": "draft"
+  "pl": "Ta paleta smaków znów rozbudziła mi apetyt na malowanie.",
+  "status": "done"
  },
  "g:ART_Vases": {
   "pl": "Wow, te wazony są naprawdę <i>waz</i>ne!",

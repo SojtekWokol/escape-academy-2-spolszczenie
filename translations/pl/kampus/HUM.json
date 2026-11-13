@@ -516,8 +516,8 @@
   "status": "draft"
  },
  "g:HUM_Lib_Stapler": {
-  "pl": "Ta robota trzyma się kupy – jak zszywka.",
-  "status": "draft"
+  "pl": "Wszystko tu dopięte na ostatnią zszywkę.",
+  "status": "done"
  },
  "g:HUM_Library_BannedBook": {
   "pl": "Zakazana książka",
@@ -584,8 +584,8 @@
   "status": "draft"
  },
  "g:HUM_Mus_Painting1": {
-  "pl": "To muzeum jest urządzone z <i>obraz</i>ową dokładnością!",
-  "status": "review"
+  "pl": "To muzeum jest urządzone jak z <i>obrazka</i>!",
+  "status": "done"
  },
  "g:HUM_Mus_Painting2": {
   "pl": "Sztuka to zawsze fajny sposób na ucieczkę.",
@@ -596,8 +596,8 @@
   "status": "draft"
  },
  "g:HUM_Mus_Plant2": {
-  "pl": "Można tu dostać jakąś ulotkę? Raczej ulistkę.",
-  "status": "draft"
+  "pl": "Dostanę tu ulotkę czy raczej liścia?",
+  "status": "done"
  },
  "g:HUM_Museum_DisplayDoesntFit": {
   "pl": "Nie wiem, czy to pasuje do tematu wystawy",
@@ -656,8 +656,8 @@
   "status": "draft"
  },
  "g:HUM_Museum_QuestName": {
-  "pl": "Otwórz i naładuj",
-  "status": "draft"
+  "pl": "Odbezpiecz i ładuj",
+  "status": "done"
  },
  "g:HUM_Museum_SpiderWeb1": {
   "pl": "Oby to się liczyło jako zadanie dodatkowe. I to na szóstkę...",

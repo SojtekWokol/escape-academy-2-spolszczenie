@@ -4,8 +4,8 @@
   "status": "draft"
  },
  "g:AHY_BarrelJoke": {
-  "pl": "Ta podróż była o <i>beczkę</i> od klapy!",
-  "status": "review"
+  "pl": "Nasza podróż dopiero zaczynała się <i>toczyć</i>!",
+  "status": "done"
  },
  "g:AHY_BarrelStuck": {
   "pl": "Tej beczki nie da się ruszyć!",
@@ -48,8 +48,8 @@
   "status": "review"
  },
  "g:AHY_Chair": {
-  "pl": "Oj, jest <i>krzesł</i>asznie!",
-  "status": "review"
+  "pl": "Oj, wszystko tu <i>siada</i>!",
+  "status": "done"
  },
  "g:AHY_CourseChartingRules": {
   "pl": "<b>Zasady wyznaczania kursu:</b><br>Zauważ, jak prądy i wiatry łączą się, wyznaczając trasę statku...",
@@ -60,8 +60,8 @@
   "status": "draft"
  },
  "g:AHY_CrateJokeLabel": {
-  "pl": "Nie ma co robić z tego skrzyni!",
-  "status": "review"
+  "pl": "Pudło za pudłem!",
+  "status": "done"
  },
  "g:AHY_Currents": {
   "pl": "Prądy",
@@ -76,8 +76,8 @@
   "status": "draft"
  },
  "g:AHY_Duck": {
-  "pl": "Pod presją nie pękam, tylko kwaczę!",
-  "status": "review"
+  "pl": "Presja? Spływa po mnie jak woda po kaczce!",
+  "status": "done"
  },
  "g:AHY_EscapistTimes": {
   "pl": "Kurier Eskapisty – RAPORT: Emerytura to tonący statek, pracuj, aż pójdziesz na dno",
@@ -380,8 +380,8 @@
   "status": "review"
  },
  "g:AHY_SaveScrolls": {
-  "pl": "S.O.S... Ratuj swoje zwoje!",
-  "status": "review"
+  "pl": "S.O.S... Szybko, Ocalmy Szpargały!",
+  "status": "done"
  },
  "g:AHY_ShutDoorLabel": {
   "pl": "Jedyne wyjście prowadzi w górę!",

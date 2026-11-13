@@ -152,12 +152,12 @@
   "status": "draft"
  },
  "g:HST_Curtains": {
-  "pl": "Mam pewność, że to rozwiążę. Kurtyna w górę!",
-  "status": "review"
+  "pl": "Żadnego zasłaniania się wymówkami – na pewno to rozwiążę!",
+  "status": "done"
  },
  "g:HST_Elevator": {
-  "pl": "Archiwa to prawdziwa winda do wiedzy: mój poziom z historii pojechał w górę!",
-  "status": "draft"
+  "pl": "Dostęp do archiwów wyniósł moją wiedzę historyczną piętro wyżej!",
+  "status": "done"
  },
  "g:HST_EscapistTimes": {
   "pl": "Kurier Eskapisty – Historia lubi się powtarzać: ludzie wciąż pakują rzeczy do pudeł",
@@ -200,8 +200,8 @@
   "status": "draft"
  },
  "g:HST_GreekVases": {
-  "pl": "Starożytni greccy garncarze – wazonialny kunszt i elegancja!",
-  "status": "review"
+  "pl": "Starożytni greccy garncarze mieli niesamowite wyczucie formy.",
+  "status": "done"
  },
  "g:HST_Hint_BoxesA": {
   "pl": "Nie otwieraj skrzyni, która się rusza! (Pewnie i tak o tym wiesz...)",
@@ -608,8 +608,8 @@
   "status": "draft"
  },
  "g:HST_Totem": {
-  "pl": "Ten artefakt to prawdziwy kamień milowy.",
-  "status": "review"
+  "pl": "Ten artefakt aż mnie zamurował.",
+  "status": "done"
  },
  "g:HST_Vase": {
   "pl": "Czas odstawić lęki jak wazon na półkę i rozwiązać te zagadki!",

@@ -1616,8 +1616,8 @@
   "status": "draft"
  },
  "g:MSC_Boots": {
-  "pl": "Te buty są stworzone do wytrychowania!",
-  "status": "review"
+  "pl": "Te buty chyba zapina się na zamek... szyfrowy!",
+  "status": "done"
  },
  "g:MSC_Cooler": {
   "pl": "Oby była pełna Eska-Coli.",

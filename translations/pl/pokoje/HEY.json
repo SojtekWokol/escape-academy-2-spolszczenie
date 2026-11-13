@@ -320,8 +320,8 @@
   "status": "draft"
  },
  "g:HEY_Plant": {
-  "pl": "Początek mojego drugiego roku wcale NIE idzie jak po kwiatkach.",
-  "status": "draft"
+  "pl": "Początek mojego drugiego roku wcale NIE jest usłany różami.",
+  "status": "done"
  },
  "g:HEY_Pledge": {
   "pl": "Ślubuję wierność wskazówkom<br>Escape Academy,<br>i zagadkom, które ledwo rozwiązujemy,<br>jeden pokój, pod presją,<br>ze śledziami-zmyłkami i bólem głowy dla wszystkich.",
@@ -369,8 +369,8 @@
   "status": "draft"
  },
  "g:HEY_RoomName": {
-  "pl": "Pobudka ze wskazówką",
-  "status": "draft"
+  "pl": "Zagadkowa pobudka",
+  "status": "done"
  },
  "g:HEY_SolangeLetter": {
   "pl": "Dyrektorka Solange ma naprawdę ciekawe pojęcie o „małej niespodziance...” ",

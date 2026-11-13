@@ -52,8 +52,8 @@
   "status": "draft"
  },
  "g:MUS_Cluebells": {
-  "pl": "Dzwonki-wskazówki",
-  "status": "review"
+  "pl": "Podpowiedzwonki",
+  "status": "done"
  },
  "g:MUS_CookieJar": {
   "pl": "Miejsce zbrodni...",
@@ -616,8 +616,8 @@
   "status": "draft"
  },
  "g:MUS_Lockscombs": {
-  "pl": "Zamkogrzeby",
-  "status": "review"
+  "pl": "Kłódkoczuby",
+  "status": "done"
  },
  "g:MUS_MarbleLockSolvedMessage": {
   "pl": "Wszystko wygląda w porządku!",

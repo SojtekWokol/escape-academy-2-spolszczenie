@@ -188,8 +188,8 @@
   "status": "draft"
  },
  "g:CY1_Grate": {
-  "pl": "Ładna kratka! Ani drgnie, utknęła na dobre!",
-  "status": "review"
+  "pl": "No ładnie. Krata ani drgnie – siedzę za kratkami!",
+  "status": "done"
  },
  "g:CY1_Hint_DoorA": {
   "pl": "Na tych drzwiach jest schemat Pomnika, a niektóre nazwiska są wyróżnione...",
@@ -512,8 +512,8 @@
   "status": "draft"
  },
  "g:CY1_Scrolls1": {
-  "pl": "Pora się papi<i>ruszyć.</i>",
-  "status": "review"
+  "pl": "Pora się <i>zwijać.</i>",
+  "status": "done"
  },
  "g:CY1_Skeleton": {
   "pl": "Nie wróży to nam nic dobrego.",

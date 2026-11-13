@@ -212,8 +212,8 @@
   "status": "draft"
  },
  "g:HMI_Office_Butterfly": {
-  "pl": "Ale motyl! Piękny jak z bajki!",
-  "status": "draft"
+  "pl": "Motyla noga, ale piękny!",
+  "status": "done"
  },
  "g:HMI_Office_CoatRack": {
   "pl": "Podobno dyrektorka ma taki płaszcz na każdy dzień tygodnia.",
@@ -304,12 +304,12 @@
   "status": "draft"
  },
  "g:HMI_Office_PipeValve": {
-  "pl": "Zagadki to dla mnie bułka z rurą.",
-  "status": "draft"
+  "pl": "Zagadki idą mi płynnie, bez żadnych zatorów.",
+  "status": "done"
  },
  "g:HMI_Office_Plant1": {
-  "pl": "Aż mi liście opadły – zaczynam drugi rok!",
-  "status": "draft"
+  "pl": "Nie do wiary, zaczyna się drugi rok... w pełnym rozkwicie!",
+  "status": "done"
  },
  "g:HMI_Office_Plant2": {
   "pl": "Żeby nie było, że się wyrywam, ale liczę na twardszą konkurencję w tym roku...",

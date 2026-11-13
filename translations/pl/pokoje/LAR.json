@@ -88,8 +88,8 @@
   "status": "draft"
  },
  "g:LAR_ElectricalBox": {
-  "pl": "Jestem <i>porażony</i>, że Alistairowi Bellowi tak długo uchodziło to wszystko na sucho.",
-  "status": "draft"
+  "pl": "Aż <i>poraża</i>, że Alistairowi Bellowi tak długo uchodziło to wszystko na sucho.",
+  "status": "done"
  },
  "g:LAR_EmptyCrate": {
   "pl": "„Czyste kalesony”",
@@ -260,8 +260,8 @@
   "status": "draft"
  },
  "g:LAR_OilDrum": {
-  "pl": "Alistair Bell wie, jak zbudować napięcie – to istna beczka prochu!",
-  "status": "draft"
+  "pl": "Alistair Bell umie dolewać oliwy do ognia...",
+  "status": "done"
  },
  "g:LAR_PlaceCard": {
   "pl": "Mogę tu położyć kartę...",
@@ -356,8 +356,8 @@
   "status": "draft"
  },
  "g:LAR_Vicluevian": {
-  "pl": "Człowiek Witruwskazówkowy",
-  "status": "review"
+  "pl": "Człowiek wskazuwiański",
+  "status": "done"
  },
  "g:LAR_Wardrobe": {
   "pl": "Garderoba szaleńca...",

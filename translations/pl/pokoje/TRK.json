@@ -1,15 +1,15 @@
 {
  "g:TRK_Barrels": {
-  "pl": "Nie mam <i>beczki</i> pojęcia, do czego to wszystko służy...",
-  "status": "draft"
+  "pl": "Nie wiem, do czego to służy – wszystko tu jakby z innej <i>beczki</i>...",
+  "status": "done"
  },
  "g:TRK_Barrels2": {
-  "pl": "Kopalnia nad materią!",
-  "status": "review"
+  "pl": "Głowa to kopalnia pomysłów!",
+  "status": "done"
  },
  "g:TRK_Barrels3": {
-  "pl": "Te tunele to skrzy-nie doskonała kryjówka na coś ważnego.",
-  "status": "review"
+  "pl": "W tych tunelach można skrzętnie ukryć coś ważnego.",
+  "status": "done"
  },
  "g:TRK_BlastReady": {
   "pl": "Gotowe do wybuchu!",

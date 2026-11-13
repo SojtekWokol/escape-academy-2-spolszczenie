@@ -784,8 +784,8 @@
   "status": "draft"
  },
  "g:PRO_SodaQuest_Name": {
-  "pl": "Bąbelkowy interes",
-  "status": "draft"
+  "pl": "Pełnym gazem",
+  "status": "done"
  },
  "g:PRO_SodaQuest_Step0": {
   "pl": "Kup puszkę napoju.",
@@ -856,8 +856,8 @@
   "status": "draft"
  },
  "g:PRO_Wheelchair": {
-  "pl": "Coś mi się dziś nie toczy!",
-  "status": "draft"
+  "pl": "Coś mi dziś kółka nie domagają!",
+  "status": "done"
  },
  "g:PRO_doorLockedFireSafe": {
   "pl": "Zamknięte od zewnątrz. Fatalnie z przepisami przeciwpożarowymi.",

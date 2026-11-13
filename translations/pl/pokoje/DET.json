@@ -36,8 +36,8 @@
   "status": "draft"
  },
  "g:DET_BunkBed1": {
-  "pl": "Czas obalić mit, że z Karceru nikt nie ucieka.",
-  "status": "draft"
+  "pl": "To, że z Karceru nikt nie ucieka, to bujda na resorach!",
+  "status": "done"
  },
  "g:DET_Bunks2": {
   "pl": "Muszę zaszyć się w koi... znaczy w bunkrze, i wymyślić, jak nas stąd wydostać.",
@@ -48,8 +48,8 @@
   "status": "draft"
  },
  "g:DET_ChalkboardJoke": {
-  "pl": "Nie ma czasu na nudę – tablica czeka!",
-  "status": "review"
+  "pl": "Nie ma czasu na nudę – trzeba się wykazać przy tablicy!",
+  "status": "done"
  },
  "g:DET_Crime0": {
   "pl": "Przeklinanie",
@@ -80,8 +80,8 @@
   "status": "draft"
  },
  "g:DET_Fence": {
-  "pl": "Zamknąć mnie za płotem? To zniewaga – i to ogrodzona!",
-  "status": "review"
+  "pl": "Zamknąć kogoś za płotem? To przechodzi wszelkie granice!",
+  "status": "done"
  },
  "g:DET_FishingStationA": {
   "pl": "Mogę coś złożyć na tym biurku. Co przymocować do tego kija?",
@@ -228,8 +228,8 @@
   "status": "draft"
  },
  "g:DET_Sink3": {
-  "pl": "Pora się stąd kran-ąć w długą!",
-  "status": "review"
+  "pl": "Pora się stąd zmyć!",
+  "status": "done"
  },
  "g:DET_Sink4": {
   "pl": "Nie pozwolę, by moje wspomnienia poszły w odpływ... Lubię je!",
@@ -252,8 +252,8 @@
   "status": "draft"
  },
  "g:DET_Vent1": {
-  "pl": "Muszę wywentylować jakiś plan ucieczki, i to migiem!",
-  "status": "draft"
+  "pl": "Czas się stąd ulotnić, i to migiem!",
+  "status": "done"
  },
  "g:DET_Warning": {
   "pl": "Uwaga: nie wrzucaj ważnych przedmiotów do dziury.",

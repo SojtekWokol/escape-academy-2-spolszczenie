@@ -100,8 +100,8 @@
   "status": "draft"
  },
  "g:GUN_Glasses": {
-  "pl": "To mój wielki strzał! Znaczy... shot!",
-  "status": "review"
+  "pl": "Wypijmy za moją wielką szansę!",
+  "status": "done"
  },
  "g:GUN_Hammer": {
   "pl": "Lina",
