@@ -496,7 +496,7 @@
   "status": "draft"
  },
  "g:SCI_Lab_Dish": {
-  "pl": "Ta czasza pewnie łapie mnóstwo fajnych sygnałów. Ma odbiór lepszy niż ktokolwiek tutaj!",
+  "pl": "Ten talerz pewnie serwuje same pyszne sygnały.",
   "status": "review"
  },
  "g:SCI_Lab_Door": {
@@ -721,7 +721,7 @@
  },
  "g:SCI_Work_Vise": {
   "pl": "Nauka wciągnęła mnie na dobre... trzyma jak w imadle.",
-  "status": "review"
+  "status": "done"
  },
  "v:Allie_SCI_ChemistryGas": {
   "pl": "Ta chemia to prawdziwy gaz!",
