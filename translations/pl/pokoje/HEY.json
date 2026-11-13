@@ -37,15 +37,15 @@
  },
  "g:HEY_Book1": {
   "pl": "„...pierwsza dyrektorka <i>kier</i>owała szkołą całym sercem...”",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_Book2": {
   "pl": "„...nie tylko założył szkołę, ale też należał do najbardziej elitarnych klubów Towarzystwa Ucieczek. Jednym słowem: <i>trefl</i>ił w dziesiątkę...”",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_Book3": {
   "pl": "„...nie zaszkodziło, że nasz historyk był przystojny, a każde niebezpieczeństwo to był dla niego <i>pik</i>uś...”",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_CampusActivity1": {
   "pl": "8:00:<br>Śniadanie, <b>kawa</b> i szyfry",
