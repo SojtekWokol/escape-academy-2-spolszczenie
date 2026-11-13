@@ -9,7 +9,7 @@
  },
  "g:PRO_Bathroom_Sign": {
   "pl": "TOALETA",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Bathroom_SoapDispenser": {
   "pl": "Mydlana bajka!",
@@ -37,19 +37,19 @@
  },
  "g:PRO_BookQuest_Step0": {
   "pl": "Kup „Larkiny Lenzini – Księga wytrychów”",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_BookQuest_Step1": {
   "pl": "Kup „Chowanie i szukanie”",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_BookQuest_Step2": {
   "pl": "Kup „Szyfry od B do A”",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Bookstore_BookStack": {
   "pl": "To <i>mnóstwo</i> zwróconych egzemplarzy „Serca na wolności 2: Pasja łamigłówki”.",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Bookstore_Bookshelft1": {
   "pl": "„Kuchnia i maszyneria”",
@@ -93,7 +93,7 @@
  },
  "g:PRO_Bookstore_Password": {
   "pl": "E,U,R,E,K,A",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Bookstore_PuzzleBook1": {
   "pl": "Chowanie i szukanie",
@@ -105,7 +105,7 @@
  },
  "g:PRO_Bookstore_PuzzleBook2B": {
   "pl": "FVSFLB!",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Bookstore_ReqReading": {
   "pl": "<b>Lektury obowiązkowe:</b><br><br>Larkin: Księga wytrychów<br><br>Szyfry od B do A<br><br>Chowanie i szukanie<br><br>Wszystkie książki teraz po 3 $!",
@@ -161,7 +161,7 @@
  },
  "g:PRO_CatQuest_NameAlt": {
   "pl": "Masz mleko?",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_CatQuest_Step0": {
   "pl": "Daj kotu rybę (będzie syty przez cały dzień).",
@@ -245,15 +245,15 @@
  },
  "g:PRO_DiningHall_ClockH": {
   "pl": "G",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_DiningHall_ClockHM": {
   "pl": "GM",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_DiningHall_ClockHS": {
   "pl": "GS",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_DiningHall_ClockHand": {
   "pl": "Co za dziwne urządzenie",
@@ -273,7 +273,7 @@
  },
  "g:PRO_DiningHall_OrderOutOf": {
   "pl": "Działa nie",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_DiningHall_OutOfOrder": {
   "pl": "Nie działa",
@@ -481,7 +481,7 @@
  },
  "g:PRO_HallwayWest_WelcomeBack2ndYears": {
   "pl": "Witajcie z powrotem, uczniowie drugiego roku! Tęskniliśmy.",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_HallwayWest_WelcomeBackToSchool": {
   "pl": "Witamy z powrotem w szkole!",
@@ -505,7 +505,7 @@
  },
  "g:PRO_Hint_BookCipher": {
   "pl": "Pierwsza litera to „{@PRO_Bookstore_Password[0]}”...",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Hint_BuyMe": {
   "pl": "Kup mnie.",
@@ -533,7 +533,7 @@
  },
  "g:PRO_Hint_DormGateB": {
   "pl": "Piknie te piki wyglądają, Sameer.",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Hint_EyesBook": {
   "pl": "Na jaki kształt patrzy każde oko?",
@@ -573,7 +573,7 @@
  },
  "g:PRO_Hint_TrophyA": {
   "pl": "Dwa trofea z Turnieju Zagadek muszą dzielić dokładnie 10 lat.",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Hint_TrophyB": {
   "pl": "25. doroczny konkurs szyfrów odbył się w 1980 roku.",
@@ -585,7 +585,7 @@
  },
  "g:PRO_IVDrip": {
   "pl": "Kroplówka czeka w pogotowiu... kropla do kropli!",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_IncidentFiles": {
   "pl": "„Raporty z incydentów: ostatnie dwanaście godzin”",
@@ -709,7 +709,7 @@
  },
  "g:PRO_Lobby_PottedPlant1": {
   "pl": "Etos, logos, doniczkos.",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Lobby_PottedPlant2": {
   "pl": "Chcę zacząć ten rok na żyznym gruncie.",
@@ -721,7 +721,7 @@
  },
  "g:PRO_Lobby_Radiator": {
   "pl": "Do zobaczenia, kaloryferze. Tylko się nie przegrzej.",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Lobby_TOPOld": {
   "pl": "Mistrzowie Turnieju Zagadek<br>–1983–",
@@ -757,7 +757,7 @@
  },
  "g:PRO_Lobby_TrophyTOP": {
   "pl": "T.Z.",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_PuzzlePickups_2": {
   "pl": "Wielka<br>księga<br>wytrychów",

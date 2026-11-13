@@ -61,7 +61,7 @@
  },
  "g:TIC_NewLockCity": {
   "pl": "<mspace=1>Nowy Kłódków</mspace>",
-  "status": "review"
+  "status": "done"
  },
  "g:TIC_NoCalling": {
   "pl": "Teraz się nie rozłączam!",
@@ -113,7 +113,7 @@
  },
  "g:TIC_Running": {
   "pl": "Bezpieczeństwo w tramwaju:<br>Zakaz biegania!<br>NIE przytrzymuj ",
-  "status": "review"
+  "status": "done"
  },
  "g:TIC_SafetyCrawl": {
   "pl": "<b>Bezpieczeństwo w tramwaju: </b><br>Nie dotykaj rękami podłogi!<br>NIE CZOŁGAJ SIĘ, naciskając ",
@@ -177,7 +177,7 @@
  },
  "g:TIC_TramSteamLock": {
   "pl": "K,O,L,E,J",
-  "status": "review"
+  "status": "done"
  },
  "g:TIC_Tramticket": {
   "pl": "Bilet tramwajowy",

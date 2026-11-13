@@ -57,11 +57,11 @@
  },
  "g:QuantyNametag_SrSciProfessor": {
   "pl": "Profesor nauk ścisłych Quanty",
-  "status": "review"
+  "status": "done"
  },
  "g:QuantyNametag_Warden": {
   "pl": "Naczelnik Quanty",
-  "status": "review"
+  "status": "done"
  },
  "g:name_Allie": {
   "pl": "Profesor Bonilla",

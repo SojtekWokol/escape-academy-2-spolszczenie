@@ -41,11 +41,11 @@
  },
  "g:HEY_Book2": {
   "pl": "„...nie tylko założył szkołę, ale też należał do najbardziej pożądanych <i>trefl</i>-klubów Towarzystwa Ucieczek...”",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_Book3": {
   "pl": "„...nie zaszkodziło, że nasz historyk był przystojny, odważny i <i>pik</i>antny w żartach...",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_CampusActivity1": {
   "pl": "8:00:<br>Śniadanie, <b>kawa</b> i szyfry",
@@ -85,7 +85,7 @@
  },
  "g:HEY_DeskPuzzleSolution": {
   "pl": "T,R,O,P",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_Desk_Start_Instructions": {
   "pl": "START W<br>X2 Y2",
@@ -113,7 +113,7 @@
  },
  "g:HEY_Desk_X1Y4_Letter": {
   "pl": "P",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_Desk_X2Y1_Letter": {
   "pl": "Z",
@@ -125,7 +125,7 @@
  },
  "g:HEY_Desk_X2Y2_Letter": {
   "pl": "T",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_Desk_X2Y3_Instructions": {
   "pl": "Dalej: X+1",
@@ -153,7 +153,7 @@
  },
  "g:HEY_Desk_X3Y2_Letter": {
   "pl": "R",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_Desk_X3Y3_Letter": {
   "pl": "B",
@@ -165,7 +165,7 @@
  },
  "g:HEY_Desk_X3Y4_Letter": {
   "pl": "O",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_EscapistTimes": {
   "pl": "Kurier Eskapisty – BADANIE: Doświadczeni profesorowie twierdzą, że kartkówki z zaskoczenia wbijają wiedzę najskuteczniej",
@@ -221,7 +221,7 @@
  },
  "g:HEY_FounderName_NAME": {
   "pl": "*Imię*",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_FounderName_Reyna": {
   "pl": "Reina",
@@ -253,7 +253,7 @@
  },
  "g:HEY_FoundersSign": {
   "pl": "Nasza trójka założycieli",
-  "status": "review"
+  "status": "done"
  },
  "g:HEY_Hint_ActivitiesA": {
   "pl": "Czy któreś z nich pojawia się gdzieś indziej?",
@@ -361,7 +361,7 @@
  },
  "g:HEY_Rack": {
   "pl": "Przez tę kartkówkę głowa mi się <i>wiesza</i>!",
-  "status": "review",
+  "status": "done",
   "tags_ok": "<i> </i>"
  },
  "g:HEY_RoomDone": {

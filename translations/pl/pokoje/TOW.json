@@ -33,7 +33,7 @@
  },
  "g:TOW_Birdcage": {
   "pl": "Mam nadzieję, że z ptakiem wszystko w porządku...",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_CardboardBox": {
   "pl": "Tą stroną do góry!",
@@ -117,7 +117,7 @@
  },
  "g:TOW_East": {
   "pl": "W",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_EscapistTimes": {
   "pl": "Kurier Eskapisty – Miejscowy eskapista przerażony wizją rozwiązywania zagadek na oczach rówieśników",
@@ -145,31 +145,31 @@
  },
  "g:TOW_HiddenMessage1": {
   "pl": "E",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_HiddenMessage2": {
   "pl": "A",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_HiddenMessage3": {
   "pl": "Y",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_HiddenMessage4": {
   "pl": "K",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_HiddenMessage5": {
   "pl": "R",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_HiddenMessage6": {
   "pl": "T",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_HiddenMessage7": {
   "pl": "R",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_Hint_Climb": {
   "pl": "Wygląda na to, że można się tu wspiąć...",
@@ -252,12 +252,12 @@
   "status": "draft"
  },
  "g:TOW_Hint_SignA": {
-  "pl": "„Double U” = W",
+  "pl": "Coś jak „w tył zwrot!”.",
   "status": "review"
  },
  "g:TOW_Hint_SignB": {
-  "pl": "Pierwsze słowo to „STAY”.",
-  "status": "draft"
+  "pl": "Hasło zaczyna się od „ZA”.",
+  "status": "review"
  },
  "g:TOW_Hint_StarLockA": {
   "pl": "Niebieska gwiazda ma cztery ramiona...",
@@ -373,15 +373,15 @@
  },
  "g:TOW_Password_Camel": {
   "pl": "D,R,O,M,A,D,E,R",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_Password_Eclipse": {
   "pl": "K,R,A,T,E,R,Y",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_Password_Lunar": {
   "pl": "N,O,W,I,U",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_PlasterBucket": {
   "pl": "Jeśli nie wejdę na szczyt wieży na czas, to będzie gips-katastrofa!",
@@ -389,7 +389,7 @@
  },
  "g:TOW_QuestClue": {
   "pl": "W drugim słowie jest „U”. Nie, czekaj... podwój to!",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_QuestClue2": {
   "pl": "Oba słowa kończą się tą samą literą.",
@@ -444,7 +444,7 @@
   "status": "draft"
  },
  "g:TOW_StayAwayLock": {
-  "pl": "S,T,A,Y,_,A,W,A,Y",
+  "pl": "Z,A,W,R,A,C,A,J",
   "status": "review"
  },
  "g:TOW_Subtitle": {
@@ -453,7 +453,7 @@
  },
  "g:TOW_SunFallSpring": {
   "pl": "Jesienne i wiosenne słońce",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_SunSummer": {
   "pl": "Letnie słońce",
@@ -489,7 +489,7 @@
  },
  "g:TOW_West": {
   "pl": "Z",
-  "status": "review"
+  "status": "done"
  },
  "v:Solange_TOW_DriveYouLonoy": {
   "pl": "Niech zagadki nie zrobią z ciebie lunatyka!",

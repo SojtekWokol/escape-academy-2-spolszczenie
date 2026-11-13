@@ -25,7 +25,7 @@
  },
  "g:Action_Equip": {
   "pl": "Załóż",
-  "status": "review"
+  "status": "done"
  },
  "g:Action_Jump": {
   "pl": "Skocz",
@@ -77,7 +77,7 @@
  },
  "g:Action_Pause": {
   "pl": "Pauza",
-  "status": "review"
+  "status": "done"
  },
  "g:Action_Ping": {
   "pl": "Wyślij ping",
@@ -109,7 +109,7 @@
  },
  "g:Action_interact": {
   "pl": "Interakcja",
-  "status": "review"
+  "status": "done"
  },
  "g:Action_inventory": {
   "pl": "Ekwipunek",
@@ -213,7 +213,7 @@
  },
  "g:Color_Magneta": {
   "pl": "Magenta",
-  "status": "review"
+  "status": "done"
  },
  "g:Color_MagnetaA": {
   "pl": "Mag",
@@ -241,7 +241,7 @@
  },
  "g:Color_OnA": {
   "pl": "V",
-  "status": "review"
+  "status": "done"
  },
  "g:Color_Orange": {
   "pl": "Pomarańczowy",
@@ -261,7 +261,7 @@
  },
  "g:Color_Purple": {
   "pl": "Purpurowy",
-  "status": "review"
+  "status": "done"
  },
  "g:Color_PurpleA": {
   "pl": "Pur",
@@ -273,11 +273,11 @@
  },
  "g:Color_RedA": {
   "pl": "Cze",
-  "status": "review"
+  "status": "done"
  },
  "g:Color_Teal": {
   "pl": "Morski",
-  "status": "review"
+  "status": "done"
  },
  "g:Color_TealA": {
   "pl": "Mor",
@@ -317,15 +317,15 @@
  },
  "g:CreditLockFormat": {
   "pl": "Zapieczętowane! Żeby otworzyć te drzwi, potrzeba co najmniej {0} pkt...",
-  "status": "review"
+  "status": "done"
  },
  "g:CreditLockFormat_Singular": {
   "pl": "Zapieczętowane! Potrzebuję co najmniej 1 punktu, żeby otworzyć te drzwi...",
-  "status": "review"
+  "status": "done"
  },
  "g:DEMO_EFIGS_Characters": {
   "pl": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝŸàáâãäåæçèéêëìíîïñòóôõöùúûüýÿŒœß¡¿«»‹›‘’‚‛“”„–—...·",
-  "status": "review"
+  "status": "done"
  },
  "g:DEMO_NoCharacterCustomization": {
   "pl": "Dostosowywanie postaci nie jest dostępne w tym demie.",
@@ -489,7 +489,7 @@
  },
  "g:GUIMap_ChemClassroom": {
   "pl": "Laboratorium chemiczne",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_CipherCenter": {
   "pl": "Centrum Szyfrów",
@@ -497,7 +497,7 @@
  },
  "g:GUIMap_Classrooms": {
   "pl": "Sale lekcyjne (parter)",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_ComputerLab": {
   "pl": "Pracownia komputerowa",
@@ -517,11 +517,11 @@
  },
  "g:GUIMap_Dorms": {
   "pl": "Akademik (1. piętro)",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_Dungeons": {
   "pl": "Lochy (piwnica)",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_East": {
   "pl": "W",
@@ -625,7 +625,7 @@
  },
  "g:GUIMap_Lighthouse": {
   "pl": "Latarnia morska",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_Lobby": {
   "pl": "Hol",
@@ -689,11 +689,11 @@
  },
  "g:GUIMap_ScienceWorkshop": {
   "pl": "Skład",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_Sciences": {
   "pl": "Wydział Nauk Ścisłych",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_Sewer": {
   "pl": "Kanały",
@@ -701,11 +701,11 @@
  },
  "g:GUIMap_South": {
   "pl": "P",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_Stairwell": {
   "pl": "Schody",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_Terrace": {
   "pl": "Taras",
@@ -977,7 +977,7 @@
  },
  "g:GUI_HostYou": {
   "pl": "Gospodarz (ty)",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_InputControllerFormat": {
   "pl": "Kontroler {0} ({1})",
@@ -997,7 +997,7 @@
  },
  "g:GUI_JoinDiscord": {
   "pl": "Dołącz do naszego Discorda!",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_JoinGame": {
   "pl": "Dołącz do gry znajomego",
@@ -1149,7 +1149,7 @@
  },
  "g:GUI_PartnerReading": {
   "pl": "Twój partner jeszcze czyta...",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_PartnersItems": {
   "pl": "Ekwipunek współgracza:",
@@ -1173,7 +1173,7 @@
  },
  "g:GUI_PressAnyButtonToJoin": {
   "pl": "Naciśnij dowolny przycisk, aby dołączyć...",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_QualityLevel": {
   "pl": "Jakość grafiki",
@@ -1205,7 +1205,7 @@
  },
  "g:GUI_RebindMouse": {
   "pl": "Zmień przypisanie (mysz + klawiatura)",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_Rebind_Blocked": {
   "pl": "Ten przycisk jest wymagany do: {0}. Wybierz inny.",
@@ -1221,11 +1221,11 @@
  },
  "g:GUI_ReduceStrobing": {
   "pl": "Ogranicz efekt stroboskopowy",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_ReduceSway": {
   "pl": "Ogranicz kołysanie i drżenie",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_ReloadConfirm": {
   "pl": "Uwaga: zmiana tego ustawienia przeładuje poziom. Na pewno?",
@@ -1357,7 +1357,7 @@
  },
  "g:GUI_UntrackQuest": {
   "pl": "Przestań śledzić zadanie",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_VOVolume": {
   "pl": "Głośność dialogów",
@@ -1385,7 +1385,7 @@
  },
  "g:GUI_WishListNow": {
   "pl": "Dodaj nas do listy życzeń na Steamie!",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_YouveEscaped": {
   "pl": "Udało ci się uciec!",
@@ -1485,11 +1485,11 @@
  },
  "g:Hint_Kira": {
   "pl": "Porozmawiaj z Kirą.",
-  "status": "review"
+  "status": "done"
  },
  "g:Hint_Location": {
   "pl": "Następny przystanek: {0}!",
-  "status": "review"
+  "status": "done"
  },
  "g:Hint_Loot": {
   "pl": "Łap łup!",
@@ -1509,7 +1509,7 @@
  },
  "g:Hint_Reed": {
   "pl": "Porozmawiaj z Reedem.",
-  "status": "review"
+  "status": "done"
  },
  "g:Hint_Roommates": {
   "pl": "Porozmawiaj ze współlokatorami.",
@@ -1801,7 +1801,7 @@
  },
  "g:MetaMoneySingular": {
   "pl": "Eskadolar",
-  "status": "review"
+  "status": "done"
  },
  "g:MetaMoneySlogan": {
   "pl": "Ufamy w Ucieczkę",
@@ -1873,7 +1873,7 @@
  },
  "g:PurchaseStandardFormat": {
   "pl": "Kupić <style=\"purchase\">{0}</style> za ${1}?",
-  "status": "review"
+  "status": "done"
  },
  "g:Quad_Hint_Location": {
   "pl": "Idź na dziedziniec.",
@@ -2557,7 +2557,7 @@
  },
  "g:giveItemPrompt": {
   "pl": "Dać coś partnerowi?",
-  "status": "review"
+  "status": "done"
  },
  "g:hide": {
   "pl": "Ukryj",
@@ -2601,7 +2601,7 @@
  },
  "g:insert_fits": {
   "pl": "Co się tu zmieści?",
-  "status": "review"
+  "status": "done"
  },
  "g:insert_goes": {
   "pl": "Co tu pasuje?",
@@ -2621,7 +2621,7 @@
  },
  "g:interact": {
   "pl": "Interakcja",
-  "status": "review"
+  "status": "done"
  },
  "g:internetaccess1_ps": {
   "pl": "Brak połączenia z siecią, funkcje online zostaną wyłączone.",
@@ -2745,7 +2745,7 @@
  },
  "g:p1": {
   "pl": "G1:",
-  "status": "review"
+  "status": "done"
  },
  "g:p2": {
   "pl": "G2:",
@@ -2789,7 +2789,7 @@
  },
  "g:play_instrument": {
   "pl": "Zagraj na instrumencie",
-  "status": "review"
+  "status": "done"
  },
  "g:player1": {
   "pl": "Gracz 1",
