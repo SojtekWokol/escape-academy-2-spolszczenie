@@ -1,7 +1,7 @@
 {
  "g:SCI_Acid": {
   "pl": "KWAS",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Allie": {
   "pl": "Allie",
@@ -36,7 +36,7 @@
   "status": "draft"
  },
  "g:SCI_Bio_Skeleton": {
-  "pl": "Ten gość ma luz od czaszki po biodra.",
+  "pl": "Ten gość to luzak do szpiku kości.",
   "status": "review"
  },
  "g:SCI_Bio_Vines": {
@@ -185,7 +185,7 @@
  },
  "g:SCI_CoolSkeleton": {
   "pl": "Zbyt wyluzowany na jakiekolwiek kości niezgody...",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_CricketBody": {
   "pl": "Nie śpi do świtu, by wcześnie rano cykać swoją wesołą piosenkę!",
@@ -437,11 +437,11 @@
  },
  "g:SCI_Item_BagOfChips": {
   "pl": "Kluczytos",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Item_BlueWhaleTile": {
   "pl": "Płytka z płetwalem błękitnym",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Item_BrainChemicals": {
   "pl": "Chemikalia mózgowe",
@@ -465,7 +465,7 @@
  },
  "g:SCI_Item_EggDropAssembly": {
   "pl": "Konstrukcja chroniąca jajko",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Item_GoldenTelescope": {
   "pl": "Złoty teleskop",
@@ -537,7 +537,7 @@
  },
  "g:SCI_OXY": {
   "pl": "UTL",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Oldest": {
   "pl": "Najstarszy: ",
@@ -633,11 +633,11 @@
  },
  "g:SCI_TelescopeLock_Solution": {
   "pl": "L,U,P,A",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Telescope_DecoyLetter0": {
   "pl": "I",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Telescope_DecoyLetter1": {
   "pl": "O",
