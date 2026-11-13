@@ -297,7 +297,7 @@
  },
  "g:PRO_DormQuest_Name": {
   "pl": "Mój akademik, moja twierdza",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_DormQuest_Step0": {
   "pl": "Znajdź swój pokój.",
@@ -328,7 +328,7 @@
   "status": "draft"
  },
  "g:PRO_DormsWest_HowClumsy": {
-  "pl": "Gwiazdo szkoły,<br>wygląda na to, że to zostało w tramwaju!<br>Cóż za nieuwaga.<br>–Dyrektorka",
+  "pl": "Moja gwiazdo roku,<br>to chyba Twoje – leżało w tramwaju!<br>Cóż za roztargnienie.<br>–Dyrektorka",
   "status": "review"
  },
  "g:PRO_DormsWest_PenAndPaper": {
