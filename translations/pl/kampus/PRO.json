@@ -261,7 +261,7 @@
  },
  "g:PRO_DiningHall_Jelly": {
   "pl": "Galaretka z nadzieniem... biurowym.",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_DiningHall_Menu1": {
   "pl": "„Posiłki w tym tygodniu: bajgiel z kłódką, linguine de Houdini i makaron z puzzli”",
@@ -813,7 +813,7 @@
  },
  "g:PRO_Terrace_SnackdokuCandyHeader": {
   "pl": "Sudokąska: batonik 1 $",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Terrace_SnackdokuPrompt": {
   "pl": "„Wrzuć 1 $”",
@@ -837,7 +837,7 @@
  },
  "g:PRO_Terrace_SnackdokuSodaHeader": {
   "pl": "Sudokąska: napój 1 $",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_Terrace_SoldOut": {
   "pl": "Wyprzedane!",
