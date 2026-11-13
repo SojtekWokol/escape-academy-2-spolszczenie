@@ -40,12 +40,12 @@
   "status": "review"
  },
  "g:HEY_Book2": {
-  "pl": "„...nie tylko założył szkołę, ale też należał do najbardziej pożądanych <i>trefl</i>-klubów Towarzystwa Ucieczek...”",
-  "status": "done"
+  "pl": "„...nie tylko założył szkołę, ale też należał do najbardziej elitarnych klubów Towarzystwa Ucieczek. Jednym słowem: <i>trefl</i>ił w dziesiątkę...”",
+  "status": "review"
  },
  "g:HEY_Book3": {
-  "pl": "„...nie zaszkodziło, że nasz historyk był przystojny, odważny i <i>pik</i>antny w żartach...",
-  "status": "done"
+  "pl": "„...nie zaszkodziło, że nasz historyk był przystojny, a każde niebezpieczeństwo to był dla niego <i>pik</i>uś...”",
+  "status": "review"
  },
  "g:HEY_CampusActivity1": {
   "pl": "8:00:<br>Śniadanie, <b>kawa</b> i szyfry",
