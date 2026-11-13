@@ -12,7 +12,7 @@
   "status": "draft"
  },
  "g:MUS_CantPlay": {
-  "pl": "Bez kostki do gitary nic nie zagram…",
+  "pl": "Bez kostki do gitary nic nie zagram...",
   "status": "draft"
  },
  "g:MUS_Cipher_NotCiphered": {
@@ -48,7 +48,7 @@
   "status": "review"
  },
  "g:MUS_CluebellSubtitle": {
-  "pl": "Gdy fiolet idzie pierwszy…",
+  "pl": "Gdy fiolet idzie pierwszy...",
   "status": "draft"
  },
  "g:MUS_Cluebells": {
@@ -56,7 +56,7 @@
   "status": "review"
  },
  "g:MUS_CookieJar": {
-  "pl": "Miejsce zbrodni…",
+  "pl": "Miejsce zbrodni...",
   "status": "draft"
  },
  "g:MUS_CrashCymbal": {
@@ -76,7 +76,7 @@
   "status": "review"
  },
  "g:MUS_Culprit_CaseClosed": {
-  "pl": "Sprawa zamknięta…",
+  "pl": "Sprawa zamknięta...",
   "status": "draft"
  },
  "g:MUS_Culprit_Cheryl": {
@@ -152,7 +152,7 @@
   "status": "review"
  },
  "g:MUS_EC_ArrowInspection": {
-  "pl": "Ten grot jest wyjątkowy! Bezpieczny to on jednak nie jest…",
+  "pl": "Ten grot jest wyjątkowy! Bezpieczny to on jednak nie jest...",
   "status": "draft"
  },
  "g:MUS_EC_AztecBoxDone": {
@@ -196,7 +196,7 @@
   "status": "draft"
  },
  "g:MUS_EC_Lemonade_QuestName": {
-  "pl": "Gdy życie daje ci limonki…",
+  "pl": "Gdy życie daje ci limonki...",
   "status": "draft"
  },
  "g:MUS_EC_Maze_Objective1": {
@@ -304,11 +304,11 @@
   "status": "review"
  },
  "g:MUS_Hint_ClayA": {
-  "pl": "Gliniane wazy układają się we wzór. Wyrzeźbij brakującą wazę…",
+  "pl": "Gliniane wazy układają się we wzór. Wyrzeźbij brakującą wazę...",
   "status": "draft"
  },
  "g:MUS_Hint_ClayB": {
-  "pl": "…i zobacz, co zasłania na plakacie.",
+  "pl": "...i zobacz, co zasłania na plakacie.",
   "status": "draft"
  },
  "g:MUS_Hint_DrumA": {
@@ -316,7 +316,7 @@
   "status": "draft"
  },
  "g:MUS_Hint_DrumB": {
-  "pl": "Zacznij od dwóch uderzeń w werbel…",
+  "pl": "Zacznij od dwóch uderzeń w werbel...",
   "status": "review"
  },
  "g:MUS_Hint_Faculty": {
@@ -324,11 +324,11 @@
   "status": "draft"
  },
  "g:MUS_Hint_FertilizerA": {
-  "pl": "Podążaj za kolorowymi wzorami…",
+  "pl": "Podążaj za kolorowymi wzorami...",
   "status": "draft"
  },
  "g:MUS_Hint_FertilizerB": {
-  "pl": "…na tych pnączach, aż dotrzesz do kształtu.",
+  "pl": "...na tych pnączach, aż dotrzesz do kształtu.",
   "status": "draft"
  },
  "g:MUS_Hint_GrowFlower": {
@@ -364,11 +364,11 @@
   "status": "draft"
  },
  "g:MUS_Hint_PianoA": {
-  "pl": "Posłuchaj nut, które gra pianista…",
+  "pl": "Posłuchaj nut, które gra pianista...",
   "status": "draft"
  },
  "g:MUS_Hint_PianoB": {
-  "pl": "…i graj melodię dalej.",
+  "pl": "...i graj melodię dalej.",
   "status": "draft"
  },
  "g:MUS_Hint_PianoC": {
@@ -376,19 +376,19 @@
   "status": "draft"
  },
  "g:MUS_Hint_PoemA": {
-  "pl": "Z tego wiersza wynika, że…",
+  "pl": "Z tego wiersza wynika, że...",
   "status": "draft"
  },
  "g:MUS_Hint_PoemB": {
-  "pl": "…pierwsze dwa kwiaty powinny być fioletowe.",
+  "pl": "...pierwsze dwa kwiaty powinny być fioletowe.",
   "status": "draft"
  },
  "g:MUS_Hint_SliderA": {
-  "pl": "Pierwsza nuta zaczyna się pośrodku…",
+  "pl": "Pierwsza nuta zaczyna się pośrodku...",
   "status": "draft"
  },
  "g:MUS_Hint_SliderB": {
-  "pl": "Następna nuta jest trzy miejsca niżej…",
+  "pl": "Następna nuta jest trzy miejsca niżej...",
   "status": "draft"
  },
  "g:MUS_Hint_StrumA": {
@@ -404,19 +404,19 @@
   "status": "draft"
  },
  "g:MUS_Hint_TromboneB": {
-  "pl": "Zacznij od koła, potem przesuń się do pięciokąta…",
+  "pl": "Zacznij od koła, potem przesuń się do pięciokąta...",
   "status": "draft"
  },
  "g:MUS_Hint_XylophoneA": {
-  "pl": "Zagraj melodię z tej strony…",
+  "pl": "Zagraj melodię z tej strony...",
   "status": "draft"
  },
  "g:MUS_Hint_XylophoneB": {
-  "pl": "…na tym ksylofonie!",
+  "pl": "...na tym ksylofonie!",
   "status": "draft"
  },
  "g:MUS_InsertFertilizer": {
-  "pl": "Tej donicy przydałoby się trochę nawozu…",
+  "pl": "Tej donicy przydałoby się trochę nawozu...",
   "status": "draft"
  },
  "g:MUS_InsertFlower": {
@@ -604,7 +604,7 @@
   "status": "review"
  },
  "g:MUS_LockedAztec": {
-  "pl": "Ta strona jest zamknięta…",
+  "pl": "Ta strona jest zamknięta...",
   "status": "draft"
  },
  "g:MUS_LockscombPairings": {
@@ -612,7 +612,7 @@
   "status": "draft"
  },
  "g:MUS_LockscombSubtitle": {
-  "pl": "Gdy różowy wyprzedza…",
+  "pl": "Gdy różowy wyprzedza...",
   "status": "draft"
  },
  "g:MUS_Lockscombs": {
@@ -656,7 +656,7 @@
   "status": "draft"
  },
  "g:MUS_NoPottery": {
-  "pl": "Nie ma jeszcze ceramiki do zabrania…",
+  "pl": "Nie ma jeszcze ceramiki do zabrania...",
   "status": "draft"
  },
  "g:MUS_Note": {
@@ -744,7 +744,7 @@
   "status": "review"
  },
  "g:MUS_PopkeySubtitle": {
-  "pl": "Gdy pomarańcz idzie pierwszy…",
+  "pl": "Gdy pomarańcz idzie pierwszy...",
   "status": "draft"
  },
  "g:MUS_Popkeys": {
@@ -788,7 +788,7 @@
   "status": "draft"
  },
  "g:MUS_SprayPaint": {
-  "pl": "Bez farby w sprayu nic nie zrobię…",
+  "pl": "Bez farby w sprayu nic nie zrobię...",
   "status": "draft"
  },
  "g:MUS_Start_QuestDesc": {
@@ -796,7 +796,7 @@
   "status": "draft"
  },
  "g:MUS_Start_QuestName": {
-  "pl": "Dni Von-minione…",
+  "pl": "Dni Von-minione...",
   "status": "review"
  },
  "g:MUS_Start_QuestObj1": {
@@ -960,7 +960,7 @@
   "status": "draft"
  },
  "g:MUS_XylophoneMissingMarbles": {
-  "pl": "Brakuje kulek…",
+  "pl": "Brakuje kulek...",
   "status": "draft"
  },
  "v:Allie_MUS_DontTrustChemicals": {

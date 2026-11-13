@@ -52,7 +52,7 @@
   "status": "review"
  },
  "g:AHY_CourseChartingRules": {
-  "pl": "<b>Zasady wyznaczania kursu:</b><br>Zauważ, jak prądy i wiatry łączą się, wyznaczając trasę statku…",
+  "pl": "<b>Zasady wyznaczania kursu:</b><br>Zauważ, jak prądy i wiatry łączą się, wyznaczając trasę statku...",
   "status": "draft"
  },
  "g:AHY_CraneGuys": {
@@ -240,11 +240,11 @@
   "status": "draft"
  },
  "g:AHY_LemonLabel": {
-  "pl": "Gdy życie daje ci cytryny…",
+  "pl": "Gdy życie daje ci cytryny...",
   "status": "draft"
  },
  "g:AHY_LifeBoatBeach": {
-  "pl": "Nie do wiary, że to wszystko, co zostało z Czerwonego Śledzia…",
+  "pl": "Nie do wiary, że to wszystko, co zostało z Czerwonego Śledzia...",
   "status": "review"
  },
  "g:AHY_LifeVests": {

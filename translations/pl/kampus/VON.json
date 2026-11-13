@@ -8,7 +8,7 @@
   "status": "review"
  },
  "g:VON_BinaryPoster_ExamplesHeader": {
-  "pl": "To oznacza…",
+  "pl": "To oznacza...",
   "status": "draft"
  },
  "g:VON_BinaryPoster_Explanation": {
@@ -44,7 +44,7 @@
   "status": "draft"
  },
  "g:VON_CrownSolved": {
-  "pl": "K-O-R-O-N-A… ale co nam po słowie z sześciu liter?",
+  "pl": "K-O-R-O-N-A... ale co nam po słowie z sześciu liter?",
   "status": "review"
  },
  "g:VON_DerbyWin": {
@@ -136,7 +136,7 @@
   "status": "draft"
  },
  "g:VON_Hint_BinaryA": {
-  "pl": "Sekwencja zaczyna się: dół, lewo…",
+  "pl": "Sekwencja zaczyna się: dół, lewo...",
   "status": "draft"
  },
  "g:VON_Hint_ChipsA": {
@@ -144,11 +144,11 @@
   "status": "draft"
  },
  "g:VON_Hint_LightupA": {
-  "pl": "Obserwuj wzór świateł…",
+  "pl": "Obserwuj wzór świateł...",
   "status": "draft"
  },
  "g:VON_Hint_LightupB": {
-  "pl": "…i odtwórz go tutaj! Co przypomina?",
+  "pl": "...i odtwórz go tutaj! Co przypomina?",
   "status": "draft"
  },
  "g:VON_Hint_LightupC": {
@@ -172,11 +172,11 @@
   "status": "draft"
  },
  "g:VON_Hint_NumLockA": {
-  "pl": "Zamień {@VON_LightLock_PWRaw} na liczby…",
+  "pl": "Zamień {@VON_LightLock_PWRaw} na liczby...",
   "status": "draft"
  },
  "g:VON_Hint_NumLockB": {
-  "pl": "…i wpisz je tutaj!",
+  "pl": "...i wpisz je tutaj!",
   "status": "draft"
  },
  "g:VON_Hint_PlugIn": {
@@ -196,11 +196,11 @@
   "status": "draft"
  },
  "g:VON_Hint_WordLockB": {
-  "pl": "Wpisz te liczby w tej lunecie i zamień je na litery…",
+  "pl": "Wpisz te liczby w tej lunecie i zamień je na litery...",
   "status": "draft"
  },
  "g:VON_Hint_WordLockC": {
-  "pl": "…a potem wpisz je tutaj! Pierwsza litera to {@VON_WordLock_PW[0]}.",
+  "pl": "...a potem wpisz je tutaj! Pierwsza litera to {@VON_WordLock_PW[0]}.",
   "status": "draft"
  },
  "g:VON_Item_ChipA": {
@@ -332,7 +332,7 @@
   "status": "draft"
  },
  "g:VON_Meteor_DetectorStink_Idle": {
-  "pl": "Nie wykryto SMRODU…",
+  "pl": "Nie wykryto SMRODU...",
   "status": "draft"
  },
  "g:VON_Meteor_DetectorStink_Solved": {
@@ -348,7 +348,7 @@
   "status": "draft"
  },
  "g:VON_Meteor_DetectorWater_Idle": {
-  "pl": "Nie wykryto WODY SŁODKIEJ…",
+  "pl": "Nie wykryto WODY SŁODKIEJ...",
   "status": "draft"
  },
  "g:VON_Meteor_DetectorWater_Solved": {

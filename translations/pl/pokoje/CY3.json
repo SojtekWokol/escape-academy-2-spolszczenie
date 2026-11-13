@@ -244,7 +244,7 @@
   "status": "draft"
  },
  "g:CY3_CandlesBurning": {
-  "pl": "Palą się…",
+  "pl": "Palą się...",
   "status": "draft"
  },
  "g:CY3_CardInsert": {
@@ -376,11 +376,11 @@
   "status": "draft"
  },
  "g:CY3_LightCandle": {
-  "pl": "Te świece wyglądają trochę podejrzanie…",
+  "pl": "Te świece wyglądają trochę podejrzanie...",
   "status": "draft"
  },
  "g:CY3_LighterInsert": {
-  "pl": "Można by to zapalić, gdyby tylko ktoś miał zapalniczkę…",
+  "pl": "Można by to zapalić, gdyby tylko ktoś miał zapalniczkę...",
   "status": "draft"
  },
  "g:CY3_META_ItemDescription_Tablet": {
@@ -500,7 +500,7 @@
   "status": "draft"
  },
  "g:CY3_Rubble": {
-  "pl": "Jeśli tego nie rozgryzę, to leżymy… w gruzach.",
+  "pl": "Jeśli tego nie rozgryzę, to leżymy... w gruzach.",
   "status": "draft"
  },
  "g:CY3_SecretCode1": {

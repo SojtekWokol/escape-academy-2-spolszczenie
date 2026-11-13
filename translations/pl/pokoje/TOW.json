@@ -4,7 +4,7 @@
   "status": "draft"
  },
  "g:TOW_Active_Phone": {
-  "pl": "Lepiej sprawdzę, co dyrektorka przygotowała dla mnie na dachu…",
+  "pl": "Lepiej sprawdzę, co dyrektorka przygotowała dla mnie na dachu...",
   "status": "draft"
  },
  "g:TOW_Afternoon": {
@@ -12,7 +12,7 @@
   "status": "draft"
  },
  "g:TOW_AstronomyBooks": {
-  "pl": "Ech, te książki o astronomii są <i>takie</i> geocentryczne…",
+  "pl": "Ech, te książki o astronomii są <i>takie</i> geocentryczne...",
   "status": "draft"
  },
  "g:TOW_AstronomyBooks2": {
@@ -32,7 +32,7 @@
   "status": "draft"
  },
  "g:TOW_Birdcage": {
-  "pl": "Mam nadzieję, że z ptakiem wszystko w porządku…",
+  "pl": "Mam nadzieję, że z ptakiem wszystko w porządku...",
   "status": "review"
  },
  "g:TOW_CardboardBox": {
@@ -104,7 +104,7 @@
   "status": "draft"
  },
  "g:TOW_Crank": {
-  "pl": "Czemu nagle dostaję korby…",
+  "pl": "Czemu nagle dostaję korby...",
   "status": "draft"
  },
  "g:TOW_Crates": {
@@ -128,7 +128,7 @@
   "status": "draft"
  },
  "g:TOW_GearsMissing": {
-  "pl": "Na tej ścianie brakuje kilku trybików…",
+  "pl": "Na tej ścianie brakuje kilku trybików...",
   "status": "draft"
  },
  "g:TOW_GoodLuck": {
@@ -172,7 +172,7 @@
   "status": "review"
  },
  "g:TOW_Hint_Climb": {
-  "pl": "Wygląda na to, że można się tu wspiąć…",
+  "pl": "Wygląda na to, że można się tu wspiąć...",
   "status": "review"
  },
  "g:TOW_Hint_EclipseA": {
@@ -180,15 +180,15 @@
   "status": "review"
  },
  "g:TOW_Hint_EclipseB": {
-  "pl": "Zacznij od nowiu i ułóż je po kolei…",
+  "pl": "Zacznij od nowiu i ułóż je po kolei...",
   "status": "draft"
  },
  "g:TOW_Hint_EclipseC": {
-  "pl": "…żeby odblokować tę windę!",
+  "pl": "...żeby odblokować tę windę!",
   "status": "draft"
  },
  "g:TOW_Hint_GearWallA": {
-  "pl": "Kręć trybikami, aż strzałki się wyrównają…",
+  "pl": "Kręć trybikami, aż strzałki się wyrównają...",
   "status": "draft"
  },
  "g:TOW_Hint_GearWallB": {
@@ -232,15 +232,15 @@
   "status": "draft"
  },
  "g:TOW_Hint_SeasonsA": {
-  "pl": "Słońce wschodzi na wschodzie, a zachodzi na zachodzie…",
+  "pl": "Słońce wschodzi na wschodzie, a zachodzi na zachodzie...",
   "status": "draft"
  },
  "g:TOW_Hint_SeasonsB": {
-  "pl": "Słońce jest najwyżej latem, a najniżej zimą…",
+  "pl": "Słońce jest najwyżej latem, a najniżej zimą...",
   "status": "draft"
  },
  "g:TOW_Hint_SeasonsC": {
-  "pl": "Popołudnie jest PO południu…",
+  "pl": "Popołudnie jest PO południu...",
   "status": "draft"
  },
  "g:TOW_Hint_ShadowsA": {
@@ -260,7 +260,7 @@
   "status": "draft"
  },
  "g:TOW_Hint_StarLockA": {
-  "pl": "Niebieska gwiazda ma cztery ramiona…",
+  "pl": "Niebieska gwiazda ma cztery ramiona...",
   "status": "draft"
  },
  "g:TOW_Hint_StarLockB": {
@@ -332,7 +332,7 @@
   "status": "draft"
  },
  "g:TOW_LockedLever": {
-  "pl": "Jest zablokowana…",
+  "pl": "Jest zablokowana...",
   "status": "draft"
  },
  "g:TOW_MarsPainting": {
@@ -340,7 +340,7 @@
   "status": "draft"
  },
  "g:TOW_MinuteHandMount": {
-  "pl": "Mogę zamocować soczewkę na wskazówce minutowej…",
+  "pl": "Mogę zamocować soczewkę na wskazówce minutowej...",
   "status": "draft"
  },
  "g:TOW_NeedRope": {
@@ -388,7 +388,7 @@
   "status": "review"
  },
  "g:TOW_QuestClue": {
-  "pl": "W drugim słowie jest „U”. Nie, czekaj… podwój to!",
+  "pl": "W drugim słowie jest „U”. Nie, czekaj... podwój to!",
   "status": "review"
  },
  "g:TOW_QuestClue2": {
@@ -424,7 +424,7 @@
   "status": "draft"
  },
  "g:TOW_ReinaStatue": {
-  "pl": "Wow… Reina Wym naprawdę była taka wysoka?",
+  "pl": "Wow... Reina Wym naprawdę była taka wysoka?",
   "status": "draft"
  },
  "g:TOW_RoomName": {
@@ -524,7 +524,7 @@
   "status": "review"
  },
  "v:Solange_TOW_RoomFail": {
-  "pl": "Ojej. A zegar wybija zero…",
+  "pl": "Ojej. A zegar wybija zero...",
   "status": "draft"
  },
  "v:Solange_TOW_RoomWin": {
@@ -540,7 +540,7 @@
   "status": "draft"
  },
  "v:Solange_TOW_TakeNote": {
-  "pl": "Czy ktoś z widzów mógłby zanotować, że po tym trzeba będzie przestawić zegary…",
+  "pl": "Czy ktoś z widzów mógłby zanotować, że po tym trzeba będzie przestawić zegary...",
   "status": "draft"
  },
  "v:Solange_TOW_TheFirstHump": {

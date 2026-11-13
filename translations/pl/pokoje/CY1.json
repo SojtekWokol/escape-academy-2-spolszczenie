@@ -168,7 +168,7 @@
   "status": "draft"
  },
  "g:CY1_Books3": {
-  "pl": "Jeśli tu utknę, przynajmniej będzie co czytać…",
+  "pl": "Jeśli tu utknę, przynajmniej będzie co czytać...",
   "status": "draft"
  },
  "g:CY1_DensityPuzzle": {
@@ -180,7 +180,7 @@
   "status": "draft"
  },
  "g:CY1_DustyPlacard": {
-  "pl": "Ta plakietka jest strasznie zakurzona…",
+  "pl": "Ta plakietka jest strasznie zakurzona...",
   "status": "draft"
  },
  "g:CY1_EscapistTimes": {
@@ -192,7 +192,7 @@
   "status": "review"
  },
  "g:CY1_Hint_DoorA": {
-  "pl": "Na tych drzwiach jest schemat Pomnika, a niektóre nazwiska są wyróżnione…",
+  "pl": "Na tych drzwiach jest schemat Pomnika, a niektóre nazwiska są wyróżnione...",
   "status": "draft"
  },
  "g:CY1_Hint_DoorB": {
@@ -204,23 +204,23 @@
   "status": "draft"
  },
  "g:CY1_Hint_FootpathA": {
-  "pl": "Idź ścieżką i rozszyfruj symbole…",
+  "pl": "Idź ścieżką i rozszyfruj symbole...",
   "status": "draft"
  },
  "g:CY1_Hint_FootpathB": {
-  "pl": "…za pomocą tego klucza szyfrowego! Pierwsza litera to {@CY1_PasswordUnmask[0]}.",
+  "pl": "...za pomocą tego klucza szyfrowego! Pierwsza litera to {@CY1_PasswordUnmask[0]}.",
   "status": "draft"
  },
  "g:CY1_Hint_MadlibA": {
-  "pl": "Zdjęcie podaje tę informację…",
+  "pl": "Zdjęcie podaje tę informację...",
   "status": "draft"
  },
  "g:CY1_Hint_MadlibB": {
-  "pl": "Kamienna tabliczka podaje tę informację…",
+  "pl": "Kamienna tabliczka podaje tę informację...",
   "status": "draft"
  },
  "g:CY1_Hint_MadlibC": {
-  "pl": "Listy podają tę informację…",
+  "pl": "Listy podają tę informację...",
   "status": "draft"
  },
  "g:CY1_Hint_OddOutA": {
@@ -228,7 +228,7 @@
   "status": "review"
  },
  "g:CY1_Hint_OddOutB": {
-  "pl": "Znajdź intruza na wszystkich sześciu plakietkach…",
+  "pl": "Znajdź intruza na wszystkich sześciu plakietkach...",
   "status": "draft"
  },
  "g:CY1_Hint_OddOutC": {
@@ -240,11 +240,11 @@
   "status": "draft"
  },
  "g:CY1_Hint_PourB": {
-  "pl": "Zwróć uwagę na kolory płynów, kiedy się unoszą…",
+  "pl": "Zwróć uwagę na kolory płynów, kiedy się unoszą...",
   "status": "draft"
  },
  "g:CY1_Hint_PourC": {
-  "pl": "To wygląda znajomo…",
+  "pl": "To wygląda znajomo...",
   "status": "draft"
  },
  "g:CY1_Hint_StatueLens": {
@@ -320,7 +320,7 @@
   "status": "review"
  },
  "g:CY1_MadLib3": {
-  "pl": "<link=\"name1\">■</link><br><br>: „To bzdury!” <br><br><link=\"name2\">■</link><br><br>: „Boję się…” <br><br><link=\"name3\">■</link><br><br>: „Muszę to zgłębić. Za wszelką cenę.”",
+  "pl": "<link=\"name1\">■</link><br><br>: „To bzdury!” <br><br><link=\"name2\">■</link><br><br>: „Boję się...” <br><br><link=\"name3\">■</link><br><br>: „Muszę to zgłębić. Za wszelką cenę.”",
   "status": "review"
  },
  "g:CY1_MadLib4": {
@@ -500,7 +500,7 @@
   "status": "draft"
  },
  "g:CY1_Quill": {
-  "pl": "Oby starczyło mi pióra, żeby to rozgryźć…",
+  "pl": "Oby starczyło mi pióra, żeby to rozgryźć...",
   "status": "review"
  },
  "g:CY1_RoomName": {

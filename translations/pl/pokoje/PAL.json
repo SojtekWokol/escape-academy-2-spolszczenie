@@ -24,7 +24,7 @@
   "status": "draft"
  },
  "g:PAL_Bookshelf1": {
-  "pl": "To ostatni rozdział…",
+  "pl": "To ostatni rozdział...",
   "status": "draft"
  },
  "g:PAL_Bookshelf2": {
@@ -44,7 +44,7 @@
   "status": "draft"
  },
  "g:PAL_CannonLoad": {
-  "pl": "Tej armacie przydałaby się amunicja…",
+  "pl": "Tej armacie przydałaby się amunicja...",
   "status": "draft"
  },
  "g:PAL_Corners": {
@@ -84,11 +84,11 @@
   "status": "review"
  },
  "g:PAL_Hint_Bridge13A": {
-  "pl": "Jeśli nie masz odpowiednich kluczy do odblokowania mostu…",
+  "pl": "Jeśli nie masz odpowiednich kluczy do odblokowania mostu...",
   "status": "draft"
  },
  "g:PAL_Hint_Bridge13B": {
-  "pl": "…może być konieczny powrót.",
+  "pl": "...może być konieczny powrót.",
   "status": "draft"
  },
  "g:PAL_Hint_Bridge13C": {
@@ -96,11 +96,11 @@
   "status": "draft"
  },
  "g:PAL_Hint_Bridge8A": {
-  "pl": "Ten most chce żółtego…",
+  "pl": "Ten most chce żółtego...",
   "status": "draft"
  },
  "g:PAL_Hint_Bridge8B": {
-  "pl": "…To czerwony i zielony!",
+  "pl": "...To czerwony i zielony!",
   "status": "draft"
  },
  "g:PAL_Hint_Bridge9": {
@@ -108,7 +108,7 @@
   "status": "draft"
  },
  "g:PAL_Hint_MagentaA": {
-  "pl": "Ten most potrzebuje magenty…",
+  "pl": "Ten most potrzebuje magenty...",
   "status": "draft"
  },
  "g:PAL_Hint_MagentaB": {
@@ -232,7 +232,7 @@
   "status": "draft"
  },
  "g:PAL_Plant1": {
-  "pl": "Dochodzę do korzenia jego zła…",
+  "pl": "Dochodzę do korzenia jego zła...",
   "status": "draft"
  },
  "g:PAL_ReinaLetterA": {
@@ -264,11 +264,11 @@
   "status": "draft"
  },
  "g:PAL_TurningBack": {
-  "pl": "Nie ma już odwrotu…",
+  "pl": "Nie ma już odwrotu...",
   "status": "draft"
  },
  "v:Gillian_PAL_YoureHere": {
-  "pl": "Jesteś tu! A ja nie wiem, gdzie to „tu” jest…",
+  "pl": "Jesteś tu! A ja nie wiem, gdzie to „tu” jest...",
   "status": "draft"
  },
  "v:Gordon_PAL_Baggage": {

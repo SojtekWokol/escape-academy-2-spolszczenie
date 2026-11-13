@@ -8,7 +8,7 @@
   "status": "draft"
  },
  "g:HEY_3Foudners": {
-  "pl": "Z imionami byłoby trochę bardziej pomocne…",
+  "pl": "Z imionami byłoby trochę bardziej pomocne...",
   "status": "draft"
  },
  "g:HEY_3of3": {
@@ -36,15 +36,15 @@
   "status": "draft"
  },
  "g:HEY_Book1": {
-  "pl": "„…pierwsza dyrektorka zawsze <i>kier</i>owała szkołą ze złotym sercem…”",
+  "pl": "„...pierwsza dyrektorka zawsze <i>kier</i>owała szkołą ze złotym sercem...”",
   "status": "review"
  },
  "g:HEY_Book2": {
-  "pl": "„…nie tylko założył szkołę, ale też należał do najbardziej pożądanych <i>trefl</i>-klubów Towarzystwa Ucieczek…”",
+  "pl": "„...nie tylko założył szkołę, ale też należał do najbardziej pożądanych <i>trefl</i>-klubów Towarzystwa Ucieczek...”",
   "status": "review"
  },
  "g:HEY_Book3": {
-  "pl": "„…nie zaszkodziło, że nasz historyk był przystojny, odważny i <i>pik</i>antny w żartach...",
+  "pl": "„...nie zaszkodziło, że nasz historyk był przystojny, odważny i <i>pik</i>antny w żartach...",
   "status": "review"
  },
  "g:HEY_CampusActivity1": {
@@ -260,15 +260,15 @@
   "status": "draft"
  },
  "g:HEY_Hint_ActivitiesB": {
-  "pl": "Najpierw kawa. Potem karaoke…",
+  "pl": "Najpierw kawa. Potem karaoke...",
   "status": "draft"
  },
  "g:HEY_Hint_GridA": {
-  "pl": "Zacznij od X2Y2… Gdzie to jest?",
+  "pl": "Zacznij od X2Y2... Gdzie to jest?",
   "status": "draft"
  },
  "g:HEY_Hint_GridB": {
-  "pl": "Biurka tworzą siatkę. Zacznij od X2Y2…",
+  "pl": "Biurka tworzą siatkę. Zacznij od X2Y2...",
   "status": "draft"
  },
  "g:HEY_Hint_GridC": {
@@ -288,7 +288,7 @@
   "status": "draft"
  },
  "g:HEY_Hint_Realistic": {
-  "pl": "Ten klucz wygląda bardzo realistycznie…",
+  "pl": "Ten klucz wygląda bardzo realistycznie...",
   "status": "draft"
  },
  "g:HEY_KeyPosterFooter": {
@@ -373,7 +373,7 @@
   "status": "draft"
  },
  "g:HEY_SolangeLetter": {
-  "pl": "Dyrektorka Solange ma naprawdę ciekawe pojęcie o „małej niespodziance…” ",
+  "pl": "Dyrektorka Solange ma naprawdę ciekawe pojęcie o „małej niespodziance...” ",
   "status": "draft"
  },
  "g:HEY_Still": {
@@ -389,7 +389,7 @@
   "status": "draft"
  },
  "g:HEY_WoodenChestPrompt": {
-  "pl": "Drewniana kasetka…",
+  "pl": "Drewniana kasetka...",
   "status": "draft"
  },
  "v:CampusPolice_HEY_Fired": {
@@ -421,7 +421,7 @@
   "status": "draft"
  },
  "v:Solange_HEY_RoomFail": {
-  "pl": "No no… Co za kłujące rozczarowanie.",
+  "pl": "No no... Co za kłujące rozczarowanie.",
   "status": "draft"
  },
  "v:Solange_HEY_RoomWin": {

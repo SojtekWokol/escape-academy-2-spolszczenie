@@ -40,7 +40,7 @@
   "status": "draft"
  },
  "g:QAD_EC_1_QuestName": {
-  "pl": "Zgadnij, zgadnij…",
+  "pl": "Zgadnij, zgadnij...",
   "status": "draft"
  },
  "g:QAD_EC_1_QuestStep": {
@@ -136,7 +136,7 @@
   "status": "draft"
  },
  "g:QAD_Epi_EscapistTimes": {
-  "pl": "Kurier Eskapisty – RAPORT: Wszystko znów w normie. Na razie…",
+  "pl": "Kurier Eskapisty – RAPORT: Wszystko znów w normie. Na razie...",
   "status": "draft"
  },
  "g:QAD_FishingClubTable": {

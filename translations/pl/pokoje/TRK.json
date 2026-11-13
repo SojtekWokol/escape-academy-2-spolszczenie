@@ -64,7 +64,7 @@
   "status": "draft"
  },
  "g:TRK_Gemwall_compelte": {
-  "pl": "Kolory i trójkąty… Gdzieś jeszcze w tym pomieszczeniu coś takiego było?",
+  "pl": "Kolory i trójkąty... Gdzieś jeszcze w tym pomieszczeniu coś takiego było?",
   "status": "draft"
  },
  "g:TRK_Hint_CraneRY_A": {
@@ -256,7 +256,7 @@
   "status": "draft"
  },
  "g:TRK_NoExplosives": {
-  "pl": "Nie ma tu podłączonych żadnych materiałów wybuchowych… jeszcze.",
+  "pl": "Nie ma tu podłączonych żadnych materiałów wybuchowych... jeszcze.",
   "status": "draft"
  },
  "g:TRK_NoTurningBack": {
@@ -380,7 +380,7 @@
   "status": "review"
  },
  "v:Jeb_TRK_Fail": {
-  "pl": "Tak sobie naszego końca nie wyobrażałem… *ZAWALENIE*",
+  "pl": "Tak sobie naszego końca nie wyobrażałem... *ZAWALENIE*",
   "status": "draft"
  },
  "v:Jeb_TRK_GetRocked": {
@@ -416,7 +416,7 @@
   "status": "draft"
  },
  "v:Jeb_TRK_PhewAH": {
-  "pl": "Uff… AAAA!",
+  "pl": "Uff... AAAA!",
   "status": "draft"
  },
  "v:Jeb_TRK_Puzzles": {
@@ -444,11 +444,11 @@
   "status": "draft"
  },
  "v:Jeb_TRK_SweetMotherEscape": {
-  "pl": "Matko Ucieczek… Krypta Reiny.",
+  "pl": "Matko Ucieczek... Krypta Reiny.",
   "status": "draft"
  },
  "v:Jeb_TRK_TripToCrypts": {
-  "pl": "Szkoda, że nasza wycieczka do krypt odbywa się w tak poważnych… wręcz grobowych okolicznościach.",
+  "pl": "Szkoda, że nasza wycieczka do krypt odbywa się w tak poważnych... wręcz grobowych okolicznościach.",
   "status": "review"
  },
  "v:Jeb_TRK_WatchHowSwinging": {
@@ -456,11 +456,11 @@
   "status": "draft"
  },
  "v:Jeb_TRK_Water": {
-  "pl": "woda… Woda… WODA!",
+  "pl": "woda... Woda... WODA!",
   "status": "draft"
  },
  "v:Jeb_TRK_Win": {
-  "pl": "No cóż, miejmy nadzieję, że to zadziała…",
+  "pl": "No cóż, miejmy nadzieję, że to zadziała...",
   "status": "draft"
  },
  "v:Solange_CY3_FindReinasCrypt": {

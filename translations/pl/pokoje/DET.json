@@ -8,15 +8,15 @@
   "status": "draft"
  },
  "g:DET_Assembly3": {
-  "pl": "I na wykończenie…",
+  "pl": "I na wykończenie...",
   "status": "draft"
  },
  "g:DET_BelowSinkClue": {
-  "pl": "Sprawdź pod łóżkiem…",
+  "pl": "Sprawdź pod łóżkiem...",
   "status": "draft"
  },
  "g:DET_Board2": {
-  "pl": "Mam nadzieję, że zapiszę sobie kredą kolejną śmiałą ucieczkę…",
+  "pl": "Mam nadzieję, że zapiszę sobie kredą kolejną śmiałą ucieczkę...",
   "status": "draft"
  },
  "g:DET_Board3": {
@@ -32,7 +32,7 @@
   "status": "draft"
  },
  "g:DET_BottomRightMistake": {
-  "pl": "Chodziło mi o prawy dolny…",
+  "pl": "Chodziło mi o prawy dolny...",
   "status": "draft"
  },
  "g:DET_BunkBed1": {
@@ -40,7 +40,7 @@
   "status": "draft"
  },
  "g:DET_Bunks2": {
-  "pl": "Muszę zaszyć się w koi… znaczy w bunkrze, i wymyślić, jak nas stąd wydostać.",
+  "pl": "Muszę zaszyć się w koi... znaczy w bunkrze, i wymyślić, jak nas stąd wydostać.",
   "status": "review"
  },
  "g:DET_Bunks3": {
@@ -88,7 +88,7 @@
   "status": "draft"
  },
  "g:DET_FishingStationB": {
-  "pl": "Całkiem nieźle! Teraz przejdźmy do sedna… czyli haczyka.",
+  "pl": "Całkiem nieźle! Teraz przejdźmy do sedna... czyli haczyka.",
   "status": "draft"
  },
  "g:DET_FishingStationC": {
@@ -96,7 +96,7 @@
   "status": "draft"
  },
  "g:DET_FishingWA": {
-  "pl": "Chyba to nic nie da…",
+  "pl": "Chyba to nic nie da...",
   "status": "draft"
  },
  "g:DET_Hint_Assemble": {
@@ -124,11 +124,11 @@
   "status": "draft"
  },
  "g:DET_Hint_SconseB": {
-  "pl": "Zobacz, w którą ścianę wskazuje każda strzałka…",
+  "pl": "Zobacz, w którą ścianę wskazuje każda strzałka...",
   "status": "draft"
  },
  "g:DET_Hint_SconseC": {
-  "pl": "…i obróć kolumny tak samo!",
+  "pl": "...i obróć kolumny tak samo!",
   "status": "draft"
  },
  "g:DET_Hint_SpoilerA": {
@@ -212,7 +212,7 @@
   "status": "draft"
  },
  "g:DET_Posters": {
-  "pl": "No to z plakatowego ucznia nici…",
+  "pl": "No to z plakatowego ucznia nici...",
   "status": "draft"
  },
  "g:DET_Reset": {
@@ -232,11 +232,11 @@
   "status": "review"
  },
  "g:DET_Sink4": {
-  "pl": "Nie pozwolę, by moje wspomnienia poszły w odpływ… Lubię je!",
+  "pl": "Nie pozwolę, by moje wspomnienia poszły w odpływ... Lubię je!",
   "status": "draft"
  },
  "g:DET_SinkJoke": {
-  "pl": "Mam złe przeczucie co do tego gazu zapomnienia – aż mnie zlewa zimny pot…",
+  "pl": "Mam złe przeczucie co do tego gazu zapomnienia – aż mnie zlewa zimny pot...",
   "status": "draft"
  },
  "g:DET_Spoilers": {
@@ -260,7 +260,7 @@
   "status": "draft"
  },
  "v:Gillian_DET_GetMeOutta": {
-  "pl": "Wypuść mnie stąd! Proszę…?",
+  "pl": "Wypuść mnie stąd! Proszę...?",
   "status": "draft"
  },
  "v:Gillian_DET_GotMyselfEventually": {
@@ -280,7 +280,7 @@
   "status": "draft"
  },
  "v:Kira_DET_NotSupposedBeHere": {
-  "pl": "W ogóle nie powinno mnie tu być…",
+  "pl": "W ogóle nie powinno mnie tu być...",
   "status": "draft"
  },
  "v:Kira_DET_SeemsExtreme": {
@@ -288,11 +288,11 @@
   "status": "draft"
  },
  "v:Kira_DET_StillMad": {
-  "pl": "Dzięki, ale… nadal jestem na ciebie zła.",
+  "pl": "Dzięki, ale... nadal jestem na ciebie zła.",
   "status": "draft"
  },
  "v:Reed_DET_BreakoutLocketList": {
-  "pl": "Ucieczka z więzienia? Odhaczone na liście marzeń… zamkniętej na kłódkę.",
+  "pl": "Ucieczka z więzienia? Odhaczone na liście marzeń... zamkniętej na kłódkę.",
   "status": "review"
  },
  "v:Reed_DET_Fail": {

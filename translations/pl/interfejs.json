@@ -316,15 +316,15 @@
   "status": "draft"
  },
  "g:CreditLockFormat": {
-  "pl": "Zapieczętowane! Żeby otworzyć te drzwi, potrzeba co najmniej {0} pkt…",
+  "pl": "Zapieczętowane! Żeby otworzyć te drzwi, potrzeba co najmniej {0} pkt...",
   "status": "review"
  },
  "g:CreditLockFormat_Singular": {
-  "pl": "Zapieczętowane! Potrzebuję co najmniej 1 punktu, żeby otworzyć te drzwi…",
+  "pl": "Zapieczętowane! Potrzebuję co najmniej 1 punktu, żeby otworzyć te drzwi...",
   "status": "review"
  },
  "g:DEMO_EFIGS_Characters": {
-  "pl": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝŸàáâãäåæçèéêëìíîïñòóôõöùúûüýÿŒœß¡¿«»‹›‘’‚‛“”„–—…·",
+  "pl": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝŸàáâãäåæçèéêëìíîïñòóôõöùúûüýÿŒœß¡¿«»‹›‘’‚‛“”„–—...·",
   "status": "review"
  },
  "g:DEMO_NoCharacterCustomization": {
@@ -1144,7 +1144,7 @@
   "status": "draft"
  },
  "g:GUI_PartnerPaused": {
-  "pl": "Drugi gracz zatrzymał grę.<br><color=grey>Możesz uprzejmie poczekać albo wznowić grę…</color>",
+  "pl": "Drugi gracz zatrzymał grę.<br><color=grey>Możesz uprzejmie poczekać albo wznowić grę...</color>",
   "status": "draft"
  },
  "g:GUI_PartnerReading": {
@@ -1496,7 +1496,7 @@
   "status": "draft"
  },
  "g:Hint_Missing": {
-  "pl": "Czegoś tu brakuje…",
+  "pl": "Czegoś tu brakuje...",
   "status": "draft"
  },
  "g:Hint_NoEC": {
@@ -1660,23 +1660,23 @@
   "status": "draft"
  },
  "g:MSC_EC_PaintCraneLabel": {
-  "pl": "Ta okolica przemysłowa wygląda trochę nudno…",
+  "pl": "Ta okolica przemysłowa wygląda trochę nudno...",
   "status": "draft"
  },
  "g:MSC_EC_PaintDamLabel": {
-  "pl": "Ta tama przydałaby się nową warstwę farby…",
+  "pl": "Ta tama przydałaby się nową warstwę farby...",
   "status": "review"
  },
  "g:MSC_EC_PaintPipesLabel": {
-  "pl": "Ten komin wygląda strasznie ponuro…",
+  "pl": "Ten komin wygląda strasznie ponuro...",
   "status": "draft"
  },
  "g:MSC_EC_PaintTheaterLabel": {
-  "pl": "Ten tytuł przydałoby się trochę podkręcić…",
+  "pl": "Ten tytuł przydałoby się trochę podkręcić...",
   "status": "draft"
  },
  "g:MSC_EC_PaintWaterfallLabel": {
-  "pl": "Ach, piękno natury. Ale może dałoby się ją jeszcze upiększyć…",
+  "pl": "Ach, piękno natury. Ale może dałoby się ją jeszcze upiększyć...",
   "status": "draft"
  },
  "g:MSC_EC_Paint_Item": {
@@ -1740,7 +1740,7 @@
   "status": "draft"
  },
  "g:MSC_Eyepatch": {
-  "pl": "Zobaczyć świat jego okiem…",
+  "pl": "Zobaczyć świat jego okiem...",
   "status": "draft"
  },
  "g:MSC_Fishtank": {
@@ -1772,7 +1772,7 @@
   "status": "draft"
  },
  "g:MSC_Transmission_Incoming": {
-  "pl": "Połączenie przychodzące…",
+  "pl": "Połączenie przychodzące...",
   "status": "draft"
  },
  "g:MSC_Transmission_Message1": {
@@ -1780,7 +1780,7 @@
   "status": "review"
  },
  "g:MSC_Transmission_Message2": {
-  "pl": "Wczytywanie wiadomości…",
+  "pl": "Wczytywanie wiadomości...",
   "status": "draft"
  },
  "g:MSC_Transmission_MessageDone": {
@@ -1828,7 +1828,7 @@
   "status": "draft"
  },
  "g:Night_Disabled": {
-  "pl": "Nocą nie działa…",
+  "pl": "Nocą nie działa...",
   "status": "draft"
  },
  "g:NotEnoughMoney": {
@@ -1956,11 +1956,11 @@
   "status": "draft"
  },
  "g:UND_Cooler": {
-  "pl": "Eee… dziękuję, postoję.",
+  "pl": "Eee... dziękuję, postoję.",
   "status": "review"
  },
  "g:UND_FernandoRecognize": {
-  "pl": "Fernando Augustín potrafił opanować każdą salę…",
+  "pl": "Fernando Augustín potrafił opanować każdą salę...",
   "status": "draft"
  },
  "g:UND_JunkBoxes": {
@@ -1972,11 +1972,11 @@
   "status": "draft"
  },
  "g:UND_ReinaRecognize": {
-  "pl": "Reina Wym wygląda groźnie…",
+  "pl": "Reina Wym wygląda groźnie...",
   "status": "draft"
  },
  "g:UND_SameerRecognize": {
-  "pl": "Sameer Gaspard był taki wytworny…",
+  "pl": "Sameer Gaspard był taki wytworny...",
   "status": "draft"
  },
  "g:Underground_Hint_Location": {
@@ -2484,7 +2484,7 @@
   "status": "draft"
  },
  "g:eavesdroppingOn": {
-  "pl": "Podsłuchujesz…",
+  "pl": "Podsłuchujesz...",
   "status": "draft"
  },
  "g:enter": {
@@ -2496,7 +2496,7 @@
   "status": "draft"
  },
  "g:escapeTime": {
-  "pl": "Czas ucieczki…",
+  "pl": "Czas ucieczki...",
   "status": "draft"
  },
  "g:examine": {
@@ -2516,7 +2516,7 @@
   "status": "draft"
  },
  "g:finalGrade": {
-  "pl": "Ocena końcowa…",
+  "pl": "Ocena końcowa...",
   "status": "draft"
  },
  "g:fulSession": {
@@ -2544,7 +2544,7 @@
   "status": "draft"
  },
  "g:genericHint": {
-  "pl": "Coś tu jest…",
+  "pl": "Coś tu jest...",
   "status": "draft"
  },
  "g:genericObjective": {
@@ -2572,11 +2572,11 @@
   "status": "draft"
  },
  "g:hintsUsed": {
-  "pl": "Użyte podpowiedzi…",
+  "pl": "Użyte podpowiedzi...",
   "status": "draft"
  },
  "g:insertFirstItem": {
-  "pl": "Czegoś brakuje…",
+  "pl": "Czegoś brakuje...",
   "status": "draft"
  },
  "g:insertItem": {
@@ -2588,15 +2588,15 @@
   "status": "draft"
  },
  "g:insertItemPadlock": {
-  "pl": "Kłódka…",
+  "pl": "Kłódka...",
   "status": "draft"
  },
  "g:insertSecondItem": {
-  "pl": "Brakuje czegoś jeszcze…",
+  "pl": "Brakuje czegoś jeszcze...",
   "status": "draft"
  },
  "g:insertThirdItem": {
-  "pl": "Wciąż czegoś brakuje…",
+  "pl": "Wciąż czegoś brakuje...",
   "status": "draft"
  },
  "g:insert_fits": {
@@ -2608,7 +2608,7 @@
   "status": "draft"
  },
  "g:insert_missing": {
-  "pl": "Czegoś brakuje…",
+  "pl": "Czegoś brakuje...",
   "status": "draft"
  },
  "g:insert_plugs": {
@@ -2720,7 +2720,7 @@
   "status": "draft"
  },
  "g:noHintAvailable": {
-  "pl": "Brak podpowiedzi.<color=grey>Tym razem musisz radzić sobie na własną rękę…</color>",
+  "pl": "Brak podpowiedzi.<color=grey>Tym razem musisz radzić sobie na własną rękę...</color>",
   "status": "draft"
  },
  "g:noNeedToMess": {
@@ -2816,11 +2816,11 @@
   "status": "draft"
  },
  "g:pour_from": {
-  "pl": "Przelej z…",
+  "pl": "Przelej z...",
   "status": "draft"
  },
  "g:pour_into": {
-  "pl": "Przelej do…",
+  "pl": "Przelej do...",
   "status": "draft"
  },
  "g:press": {
@@ -2888,7 +2888,7 @@
   "status": "draft"
  },
  "g:savingGameIndicator": {
-  "pl": "Zapisywanie…",
+  "pl": "Zapisywanie...",
   "status": "draft"
  },
  "g:sculpt": {
@@ -3004,7 +3004,7 @@
   "status": "draft"
  },
  "v:Gillian_EPI_NormalTerm": {
-  "pl": "Czyli po tym wszystkim mamy tak po prostu… normalnie dokończyć semestr?",
+  "pl": "Czyli po tym wszystkim mamy tak po prostu... normalnie dokończyć semestr?",
   "status": "review"
  },
  "v:Jeb_WET_BoatsReady": {
@@ -3016,7 +3016,7 @@
   "status": "review"
  },
  "v:Kira_EPI_EnoughExcitement": {
-  "pl": "Wrażeń starczy mi na cały rok…",
+  "pl": "Wrażeń starczy mi na cały rok...",
   "status": "review"
  },
  "v:MSC_Graffiti_CantIgnore": {

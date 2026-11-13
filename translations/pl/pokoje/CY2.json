@@ -4,7 +4,7 @@
   "status": "draft"
  },
  "g:CY2_Barrels": {
-  "pl": "Jestem w śmiertelnej beczce… to znaczy opresji!",
+  "pl": "Jestem w śmiertelnej beczce... to znaczy opresji!",
   "status": "review"
  },
  "g:CY2_BigDipper": {
@@ -216,11 +216,11 @@
   "status": "draft"
  },
  "g:CY2_Hint_MadlibA": {
-  "pl": "Połącz tę datę z datą na gazecie…",
+  "pl": "Połącz tę datę z datą na gazecie...",
   "status": "draft"
  },
  "g:CY2_Hint_MadlibB": {
-  "pl": "…żeby ustalić długość kadencji założyciela",
+  "pl": "...żeby ustalić długość kadencji założyciela",
   "status": "draft"
  },
  "g:CY2_Hint_MadlibC": {
@@ -244,15 +244,15 @@
   "status": "review"
  },
  "g:CY2_Hint_SlideA": {
-  "pl": "Dopasuj te symbole na podłodze…",
+  "pl": "Dopasuj te symbole na podłodze...",
   "status": "draft"
  },
  "g:CY2_Hint_SlideB": {
-  "pl": "…do tych przesuwanych płytek.",
+  "pl": "...do tych przesuwanych płytek.",
   "status": "draft"
  },
  "g:CY2_Hint_StarsA": {
-  "pl": "Te trzy konstelacje świecą…",
+  "pl": "Te trzy konstelacje świecą...",
   "status": "draft"
  },
  "g:CY2_Hint_StarsB": {
@@ -264,7 +264,7 @@
   "status": "draft"
  },
  "g:CY2_Hint_TileA": {
-  "pl": "Włóż płytki do tej skały po kolei…",
+  "pl": "Włóż płytki do tej skały po kolei...",
   "status": "draft"
  },
  "g:CY2_Hint_TileB": {

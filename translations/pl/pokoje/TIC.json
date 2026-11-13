@@ -32,7 +32,7 @@
   "status": "draft"
  },
  "g:TIC_Hint_SignalHintA": {
-  "pl": "Każdy sygnał ma inny kształt…",
+  "pl": "Każdy sygnał ma inny kształt...",
   "status": "draft"
  },
  "g:TIC_Hint_SignalHintB": {
@@ -160,11 +160,11 @@
   "status": "draft"
  },
  "g:TIC_TicketBoothQuip": {
-  "pl": "Chyba spróbuję takiego, który działa…",
+  "pl": "Chyba spróbuję takiego, który działa...",
   "status": "draft"
  },
  "g:TIC_TimeTicking": {
-  "pl": "Czas ucieka… Muszę zdążyć na ten tramwaj!",
+  "pl": "Czas ucieka... Muszę zdążyć na ten tramwaj!",
   "status": "draft"
  },
  "g:TIC_TramDoorNotice": {
@@ -188,7 +188,7 @@
   "status": "review"
  },
  "g:TIC_VendingMachineQuip": {
-  "pl": "Nie wiem, czy mój pęcherz zniesie Eska-Colę przed jazdą tramwajem…",
+  "pl": "Nie wiem, czy mój pęcherz zniesie Eska-Colę przed jazdą tramwajem...",
   "status": "draft"
  },
  "g:TIC_WaveTutorial": {
@@ -208,7 +208,7 @@
   "status": "draft"
  },
  "v:Gillian_TIC_GoodVent": {
-  "pl": "Muszę się porządnie wywentylować. Rodzice doprowadzali mnie tego lata do szału…",
+  "pl": "Muszę się porządnie wywentylować. Rodzice doprowadzali mnie tego lata do szału...",
   "status": "draft"
  },
  "v:Gillian_TIC_PuzzleNotDest": {
@@ -228,7 +228,7 @@
   "status": "draft"
  },
  "v:Kira_TIC_NormalYear": {
-  "pl": "Niech to będzie zwyczajny rok ze zwyczajnymi współlokatorami…",
+  "pl": "Niech to będzie zwyczajny rok ze zwyczajnymi współlokatorami...",
   "status": "draft"
  },
  "v:Reed_TIC_PublishAnything": {
@@ -236,7 +236,7 @@
   "status": "draft"
  },
  "v:Solange_TIC_TitleDrop": {
-  "pl": "Dobra, uczniowie, trzymajcie się mocno. Czas wracać… do szkoły!",
+  "pl": "Dobra, uczniowie, trzymajcie się mocno. Czas wracać... do szkoły!",
   "status": "draft"
  }
 }

@@ -39,12 +39,12 @@ pasowało do każdego:
 | Zamiast | Piszemy |
 |---|---|
 | *Zrobiłeś to! / Zrobiłaś to!* | *Udało ci się!*, *Gotowe!*, *Masz to!* |
-| *Byłeś pierwszy.* | *To ty pierwszy…*, *Jesteś pierwszy w kolejce.* (lub inaczej zbudowane zdanie) |
+| *Byłeś pierwszy.* | *To ty pierwszy...*, *Jesteś pierwszy w kolejce.* (lub inaczej zbudowane zdanie) |
 | *Sam to znalazłeś?* | *Znalezione!*, *To twoje znalezisko?* |
 | *Jesteś gotowy?* | *Gotowi?*, *Możemy zaczynać?* |
 | *Nasz prymus* (o graczu) | *nasza gwiazda roku* |
 
-- **Myśli gracza** (kursywa w scenkach, np. *„Hm? Co się dzieje…?”*) też bez rodzaju: czas teraźniejszy, bezosobowo.
+- **Myśli gracza** (kursywa w scenkach, np. *„Hm? Co się dzieje...?”*) też bez rodzaju: czas teraźniejszy, bezosobowo.
 - **Reed Wright jest osobą niebinarną** (notatka twórców). W kwestiach Reeda i o Reedzie unikamy form z rodzajem tak
   samo jak przy graczu – bez form w stylu „zrobiłom”, po prostu budujemy zdanie inaczej.
 - Warsztat ostrzega, gdy w tekście pojawi się forma typu *-łeś / -łaś*. Jeśli zdanie nie jest skierowane do gracza (np.
@@ -56,7 +56,7 @@ to Jeberson, Von Bellini, Slip, Dev, Ralph, Morton, Alistair, Fernando, Sameer, 
 **Formy grzecznościowe:**
 - profesorowie i dyrektorka mówią do uczniów na **„ty”**, jak nauczyciel w polskiej szkole;
 - uczniowie mówią do siebie na „ty”, a do profesorów **„pani profesor” / „panie profesorze”**;
-- polecenia w zadaniach i podpowiedziach piszemy w **2. osobie**: *Porozmawiaj z…*, *Znajdź…*, *Wróć do…*
+- polecenia w zadaniach i podpowiedziach piszemy w **2. osobie**: *Porozmawiaj z...*, *Znajdź...*, *Wróć do...*
 
 ## Styl
 
@@ -76,14 +76,14 @@ to Jeberson, Von Bellini, Slip, Dev, Ralph, Morton, Alistair, Fernando, Sameer, 
 | Co | Jak | Przykład |
 |---|---|---|
 | Cudzysłowy | polskie „…”, w środku ‚…’ | „Przeczytaj ‚Kuriera Eskapisty’” |
-| Wielokropek | jeden znak … | *Hm…* |
+| Wielokropek | trzy kropki ... (nie znak …); urwaną wypowiedź (angielskie „--”) też kończymy trzema kropkami | *Hm...*, *Ale... ale pani dyrektorko!* |
 | Myślnik | półpauza – ze spacjami | *To nie był sen – to była zagadka.* |
 | Wielkie litery w nazwach | tylko pierwsze słowo, chyba że to marka | *Centrum Szyfrów* to wyjątek (nazwa własna instytucji), *wieża zegarowa*, *gabinet dyrektorki* |
 | Liczby | polski zapis | *1,5 kg*, *3. piętro*, *10:30* |
 | Piętra | *(3F)* w grze to amerykańskie liczenie | *(3F)* → *(2. piętro)* |
 | Skróty | polskie | *prof.*, *min*, *ok.* |
 
-Czcionki gry mają wszystkie polskie znaki, cudzysłowy „” i wielokropek – nie trzeba niczego zastępować.
+Czcionki gry mają wszystkie polskie znaki, cudzysłowy „” – nie trzeba niczego zastępować.
 
 ## Znaczniki i kody
 

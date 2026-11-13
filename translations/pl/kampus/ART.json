@@ -44,19 +44,19 @@
   "status": "draft"
  },
  "g:ART_Flats": {
-  "pl": "I pomyśleć, że to występy uchodziły za płaskie…",
+  "pl": "I pomyśleć, że to występy uchodziły za płaskie...",
   "status": "draft"
  },
  "g:ART_FoundersArtifacts": {
-  "pl": "Niektóre z najcenniejszych rzeczy należących do założycieli…",
+  "pl": "Niektóre z najcenniejszych rzeczy należących do założycieli...",
   "status": "review"
  },
  "g:ART_Guitar": {
-  "pl": "Nie będę się dziś przejmować graniem na tym… każdy ma swoje progi.",
+  "pl": "Nie będę się dziś przejmować graniem na tym... każdy ma swoje progi.",
   "status": "draft"
  },
  "g:ART_InstrumentCase": {
-  "pl": "Wytrycholo od zawsze należy do moich ulubionych instrumentów…",
+  "pl": "Wytrycholo od zawsze należy do moich ulubionych instrumentów...",
   "status": "draft"
  },
  "g:ART_Iron": {
@@ -84,7 +84,7 @@
   "status": "review"
  },
  "g:ART_WaterCooler": {
-  "pl": "Lepsze niż picie z kranu… chociaż do kranu też da się stepować.",
+  "pl": "Lepsze niż picie z kranu... chociaż do kranu też da się stepować.",
   "status": "review"
  }
 }

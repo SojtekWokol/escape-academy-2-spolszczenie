@@ -1,6 +1,6 @@
 {
  "g:PRO_BadgeDoor": {
-  "pl": "Nie otworzę tego, dopóki nie zdobędę pierwszej odznaki…",
+  "pl": "Nie otworzę tego, dopóki nie zdobędę pierwszej odznaki...",
   "status": "draft"
  },
  "g:PRO_Bathroom_Mirror": {
@@ -24,7 +24,7 @@
   "status": "draft"
  },
  "g:PRO_Bathroom_TrashBin": {
-  "pl": "Śmieci z jednej łazienki to skarb z drugiej… nie, jednak nadal śmieci.",
+  "pl": "Śmieci z jednej łazienki to skarb z drugiej... nie, jednak nadal śmieci.",
   "status": "draft"
  },
  "g:PRO_BookQuest_Descripion": {
@@ -220,7 +220,7 @@
   "status": "draft"
  },
  "g:PRO_Courtyard_Mattress": {
-  "pl": "Na tym kampusie są gorsze pokoje…",
+  "pl": "Na tym kampusie są gorsze pokoje...",
   "status": "draft"
  },
  "g:PRO_Courtyard_Notepad": {
@@ -260,7 +260,7 @@
   "status": "draft"
  },
  "g:PRO_DiningHall_Jelly": {
-  "pl": "Oto prawdziwa zszywka… znaczy podstawa deserów!",
+  "pl": "Oto prawdziwa zszywka... znaczy podstawa deserów!",
   "status": "review"
  },
  "g:PRO_DiningHall_Menu1": {
@@ -284,7 +284,7 @@
   "status": "draft"
  },
  "g:PRO_DiningHall_Receipt": {
-  "pl": "Bez napiwku? Choćby… wskazówki?",
+  "pl": "Bez napiwku? Choćby... wskazówki?",
   "status": "draft"
  },
  "g:PRO_DiningHall_Record": {
@@ -308,7 +308,7 @@
   "status": "draft"
  },
  "g:PRO_DormsWest_Computer": {
-  "pl": "„Zapytanie: nie wykryto świadomych programów.” No tak. Pewnie tak jest lepiej…",
+  "pl": "„Zapytanie: nie wykryto świadomych programów.” No tak. Pewnie tak jest lepiej...",
   "status": "draft"
  },
  "g:PRO_DormsWest_CorkBoard": {
@@ -324,7 +324,7 @@
   "status": "draft"
  },
  "g:PRO_DormsWest_FernandoUtensils": {
-  "pl": "Przybory do pisania Fernanda Augustína! Kilka z najwspanialszych dzieł sztuki ucieczek powstało na zamówienie właśnie dzięki temu piórze…",
+  "pl": "Przybory do pisania Fernanda Augustína! Kilka z najwspanialszych dzieł sztuki ucieczek powstało na zamówienie właśnie dzięki temu piórze...",
   "status": "draft"
  },
  "g:PRO_DormsWest_HowClumsy": {
@@ -332,7 +332,7 @@
   "status": "review"
  },
  "g:PRO_DormsWest_PenAndPaper": {
-  "pl": "Długopis i papier… niezbędne każdemu eskapiście, który coś znaczy.",
+  "pl": "Długopis i papier... niezbędne każdemu eskapiście, który coś znaczy.",
   "status": "draft"
  },
  "g:PRO_DormsWest_Plant": {
@@ -352,7 +352,7 @@
   "status": "draft"
  },
  "g:PRO_DormsWest_Sink": {
-  "pl": "Czworo uczniów i jedna umywalka? Może zrobić się trochę włochato…",
+  "pl": "Czworo uczniów i jedna umywalka? Może zrobić się trochę włochato...",
   "status": "draft"
  },
  "g:PRO_DormsWest_ToilerPaper": {
@@ -360,7 +360,7 @@
   "status": "draft"
  },
  "g:PRO_Dorms_ShouldntBreakIn": {
-  "pl": "Raczej nie wypada włamywać się do cudzego pokoju w akademiku…",
+  "pl": "Raczej nie wypada włamywać się do cudzego pokoju w akademiku...",
   "status": "draft"
  },
  "g:PRO_EC_Chores_QuestDescription": {
@@ -388,7 +388,7 @@
   "status": "draft"
  },
  "g:PRO_HallwayWest_FireExtinguisher": {
-  "pl": "Oby był zgodny z przepisami. Sądząc po tym quizie, prędzej czy później się przyda…",
+  "pl": "Oby był zgodny z przepisami. Sądząc po tym quizie, prędzej czy później się przyda...",
   "status": "draft"
  },
  "g:PRO_HallwayWest_GoodLuckQuiz": {
@@ -504,7 +504,7 @@
   "status": "draft"
  },
  "g:PRO_Hint_BookCipher": {
-  "pl": "Pierwsza litera to „{@PRO_Bookstore_Password[0]}”…",
+  "pl": "Pierwsza litera to „{@PRO_Bookstore_Password[0]}”...",
   "status": "review"
  },
  "g:PRO_Hint_BuyMe": {
@@ -556,7 +556,7 @@
   "status": "draft"
  },
  "g:PRO_Hint_SodaA": {
-  "pl": "Możesz tu kupić napój. Ale żeby go dostać…",
+  "pl": "Możesz tu kupić napój. Ale żeby go dostać...",
   "status": "draft"
  },
  "g:PRO_Hint_SodaB": {
@@ -584,7 +584,7 @@
   "status": "draft"
  },
  "g:PRO_IVDrip": {
-  "pl": "Kroplówka czeka w pogotowiu… kropla do kropli!",
+  "pl": "Kroplówka czeka w pogotowiu... kropla do kropli!",
   "status": "review"
  },
  "g:PRO_IncidentFiles": {
@@ -676,7 +676,7 @@
   "status": "draft"
  },
  "g:PRO_Lobby_FireAlarm": {
-  "pl": "Hmm… kusi…",
+  "pl": "Hmm... kusi...",
   "status": "draft"
  },
  "g:PRO_Lobby_FireLabel": {
@@ -688,7 +688,7 @@
   "status": "draft"
  },
  "g:PRO_Lobby_Globe": {
-  "pl": "Cały świat to jedna wielka zagadka…",
+  "pl": "Cały świat to jedna wielka zagadka...",
   "status": "draft"
  },
  "g:PRO_Lobby_HeadmasteSign": {
@@ -700,7 +700,7 @@
   "status": "draft"
  },
  "g:PRO_Lobby_Piano": {
-  "pl": "Co tam kilka klawiszy więcej…",
+  "pl": "Co tam kilka klawiszy więcej...",
   "status": "draft"
  },
  "g:PRO_Lobby_PianoBench": {
@@ -740,7 +740,7 @@
   "status": "draft"
  },
  "g:PRO_Lobby_TrophiesUnsorted": {
-  "pl": "Te trofea same się nie pozbierają…",
+  "pl": "Te trofea same się nie pozbierają...",
   "status": "draft"
  },
  "g:PRO_Lobby_TrophyBomb": {
@@ -800,7 +800,7 @@
   "status": "draft"
  },
  "g:PRO_Terrace_Chess": {
-  "pl": "Jeśli się nad tym zastanowić, szachy to w gruncie rzeczy wciąż ewoluująca łamigłówka! Zupełnie jak moje uczucia i związki…",
+  "pl": "Jeśli się nad tym zastanowić, szachy to w gruncie rzeczy wciąż ewoluująca łamigłówka! Zupełnie jak moje uczucia i związki...",
   "status": "draft"
  },
  "g:PRO_Terrace_Papers": {
@@ -896,7 +896,7 @@
   "status": "draft"
  },
  "v:Paige_PRO_GoodPick": {
-  "pl": "Dobry wytrych… to znaczy wybór!",
+  "pl": "Dobry wytrych... to znaczy wybór!",
   "status": "draft"
  },
  "v:Paige_PRO_HardDeceipher": {

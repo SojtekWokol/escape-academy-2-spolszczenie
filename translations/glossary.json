@@ -3,10 +3,10 @@
  "rules": [
   "Nie używaj form z rodzajem wobec gracza (zamiast 'zrobiłeś/zrobiłaś' pisz 'udało ci się'); myśli gracza też bez rodzaju.",
   "Profesorowie i dyrektorka mówią do ucznia na 'ty'; uczniowie do profesorów 'pani profesor' / 'panie profesorze'.",
-  "Polecenia w zadaniach w 2. osobie: 'Porozmawiaj z…', 'Znajdź…'.",
+  "Polecenia w zadaniach w 2. osobie: 'Porozmawiaj z...', 'Znajdź...'.",
   "Imion i nazwisk postaci nie tłumacz, poza nazwiskami-żartami ze słowniczka (np. Chet Łotrowicz); 'Escape Academy' zostaje, ale się odmienia.",
   "Kalambury oddawaj polskimi kalamburami; przyciski i interfejs krótko.",
-  "Polskie cudzysłowy „…”, wielokropek …; znaczniki <…> i kody {0} przepisuj dokładnie."
+  "Polskie cudzysłowy „…”, wielokropek jako trzy kropki ... (nie znak …), urwana wypowiedź też ...; znaczniki <…> i kody {0} przepisuj dokładnie."
  ],
  "terms": [
   {

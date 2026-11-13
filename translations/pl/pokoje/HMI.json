@@ -12,7 +12,7 @@
   "status": "draft"
  },
  "g:HMI_FancyPadlock": {
-  "pl": "Dość wyszukana kłódka…",
+  "pl": "Dość wyszukana kłódka...",
   "status": "draft"
  },
  "g:HMI_Hint_BookshelfA": {
@@ -60,7 +60,7 @@
   "status": "draft"
  },
  "g:HMI_LeverText": {
-  "pl": "Ani drgnie. Kod musi być zły…",
+  "pl": "Ani drgnie. Kod musi być zły...",
   "status": "draft"
  },
  "g:HMI_META_Item_KeyFancy": {
@@ -88,11 +88,11 @@
   "status": "draft"
  },
  "g:HMI_Office_BookStack": {
-  "pl": "Szkoda, że nie umiem czytać…",
+  "pl": "Szkoda, że nie umiem czytać...",
   "status": "draft"
  },
  "g:HMI_Office_Book_Answers": {
-  "pl": "…i odpowiedzi",
+  "pl": "...i odpowiedzi",
   "status": "draft"
  },
  "g:HMI_Office_Book_BananaBoy": {
@@ -164,7 +164,7 @@
   "status": "draft"
  },
  "g:HMI_Office_Book_Questions": {
-  "pl": "Pytania…",
+  "pl": "Pytania...",
   "status": "review"
  },
  "g:HMI_Office_Book_RaceCar": {
@@ -224,7 +224,7 @@
   "status": "draft"
  },
  "g:HMI_Office_EelMask": {
-  "pl": "Mam złe przeEELczucie co do tego roku…",
+  "pl": "Mam złe przeEELczucie co do tego roku...",
   "status": "draft"
  },
  "g:HMI_Office_EscapeDoor": {
@@ -240,7 +240,7 @@
   "status": "draft"
  },
  "g:HMI_Office_GrandFatherClock1": {
-  "pl": "…Dziadku? To ty?",
+  "pl": "...Dziadku? To ty?",
   "status": "draft"
  },
  "g:HMI_Office_GrandFatherClock2": {
@@ -248,7 +248,7 @@
   "status": "draft"
  },
  "g:HMI_Office_InactiveSafe": {
-  "pl": "Ciekawe, co dyrektorka <i>zamknęła</i> w tym sejfie…",
+  "pl": "Ciekawe, co dyrektorka <i>zamknęła</i> w tym sejfie...",
   "status": "draft"
  },
  "g:HMI_Office_Key": {
@@ -260,19 +260,19 @@
   "status": "draft"
  },
  "g:HMI_Office_LockedCase": {
-  "pl": "Te książki muszą zawierać wiedzę o ucieczkach zbyt potężną dla uczniów…",
+  "pl": "Te książki muszą zawierać wiedzę o ucieczkach zbyt potężną dla uczniów...",
   "status": "draft"
  },
  "g:HMI_Office_LockedShelf": {
-  "pl": "No dobrze, pani dyrektor. Niech pani zachowa swoje tajemnice…",
+  "pl": "No dobrze, pani dyrektor. Niech pani zachowa swoje tajemnice...",
   "status": "review"
  },
  "g:HMI_Office_Mystery1": {
-  "pl": "Te zapiski sięgają <i>200 lat wstecz…</i>",
+  "pl": "Te zapiski sięgają <i>200 lat wstecz...</i>",
   "status": "draft"
  },
  "g:HMI_Office_Mystery2": {
-  "pl": "Mnóstwo notatek o kartach i ich założycielach…",
+  "pl": "Mnóstwo notatek o kartach i ich założycielach...",
   "status": "draft"
  },
  "g:HMI_Office_Mystery3": {
@@ -280,11 +280,11 @@
   "status": "draft"
  },
  "g:HMI_Office_Mystery4": {
-  "pl": "Wszystkie te akta uczniów są zamazane, a zdjęcia zakryte… <i>co się z nimi stało?</i>",
+  "pl": "Wszystkie te akta uczniów są zamazane, a zdjęcia zakryte... <i>co się z nimi stało?</i>",
   "status": "draft"
  },
  "g:HMI_Office_Mystery5": {
-  "pl": "Prywatna baza danych Solange. Ciekawe, czy są tu nasze oceny…",
+  "pl": "Prywatna baza danych Solange. Ciekawe, czy są tu nasze oceny...",
   "status": "draft"
  },
  "g:HMI_Office_Orbiter": {
@@ -312,27 +312,27 @@
   "status": "draft"
  },
  "g:HMI_Office_Plant2": {
-  "pl": "Żeby nie było, że się wyrywam, ale liczę na twardszą konkurencję w tym roku…",
+  "pl": "Żeby nie było, że się wyrywam, ale liczę na twardszą konkurencję w tym roku...",
   "status": "draft"
  },
  "g:HMI_Office_PostDETShelf": {
-  "pl": "Chyba nie powinno się ich znowu otwierać…",
+  "pl": "Chyba nie powinno się ich znowu otwierać...",
   "status": "draft"
  },
  "g:HMI_Office_PuzzlePiecesInactive": {
-  "pl": "Zagadkowy wybór dekoracji…",
+  "pl": "Zagadkowy wybór dekoracji...",
   "status": "draft"
  },
  "g:HMI_Office_Pyramid": {
-  "pl": "Przysięgam, że były większe…",
+  "pl": "Przysięgam, że były większe...",
   "status": "draft"
  },
  "g:HMI_Office_RubicsCube": {
-  "pl": "Pfff… dziecinna igraszka.",
+  "pl": "Pfff... dziecinna igraszka.",
   "status": "draft"
  },
  "g:HMI_Office_Shield": {
-  "pl": "Już czuję się bezpieczniej…",
+  "pl": "Już czuję się bezpieczniej...",
   "status": "draft"
  },
  "g:HMI_Office_Ssssnake": {
@@ -388,7 +388,7 @@
   "status": "review"
  },
  "g:HMI_ReshelvingRulesB": {
-  "pl": "Proszę wyjąć…",
+  "pl": "Proszę wyjąć...",
   "status": "draft"
  },
  "g:HMI_ReshelvingRulesC": {
@@ -440,15 +440,15 @@
   "status": "draft"
  },
  "v:Gillian_HMI_ThinkGilThink": {
-  "pl": "Myśl, Gillian, myśl. Gdybyś była parą tajnych okularów, gdzie byś się ukryła…",
+  "pl": "Myśl, Gillian, myśl. Gdybyś była parą tajnych okularów, gdzie byś się ukryła...",
   "status": "draft"
  },
  "v:Gillian_HMI_TipBigPuzzle": {
-  "pl": "Zaczyna to wyglądać na czubek bardzo wielkiej góry lodowej… zagadek.",
+  "pl": "Zaczyna to wyglądać na czubek bardzo wielkiej góry lodowej... zagadek.",
   "status": "draft"
  },
  "v:Gillian_HMI_TonightsNight": {
-  "pl": "Dziś w nocy zdobędziemy te okulary…",
+  "pl": "Dziś w nocy zdobędziemy te okulary...",
   "status": "draft"
  },
  "v:Gillian_HMI_YesIRead": {
@@ -456,7 +456,7 @@
   "status": "review"
  },
  "v:Kira_HMI_ShouldntDoThis": {
-  "pl": "Naprawdę nie powinniście tego robić…",
+  "pl": "Naprawdę nie powinniście tego robić...",
   "status": "draft"
  },
  "v:Reed_HMI_HeistOffice": {

@@ -24,7 +24,7 @@
   "status": "draft"
  },
  "g:LAR_BrainJuiced": {
-  "pl": "Świeżo wyciśnięte…",
+  "pl": "Świeżo wyciśnięte...",
   "status": "draft"
  },
  "g:LAR_BrainRegular": {
@@ -152,7 +152,7 @@
   "status": "draft"
  },
  "g:LAR_Hint_SafeA": {
-  "pl": "Światło tworzy koło na tych czterech kartach…",
+  "pl": "Światło tworzy koło na tych czterech kartach...",
   "status": "draft"
  },
  "g:LAR_Item_2ofDiamonds": {
@@ -216,7 +216,7 @@
   "status": "draft"
  },
  "g:LAR_JarShelf": {
-  "pl": "Widok tych wszystkich okazów… aż mi słoik pęka.",
+  "pl": "Widok tych wszystkich okazów... aż mi słoik pęka.",
   "status": "review"
  },
  "g:LAR_Journal1": {
@@ -268,7 +268,7 @@
   "status": "draft"
  },
  "g:LAR_Plumbing": {
-  "pl": "Instalacja hydrauliczna szaleńca…",
+  "pl": "Instalacja hydrauliczna szaleńca...",
   "status": "draft"
  },
  "g:LAR_Plumbing2": {
@@ -280,7 +280,7 @@
   "status": "review"
  },
  "g:LAR_PodFullLabel": {
-  "pl": "Spokojnie, wyciągnę was stamtąd! Jakoś…",
+  "pl": "Spokojnie, wyciągnę was stamtąd! Jakoś...",
   "status": "draft"
  },
  "g:LAR_PodSerialCode": {
@@ -360,27 +360,27 @@
   "status": "review"
  },
  "g:LAR_Wardrobe": {
-  "pl": "Garderoba szaleńca…",
+  "pl": "Garderoba szaleńca...",
   "status": "draft"
  },
  "v:Headmaster_MSC_Concerned": {
-  "pl": "O nie…",
+  "pl": "O nie...",
   "status": "draft"
  },
  "v:Jeb_LAR_FindEntrance": {
-  "pl": "Musimy znaleźć wejście do tej maszyny…",
+  "pl": "Musimy znaleźć wejście do tej maszyny...",
   "status": "draft"
  },
  "v:Jeb_LAR_SpookyIsland": {
-  "pl": "Nic mi tu nie będzie. Zupełnie sam. Na tej strasznej wyspie…",
+  "pl": "Nic mi tu nie będzie. Zupełnie sam. Na tej strasznej wyspie...",
   "status": "draft"
  },
  "v:Solange_LAR_AlistairKeptHisCards": {
-  "pl": "Alistair nigdy nie grał w otwarte karty…",
+  "pl": "Alistair nigdy nie grał w otwarte karty...",
   "status": "draft"
  },
  "v:Solange_LAR_AllThisTime": {
-  "pl": "Przez cały ten czas… było tuż tu, przez cały ten czas…",
+  "pl": "Przez cały ten czas... było tuż tu, przez cały ten czas...",
   "status": "draft"
  },
  "v:Solange_LAR_DestroyThisPlace": {
@@ -388,7 +388,7 @@
   "status": "draft"
  },
  "v:Solange_LAR_DownTheHatch": {
-  "pl": "Zejdźmy przez właz…",
+  "pl": "Zejdźmy przez właz...",
   "status": "draft"
  },
  "v:Solange_LAR_MustLeadThere": {
@@ -396,11 +396,11 @@
   "status": "draft"
  },
  "v:Solange_LAR_NoBrainIsSafe": {
-  "pl": "Wygląda na to, że żaden mózg nie jest bezpieczny przed naszym czwartym założycielem… nawet w sejfie.",
+  "pl": "Wygląda na to, że żaden mózg nie jest bezpieczny przed naszym czwartym założycielem... nawet w sejfie.",
   "status": "review"
  },
  "v:Solange_LAR_NoEscape": {
-  "pl": "To koniec. Alistair nie ma już dokąd uciec…",
+  "pl": "To koniec. Alistair nie ma już dokąd uciec...",
   "status": "draft"
  },
  "v:Solange_LAR_NoTimeToLose": {
@@ -408,7 +408,7 @@
   "status": "review"
  },
  "v:Solange_LAR_SadPlace": {
-  "pl": "Co za smutne miejsce na spędzanie tylu lat…",
+  "pl": "Co za smutne miejsce na spędzanie tylu lat...",
   "status": "draft"
  },
  "v:Solange_LAR_ShowAlistairTheLetter": {
@@ -424,7 +424,7 @@
   "status": "draft"
  },
  "v:VonBellini_LAR_MyMachine": {
-  "pl": "Ach. A więc moja maszyna się znalazła…",
+  "pl": "Ach. A więc moja maszyna się znalazła...",
   "status": "draft"
  }
 }

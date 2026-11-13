@@ -184,7 +184,7 @@
   "status": "draft"
  },
  "g:SCI_CoolSkeleton": {
-  "pl": "Za wyluzowany, żeby mieć z kimś kości do obgryzienia…",
+  "pl": "Za wyluzowany, żeby mieć z kimś kości do obgryzienia...",
   "status": "review"
  },
  "g:SCI_CricketBody": {
@@ -304,7 +304,7 @@
   "status": "draft"
  },
  "g:SCI_Forgot": {
-  "pl": "Zapomniało się, jak to wygląda…",
+  "pl": "Zapomniało się, jak to wygląda...",
   "status": "draft"
  },
  "g:SCI_FormulaNotRecognized": {
@@ -340,7 +340,7 @@
   "status": "draft"
  },
  "g:SCI_Hint_ComputerA": {
-  "pl": "Potrzebujesz 1 atomu węgla, 5 atomów wodoru, 1 atomu azotu i 3 atomów tlenu…",
+  "pl": "Potrzebujesz 1 atomu węgla, 5 atomów wodoru, 1 atomu azotu i 3 atomów tlenu...",
   "status": "draft"
  },
  "g:SCI_Hint_ComputerB": {
@@ -348,7 +348,7 @@
   "status": "draft"
  },
  "g:SCI_Hint_FireDiamondA": {
-  "pl": "Przeczytaj uważnie raport z incydentu…",
+  "pl": "Przeczytaj uważnie raport z incydentu...",
   "status": "draft"
  },
  "g:SCI_Hint_FireDiamondB": {
@@ -364,11 +364,11 @@
   "status": "draft"
  },
  "g:SCI_Hint_FoodChainB": {
-  "pl": "Zobacz, z jaką liczbą powiązane jest każde zwierzę…",
+  "pl": "Zobacz, z jaką liczbą powiązane jest każde zwierzę...",
   "status": "draft"
  },
  "g:SCI_Hint_FoodChainC": {
-  "pl": "…i wpisz je w listwy zasilające!",
+  "pl": "...i wpisz je w listwy zasilające!",
   "status": "draft"
  },
  "g:SCI_Hint_GiveWorm": {
@@ -380,7 +380,7 @@
   "status": "draft"
  },
  "g:SCI_Hint_PeriodicA": {
-  "pl": "Te pogrubione symbole chyba coś znaczą…",
+  "pl": "Te pogrubione symbole chyba coś znaczą...",
   "status": "draft"
  },
  "g:SCI_Hint_PeriodicB": {
@@ -392,7 +392,7 @@
   "status": "draft"
  },
  "g:SCI_Hint_WormA": {
-  "pl": "Jeśli świerszcz ćwierka rano…",
+  "pl": "Jeśli świerszcz ćwierka rano...",
   "status": "draft"
  },
  "g:SCI_Hint_WormB": {
@@ -412,11 +412,11 @@
   "status": "draft"
  },
  "g:SCI_IncidentReport": {
-  "pl": "<b>Raport z incydentu:</b><br>Chemikalia mózgowe rozlały się na ławę. Zapaliły się (w temperaturze pokojowej!), a potem od wstrząsu zdetonowały! Włączył się też alarm radiacyjny. Przynajmniej nie szkodzi zdrowiu, kiedy się to wdycha…",
+  "pl": "<b>Raport z incydentu:</b><br>Chemikalia mózgowe rozlały się na ławę. Zapaliły się (w temperaturze pokojowej!), a potem od wstrząsu zdetonowały! Włączył się też alarm radiacyjny. Przynajmniej nie szkodzi zdrowiu, kiedy się to wdycha...",
   "status": "draft"
  },
  "g:SCI_IncidentReportDisplayText": {
-  "pl": "„Raport z incydentu: Chemikalia mózgowe rozlały się na ławę. Zapaliły się (w temperaturze pokojowej!), a potem od wstrząsu zdetonowały! Włączył się też alarm radiacyjny. Przynajmniej nie szkodzi zdrowiu, kiedy się to wdycha…”",
+  "pl": "„Raport z incydentu: Chemikalia mózgowe rozlały się na ławę. Zapaliły się (w temperaturze pokojowej!), a potem od wstrząsu zdetonowały! Włączył się też alarm radiacyjny. Przynajmniej nie szkodzi zdrowiu, kiedy się to wdycha...”",
   "status": "draft"
  },
  "g:SCI_InsertAnimal": {
@@ -424,7 +424,7 @@
   "status": "draft"
  },
  "g:SCI_InsertChemicals": {
-  "pl": ">Włóż chemikalia, by kontynuować…",
+  "pl": ">Włóż chemikalia, by kontynuować...",
   "status": "draft"
  },
  "g:SCI_InstabilityHazard": {
@@ -500,7 +500,7 @@
   "status": "review"
  },
  "g:SCI_Lab_Door": {
-  "pl": "Zamknięte. Niech to… Chyba nie powinno się wyważać drzwi na RAM-ę, co?",
+  "pl": "Zamknięte. Niech to... Chyba nie powinno się wyważać drzwi na RAM-ę, co?",
   "status": "review"
  },
  "g:SCI_Largest": {
@@ -528,7 +528,7 @@
   "status": "draft"
  },
  "g:SCI_NuggetCold": {
-  "pl": "Lampa grzewcza jest wyłączona… Nugget musi być zmarznięta!",
+  "pl": "Lampa grzewcza jest wyłączona... Nugget musi być zmarznięta!",
   "status": "draft"
  },
  "g:SCI_OKButton": {
@@ -548,7 +548,7 @@
   "status": "draft"
  },
  "g:SCI_PRESSME": {
-  "pl": "NACIŚNIJ MNIE<br>(proszę…)",
+  "pl": "NACIŚNIJ MNIE<br>(proszę...)",
   "status": "draft"
  },
  "g:SCI_Parakeyt": {
@@ -560,7 +560,7 @@
   "status": "draft"
  },
  "g:SCI_QuestClue": {
-  "pl": "<u>Najwcześniejszy</u> ptaszek zjada robaczka…",
+  "pl": "<u>Najwcześniejszy</u> ptaszek zjada robaczka...",
   "status": "draft"
  },
  "g:SCI_RAT_Obj0": {
@@ -612,11 +612,11 @@
   "status": "draft"
  },
  "g:SCI_SynthatronInsert": {
-  "pl": "W tej maszynie „Synthatron” brakuje dwóch chemikaliów…",
+  "pl": "W tej maszynie „Synthatron” brakuje dwóch chemikaliów...",
   "status": "draft"
  },
  "g:SCI_SynthatronOneMore": {
-  "pl": "Jeszcze tylko jeden składnik…",
+  "pl": "Jeszcze tylko jeden składnik...",
   "status": "draft"
  },
  "g:SCI_TTail": {
@@ -720,7 +720,7 @@
   "status": "draft"
  },
  "g:SCI_Work_Vise": {
-  "pl": "Gdyby tak nauka była moim jedynym nałogiem… a nie tym imadłem, które mnie ściska.",
+  "pl": "Gdyby tak nauka była moim jedynym nałogiem... a nie tym imadłem, które mnie ściska.",
   "status": "review"
  },
  "v:Allie_SCI_ChemistryGas": {

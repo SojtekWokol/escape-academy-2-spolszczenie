@@ -292,7 +292,7 @@
   "status": "draft"
  },
  "g:PER_DressClue": {
-  "pl": "Te suknie chcą mi coś powiedzieć… ale co?!",
+  "pl": "Te suknie chcą mi coś powiedzieć... ale co?!",
   "status": "draft"
  },
  "g:PER_EC_Accordion_Chalkboard": {
@@ -328,7 +328,7 @@
   "status": "draft"
  },
  "g:PER_EC_Cubes_Label": {
-  "pl": "Cóż za dziwna rzeźba…",
+  "pl": "Cóż za dziwna rzeźba...",
   "status": "draft"
  },
  "g:PER_EC_Cubes_Objective1": {
@@ -344,7 +344,7 @@
   "status": "draft"
  },
  "g:PER_EC_EeLPaintingFixed": {
-  "pl": "Och, świetnie, jest „naprawiony”…",
+  "pl": "Och, świetnie, jest „naprawiony”...",
   "status": "draft"
  },
  "g:PER_EC_EelPaintingLocked": {
@@ -380,7 +380,7 @@
   "status": "draft"
  },
  "g:PER_EC_PaintedOn": {
-  "pl": "Ta jest namalowana…",
+  "pl": "Ta jest namalowana...",
   "status": "draft"
  },
  "g:PER_EC_Snackdoku_Objective": {
@@ -432,7 +432,7 @@
   "status": "draft"
  },
  "g:PER_Hint_CastA": {
-  "pl": "Zwracaj uwagę zarówno na kwestie, jak i na didaskalia…",
+  "pl": "Zwracaj uwagę zarówno na kwestie, jak i na didaskalia...",
   "status": "draft"
  },
  "g:PER_Hint_CastB": {
@@ -452,7 +452,7 @@
   "status": "draft"
  },
  "g:PER_Hint_DancePosterB": {
-  "pl": "„Stop”, „Pauza”, „Odtwarzaj”…",
+  "pl": "„Stop”, „Pauza”, „Odtwarzaj”...",
   "status": "draft"
  },
  "g:PER_Hint_DanceStepsA": {
@@ -460,7 +460,7 @@
   "status": "review"
  },
  "g:PER_Hint_DanceStepsB": {
-  "pl": "To prowadzi do „3”. Teraz zatańcz Krok Sejfowy. Przeniesie cię do „2”…",
+  "pl": "To prowadzi do „3”. Teraz zatańcz Krok Sejfowy. Przeniesie cię do „2”...",
   "status": "review"
  },
  "g:PER_Hint_DanceStepsC": {
@@ -516,7 +516,7 @@
   "status": "draft"
  },
  "g:PER_Item_BestDanceSubtitle": {
-  "pl": "Wystarczy, że…",
+  "pl": "Wystarczy, że...",
   "status": "draft"
  },
  "g:PER_Item_CostumeKey": {

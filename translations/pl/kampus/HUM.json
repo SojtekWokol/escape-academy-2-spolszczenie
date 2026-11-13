@@ -276,7 +276,7 @@
   "status": "draft"
  },
  "g:HUM_GateLocked": {
-  "pl": "Z <color=yellow>rowerem</color> dałoby się to otworzyć, kręcąc kołem…",
+  "pl": "Z <color=yellow>rowerem</color> dałoby się to otworzyć, kręcąc kołem...",
   "status": "draft"
  },
  "g:HUM_Grumble_Dance": {
@@ -680,7 +680,7 @@
   "status": "review"
  },
  "g:HUM_PRESSME": {
-  "pl": "NACIŚNIJ MNIE<br>(proszę…)",
+  "pl": "NACIŚNIJ MNIE<br>(proszę...)",
   "status": "draft"
  },
  "g:HUM_Partying": {
@@ -692,7 +692,7 @@
   "status": "draft"
  },
  "g:HUM_PhoneBooth": {
-  "pl": "„Nieczynna”. O czym nie chcą, żebyśmy opowiadali w domu…",
+  "pl": "„Nieczynna”. O czym nie chcą, żebyśmy opowiadali w domu...",
   "status": "draft"
  },
  "g:HUM_Poetry": {
