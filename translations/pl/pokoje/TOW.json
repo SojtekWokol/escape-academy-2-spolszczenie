@@ -173,11 +173,11 @@
  },
  "g:TOW_Hint_Climb": {
   "pl": "Wygląda na to, że można się tu wspiąć...",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_Hint_EclipseA": {
   "pl": "Użyj {@TOW_Item_UVFlashlight} i poświeć na te księżyce.",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_Hint_EclipseB": {
   "pl": "Zacznij od nowiu i ułóż je po kolei...",

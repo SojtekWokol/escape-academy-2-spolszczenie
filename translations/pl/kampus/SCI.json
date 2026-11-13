@@ -9,11 +9,11 @@
  },
  "g:SCI_BBeak": {
   "pl": "D",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Beak": {
   "pl": "<b>D</b>ziób",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_BinaryPosterInstructions": {
   "pl": "Każde miejsce oznacza liczbę. <br>1 na tym miejscu znaczy: dodaj tę liczbę, 0 – pomiń ją. ",
@@ -165,7 +165,7 @@
  },
  "g:SCI_ClueJay": {
   "pl": "Wskazójka",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Com_Microphone": {
   "pl": "Halo, to coś w ogóle działa?",
@@ -204,7 +204,7 @@
   "status": "draft"
  },
  "g:SCI_DrainChemicalsDisplayText": {
-  "pl": "„Uwaga: chemikalia odpływowe – wyp<b><u>Ar</u></b>y mają gr<b><u>O</u></b>źne e<b><u>Fe</u></b>kty!”",
+  "pl": "„Uwaga: chemikalia odpływowe – op<b><u>Ar</u></b>y mają gr<b><u>O</u></b>źne e<b><u>Fe</u></b>kty!”",
   "status": "review"
  },
  "g:SCI_DrainChemicalsWarning": {
@@ -273,7 +273,7 @@
  },
  "g:SCI_FFeather": {
   "pl": "P",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Fastest": {
   "pl": "Najszybszy:",
@@ -621,7 +621,7 @@
  },
  "g:SCI_TTail": {
   "pl": "O",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_TableOfElements": {
   "pl": "Układ okresowy pierwiastków",
@@ -701,7 +701,7 @@
  },
  "g:SCI_WWing": {
   "pl": "S",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Water": {
   "pl": "Woda<br>H<sub>2</sub>O",

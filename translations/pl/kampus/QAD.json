@@ -1,7 +1,7 @@
 {
  "g:QAD_BalloonAnimalLabel": {
   "pl": "Przypomina mi Jeffa Balonsa...",
-  "status": "review"
+  "status": "done"
  },
  "g:QAD_Ch2_EscapistTimes": {
   "pl": "Kurier Eskapisty – Miejscowy eskapista w końcu rozwiązuje pierwszą zagadkę. Umiera.",
@@ -109,7 +109,7 @@
  },
  "g:QAD_EC_JackInTheLock": {
   "pl": "F,I,G,L,E",
-  "status": "review"
+  "status": "done"
  },
  "g:QAD_EC_JackWA0": {
   "pl": "C",
