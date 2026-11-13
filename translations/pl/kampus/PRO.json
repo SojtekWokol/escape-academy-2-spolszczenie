@@ -341,10 +341,10 @@
  },
  "g:PRO_DormsWest_SameerBlade": {
   "pl": "Legendarny miecz Sameera Gasparda – wrogowie nazywali go „Sameer-tarem”. Oby ktoś go umył.",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_DormsWest_Shelf": {
-  "pl": "Zastawić całą półkę? To już lekka <i>półka</i>-chciwość, nie?",
+  "pl": "Zająć całą półkę? Można było chociaż <i>pół</i> na <i>pół</i>, nie?",
   "status": "review"
  },
  "g:PRO_DormsWest_Shower": {
