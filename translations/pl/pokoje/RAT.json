@@ -29,7 +29,7 @@
  },
  "g:RAT_8lbs": {
   "pl": "<size=2em>3,5</size> kg",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_9lbs": {
   "pl": "<size=2em>4</size> kg",
@@ -81,11 +81,11 @@
  },
  "g:RAT_ChemsegoTramp": {
   "pl": "CHEMESEGO",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_ClosestFurthest": {
   "pl": "Od najbliższego do najdalszego",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_EngineJoke": {
   "pl": "Koń mechaniczny? Ja chcę zobaczyć szczura mechanicznego.",
@@ -93,7 +93,7 @@
  },
  "g:RAT_Equations": {
   "pl": "Energia kinetyczna: <br>KE = 1/2mv<sup>2</sup><br><br>Energia potencjalna: <br>U = MGH<br><br>Pęd: <br>P = MV<br><br>Tatapęd: <br>P = Poszedł na ryby",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_EscapistTimes": {
   "pl": "Kurier Eskapisty – Naukowcy zabierają głos: eksperymenty? Niezbyt przydatne",
@@ -321,7 +321,7 @@
  },
  "g:RAT_META_Item_GearsPlastic": {
   "pl": "Plastikowe koła zębate",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_META_Item_GearsSteel": {
   "pl": "Stalowe koła zębate",
@@ -357,7 +357,7 @@
  },
  "g:RAT_MancorsanTramp": {
   "pl": "MANCORSAN",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_NoNeed": {
   "pl": "Nie ma już po co tego ruszać.",
@@ -377,7 +377,7 @@
  },
  "g:RAT_ParmeddinoTramp": {
   "pl": "PARMEDDINO",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_Pinboard": {
   "pl": "„Regulamin fabryki zagadek: absolutny zakaz rozwiązywania w pokoju socjalnym”",
@@ -389,7 +389,7 @@
  },
  "g:RAT_PlasticGears": {
   "pl": "Plastikowe koła zębate",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_PotentialFormula": {
   "pl": "U=MGH",
@@ -429,7 +429,7 @@
  },
  "g:RAT_Spread": {
   "pl": "Dzisiejsza deska:<br>1. Salami<br>2. Pepperoni<br>3. Brie<br>4. Oliwki<br>5. Pecorino<br>6. Manchego<br>7. Ogórki<br>8. Parmesan<br>9. Cheddar",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_SteelGears": {
   "pl": "Stalowe koła zębate",
@@ -493,10 +493,10 @@
  },
  "g:RAT_WaterPun": {
   "pl": "Co tu się dzieje, że aż woda się leje?",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_WheelWA": {
-  "pl": "Kołowy pomysł? Raczej kwadratowy.",
+  "pl": "Nie, to się raczej nie kręci.",
   "status": "review"
  },
  "g:RAT_Wheels": {

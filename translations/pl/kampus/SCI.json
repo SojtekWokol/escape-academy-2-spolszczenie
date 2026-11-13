@@ -501,7 +501,7 @@
  },
  "g:SCI_Lab_Door": {
   "pl": "Zamknięte. Niech to... Chyba lepiej nie wyważać tych drzwi RAM-ieniem, co?",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Largest": {
   "pl": "Największy:",
