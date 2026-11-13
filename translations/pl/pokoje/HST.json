@@ -1,6 +1,6 @@
 {
  "g:HST_AztecCarving": {
-  "pl": "Zarchiwizowanie tego wszystkiego to chyba była <i>płytka</i> robota.",
+  "pl": "Archiwizowanie tego wszystkiego to musiała być <i>syzyfowa</i> praca.",
   "status": "review"
  },
  "g:HST_AztecClosed": {
@@ -457,7 +457,7 @@
  },
  "g:HST_Meta_SignBell": {
   "pl": "Eksponat 6<br>Brzmi szlachetnie.",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_Meta_SignCheckbook": {
   "pl": "Eksponat 3<br>Najpotężniejszy, gdy jest pusty.",
@@ -477,7 +477,7 @@
  },
  "g:HST_Meta_SignRing": {
   "pl": "Eksponat 7<br>Jest zrobiony ze szlachetnego kruszcu.",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_Meta_SignShovel": {
   "pl": "Eksponat 1<br>Podstawa wielu przełomowych odkryć. Dosłownie.",
