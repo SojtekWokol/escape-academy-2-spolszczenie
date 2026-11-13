@@ -65,7 +65,7 @@
  },
  "g:RAT_Candles": {
   "pl": "Żadna porządna deska serów nie obejdzie się bez wosku!",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_ChartInteract": {
   "pl": "„Harmonogram karmienia serem”?",
@@ -121,10 +121,10 @@
  },
  "g:RAT_GarbageBin": {
   "pl": "Rozwiązane i do kosza.",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_GolfFlag": {
-  "pl": "Profesor Von Bellini chyba lubi wbijać Turmeric do dołka... z testami.",
+  "pl": "Profesor Von Bellini chyba lubi wystawiać Turmeric na próbę... na każdym dołku.",
   "status": "review"
  },
  "g:RAT_Hint_Back": {
