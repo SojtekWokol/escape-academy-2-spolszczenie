@@ -812,8 +812,8 @@
   "status": "draft"
  },
  "g:PRO_Terrace_SnackdokuCandyHeader": {
-  "pl": "Snackdoku: batonik 1 $",
-  "status": "draft"
+  "pl": "Sudokąska: batonik 1 $",
+  "status": "review"
  },
  "g:PRO_Terrace_SnackdokuPrompt": {
   "pl": "„Wrzuć 1 $”",
@@ -836,8 +836,8 @@
   "status": "draft"
  },
  "g:PRO_Terrace_SnackdokuSodaHeader": {
-  "pl": "Snackdoku: napój 1 $",
-  "status": "draft"
+  "pl": "Sudokąska: napój 1 $",
+  "status": "review"
  },
  "g:PRO_Terrace_SoldOut": {
   "pl": "Wyprzedane!",
