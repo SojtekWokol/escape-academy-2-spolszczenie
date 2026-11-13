@@ -16,7 +16,7 @@
   "status": "draft"
  },
  "g:TOW_AstronomyBooks2": {
-  "pl": "„Podglądanie Uranusa – przewodnik dla początkujących teleskopistów”",
+  "pl": "„Odkrywanie Dupitera – przewodnik dla początkujących miłośników teleskopów”",
   "status": "review"
  },
  "g:TOW_AstronomyBooks3": {
@@ -385,7 +385,7 @@
  },
  "g:TOW_PlasterBucket": {
   "pl": "Jeśli nie wejdę na szczyt wieży na czas, to chyba skończę w gipsie!",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_QuestClue": {
   "pl": "Trzecia litera to początek miejsca, do którego chcesz się dostać.",
