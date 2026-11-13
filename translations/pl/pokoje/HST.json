@@ -1,7 +1,7 @@
 {
  "g:HST_AztecCarving": {
   "pl": "Archiwizowanie tego wszystkiego to musiała być <i>syzyfowa</i> praca.",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_AztecClosed": {
   "pl": "Nie widzę żadnych uchwytów ani przycisków. Jak mam to otworzyć?",
@@ -48,7 +48,7 @@
   "status": "draft"
  },
  "g:HST_BlueprintAztec": {
-  "pl": "Skarbiec Montekluczumy",
+  "pl": "Skarbiec Szyfrezumy",
   "status": "review"
  },
  "g:HST_BlueprintChina": {
