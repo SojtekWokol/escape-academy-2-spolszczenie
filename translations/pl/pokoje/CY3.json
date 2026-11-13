@@ -456,11 +456,11 @@
   "status": "draft"
  },
  "g:CY3_Meta_SecretPhraseEnd": {
-  "pl": "piszą zwycięzcy.",
+  "pl": "jest pisana przez zwycięzców.",
   "status": "review"
  },
  "g:CY3_Meta_SecretPhraseStart": {
-  "pl": "H,I,S,T,O,R,I,Ę",
+  "pl": "H,I,S,T,O,R,I,A",
   "status": "review"
  },
  "g:CY3_NewspaperBodyRetire": {

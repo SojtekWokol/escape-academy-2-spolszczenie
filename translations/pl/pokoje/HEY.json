@@ -60,7 +60,7 @@
   "status": "draft"
  },
  "g:HEY_CampusActivity4": {
-  "pl": "15:00:<br>Warsztat<br><b>Zbuduj</b>-Pułapkę",
+  "pl": "15:00:<br>Warsztaty<br>„<b>Zbuduj</b> pułapkę”",
   "status": "draft"
  },
  "g:HEY_CampusActivity5": {
@@ -84,7 +84,7 @@
   "status": "draft"
  },
  "g:HEY_DeskPuzzleSolution": {
-  "pl": "Ś,L,A,D",
+  "pl": "T,R,O,P",
   "status": "review"
  },
  "g:HEY_Desk_Start_Instructions": {
@@ -112,8 +112,8 @@
   "status": "draft"
  },
  "g:HEY_Desk_X1Y4_Letter": {
-  "pl": "D",
-  "status": "draft"
+  "pl": "P",
+  "status": "review"
  },
  "g:HEY_Desk_X2Y1_Letter": {
   "pl": "Z",
@@ -124,8 +124,8 @@
   "status": "draft"
  },
  "g:HEY_Desk_X2Y2_Letter": {
-  "pl": "Ś",
-  "status": "draft"
+  "pl": "T",
+  "status": "review"
  },
  "g:HEY_Desk_X2Y3_Instructions": {
   "pl": "Dalej: X+1",
@@ -152,8 +152,8 @@
   "status": "draft"
  },
  "g:HEY_Desk_X3Y2_Letter": {
-  "pl": "L",
-  "status": "draft"
+  "pl": "R",
+  "status": "review"
  },
  "g:HEY_Desk_X3Y3_Letter": {
   "pl": "B",
@@ -164,8 +164,8 @@
   "status": "draft"
  },
  "g:HEY_Desk_X3Y4_Letter": {
-  "pl": "A",
-  "status": "draft"
+  "pl": "O",
+  "status": "review"
  },
  "g:HEY_EscapistTimes": {
   "pl": "Kurier Eskapisty – BADANIE: Doświadczeni profesorowie twierdzą, że kartkówki z zaskoczenia wbijają wiedzę najskuteczniej",

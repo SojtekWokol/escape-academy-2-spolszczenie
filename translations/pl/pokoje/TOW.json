@@ -144,32 +144,32 @@
   "status": "draft"
  },
  "g:TOW_HiddenMessage1": {
-  "pl": "K",
-  "status": "draft"
+  "pl": "E",
+  "status": "review"
  },
  "g:TOW_HiddenMessage2": {
-  "pl": "S",
-  "status": "draft"
+  "pl": "A",
+  "status": "review"
  },
  "g:TOW_HiddenMessage3": {
-  "pl": "I",
-  "status": "draft"
+  "pl": "Y",
+  "status": "review"
  },
  "g:TOW_HiddenMessage4": {
-  "pl": "Ę",
-  "status": "draft"
+  "pl": "K",
+  "status": "review"
  },
  "g:TOW_HiddenMessage5": {
-  "pl": "Ż",
-  "status": "draft"
+  "pl": "R",
+  "status": "review"
  },
  "g:TOW_HiddenMessage6": {
-  "pl": "Y",
-  "status": "draft"
+  "pl": "T",
+  "status": "review"
  },
  "g:TOW_HiddenMessage7": {
-  "pl": "C",
-  "status": "draft"
+  "pl": "R",
+  "status": "review"
  },
  "g:TOW_Hint_Climb": {
   "pl": "Wygląda na to, że można się tu wspiąć…",
@@ -372,11 +372,11 @@
   "status": "draft"
  },
  "g:TOW_Password_Camel": {
-  "pl": "W,I,E,L,B,Ł,Ą,D",
+  "pl": "D,R,O,M,A,D,E,R",
   "status": "review"
  },
  "g:TOW_Password_Eclipse": {
-  "pl": "K,S,I,Ę,Ż,Y,C",
+  "pl": "K,R,A,T,E,R,Y",
   "status": "review"
  },
  "g:TOW_Password_Lunar": {

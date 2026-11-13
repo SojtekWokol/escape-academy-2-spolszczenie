@@ -208,27 +208,27 @@
   "status": "draft"
  },
  "g:HUM_EC_SaladLetter0": {
-  "pl": "S",
-  "status": "draft"
+  "pl": "W",
+  "status": "review"
  },
  "g:HUM_EC_SaladLetter1": {
-  "pl": "Ł",
-  "status": "draft"
+  "pl": "A",
+  "status": "review"
  },
  "g:HUM_EC_SaladLetter2": {
-  "pl": "O",
-  "status": "draft"
+  "pl": "F",
+  "status": "review"
  },
  "g:HUM_EC_SaladLetter3": {
-  "pl": "I",
-  "status": "draft"
+  "pl": "E",
+  "status": "review"
  },
  "g:HUM_EC_SaladLetter4": {
-  "pl": "K",
-  "status": "draft"
+  "pl": "L",
+  "status": "review"
  },
  "g:HUM_EC_SaladPW": {
-  "pl": "S,Ł,O,I,K",
+  "pl": "W,A,F,E,L",
   "status": "review"
  },
  "g:HUM_EelBarnes": {

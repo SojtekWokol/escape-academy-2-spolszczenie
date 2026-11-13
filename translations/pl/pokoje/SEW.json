@@ -280,27 +280,43 @@
   "status": "review"
  },
  "g:SEW_LiarPoster1": {
-  "pl": "K",
+  "pl": "M",
   "status": "review"
  },
  "g:SEW_LiarPoster2": {
-  "pl": "Ł",
-  "status": "review"
- },
- "g:SEW_LiarPoster3": {
   "pl": "A",
   "status": "review"
  },
+ "g:SEW_LiarPoster3": {
+  "pl": "T",
+  "status": "review"
+ },
  "g:SEW_LiarPoster4": {
-  "pl": "M",
+  "pl": "A",
   "status": "review"
  },
  "g:SEW_LiarPoster5": {
   "pl": "C",
   "status": "review"
  },
+ "g:SEW_LiarPoster6": {
+  "pl": "Z",
+  "status": "review"
+ },
+ "g:SEW_LiarPoster7": {
+  "pl": "E",
+  "status": "review"
+ },
+ "g:SEW_LiarPoster8": {
+  "pl": " ",
+  "status": "review"
+ },
+ "g:SEW_LiarPoster9": {
+  "pl": " ",
+  "status": "review"
+ },
  "g:SEW_LockPasswordLie": {
-  "pl": "K,Ł,A,M,C,Y",
+  "pl": "M,A,T,A,C,Z,E",
   "status": "review"
  },
  "g:SEW_META_ItemDescription_Lens": {
