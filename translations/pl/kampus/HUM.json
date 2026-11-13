@@ -49,7 +49,7 @@
  },
  "g:HUM_BubbleKey": {
   "pl": "BąbloKlucz®",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_BurnedJournal": {
   "pl": "Uwaga! Ten cenny dziennik o mało nie poszedł z dymem. Trzeba bardziej uważać!",
@@ -93,7 +93,7 @@
  },
  "g:HUM_Cip_Duck": {
   "pl": "„Analiza funkcji: obiekt sprawia, że kąpiel to czysta zabawa.”",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Cip_Map": {
   "pl": "Rany! Gdzie Sameer Gaspard <i>nie</i> był...",
@@ -189,11 +189,11 @@
  },
  "g:HUM_EC_FruitPW": {
   "pl": "C,H,L,E,B",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_EC_Picnic_Objective": {
   "pl": "Otwórz lodówkę turystyczną.",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_EC_Picnic_Objective2": {
   "pl": "Podaj piknik.",
@@ -209,27 +209,27 @@
  },
  "g:HUM_EC_SaladLetter0": {
   "pl": "W",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_EC_SaladLetter1": {
   "pl": "A",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_EC_SaladLetter2": {
   "pl": "F",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_EC_SaladLetter3": {
   "pl": "E",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_EC_SaladLetter4": {
   "pl": "L",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_EC_SaladPW": {
   "pl": "W,A,F,E,L",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_EelBarnes": {
   "pl": "Eel Barnes:<br><size=0.5em>Największy eskapista wszech czasów",
@@ -357,7 +357,7 @@
  },
  "g:HUM_Hint_GrumbleB": {
   "pl": "Skieruj głowę Grumble'a na książki z napisem „{@HUM_etiquitte}”.",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Hint_Meet": {
   "pl": "Profesor jest na Wydziale Humanistycznym, na zachód od dziedzińca.",
@@ -401,11 +401,11 @@
  },
  "g:HUM_Item_LectureQuizCorrect": {
   "pl": "BąbloKlucz",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Item_LectureQuizIncorrect": {
   "pl": "BąbloKlucz",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Item_MentorArtifact": {
   "pl": "Artefakty Reiny",
@@ -469,7 +469,7 @@
  },
  "g:HUM_LectureTeacher": {
   "pl": "Nauczycielka",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_LectureWar": {
   "pl": "Pierwsza wojna zagadkowa była konfliktem eskapistów w połowie XVIII wieku, wywołanym sporem o powszechnie znaną zagadkę matematyczną „8 ÷ 2(2 + 2)”.<br><br>To, co zaczęło się jako kulturalna debata, szybko przerodziło się w zorganizowaną wojnę. W zależności od źródła liczba ofiar wyniosła 10 000 albo 160 000.",
@@ -569,7 +569,7 @@
  },
  "g:HUM_Library_QuestStep0": {
   "pl": "Spotkaj się z profesorem Quanty w bibliotece.",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Library_SleepingBag": {
   "pl": "Uff. Ktoś ma ciężki semestr...",

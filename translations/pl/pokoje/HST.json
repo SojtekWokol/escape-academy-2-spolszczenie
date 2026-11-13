@@ -417,7 +417,7 @@
  },
  "g:HST_Meta_CrateLabel0W": {
   "pl": "Delikantne",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_Meta_CrateLabel1": {
   "pl": "Ostrożnie otwierać",
@@ -425,7 +425,7 @@
  },
  "g:HST_Meta_CrateLabel1W": {
   "pl": "Ostróżnie otwirać",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_Meta_CrateLabel2": {
   "pl": "Dostawa w 24 h",
@@ -433,7 +433,7 @@
  },
  "g:HST_Meta_CrateLabel2W": {
   "pl": "Dostwa w 24 h",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_Meta_CrateLabel3": {
   "pl": "W środku artefakty",
@@ -441,7 +441,7 @@
  },
  "g:HST_Meta_CrateLabel3W": {
   "pl": "W środku artefkaty",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_Meta_CratePrompt": {
   "pl": "<color=red>⚠ Czy na pewno, całkowicie i absolutnie chcę otworzyć tę skrzynię?</color>",
@@ -456,7 +456,7 @@
   "status": "draft"
  },
  "g:HST_Meta_SignBell": {
-  "pl": "Eksponat 6<br>Ma szlachetne brzmienie.",
+  "pl": "Eksponat 6<br>Brzmi szlachetnie.",
   "status": "review"
  },
  "g:HST_Meta_SignCheckbook": {
@@ -476,7 +476,7 @@
   "status": "draft"
  },
  "g:HST_Meta_SignRing": {
-  "pl": "Eksponat 7<br>Nie ma początku ani końca.",
+  "pl": "Eksponat 7<br>Jest zrobiony ze szlachetnego kruszcu.",
   "status": "review"
  },
  "g:HST_Meta_SignShovel": {
