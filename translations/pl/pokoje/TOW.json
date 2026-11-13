@@ -388,11 +388,11 @@
   "status": "review"
  },
  "g:TOW_QuestClue": {
-  "pl": "Trzecia litera to „W”, jak w „wieży”.",
+  "pl": "Trzecia litera to początek miejsca, do którego chcesz się dostać.",
   "status": "review"
  },
  "g:TOW_QuestClue2": {
-  "pl": "Hasło to rozkaz i kończy się na „AJ”.",
+  "pl": "Hasło kończy się tak, jak krzyczysz, gdy uderzysz się w palec.",
   "status": "review"
  },
  "g:TOW_QuestClue3": {
@@ -400,7 +400,7 @@
   "status": "review"
  },
  "g:TOW_QuestClue4": {
-  "pl": "Tajne hasło zawiera 3 litery „A”.",
+  "pl": "Jedyne samogłoski w haśle to trzy „A”.",
   "status": "review"
  },
  "g:TOW_QuestDesc": {
