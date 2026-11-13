@@ -37,7 +37,7 @@
  },
  "g:SCI_Bio_Skeleton": {
   "pl": "Ten gość to luzak do szpiku kości.",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Bio_Vines": {
   "pl": "Mitochondrium to elektrownia każdej łami<i>komórki.</i>",
@@ -720,7 +720,7 @@
   "status": "draft"
  },
  "g:SCI_Work_Vise": {
-  "pl": "Gdyby tak nauka była moim jedynym nałogiem... a nie tym imadłem, które mnie ściska.",
+  "pl": "Nauka wciągnęła mnie na dobre... trzyma jak w imadle.",
   "status": "review"
  },
  "v:Allie_SCI_ChemistryGas": {
