@@ -9,7 +9,7 @@
  },
  "g:HUM_Bees": {
   "pl": "Pszczoły",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_BikeVoucher": {
   "pl": "Bon na rower",
@@ -21,23 +21,23 @@
  },
  "g:HUM_BlackBoardQuestions1": {
   "pl": "1. Brat Reiny, Kenji, wspierał jej studia nad ucieczkami.<br>A). Prawda     B). Fałsz",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_BlackBoardQuestions2": {
   "pl": "2. Reina Wym była sygnatariuszką Deklaracji Ucieczki.<br>A). Prawda     B). Fałsz",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_BlackBoardQuestions3": {
   "pl": "3. To Reina wpadła na pomysł, by rekrutować nowych uczniów Academy przez escape roomy.<br>A). Prawda     B). Fałsz",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_BlackBoardQuestions4": {
   "pl": "4. W którym roku Reina Wym opuściła Japonię?<br>A). 1759    B). 1773    C). 1803    D). 2001",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_BlackBoardQuestions5": {
   "pl": "5. Kto wywołał drugą wojnę zagadkową?<br>A). Zbuntowani eskapiści    B). Kenji Wym     C). Reina Wym     D). Nigdy do niej nie doszło",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_BlackboardPromptBlank": {
   "pl": "Dziś: wykład o założycielce Reinie Wym!",
@@ -45,11 +45,11 @@
  },
  "g:HUM_Bows": {
   "pl": "Łuki",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_BubbleKey": {
-  "pl": "BubbleKey®",
-  "status": "done"
+  "pl": "BąbloKlucz®",
+  "status": "review"
  },
  "g:HUM_BurnedJournal": {
   "pl": "Uwaga! Ten cenny dziennik o mało nie poszedł z dymem. Trzeba bardziej uważać!",
@@ -400,12 +400,12 @@
   "status": "draft"
  },
  "g:HUM_Item_LectureQuizCorrect": {
-  "pl": "BąbelKlucz",
+  "pl": "BąbloKlucz",
   "status": "review"
  },
  "g:HUM_Item_LectureQuizIncorrect": {
-  "pl": "BąbelKlucz",
-  "status": "draft"
+  "pl": "BąbloKlucz",
+  "status": "review"
  },
  "g:HUM_Item_MentorArtifact": {
   "pl": "Artefakty Reiny",
@@ -449,7 +449,7 @@
  },
  "g:HUM_LectureDeclaration": {
   "pl": "Deklaracja Ucieczki była dokumentem podpisanym w 1803 roku przez Reinę Wym, Sameera Gasparda i Fernanda Augustína. Ustanowiła Escape Academy jako bezpieczne miejsce, w którym eskapiści mogą spokojnie studiować, uczyć się i rozwiązywać zagadki.<br><br>Teorie z pogranicza nauki twierdzą, że był jeszcze jeden sygnatariusz, zwykle podawany jako John Handlock. <sup>[potrzebne źródło]</sup>",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_LectureEscapeAcademy": {
   "pl": "Escape Academy to szkoła poświęcona nauce ucieczek. Uczy uczniów logiki testów, pracy zespołowej i zachowania zimnej krwi.<br><br>Odgrywa kluczową rolę we współczesnym społeczeństwie eskapistów. Choć jest powszechnie szanowana, jej wpływy i metody spotykają się z krytyką, zwłaszcza ze strony naukowców z ruchu Anty-Escape.",
@@ -785,7 +785,7 @@
  },
  "g:HUM_locks": {
   "pl": "Kłódki",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_painting": {
   "pl": "Malarstwo",
@@ -797,7 +797,7 @@
  },
  "g:HUM_rooks": {
   "pl": "Wieże",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_sculpture": {
   "pl": "Rzeźba",
