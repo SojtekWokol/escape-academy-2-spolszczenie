@@ -253,11 +253,11 @@
  },
  "g:TOW_Hint_SignA": {
   "pl": "Coś jak „w tył zwrot!”.",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_Hint_SignB": {
   "pl": "Pierwsze cztery litery to „ZAWR”.",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_Hint_StarLockA": {
   "pl": "Niebieska gwiazda ma cztery ramiona...",
@@ -389,19 +389,19 @@
  },
  "g:TOW_QuestClue": {
   "pl": "Trzecia litera to początek miejsca, do którego chcesz się dostać.",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_QuestClue2": {
   "pl": "Hasło kończy się tak, jak krzyczysz, gdy uderzysz się w palec.",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_QuestClue3": {
   "pl": "Tajne hasło <u>ZA</u>czyna się <u>ZA</u>skakująco.",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_QuestClue4": {
   "pl": "Jedyne samogłoski w haśle to trzy „A”.",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_QuestDesc": {
   "pl": "Dowiedz się, jaką nagrodę Dyrektorka Solange przygotowała za pierwsze miejsce we wprowadzeniu.",
@@ -445,7 +445,7 @@
  },
  "g:TOW_StayAwayLock": {
   "pl": "Z,A,W,R,A,C,A,J",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_Subtitle": {
   "pl": "Uderz<br>w dzwon!",
