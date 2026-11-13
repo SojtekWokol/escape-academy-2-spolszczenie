@@ -273,7 +273,7 @@
  },
  "g:HUM_Fashion": {
   "pl": "Moda",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_GateLocked": {
   "pl": "Z <color=yellow>rowerem</color> dałoby się to otworzyć, kręcąc kołem...",
@@ -281,63 +281,63 @@
  },
  "g:HUM_Grumble_Dance": {
   "pl": "taniec!<br>A co najgorsze:<br>uczennica Saunders kopiuje:",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Grumble_Etiquette": {
   "pl": "etykiecie.<br>Uczeń Pleasant woli",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Grumble_Fashion": {
   "pl": "modę.<br>Uczeń Maxwell<br>woli",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Grumble_GeniusAbsolutelyNot": {
   "pl": "uchodzić za geniusza –<br>co jest absolutnie nieprawdą<br>pod żadnym względem. A jeszcze bardziej woli",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Grumble_Hint1": {
   "pl": "PRZECZYTAJ",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Grumble_Hint2": {
   "pl": "TYLKO",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Grumble_Hint3": {
   "pl": "TE",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Grumble_Hint4": {
   "pl": "PARZYSTE",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Grumble_Hint5": {
   "pl": "STRONY",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Grumble_NeerDoWell": {
   "pl": "wszystkich swoich<br>nieudolnych rówieśników.<br>Rezygnuję.<br>Podpisano,",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Grumble_OldAndTired": {
   "pl": "starym i zmęczonym ideałom.<br>Moi uczniowie okazują pogardę",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Grumble_PayAttention": {
   "pl": "uważać!<br>Ja, profesor Grumble,<br>zwracam się teraz ku",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_Grumble_SignedGrumble": {
   "pl": "Profesor<br>Grumble.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Grumble_SorryState": {
   "pl": "Edukacja jest w żałosnym stanie.<br>Uczniowie już nie potrafią",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Grumble_Studying": {
   "pl": "siebie niż<br>naukę. Uczenie go<br>to prawdziwy",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_Hint_BookSafeA": {
   "pl": "„{@HUM_Toth}”. Brzmi jak książka o religii...",
@@ -769,11 +769,11 @@
  },
  "g:HUM_dance": {
   "pl": "Taniec",
-  "status": "draft"
+  "status": "done"
  },
  "g:HUM_etiquitte": {
   "pl": "Etykieta",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_flowers": {
   "pl": "Kwiaty",
