@@ -76,7 +76,7 @@
   "status": "draft"
  },
  "g:RAT_Cheeseboard": {
-  "pl": "Mam nadzieję, że profesor Von Bellini pozwoli mi jeszcze sobie pomóc. Ser-decznie proszę!",
+  "pl": "Mam nadzieję, że profesor Von Bellini uzna, że ser-io się nadaję, i znów weźmie mnie do pomocy.",
   "status": "review"
  },
  "g:RAT_ChemsegoTramp": {
@@ -421,7 +421,7 @@
  },
  "g:RAT_Sink": {
   "pl": "Wątpliwe eksperymenty profesora Von Bellini coraz bardziej mi się... zlewają.",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_SlingshotPrompt": {
   "pl": "Czym mogę z tego wystrzelić? ",
@@ -449,7 +449,7 @@
  },
  "g:RAT_TrainJoke": {
   "pl": "Turmeric ma do tego prawdziwy pociąg.",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_TrainMissing": {
   "pl": "Brakuje tu kawałka torów...",
@@ -497,7 +497,7 @@
  },
  "g:RAT_WheelWA": {
   "pl": "Nie, to się dobrze nie potoczy.",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_Wheels": {
   "pl": "Co to takiego?",
