@@ -49,7 +49,7 @@
  },
  "g:HST_BlueprintAztec": {
   "pl": "Skarbiec Szyfrezumy",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_BlueprintChina": {
   "pl": "Szkatuła Kluczfucjusza",
@@ -121,7 +121,7 @@
  },
  "g:HST_CoinCrescent": {
   "pl": "Moneta półksiężycowa",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_CoinDagger": {
   "pl": "Moneta z sztyletem",
@@ -524,8 +524,8 @@
   "status": "draft"
  },
  "g:HST_NotebookGems": {
-  "pl": "Klejnoty Montekluczumy",
-  "status": "draft"
+  "pl": "Klejnoty Szyfrezumy",
+  "status": "review"
  },
  "g:HST_NotebookHit": {
   "pl": "Uderz",
@@ -536,8 +536,8 @@
   "status": "draft"
  },
  "g:HST_NotebookListening": {
-  "pl": "„Montekluczuma zawsze słucha”",
-  "status": "draft"
+  "pl": "„Szyfrezuma zawsze słucha”",
+  "status": "review"
  },
  "g:HST_NotebookLockKey": {
   "pl": "Ten zamek to <i>klucz</i> do otwarcia skrzyni!",
