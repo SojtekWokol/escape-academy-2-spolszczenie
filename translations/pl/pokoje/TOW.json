@@ -17,7 +17,7 @@
  },
  "g:TOW_AstronomyBooks2": {
   "pl": "„Odkrywanie Dupitera – przewodnik dla początkujących miłośników teleskopów”",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_AstronomyBooks3": {
   "pl": "„Na co się gapisz, gwiazdo? – wprowadzenie do astronomii”",
@@ -109,7 +109,7 @@
  },
  "g:TOW_Crates": {
   "pl": "Wszystko idzie jak po skrzynce!",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_DoorDone": {
   "pl": "Nie ma po co tu wracać. Jedno ogłoszenie na całą szkołę wystarczyło.",

@@ -208,7 +208,7 @@
   "status": "review"
  },
  "g:SCI_DrainChemicalsWarning": {
-  "pl": "Uwaga: chemikalia odpływowe – wyp<b><u>Ar</u></b>y mają gr<b><u>O</u></b>źne e<b><u>Fe</u></b>kty!",
+  "pl": "Uwaga: chemikalia odpływowe – op<b><u>Ar</u></b>y mają gr<b><u>O</u></b>źne e<b><u>Fe</u></b>kty!",
   "status": "review"
  },
  "g:SCI_EC_1_QuestDescription": {
