@@ -132,11 +132,11 @@
   "status": "draft"
  },
  "g:HMI_Office_Book_IdentifyingBlocks": {
-  "pl": "Bloki – kamienne mary",
+  "pl": "Kamienne filary",
   "status": "review"
  },
  "g:HMI_Office_Book_Locks": {
-  "pl": "Zamki, kłódki i ich dary",
+  "pl": "Kłódki: rodzaje i wymiary",
   "status": "review"
  },
  "g:HMI_Office_Book_MeetRiddle": {
@@ -385,7 +385,7 @@
  },
  "g:HMI_ReshelvingRulesA": {
   "pl": "Zasady układania na półkach:",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_ReshelvingRulesB": {
   "pl": "Proszę wyjąć...",
@@ -396,7 +396,7 @@
   "status": "draft"
  },
  "g:HMI_ReshelvingRulesCombined": {
-  "pl": "1. Wszystkie książki o zagadkach.<br>2. Wszystkie książki, które rymują się z „okulary”.<br>3. Wszystkie tytuły, które czytane od tyłu brzmią tak samo.",
+  "pl": "1. Wszystkie książki o zagadkach.<br>2. Wszystkie książki, które rymują się z „okulary”.<br>3. Wszystkie tytuły, które czyta się tak samo od przodu i od tyłu.",
   "status": "review"
  },
  "g:HMI_ReshelvingRulesD": {
@@ -404,8 +404,8 @@
   "status": "review"
  },
  "g:HMI_ReshelvingRulesE": {
-  "pl": "3. Wszystkie tytuły, które czytane od tyłu brzmią tak samo.",
-  "status": "draft"
+  "pl": "3. Wszystkie tytuły, które czyta się tak samo od przodu i od tyłu.",
+  "status": "review"
  },
  "g:HMI_RoomName": {
   "pl": "Oko na nagrodę",

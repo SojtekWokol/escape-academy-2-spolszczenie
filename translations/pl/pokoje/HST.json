@@ -17,7 +17,7 @@
  },
  "g:HST_AztecKeysReq_OneMoreKey": {
   "pl": "Jeszcze jeden klucz...",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_AztecKeysReq_TwoSpots": {
   "pl": "Dwa miejsca na dwa klucze...",
@@ -289,11 +289,11 @@
  },
  "g:HST_Hint_SisyphusA": {
   "pl": "Do rozwiązania tej zagadki potrzeba tylko trzech klinów...",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_Hint_SisyphusB": {
   "pl": "Wtocz głaz do połowy, a potem weź zaokrąglony klin.",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_Hint_StarsA": {
   "pl": "Ułóż ten gwiazdozbiór według mapy gwiazd...",
@@ -561,7 +561,7 @@
  },
  "g:HST_Password_EKHO": {
   "pl": "E,K,H,O",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_QuestDesc": {
   "pl": "Dołącz do prof. Jebersona na specjalnych zajęciach z analizy artefaktów!",
@@ -585,7 +585,7 @@
  },
  "g:HST_SisyphusDone": {
   "pl": "Teraz chyba naprawdę można wyobrazić sobie Syzyfa szczęśliwym?",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_SlotInteract": {
   "pl": "Tu jest miejsce, w które można coś włożyć...",
@@ -593,7 +593,7 @@
  },
  "g:HST_SolvedSisyphus": {
   "pl": "Teraz chyba naprawdę można wyobrazić sobie Syzyfa szczęśliwym?",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_StarChart": {
   "pl": "Dziwna mapa gwiazd",
@@ -613,7 +613,7 @@
  },
  "g:HST_Vase": {
   "pl": "Czas odstawić lęki jak wazon na półkę i rozwiązać te zagadki!",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_Whistle": {
   "pl": "Aztecki gwizdek śmierci",
