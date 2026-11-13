@@ -256,7 +256,7 @@
   "status": "review"
  },
  "g:TOW_Hint_SignB": {
-  "pl": "Hasło ma 8 liter.",
+  "pl": "Pierwsze cztery litery to „ZAWR”.",
   "status": "review"
  },
  "g:TOW_Hint_StarLockA": {
