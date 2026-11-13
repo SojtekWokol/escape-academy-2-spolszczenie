@@ -115,7 +115,8 @@ Tu zły przekład potrafi zablokować grę, więc ostrożnie:
    *S,T,E,A,M* → *K,O,L,E,J*. Unikamy słów z powtórzoną literą.
 3. **Jeśli wskazówka jest na grafice** (napis na ścianie, obrazek), zostawiamy angielskie hasło i ewentualnie dopisujemy
    objaśnienie w podpowiedzi.
-4. Format haseł zostaje: `L,I,T,E,R,Y` – przecinki, bez spacji, wielkie litery. Polskie litery są dozwolone.
+4. Format haseł zostaje: `L,I,T,E,R,Y` – przecinki, bez spacji, wielkie litery. **Bez polskich liter (ą, ć, ę, ł, ń, ó, ś, ź, ż)**: zamki z bębenkami układają litery według alfabetu angielskiego A–Z i polskiej litery nie pokażą poprawnie. Szukaj słowa bez ogonków (np. ŚLAD → TROP, KSIĘŻYC → KRATERY, KŁAMCY → MATACZE).
+6. **Litery rozsiane po pokoju bywają pomieszane** względem hasła (np. plakaty w wieży). Zachowaj tę samą kolejność co w oryginale: sprawdź, która litera angielskiego hasła stoi na którym plakacie, i ustaw polskie litery na tych samych pozycjach.
 5. **Każdą zmienioną zagadkę oznaczamy „do sprawdzenia”** i zatwierdzamy dopiero po przejściu jej w grze.
 
 ## Słowniczek
