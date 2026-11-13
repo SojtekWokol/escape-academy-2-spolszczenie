@@ -64,7 +64,7 @@
   "status": "draft"
  },
  "g:RAT_Candles": {
-  "pl": "Żadna deska wędlin-wskazówek nie obejdzie się bez wosku!",
+  "pl": "Żadna porządna deska serów nie obejdzie się bez wosku!",
   "status": "review"
  },
  "g:RAT_ChartInteract": {
@@ -77,7 +77,7 @@
  },
  "g:RAT_Cheeseboard": {
   "pl": "Mam nadzieję, że profesor Von Bellini uzna, że ser-io się nadaję, i znów weźmie mnie do pomocy.",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_ChemsegoTramp": {
   "pl": "CHEMESEGO",
@@ -373,7 +373,7 @@
  },
  "g:RAT_Olives": {
   "pl": "Te zagadki to oliwa do ognia mojego apetytu.",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_ParmeddinoTramp": {
   "pl": "PARMEDDINO",
