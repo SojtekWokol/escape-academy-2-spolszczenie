@@ -256,7 +256,7 @@
   "status": "review"
  },
  "g:TOW_Hint_SignB": {
-  "pl": "Hasło zaczyna się od „ZA”.",
+  "pl": "Hasło ma 8 liter.",
   "status": "review"
  },
  "g:TOW_Hint_StarLockA": {
@@ -388,20 +388,20 @@
   "status": "review"
  },
  "g:TOW_QuestClue": {
-  "pl": "W drugim słowie jest „U”. Nie, czekaj... podwój to!",
-  "status": "done"
+  "pl": "Trzecia litera to „W”, jak w „wieży”.",
+  "status": "review"
  },
  "g:TOW_QuestClue2": {
-  "pl": "Oba słowa kończą się tą samą literą.",
-  "status": "draft"
+  "pl": "Hasło to rozkaz i kończy się na „AJ”.",
+  "status": "review"
  },
  "g:TOW_QuestClue3": {
-  "pl": "Tajne hasło <u>ST</u>artuje <u>ST</u>anowczo.",
-  "status": "draft"
+  "pl": "Tajne hasło <u>ZA</u>czyna się <u>ZA</u>skakująco.",
+  "status": "review"
  },
  "g:TOW_QuestClue4": {
   "pl": "Tajne hasło zawiera 3 litery „A”.",
-  "status": "draft"
+  "status": "review"
  },
  "g:TOW_QuestDesc": {
   "pl": "Dowiedz się, jaką nagrodę Dyrektorka Solange przygotowała za pierwsze miejsce we wprowadzeniu.",
