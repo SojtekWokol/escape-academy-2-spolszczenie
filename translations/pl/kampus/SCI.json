@@ -497,10 +497,10 @@
  },
  "g:SCI_Lab_Dish": {
   "pl": "Ten talerz pewnie serwuje same pyszne sygnały.",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Lab_Door": {
-  "pl": "Zamknięte. Niech to... Chyba nie powinno się wyważać drzwi na RAM-ę, co?",
+  "pl": "Zamknięte. Niech to... Chyba lepiej nie wyważać tych drzwi RAM-ieniem, co?",
   "status": "review"
  },
  "g:SCI_Largest": {
