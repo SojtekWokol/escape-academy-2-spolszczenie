@@ -525,7 +525,7 @@
  },
  "g:HST_NotebookGems": {
   "pl": "Klejnoty Szyfrezumy",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_NotebookHit": {
   "pl": "Uderz",
@@ -537,7 +537,7 @@
  },
  "g:HST_NotebookListening": {
   "pl": "„Szyfrezuma zawsze słucha”",
-  "status": "review"
+  "status": "done"
  },
  "g:HST_NotebookLockKey": {
   "pl": "Ten zamek to <i>klucz</i> do otwarcia skrzyni!",
@@ -584,7 +584,7 @@
   "status": "draft"
  },
  "g:HST_SisyphusDone": {
-  "pl": "Wyobrażam sobie Syzyfa szczęśliwego. Chyba już jest?",
+  "pl": "Teraz chyba naprawdę można wyobrazić sobie Syzyfa szczęśliwym?",
   "status": "review"
  },
  "g:HST_SlotInteract": {
