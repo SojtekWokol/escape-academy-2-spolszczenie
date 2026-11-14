@@ -40,7 +40,7 @@
   "status": "done"
  },
  "g:DET_Bunks2": {
-  "pl": "Muszę zaszyć się w koi... znaczy w bunkrze, i wymyślić, jak nas stąd wydostać.",
+  "pl": "Czas wejść na wyższy poziom i wymyślić, jak nas stąd wydostać.",
   "status": "review"
  },
  "g:DET_Bunks3": {
@@ -137,7 +137,7 @@
  },
  "g:DET_Hint_SpoilerB": {
   "pl": "Pierwsza cyfra to „9”.",
-  "status": "review"
+  "status": "done"
  },
  "g:DET_Hint_SpoilerC": {
   "pl": "Wpisz karę za spoilery.",
@@ -205,7 +205,7 @@
  },
  "g:DET_PillowNote": {
   "pl": "Od niskiego do wysokiego",
-  "status": "review"
+  "status": "done"
  },
  "g:DET_PillowNoteB": {
   "pl": "Od ciężkiego do delikatnego",

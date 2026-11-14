@@ -29,7 +29,7 @@
  },
  "g:HMI_Hint_JigsawB": {
   "pl": "Ten element nie może się ruszać. Uwzględnij to w planie.",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Hint_LaserActivate": {
   "pl": "Włącz lasery.",
@@ -73,7 +73,7 @@
  },
  "g:HMI_META_Item_ReshelvingRules": {
   "pl": "Zasady odkładania książek",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_META_Item_SafeCodeDiagram": {
   "pl": "Tajemnicza kartka",
@@ -133,11 +133,11 @@
  },
  "g:HMI_Office_Book_IdentifyingBlocks": {
   "pl": "Kamienne filary",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Office_Book_Locks": {
   "pl": "Kłódki: rodzaje i wymiary",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Office_Book_MeetRiddle": {
   "pl": "Zagadki w pół drogi",
@@ -165,7 +165,7 @@
  },
  "g:HMI_Office_Book_Questions": {
   "pl": "Pytania...",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Office_Book_RaceCar": {
   "pl": "Kajak",
@@ -181,7 +181,7 @@
  },
  "g:HMI_Office_Book_Riddles4Fools": {
   "pl": "Zagadki dla bystrzaków",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Office_Book_RiddlesAndYou": {
   "pl": "Ty i zagadki",
@@ -189,11 +189,11 @@
  },
  "g:HMI_Office_Book_Rooks": {
   "pl": "Malarze",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Office_Book_SafeCodeText": {
   "pl": "<align=center>Jak otworzyć sejf:</align><br>Zasada 4.B: Wykonuj te kroki uważnie.<br>Zasada 4.A: Zwracaj uwagę na szczegóły.<br>Zasada 2.B: Szukaj ukrytych kodów.<br>Zasada 1.C: Otwórz sejf.",
-  "status": "review",
+  "status": "done",
   "tags_ok": "<align=center> </align> <br> <br> <br> <br>"
  },
  "g:HMI_Office_Book_SnakesTrain": {
@@ -226,7 +226,7 @@
  },
  "g:HMI_Office_EelMask": {
   "pl": "Ten rok nie wróży wiEELe dobrego...",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Office_EscapeDoor": {
   "pl": "Nie możemy wyjść, musimy znaleźć okulary!",
@@ -266,7 +266,7 @@
  },
  "g:HMI_Office_LockedShelf": {
   "pl": "No dobrze, pani dyrektor. Niech pani zachowa swoje tajemnice...",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Office_Mystery1": {
   "pl": "Te zapiski sięgają <i>200 lat wstecz...</i>",
@@ -350,11 +350,11 @@
  },
  "g:HMI_Office_Trophy2": {
   "pl": "„Najlepsza zamkazania – konkurs kulinarny Escape Academy”",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Office_Trophy3": {
   "pl": "„Wyjątkowe wyróżnienie za ucieczki i za rozgromienie Ligi Naukowców Przeciwko Ucieczkom”",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Office_Trophy4": {
   "pl": "Może prawdziwą nagrodą są zagadki, które rozwiązaliśmy po drodze.",
@@ -366,7 +366,7 @@
  },
  "g:HMI_Quest_Name": {
   "pl": "Rozwiązane nie kradzione",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_Quest_Step0": {
   "pl": "Porozmawiaj z Gillian w pokoju w akademiku.",
@@ -398,15 +398,15 @@
  },
  "g:HMI_ReshelvingRulesCombined": {
   "pl": "1. Wszystkie książki o zagadkach.<br>2. Wszystkie książki, które rymują się z „okulary”.<br>3. Wszystkie tytuły, które czyta się tak samo od przodu i od tyłu.",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_ReshelvingRulesD": {
   "pl": "2. Wszystkie książki, które rymują się z „okulary”.",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_ReshelvingRulesE": {
   "pl": "3. Wszystkie tytuły, które czyta się tak samo od przodu i od tyłu.",
-  "status": "review"
+  "status": "done"
  },
  "g:HMI_RoomName": {
   "pl": "Oko na nagrodę",

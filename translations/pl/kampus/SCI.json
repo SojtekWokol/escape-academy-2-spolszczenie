@@ -333,7 +333,7 @@
  },
  "g:SCI_HealthHazardDescription": {
   "pl": "4 – Śmiertelne<br>3 – Skrajnie niebezpieczne<br>2 – Niebezpieczne<br>1 – Lekko niebezpieczne<br>0 – Materiał zwykły",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_HeatLamp": {
   "pl": "Ta lampa grzeje aż miło!",
