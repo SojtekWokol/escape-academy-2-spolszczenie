@@ -120,7 +120,7 @@
   "status": "review"
  },
  "g:CY3_BlankG1": {
-  "pl": "Rumianego Śledzia",
+  "pl": "Czerwonego Śledzia",
   "status": "review"
  },
  "g:CY3_BlankG2": {
@@ -196,7 +196,7 @@
   "status": "draft"
  },
  "g:CY3_BlankJ_CA": {
-  "pl": "Rumiany Śledź",
+  "pl": "Czerwony Śledź",
   "status": "review"
  },
  "g:CY3_BlankK1": {
@@ -364,7 +364,7 @@
   "status": "draft"
  },
  "g:CY3_JourneyBoat": {
-  "pl": "Rejs Rumianego Śledzia",
+  "pl": "Rejs Czerwonego Śledzia",
   "status": "review"
  },
  "g:CY3_LampDay": {
