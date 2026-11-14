@@ -316,12 +316,12 @@
   "status": "draft"
  },
  "g:SCI_Give_Obj1": {
-  "pl": "Porozmawiaj z prof. Von Bellini na Wydziale Nauk Ścisłych.",
-  "status": "draft"
+  "pl": "Porozmawiaj z prof. Von Bellinim na Wydziale Nauk Ścisłych.",
+  "status": "review"
  },
  "g:SCI_Give_QuestDesc": {
-  "pl": "Porozmawiaj z prof. Von Bellini, żeby zacząć program Wydziału Nauk Ścisłych i zgarnąć punkty!",
-  "status": "draft"
+  "pl": "Porozmawiaj z prof. Von Bellinim, żeby zacząć program Wydziału Nauk Ścisłych i zgarnąć punkty!",
+  "status": "review"
  },
  "g:SCI_Give_QuestName": {
   "pl": "Metoda naukowa",
@@ -564,7 +564,7 @@
   "status": "draft"
  },
  "g:SCI_RAT_Obj0": {
-  "pl": "Porozmawiaj z prof. Von Bellini przed Fabryką Łamigłówek.",
+  "pl": "Porozmawiaj z prof. Von Bellinim przed Fabryką Łamigłówek.",
   "status": "review"
  },
  "g:SCI_RAT_Obj1": {
