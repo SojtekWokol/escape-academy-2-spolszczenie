@@ -540,8 +540,8 @@
   "status": "review"
  },
  "v:QTY_VON_CantSpellLaboratory": {
-  "pl": "W laboratorium już w nazwie siedzi praca.",
-  "status": "draft"
+  "pl": "W laboratorium trzeba orać – widać to w nazwie.",
+  "status": "review"
  },
  "v:QTY_VON_CarryingSkills": {
   "pl": "Twoje umiejętności przenoszenia są wystarczające.",
