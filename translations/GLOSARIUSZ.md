@@ -178,6 +178,7 @@ Tu zły przekład potrafi zablokować grę, więc ostrożnie:
 | Headmaster's Office / Tower | gabinet dyrektorki / wieża dyrektorki |
 | Clocktower | wieża zegarowa (*Clocktower Challenge* → *wyzwanie wieży zegarowej*) |
 | Cipher Center | Centrum Szyfrów |
+| Detention Dungeon | Karcer (nazwa własna, wielką literą: *wrócić do Karceru*) |
 | Escape Shack Station | stacja Szopa Ucieczek |
 
 ### Rzeczy z żartem w nazwie
