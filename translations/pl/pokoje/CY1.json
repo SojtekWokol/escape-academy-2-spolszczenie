@@ -1,103 +1,103 @@
 {
  "g:CY1_BlankA1": {
-  "pl": "Zwój",
-  "status": "draft"
+  "pl": "zwój",
+  "status": "review"
  },
  "g:CY1_BlankA2": {
-  "pl": "Malowidło ścienne",
-  "status": "draft"
+  "pl": "malowidło ścienne",
+  "status": "review"
  },
  "g:CY1_BlankA3": {
-  "pl": "Waza",
-  "status": "draft"
+  "pl": "wazę",
+  "status": "review"
  },
  "g:CY1_BlankA4": {
-  "pl": "Nocnik",
+  "pl": "nocnik",
   "status": "review"
  },
  "g:CY1_BlankA_CA": {
-  "pl": "Tabliczka",
-  "status": "draft"
+  "pl": "tabliczkę",
+  "status": "review"
  },
  "g:CY1_BlankB1": {
-  "pl": "Egipt",
-  "status": "draft"
+  "pl": "Egipcie",
+  "status": "review"
  },
  "g:CY1_BlankB2": {
-  "pl": "Meksyk",
-  "status": "draft"
+  "pl": "Meksyku",
+  "status": "review"
  },
  "g:CY1_BlankB3": {
-  "pl": "Chiny",
-  "status": "draft"
+  "pl": "Chinach",
+  "status": "review"
  },
  "g:CY1_BlankB4": {
-  "pl": "Jego piwnica",
-  "status": "draft"
+  "pl": "jego piwnicy",
+  "status": "review"
  },
  "g:CY1_BlankB_CA": {
-  "pl": "Grecja",
-  "status": "draft"
+  "pl": "Grecji",
+  "status": "review"
  },
  "g:CY1_BlankC1": {
-  "pl": "Serca",
-  "status": "draft"
+  "pl": "serc",
+  "status": "review"
  },
  "g:CY1_BlankC2": {
-  "pl": "Oczy",
-  "status": "draft"
+  "pl": "oczu",
+  "status": "review"
  },
  "g:CY1_BlankC3": {
-  "pl": "Dusze",
-  "status": "draft"
+  "pl": "dusz",
+  "status": "review"
  },
  "g:CY1_BlankC4": {
-  "pl": "Kichnięcia",
-  "status": "draft"
+  "pl": "kichnięć",
+  "status": "review"
  },
  "g:CY1_BlankC_CA": {
-  "pl": "Mózgi",
-  "status": "draft"
+  "pl": "mózgów",
+  "status": "review"
  },
  "g:CY1_BlankD1": {
-  "pl": "Ogień",
-  "status": "draft"
+  "pl": "ognia",
+  "status": "review"
  },
  "g:CY1_BlankD2": {
-  "pl": "Ciemność",
-  "status": "draft"
+  "pl": "ciemności",
+  "status": "review"
  },
  "g:CY1_BlankD3": {
-  "pl": "Grawitacja",
-  "status": "draft"
+  "pl": "grawitacji",
+  "status": "review"
  },
  "g:CY1_BlankD4": {
-  "pl": "Jodłowanie",
-  "status": "draft"
+  "pl": "jodłowania",
+  "status": "review"
  },
  "g:CY1_BlankD_CA": {
-  "pl": "Błyskawice",
-  "status": "draft"
+  "pl": "błyskawic",
+  "status": "review"
  },
  "g:CY1_BlankE1": {
-  "pl": "Telepatia",
-  "status": "draft"
+  "pl": "telepatię",
+  "status": "review"
  },
  "g:CY1_BlankE2": {
-  "pl": "Kontrola umysłu",
-  "status": "draft"
+  "pl": "kontrolę umysłu",
+  "status": "review"
  },
  "g:CY1_BlankE3": {
-  "pl": "Teleportacja",
-  "status": "draft"
+  "pl": "teleportację",
+  "status": "review"
  },
  "g:CY1_BlankE4": {
-  "pl": "Kroki taneczne",
-  "status": "draft"
+  "pl": "kroki taneczne",
+  "status": "review"
  },
  "g:CY1_BlankE_CA": {
-  "pl": "Nieśmiertelność",
-  "status": "draft"
+  "pl": "nieśmiertelność",
+  "status": "review"
  },
  "g:CY1_BlankF1": {
   "pl": "Sameer Gaspard",
@@ -312,11 +312,11 @@
   "status": "draft"
  },
  "g:CY1_MadLib1": {
-  "pl": "W roku <br><br><link=\"year\">■</link><br><br> Sameer Gaspard odkopał starożytny artefakt eskapistów: <br><br><link=\"artifact\">■</link><br><br> Miejsce odkrycia: <br><br><link=\"location\">■</link>",
+  "pl": "W roku <br><br><link=\"year\">■</link><br><br> Sameer Gaspard odkopał <br><br><link=\"artifact\">■</link><br><br> starożytnych eskapistów w <br><br><link=\"location\">■</link>",
   "status": "review"
  },
  "g:CY1_MadLib2": {
-  "pl": "Opisywał sposób użycia: <br><br><link=\"bodyPart\">■</link><br><br> i <br><br><link=\"element\">■</link><br><br> w celu odblokowania mocy: <br><br><link=\"power\">■</link>",
+  "pl": "Był tam opis, jak użyć <br><br><link=\"bodyPart\">■</link><br><br> i <br><br><link=\"element\">■</link><br><br>, aby odblokować <br><br><link=\"power\">■</link>",
   "status": "review"
  },
  "g:CY1_MadLib3": {
