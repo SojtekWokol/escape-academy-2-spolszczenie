@@ -180,8 +180,8 @@
   "status": "draft"
  },
  "g:PER_Costume_PuzzlePatch": {
-  "pl": "Zestaw łat z zagadkami",
-  "status": "draft"
+  "pl": "Zestaw łatek w labirynty",
+  "status": "review"
  },
  "g:PER_Costume_QuestDesc": {
   "pl": "Prof. Slip czeka w Pracowni kostiumów. Uszyj kostiumy do szkolnej sztuki.",
