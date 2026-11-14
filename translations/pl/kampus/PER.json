@@ -136,12 +136,12 @@
   "status": "draft"
  },
  "g:PER_Cast_Sides_First": {
-  "pl": "Klucz czy nie klucz, oto jest pytanie? <i>(Zastanawia się)</i>",
+  "pl": "Klucz albo nie klucz, oto jest pytanie? <i>(Zastanawia się)</i>",
   "status": "draft"
  },
  "g:PER_Cast_Sides_Second": {
-  "pl": "Czy to zagadka, co widzę przed sobą, a elementy ku mej dłoni się garną? <i>(Kręci głową)</i>",
-  "status": "draft"
+  "pl": "Czyż to jest układanka, co ją widzę przed sobą, z elementami zwróconymi ku mej dłoni? <i>(Kręci głową)</i>",
+  "status": "review"
  },
  "g:PER_Cast_Sides_Third": {
   "pl": "Czym jest podpowiedź? To, co zwiemy podpowiedzią, pod inną nazwą rozwiązałoby się równie szybko. <i>(Wzdycha)</i>",
