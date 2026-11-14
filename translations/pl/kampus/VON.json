@@ -428,7 +428,7 @@
   "status": "draft"
  },
  "g:VON_NumberLock_PW": {
-  "pl": "9,1,4,1,8,7",
+  "pl": "3,1,4,1,8,6",
   "status": "review"
  },
  "g:VON_PipesWin": {
@@ -456,64 +456,64 @@
   "status": "review"
  },
  "g:VON_ScreenCipher0b": {
-  "pl": "9",
+  "pl": "3",
   "status": "review"
  },
  "g:VON_ScreenCipher1": {
-  "pl": "Z",
-  "status": "draft"
+  "pl": "P",
+  "status": "review"
  },
  "g:VON_ScreenCipher1b": {
-  "pl": "6",
+  "pl": "2",
   "status": "review"
  },
  "g:VON_ScreenCipher2": {
   "pl": "N",
-  "status": "draft"
+  "status": "review"
  },
  "g:VON_ScreenCipher2b": {
   "pl": "8",
-  "status": "draft"
+  "status": "review"
  },
  "g:VON_ScreenCipher3": {
-  "pl": "P",
-  "status": "draft"
+  "pl": "L",
+  "status": "review"
  },
  "g:VON_ScreenCipher3b": {
-  "pl": "3",
-  "status": "draft"
+  "pl": "9",
+  "status": "review"
  },
  "g:VON_ScreenCipher4": {
   "pl": "A",
-  "status": "draft"
+  "status": "review"
  },
  "g:VON_ScreenCipher4b": {
-  "pl": "7",
-  "status": "draft"
+  "pl": "6",
+  "status": "review"
  },
  "g:VON_ScreenCipher5": {
   "pl": "O",
-  "status": "draft"
+  "status": "review"
  },
  "g:VON_ScreenCipher5b": {
   "pl": "1",
-  "status": "draft"
+  "status": "review"
  },
  "g:VON_ScreenCipher6": {
-  "pl": "D",
-  "status": "draft"
+  "pl": "I",
+  "status": "review"
  },
  "g:VON_ScreenCipher6b": {
-  "pl": "2",
-  "status": "draft"
+  "pl": "7",
+  "status": "review"
  },
  "g:VON_ScreenCipher7": {
   "pl": "R",
-  "status": "draft"
+  "status": "review"
  },
  "g:VON_ScreenCipher7b": {
   "pl": "4",
-  "status": "draft"
+  "status": "review"
  },
  "g:VON_Start_QuestDesc": {
   "pl": "Porozmawiaj z prof. Von Bellinim na Wydziale Nauk Ścisłych i zdobądź trochę punktów, zanim przejdzie na emeryturę.",
@@ -536,7 +536,7 @@
   "status": "draft"
  },
  "g:VON_WordLock_PW": {
-  "pl": "M,A,I,N",
+  "pl": "P,L,I,K",
   "status": "review"
  },
  "v:QTY_VON_CantSpellLaboratory": {
