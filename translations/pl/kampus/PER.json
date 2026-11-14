@@ -124,8 +124,8 @@
   "status": "draft"
  },
  "g:PER_Cast_RubyRoleDescription": {
-  "pl": "<b>Rola:</b> Ruby<br><b>Umiejętność:</b> Udawanie srogiej<br><b>Terminy:</b> wtorki + piątki",
-  "status": "draft"
+  "pl": "<b>Rola:</b> Ruby<br><b>Umiejętność:</b> Surowa mina<br><b>Terminy:</b> wtorki + piątki",
+  "status": "review"
  },
  "g:PER_Cast_SidesTitle": {
   "pl": "Teksty na przesłuchanie",
