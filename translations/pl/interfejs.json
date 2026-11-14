@@ -2024,8 +2024,8 @@
   "status": "draft"
  },
  "g:WeatherTower_Hint_Location": {
-  "pl": "Idź do wieży meteorologicznej na Wydziale Nauk Ścisłych.",
-  "status": "draft"
+  "pl": "Idź do wieży meteo na Wydziale Nauk Ścisłych.",
+  "status": "review"
  },
  "g:acheivement_1": {
   "pl": "Znów do szkoły",

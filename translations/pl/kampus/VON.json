@@ -392,8 +392,8 @@
   "status": "draft"
  },
  "g:VON_Meteor_QuestObj1": {
-  "pl": "Porozmawiaj z prof. Von Bellinim w wieży pogodowej.",
-  "status": "draft"
+  "pl": "Porozmawiaj z prof. Von Bellinim w wieży meteo.",
+  "status": "review"
  },
  "g:VON_Meteor_QuestObj2": {
   "pl": "Pobierz próbkę powietrza.",
