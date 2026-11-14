@@ -556,8 +556,8 @@
   "status": "draft"
  },
  "y:line:0304105": {
-  "pl": "Hm! Cóż, wszyscy znamy zasadę... <style=\"vis_clue\">rozwiązane nie kradzione!</style> A dzięki Gillian i naszej gwieździe roku okulary zostały uratowane!",
-  "status": "review"
+  "pl": "Hm! Cóż, wszyscy znamy zasady... <style=\"vis_clue\">kto rozwiąże, ten zatrzyma!</style> A dzięki Gillian i naszej gwieździe roku okulary zostały uratowane!",
+  "status": "draft"
  },
  "y:line:030a403": {
   "pl": "Ach, kogo ja oszukuję... potrafię <i>JEDNO I DRUGIE!</i>",
@@ -1472,8 +1472,8 @@
   "status": "draft"
  },
  "y:line:082523e": {
-  "pl": "Ale pani dyrektorko, my tylko trzymaliśmy się akademickiej tradycji: „Rozwiązane nie kradzione”. A Kira nawet nic nie zrobiła!",
-  "status": "review"
+  "pl": "Ale pani dyrektorko, my tylko trzymaliśmy się tradycji Akademii „Kto rozwiąże, ten zatrzyma”. A Kira nawet nic nie zrobiła!",
+  "status": "draft"
  },
  "y:line:08288dc": {
   "pl": "Och, skoro dyrektorka mówi, że to <i>konieczne...</i>",
@@ -1952,7 +1952,7 @@
   "status": "draft"
  },
  "y:line:0ab6eb7": {
-  "pl": "Hm! Cóż, wszyscy znamy zasadę... <style=\"vis_clue\">rozwiązane nie kradzione!</style> A dzięki Gillian i naszym gwiazdom roku okulary zostały uratowane!",
+  "pl": "Hm! Cóż, wszyscy znamy zasady... <style=\"vis_clue\">kto rozwiąże, ten zatrzyma!</style> A dzięki Gillian i naszym prymusom okulary zostały uratowane!",
   "status": "review"
  },
  "y:line:0ab725f": {
@@ -2276,7 +2276,7 @@
   "status": "draft"
  },
  "y:line:0cb2ca8": {
-  "pl": "Ale... rozwiązane nie kradzione! No, wie pani...",
+  "pl": "Bo... zasada „Kto rozwiąże, ten zatrzyma”! No, wie pani...",
   "status": "review"
  },
  "y:line:0cbe873": {
@@ -2284,8 +2284,8 @@
   "status": "draft"
  },
  "y:line:0cd036f": {
-  "pl": "Ale... ale pani dyrektorko! Czyżby pani zapomniała o zasadzie „Rozwiązane nie kradzione”?",
-  "status": "review"
+  "pl": "Ale-- ale pani dyrektorko! Czyżby pani zapomniała o zasadzie „Kto rozwiąże, ten zatrzyma”?",
+  "status": "draft"
  },
  "y:line:0cd4f2f": {
   "pl": "Chwycę go tak powolutku...",
@@ -2584,8 +2584,8 @@
   "status": "draft"
  },
  "y:line:0e9128b": {
-  "pl": "Nigdy nie słyszałam, żeby ktoś zignorował zasadę „Rozwiązane nie kradzione”, a już na pewno nie dyrektorka. Zaczyna się robić naprawdę dziwnie...",
-  "status": "review"
+  "pl": "Nigdy nie słyszałam, żeby ktoś zignorował zasadę „Kto rozwiąże, ten zatrzyma”, a już na pewno nie dyrektorka. Zaczyna się robić naprawdę dziwnie...",
+  "status": "draft"
  },
  "y:line:0e986d1": {
   "pl": "Cóż, czas, by ten stary eskapista odpłynął w stronę zachodzącego słońca na pokładzie Czerwonego Śledzia.",
