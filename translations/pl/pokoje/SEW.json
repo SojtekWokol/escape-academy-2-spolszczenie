@@ -48,64 +48,64 @@
   "status": "draft"
  },
  "g:SEW_BlankA1": {
-  "pl": "Caspian",
+  "pl": "Caspiana",
   "status": "review"
  },
  "g:SEW_BlankA2": {
-  "pl": "Kenji",
-  "status": "draft"
+  "pl": "Kenjiego",
+  "status": "review"
  },
  "g:SEW_BlankA3": {
-  "pl": "Soren",
-  "status": "draft"
+  "pl": "Sorena",
+  "status": "review"
  },
  "g:SEW_BlankA4": {
-  "pl": "Marvin",
-  "status": "draft"
+  "pl": "Marvina",
+  "status": "review"
  },
  "g:SEW_BlankA_CA": {
-  "pl": "Alistair",
-  "status": "draft"
+  "pl": "Alistaira",
+  "status": "review"
  },
  "g:SEW_BlankB1": {
-  "pl": "Kingswell",
-  "status": "draft"
+  "pl": "Kingswella",
+  "status": "review"
  },
  "g:SEW_BlankB2": {
-  "pl": "Montclair",
-  "status": "draft"
+  "pl": "Montclaira",
+  "status": "review"
  },
  "g:SEW_BlankB3": {
-  "pl": "Wym",
-  "status": "draft"
+  "pl": "Wyma",
+  "status": "review"
  },
  "g:SEW_BlankB4": {
-  "pl": "Ashborne",
-  "status": "draft"
+  "pl": "Ashborne'a",
+  "status": "review"
  },
  "g:SEW_BlankB_CA": {
-  "pl": "Bell",
-  "status": "draft"
+  "pl": "Bella",
+  "status": "review"
  },
  "g:SEW_BlankC1": {
-  "pl": "Król",
+  "pl": "króla",
   "status": "review"
  },
  "g:SEW_BlankC2": {
-  "pl": "Królowa",
-  "status": "draft"
+  "pl": "królowej",
+  "status": "review"
  },
  "g:SEW_BlankC3": {
-  "pl": "Bohater",
-  "status": "draft"
+  "pl": "bohatera",
+  "status": "review"
  },
  "g:SEW_BlankC4": {
-  "pl": "Szef kuchni",
-  "status": "draft"
+  "pl": "szefa kuchni",
+  "status": "review"
  },
  "g:SEW_BlankC_CA": {
-  "pl": "Założyciel",
-  "status": "draft"
+  "pl": "założyciela",
+  "status": "review"
  },
  "g:SEW_BlankD1": {
   "pl": "Kier",
@@ -328,7 +328,7 @@
   "status": "draft"
  },
  "g:SEW_Madlib1": {
-  "pl": "Ta cela została zbudowana dla: <br><br><link=\"first\">■</link><br><br><link=\"last\">■</link><br><br>, <br><br><link=\"job\">■</link><br><br> frakcji <br><br><link=\"rank\">■</link>",
+  "pl": "Ta cela została zbudowana dla <br><br><link=\"first\">■</link><br><br><link=\"last\">■</link><br><br>, <br><br><link=\"job\">■</link><br><br> frakcji <br><br><link=\"rank\">■</link>",
   "status": "review"
  },
  "g:SEW_Madlib2": {
