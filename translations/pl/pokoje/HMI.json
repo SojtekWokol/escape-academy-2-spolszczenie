@@ -365,8 +365,8 @@
   "status": "draft"
  },
  "g:HMI_Quest_Name": {
-  "pl": "Rozwiązał, jego",
-  "status": "draft"
+  "pl": "Rozwiązane nie kradzione",
+  "status": "review"
  },
  "g:HMI_Quest_Step0": {
   "pl": "Porozmawiaj z Gillian w pokoju w akademiku.",
