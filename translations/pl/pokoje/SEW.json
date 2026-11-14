@@ -49,63 +49,63 @@
  },
  "g:SEW_BlankA1": {
   "pl": "Caspiana",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankA2": {
   "pl": "Kenjiego",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankA3": {
   "pl": "Sorena",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankA4": {
   "pl": "Marvina",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankA_CA": {
   "pl": "Alistaira",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankB1": {
   "pl": "Kingswella",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankB2": {
   "pl": "Montclaira",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankB3": {
   "pl": "Wyma",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankB4": {
   "pl": "Ashborne'a",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankB_CA": {
   "pl": "Bella",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankC1": {
   "pl": "króla",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankC2": {
   "pl": "królowej",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankC3": {
   "pl": "bohatera",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankC4": {
   "pl": "szefa kuchni",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankC_CA": {
   "pl": "założyciela",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankD1": {
   "pl": "Kier",
@@ -129,63 +129,63 @@
  },
  "g:SEW_BlankE1": {
   "pl": "stracony",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankE2": {
   "pl": "koronowany",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankE3": {
   "pl": "przemieniony",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankE4": {
   "pl": "poczęstowany obiadem",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankE_CA": {
   "pl": "uwięziony",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankF1": {
   "pl": "walkę",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankF2": {
   "pl": "zwycięstwo",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankF3": {
   "pl": "badania",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankF4": {
   "pl": "przepis",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankF_CA": {
   "pl": "zdradę",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankG1": {
   "pl": "natury",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankG2": {
   "pl": "przeciętności",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankG3": {
   "pl": "samego siebie",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankG4": {
   "pl": "dobrego smaku",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_BlankG_CA": {
   "pl": "Akademii",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_DetentionDoorLocked": {
   "pl": "Te drzwi prowadzą do kozy. Nie, dziękuję.",
@@ -237,7 +237,7 @@
  },
  "g:SEW_Hint_Return": {
   "pl": "Wróć do Karceru w wieży!",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_Item_GrassBlue": {
   "pl": "Niebieska trawa",
@@ -277,7 +277,7 @@
  },
  "g:SEW_Item_SewerKeys": {
   "pl": "Pęk kluczy do kanałów",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LiarPoster1": {
   "pl": "M",
@@ -309,11 +309,11 @@
  },
  "g:SEW_LiarPoster8": {
   "pl": " ",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LiarPoster9": {
   "pl": " ",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LockPasswordLie": {
   "pl": "M,A,T,A,C,Z,E",
@@ -321,7 +321,7 @@
  },
  "g:SEW_META_ItemDescription_Lens": {
   "pl": "Odsłaniają tajemnice nocą.",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_META_Item_Lens": {
   "pl": "Oczy założycieli",
@@ -329,11 +329,11 @@
  },
  "g:SEW_Madlib1": {
   "pl": "Ta cela została zbudowana dla <br><br><link=\"first\">■</link><br><br><link=\"last\">■</link><br><br>, <br><br><link=\"job\">■</link><br><br> frakcji <br><br><link=\"rank\">■</link>",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_Madlib2": {
   "pl": "Został tu <br><br><link=\"punishment\">■</link><br><br> za <br><br><link=\"crimes\">■</link><br><br> wobec <br><br><link=\"target\">■</link>",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_Madlib3": {
   "pl": "Prawdziwa historia zostanie objawiona tylko godnym.",
@@ -341,7 +341,7 @@
  },
  "g:SEW_Obj1": {
   "pl": "Wydostań się z Karceru.",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_Obj2": {
   "pl": "Znajdź zastosowanie dla okularów.",
@@ -357,7 +357,7 @@
  },
  "g:SEW_Obj5": {
   "pl": "Wkradnij się z powrotem do Karceru.",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_Placard": {
   "pl": "Co za dziwna tabliczka...",

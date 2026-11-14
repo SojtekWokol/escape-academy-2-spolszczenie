@@ -33,7 +33,7 @@
  },
  "g:PER_Cast_AuditionSides": {
   "pl": "Teksty na przesłuchanie",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Cast_AuditioningComplete": {
   "pl": "Chyba tak! Pora pokazać to Prof. Chortkoff!",
@@ -117,7 +117,7 @@
  },
  "g:PER_Cast_QuestObj2": {
   "pl": "Przeprowadź przesłuchania.",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Cast_QuestObj3": {
   "pl": "Oddaj listę obsady.",
@@ -125,11 +125,11 @@
  },
  "g:PER_Cast_RubyRoleDescription": {
   "pl": "<b>Rola:</b> Ruby<br><b>Umiejętność:</b> Surowa mina<br><b>Terminy:</b> wtorki + piątki",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Cast_SidesTitle": {
   "pl": "Teksty na przesłuchanie",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Cast_Sides_EnorasNote": {
   "pl": "Wybierz jeden z poniższych... i NIE spartacz tego! <br> - Prof. Chortkoff",
@@ -169,11 +169,11 @@
  },
  "g:PER_Costume_GiveSlip": {
   "pl": "Przekaż to Prof. Slipowi!",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Costume_JacketItem": {
   "pl": "Labiryntastyczna peleryna",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Costume_MaskItem": {
   "pl": "Wąsy eskapisty",
@@ -181,11 +181,11 @@
  },
  "g:PER_Costume_PuzzlePatch": {
   "pl": "Zestaw łatek w labirynty",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Costume_QuestDesc": {
   "pl": "Prof. Slip czeka w Pracowni kostiumów. Uszyj kostiumy do szkolnej sztuki.",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Costume_QuestName": {
   "pl": "Strój na miarę",
@@ -201,7 +201,7 @@
  },
  "g:PER_Costume_QuestObj3": {
   "pl": "Przekaż je Prof. Slipowi w Pracowni kostiumów.",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Costume_Shears": {
   "pl": "Nożyce krawieckie",
@@ -209,7 +209,7 @@
  },
  "g:PER_Costume_WordAnswer": {
   "pl": "N,I,T,K,A",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_DanceStudio": {
   "pl": "Studio tańca",
@@ -260,7 +260,7 @@
   "status": "draft"
  },
  "g:PER_Dance_QuestName": {
-  "pl": "Pop, lock i odblokuj",
+  "pl": "Taniec z kłódkami",
   "status": "review"
  },
  "g:PER_Dance_QuestObj1": {
