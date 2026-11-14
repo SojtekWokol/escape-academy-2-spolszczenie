@@ -2048,16 +2048,16 @@
   "status": "draft"
  },
  "g:acheivement_14": {
-  "pl": "Wykolejenie",
-  "status": "draft"
+  "pl": "Wykolejeni",
+  "status": "review"
  },
  "g:acheivement_15": {
-  "pl": "Oko Burzy Mózgów",
-  "status": "draft"
+  "pl": "W oku Burzy Mózgów",
+  "status": "review"
  },
  "g:acheivement_16": {
-  "pl": "Szanuj starszych",
-  "status": "draft"
+  "pl": "Co starszym chodzi po głowie",
+  "status": "review"
  },
  "g:acheivement_17": {
   "pl": "Ucieknij z akademii",
@@ -2072,7 +2072,7 @@
   "status": "draft"
  },
  "g:acheivement_2": {
-  "pl": "Przebudzenie z tropem",
+  "pl": "Zagadkowa pobudka",
   "status": "review"
  },
  "g:acheivement_20": {
@@ -2116,8 +2116,8 @@
   "status": "draft"
  },
  "g:acheivement_3": {
-  "pl": "Coś mi dzwoni",
-  "status": "draft"
+  "pl": "Coś tu dzwoni",
+  "status": "review"
  },
  "g:acheivement_30": {
   "pl": "Śledź z serca",
@@ -2212,16 +2212,16 @@
   "status": "draft"
  },
  "g:achievement_desc_14": {
-  "pl": "Ukończ „Wykolejenie”",
-  "status": "draft"
+  "pl": "Ukończ „Wykolejeni”",
+  "status": "review"
  },
  "g:achievement_desc_15": {
-  "pl": "Ukończ „Oko Burzy Mózgów”",
-  "status": "draft"
+  "pl": "Ukończ „W oku Burzy Mózgów”",
+  "status": "review"
  },
  "g:achievement_desc_16": {
-  "pl": "Ukończ „Szanuj starszych”",
-  "status": "draft"
+  "pl": "Ukończ „Co starszym chodzi po głowie”",
+  "status": "review"
  },
  "g:achievement_desc_17": {
   "pl": "Przetrwaj drugi rok w Escape Academy.",
@@ -2236,8 +2236,8 @@
   "status": "draft"
  },
  "g:achievement_desc_2": {
-  "pl": "Ukończ „Przebudzenie z tropem”",
-  "status": "draft"
+  "pl": "Ukończ „Zagadkowa pobudka”",
+  "status": "review"
  },
  "g:achievement_desc_20": {
   "pl": "Zsyntetyzuj własną partię gazu pamięci.",
@@ -2280,8 +2280,8 @@
   "status": "draft"
  },
  "g:achievement_desc_3": {
-  "pl": "Ukończ „Coś mi dzwoni”",
-  "status": "draft"
+  "pl": "Ukończ „Coś tu dzwoni”",
+  "status": "review"
  },
  "g:achievement_desc_30": {
   "pl": "Oddaj wszystkie 50 śledzi-zmyłek Cod Stewartowi.",
