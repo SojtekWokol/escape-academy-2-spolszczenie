@@ -64,8 +64,8 @@
   "status": "draft"
  },
  "g:SCI_Camp_StairwellSignage": {
-  "pl": "DO WIEŻY POGODOWEJ",
-  "status": "draft"
+  "pl": "DO WIEŻY METEO",
+  "status": "review"
  },
  "g:SCI_CarbonC": {
   "pl": "C",
