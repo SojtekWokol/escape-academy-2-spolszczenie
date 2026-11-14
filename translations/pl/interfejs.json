@@ -656,8 +656,8 @@
   "status": "draft"
  },
  "g:GUIMap_PuzzleFactory": {
-  "pl": "Fabryka łamigłówek",
-  "status": "draft"
+  "pl": "Fabryka Łamigłówek",
+  "status": "review"
  },
  "g:GUIMap_Quad": {
   "pl": "Dziedziniec",

@@ -564,16 +564,16 @@
   "status": "draft"
  },
  "g:SCI_RAT_Obj0": {
-  "pl": "Porozmawiaj z prof. Von Bellini przed Fabryką zagadek.",
-  "status": "draft"
+  "pl": "Porozmawiaj z prof. Von Bellini przed Fabryką Łamigłówek.",
+  "status": "review"
  },
  "g:SCI_RAT_Obj1": {
   "pl": "Dostarcz materiały, których potrzebuje prof. Von Bellini.",
   "status": "draft"
  },
  "g:SCI_RAT_Obj2": {
-  "pl": "Przeprowadź nieautoryzowany eksperyment w Fabryce zagadek.",
-  "status": "draft"
+  "pl": "Przeprowadź nieautoryzowany eksperyment w Fabryce Łamigłówek.",
+  "status": "review"
  },
  "g:SCI_RAT_QuestDesc": {
   "pl": "Pomóż profesorowi Von Bellini przeprowadzić jego nieautoryzowany eksperyment naukowy.",
