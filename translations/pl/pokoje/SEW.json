@@ -128,60 +128,60 @@
   "status": "draft"
  },
  "g:SEW_BlankE1": {
-  "pl": "Stracił",
+  "pl": "stracony",
   "status": "review"
  },
  "g:SEW_BlankE2": {
-  "pl": "Koronował",
-  "status": "draft"
+  "pl": "koronowany",
+  "status": "review"
  },
  "g:SEW_BlankE3": {
-  "pl": "Przemienił",
-  "status": "draft"
+  "pl": "przemieniony",
+  "status": "review"
  },
  "g:SEW_BlankE4": {
-  "pl": "Poczęstował obiadem",
-  "status": "draft"
+  "pl": "poczęstowany obiadem",
+  "status": "review"
  },
  "g:SEW_BlankE_CA": {
   "pl": "uwięziony",
   "status": "review"
  },
  "g:SEW_BlankF1": {
-  "pl": "Walka",
-  "status": "draft"
+  "pl": "walkę",
+  "status": "review"
  },
  "g:SEW_BlankF2": {
-  "pl": "Zwycięstwo",
-  "status": "draft"
+  "pl": "zwycięstwo",
+  "status": "review"
  },
  "g:SEW_BlankF3": {
-  "pl": "Badania",
-  "status": "draft"
+  "pl": "badania",
+  "status": "review"
  },
  "g:SEW_BlankF4": {
-  "pl": "Przepis",
-  "status": "draft"
+  "pl": "przepis",
+  "status": "review"
  },
  "g:SEW_BlankF_CA": {
   "pl": "zdradę",
   "status": "review"
  },
  "g:SEW_BlankG1": {
-  "pl": "Natura",
-  "status": "draft"
+  "pl": "natury",
+  "status": "review"
  },
  "g:SEW_BlankG2": {
-  "pl": "Przeciętność",
-  "status": "draft"
+  "pl": "przeciętności",
+  "status": "review"
  },
  "g:SEW_BlankG3": {
-  "pl": "Samego siebie",
+  "pl": "samego siebie",
   "status": "review"
  },
  "g:SEW_BlankG4": {
-  "pl": "Dobry smak",
-  "status": "draft"
+  "pl": "dobrego smaku",
+  "status": "review"
  },
  "g:SEW_BlankG_CA": {
   "pl": "Akademii",
