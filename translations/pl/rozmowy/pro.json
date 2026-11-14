@@ -44,8 +44,8 @@
   "status": "draft"
  },
  "n:line:032a398": {
-  "pl": "O, dobrze, że już jesteś. Chyba nie odpuszczasz tej Eska-Coli, co?",
-  "status": "draft"
+  "pl": "O, dobrze, że wracasz. Może jednak zdobędziesz dla mnie tę Eska-Colę?",
+  "status": "review"
  },
  "n:line:032b1c0": {
   "pl": "Sam jesteś odkurzacz, bo tylko ssiesz!",
@@ -72,8 +72,8 @@
   "status": "draft"
  },
  "n:line:04a275e": {
-  "pl": "<style=\"clue\">Tuż za rogiem stoi automat z napojami</style>. Tak blisko, a niemożliwie daleko...",
-  "status": "draft"
+  "pl": "<style=\"clue\">Tuż za rogiem stoi automat z napojami</style>. Tak blisko, a zarazem tak daleko...",
+  "status": "review"
  },
  "n:line:0547bfb": {
   "pl": "Spoko. Resztę semestru mogę spędzić na tej ławce.",
@@ -96,8 +96,8 @@
   "status": "draft"
  },
  "n:line:0741711": {
-  "pl": "Brzmi, jakbyście potrzebowali porządnego grafiku sprzątania! <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
-  "status": "draft"
+  "pl": "Wygląda na to, że potrzebujecie porządnego grafiku sprzątania! <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "review"
  },
  "n:line:074335e": {
   "pl": "Stary... <style=\"clue\">Michael i Wyatt</style> drą się na siebie na <style=\"clue\">tylnej klatce schodowej</style>, odkąd wprowadziliśmy się do akademika...",
@@ -116,7 +116,7 @@
   "status": "draft"
  },
  "n:line:0a075f6": {
-  "pl": "Powiesz Michaelowi, że <i>boleśnie</i> oczywiste jest, że Kłódź Puzzlers to najlepsza drużyna Puzzle Ball?",
+  "pl": "Powiesz Michaelowi, że to <i>boleśnie</i> oczywiste: Kłódź Puzzlers to najlepsza drużyna Puzzle Ball?",
   "status": "review"
  },
  "n:line:0a89d1f": {
@@ -140,8 +140,8 @@
   "status": "draft"
  },
  "n:line:0cd2156": {
-  "pl": "No cóż... mam śmiertelne <style=\"clue\">uczulenie na kurz</style>, więc szybko nie dotknę ani jednej miotełki z piór.",
-  "status": "draft"
+  "pl": "No cóż... mam śmiertelne <style=\"clue\">uczulenie na kurz</style>, więc miotełki z piórami prędko nie tknę.",
+  "status": "review"
  },
  "n:line:0d3c9d3": {
   "pl": "Nie ruszę tego nawet kijem.",
@@ -164,12 +164,12 @@
   "status": "draft"
  },
  "n:line:0dbb010": {
-  "pl": "Do tego trzeba o wiele więcej niż puszki Eska-Coli. Na razie!",
-  "status": "draft"
+  "pl": "Tobie trzeba o wiele więcej niż puszki Eska-Coli. Na razie!",
+  "status": "review"
  },
  "n:line:0de8a72": {
-  "pl": "No cóż... przynajmniej Michael i Wyatt ustalili, kto co robi w domu. Choć kłótnie chyba wcale nie ucichły!",
-  "status": "draft"
+  "pl": "No cóż... przynajmniej Michael i Wyatt podzielili się obowiązkami. Choć kłótnie chyba wcale nie ucichły!",
+  "status": "review"
  },
  "n:line:0eacb85": {
   "pl": "Masz parę eskadolarów za fatygę!",

@@ -16,8 +16,8 @@
   "status": "draft"
  },
  "n:line:00451b8": {
-  "pl": "Hej, ty! Tak, ty. Masz w oku spojrzenie, które mówi: „ryby się mnie boją, a rekiny chcą <i>być</i> mną”.",
-  "status": "draft"
+  "pl": "Hej, ty! Tak, ty. Masz takie spojrzenie, jakby mówiło: „ryby się mnie boją, a rekiny chcą <i>być</i> mną”.",
+  "status": "review"
  },
  "n:line:0080211": {
   "pl": "Zatem witaj w Klubie Wędkarskim! Tylko że... nie łowimy <i>prawdziwych</i> ryb. Tylko <style=\"clue\">plastikowe śledzie-zmyłki porozrzucane po całym kampusie</style>.",
@@ -76,8 +76,8 @@
   "status": "draft"
  },
  "n:line:030e5ef": {
-  "pl": "Witaj w klubie! Tylko nie wydaj wszystkich <style=\"clue\">Eska-dolarów</style> na jeden balonik!",
-  "status": "draft"
+  "pl": "Witaj w klubie! Tylko nie wydaj wszystkich <style=\"clue\">eskadolarów</style> na jeden balonik!",
+  "status": "review"
  },
  "n:line:031b694": {
   "pl": "Ciągle za tobą łaził, a ja chcę z powrotem moją lornetkę.",
@@ -100,8 +100,8 @@
   "status": "review"
  },
  "n:line:03b90a1": {
-  "pl": "Szok. Dwa razy z rzędu ratunek przed wrogim przejęciem.",
-  "status": "draft"
+  "pl": "Kurczę. Już drugi raz ratujesz szkołę przed wrogim przejęciem.",
+  "status": "review"
  },
  "n:line:0421bee": {
   "pl": "Chyba... muszę znaleźć sobie nowe hobby, co?",
@@ -212,8 +212,8 @@
   "status": "draft"
  },
  "n:line:070ed4e": {
-  "pl": "Teraz mogę się skupić na zwykłych szkolnych sprawach, jak usypianie gazem, po którym wszystko się zapomina, i spadające mi na głowę kolczaste sufity!",
-  "status": "draft"
+  "pl": "Teraz mogę się skupić na zwykłych szkolnych sprawach, jak gaz wymazujący pamięć i kolczaste sufity spadające mi na głowę!",
+  "status": "review"
  },
  "n:line:0758387": {
   "pl": "Byłbym naprawdę wdzięczny, gdyby moja tożsamość pozostała tajemnicą. To najlepszy sposób, by Akademia była bezpieczna.",
@@ -236,8 +236,8 @@
   "status": "draft"
  },
  "n:line:07f5e55": {
-  "pl": "Pewnie mógłbym się wiele nauczyć od Arnolda i jego poświęcenia dla fitnessu zagadkowego. Ale tego nie robię.",
-  "status": "draft"
+  "pl": "Od Arnolda i jego zapału do zagadkowego fitnessu pewnie mógłbym się sporo nauczyć. Ale jakoś się nie nauczyłem.",
+  "status": "review"
  },
  "n:line:07fa906": {
   "pl": "Mówiłam, że chcę zrobić coś <i>fajnego.</i>",
@@ -296,8 +296,8 @@
   "status": "draft"
  },
  "n:line:09475c0": {
-  "pl": "Głos na Kelly to głos przeciwko dziwacznym eksperymentom profesora Von Bellini, które podszywają się pod „zajęcia”.",
-  "status": "draft"
+  "pl": "Głos na Kelly to głos przeciwko dziwacznym eksperymentom profesora Von Belliniego, które udają „zajęcia”.",
+  "status": "review"
  },
  "n:line:098230d": {
   "pl": "Hej! Jak idzie polowanie na śledzie? Nie trafiły ci się może jakieś kolejne dla mnie?",
@@ -312,8 +312,8 @@
   "status": "draft"
  },
  "n:line:09e3454": {
-  "pl": "No dobra, skusiłeś mnie. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
-  "status": "draft"
+  "pl": "No dobra, haczyk połknięty. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "review"
  },
  "n:line:09fceaa": {
   "pl": "Naprawdę jesteś tu gwiazdą roku, co?",
@@ -360,12 +360,12 @@
   "status": "draft"
  },
  "n:line:0b60793": {
-  "pl": "Mam kilka hipotez do sprawdzenia z profesorem Von Bellini, ale wciąż zbieram dość punktów, żeby dostać się do laboratoriów...",
-  "status": "draft"
+  "pl": "Mam kilka hipotez do sprawdzenia z profesorem Von Bellinim, ale wciąż zbieram punkty, żeby dostać się do laboratoriów...",
+  "status": "review"
  },
  "n:line:0b65082": {
-  "pl": "Słychać było to łomotanie w suficie? Co za irytująco obfitujący w wydarzenia wieczór...",
-  "status": "draft"
+  "pl": "Do ciebie też dochodziło to łomotanie w suficie? Ale wkurzająco bogaty we wrażenia wieczór...",
+  "status": "review"
  },
  "n:line:0b81aca": {
   "pl": "Przed tą Burzą Mózgów nie ma ucieczki, co... Na pewno kiedyś to wszystko przycichnie.",
@@ -376,8 +376,8 @@
   "status": "draft"
  },
  "n:line:0b9f8bc": {
-  "pl": "Którędy na uroczystość? Muszę się upewnić, że tam nie trafię.",
-  "status": "draft"
+  "pl": "Którędy na uroczystość? Chcę ją obejść szerokim łukiem.",
+  "status": "review"
  },
  "n:line:0ba7fb8": {
   "pl": "Po twoim zniknięciu... zacząłem biegać i nigdy nie przestałem.",
@@ -388,8 +388,8 @@
   "status": "draft"
  },
  "n:line:0c347ca": {
-  "pl": "Jak odświeżająco. Czasem mam wrażenie, że uczniowie są tu zaparanoizowani.",
-  "status": "draft"
+  "pl": "Jak miło to słyszeć. Czasem mam wrażenie, że uczniowie mają tu paranoję.",
+  "status": "review"
  },
  "n:line:0c3a28b": {
   "pl": "Co do zaliczenia wszystkich punktów na drugim roku mam pewność jak skała!",
@@ -444,8 +444,8 @@
   "status": "draft"
  },
  "n:line:0db8bd3": {
-  "pl": "Przyszedłem tu, żeby od wszystkich uciec, i oczywiście <i>musiał</i> się znaleźć ktoś, kto to zepsuje.",
-  "status": "draft"
+  "pl": "Przyszedłem tu, żeby od wszystkich uciec, a ty oczywiście <i>musisz</i> mi to psuć.",
+  "status": "review"
  },
  "n:line:0dbf8e1": {
   "pl": "Zgadnij, kogo <i>nie</i> capnął ten szalony profesor od wyciskania mózgów?",
@@ -492,12 +492,12 @@
   "status": "review"
  },
  "n:line:0e42b6a": {
-  "pl": "Ach, to same plotki. Zakładam się o co chcesz, że Pac je rozpuścił, żeby ludzie podpisywali jego petycje.",
-  "status": "draft"
+  "pl": "Ach, to same plotki. Zakładam się, o co chcesz, że Pac je rozpuścił, żeby ludzie podpisywali jego petycje.",
+  "status": "review"
  },
  "n:line:0e46a1f": {
-  "pl": "Przed końcem semestru będzie z tego kupa gruzu, zapamiętajcie moje słowa.",
-  "status": "draft"
+  "pl": "Przed końcem semestru zostanie z tego kupa gruzu, wspomnisz moje słowa.",
+  "status": "review"
  },
  "n:line:0e756d9": {
   "pl": "Przemoc nie ma miejsca w sztuce ani w Akademii!",

@@ -8,7 +8,7 @@
   "status": "draft"
  },
  "n:line:0094a19": {
-  "pl": "Widzisz? Nawet nasza gwiazda roku uważa, że to zły pomysł. Dziękuję, nie!",
+  "pl": "Widzisz? Nawet nasza gwiazda roku uważa, że to zły pomysł. Ja dziękuję!",
   "status": "review"
  },
  "n:line:0161bea": {
@@ -40,7 +40,7 @@
   "status": "draft"
  },
  "n:line:02e0a12": {
-  "pl": "Prawdziwy partyzant sztuki!",
+  "pl": "Prawdziwa z ciebie partyzantka sztuki!",
   "status": "review"
  },
  "n:line:04c9a2d": {
@@ -60,8 +60,8 @@
   "status": "draft"
  },
  "n:line:06c335c": {
-  "pl": "I jak tam misja? Czy profesor Slip zauważył już mnie... to znaczy nas?",
-  "status": "draft"
+  "pl": "I jak tam misja? Profesor Slip zauważył już mnie... to znaczy nas?",
+  "status": "review"
  },
  "n:line:070d2b5": {
   "pl": "Są postępy!",
@@ -76,16 +76,16 @@
   "status": "draft"
  },
  "n:line:08849c6": {
-  "pl": "W następnym projekcie muszę uderzyć jeszcze mocniej! Ciekawe, czy da się wejść na szczyt latarni morskiej...",
-  "status": "draft"
+  "pl": "W następnym projekcie muszę pójść na jeszcze większą skalę! Ciekawe, czy da się wejść na szczyt latarni morskiej...",
+  "status": "review"
  },
  "n:line:08d1132": {
   "pl": "A ty weź mój pędzel. Włosie jeży mi się już na parapecie. Dasz radę beze mnie.",
   "status": "draft"
  },
  "n:line:0929f08": {
-  "pl": "Wreszcie ktoś z odwagą! Mam listę <style=clue>pięciu najlepszych miejsc na kampusie, żeby zostawić swój znak</style>.",
-  "status": "draft"
+  "pl": "Wreszcie ktoś, kto ma odwagę! Mam listę <style=clue>pięciu najlepszych miejsc na kampusie do otagowania</style>.",
+  "status": "review"
  },
  "n:line:0937eb4": {
   "pl": "Wow, mural naprawdę tam wisi? Robi piorunujące wrażenie!",
@@ -104,8 +104,8 @@
   "status": "draft"
  },
  "n:line:0bf8b81": {
-  "pl": "No cóż, jestem raczej artystką konceptualną. Ja wymyślam pomysły, a... ktoś inny je realizuje.",
-  "status": "draft"
+  "pl": "No cóż, jestem raczej artystką konceptualną. Ja mam pomysły, a... ktoś inny je realizuje.",
+  "status": "review"
  },
  "n:line:0c51b96": {
   "pl": "Grace chce, żebyśmy <style=\"clue\">wspinali się w trudno dostępne miejsca na kampusie i zostawiali tam swoje tagi</style>.",
@@ -132,8 +132,8 @@
   "status": "draft"
  },
  "n:line:0e1d0f6": {
-  "pl": "Uważa, że to jedyny sposób, żeby zwrócić uwagę profesora Slipa, za którą <i>umiera z głodu</i>.",
-  "status": "draft"
+  "pl": "Uważa, że tylko tak zwróci na siebie uwagę profesora Slipa, a <i>łaknie</i> jej jak niczego innego.",
+  "status": "review"
  },
  "n:line:0e2b4e2": {
   "pl": "Są postępy!",
@@ -144,12 +144,12 @@
   "status": "draft"
  },
  "n:line:0e89867": {
-  "pl": "Nabrzeże było takie zaniedbane. Cieszę się, że odzyskało życie!",
-  "status": "draft"
+  "pl": "Nabrzeże było takie zaniedbane. Super, że dzięki tobie ożyło!",
+  "status": "review"
  },
  "n:line:0e8d7ad": {
-  "pl": "Z was dwoje to tchórze. Profesor Slip ma prawdziwe układy w świecie sztuki ulicznej. Wybaczcie, że poważnie traktuję swoją sztukę.",
-  "status": "draft"
+  "pl": "Ale z was tchórze. Profesor Slip ma prawdziwe znajomości w świecie sztuki ulicznej. Wybaczcie, że poważnie traktuję swoją sztukę.",
+  "status": "review"
  },
  "n:line:0ee1fee": {
   "pl": "Ha! Zawsze uważałam, że tytuł sztuki Chortkoff jest pretensjonalny.",

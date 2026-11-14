@@ -40,8 +40,8 @@
   "status": "draft"
  },
  "n:line:0246891": {
-  "pl": "Jedyne, co powstrzymuje go przed poznaniem tego teraz, to <style=\"clue\">drzwi do laboratorium</style>...",
-  "status": "draft"
+  "pl": "Teraz od prawdy dzielą go już tylko <style=\"clue\">drzwi do laboratorium</style>...",
+  "status": "review"
  },
  "n:line:0281430": {
   "pl": "Jesteś z powrotem! Mam nadzieję, że ty i Jeb coś znaleźliście... bo ja tak.",
@@ -60,8 +60,8 @@
   "status": "draft"
  },
  "n:line:042018d": {
-  "pl": "Takie małe, smutne kwatery na spędzenie w nich tak dużej części życia...",
-  "status": "draft"
+  "pl": "Spędzić tyle lat w takiej ciasnej, smutnej klitce...",
+  "status": "review"
  },
  "n:line:0468883": {
   "pl": "To musi być ukryte wejście do tajnej kryjówki. Musimy znaleźć sposób, żeby je otworzyć!",
@@ -76,8 +76,8 @@
   "status": "draft"
  },
  "n:line:04ed217": {
-  "pl": "Obiecuję, że żadne mityczne stworzenie nie wyjdzie z jeziora, żeby porywać uczniów Akademii. Nie na mojej warcie.",
-  "status": "draft"
+  "pl": "Obiecuję, że żadne mityczne stworzenie nie wyjdzie z jeziora, żeby porywać uczniów Akademii. Nie, dopóki ja tu rządzę.",
+  "status": "review"
  },
  "n:line:04f1946": {
   "pl": "Szybko, musisz znaleźć sposób, żeby podłączyć się do maszyny mózgowej i <style=\"clue\">dostarczyć list do jego podświadomości.</style>",
@@ -96,20 +96,20 @@
   "status": "draft"
  },
  "n:line:05c5eba": {
-  "pl": "Czerwony Śledź służył założycielom do odkrycia naszego kampusu, jest tak samo częścią naszej historii jak Deklaracja Ucieczki!",
+  "pl": "To na pokładzie Czerwonego Śledzia założyciele odkryli nasz kampus. Ta łódź to taka sama część naszej historii jak Deklaracja Ucieczki!",
   "status": "review"
  },
  "n:line:061951b": {
-  "pl": "Akademia na pewno będzie... inna bez Profesora Von Bellini!",
-  "status": "draft"
+  "pl": "Akademia na pewno będzie... inna bez profesora Von Belliniego!",
+  "status": "review"
  },
  "n:line:062956c": {
   "pl": "Może sprawdź swoją pracę jeszcze raz, <style=\"clue\">popraw odpowiedzi i spróbuj ponownie!</style>",
   "status": "draft"
  },
  "n:line:062f6fb": {
-  "pl": "Włazem w dół...",
-  "status": "draft"
+  "pl": "No to... do dna!",
+  "status": "review"
  },
  "n:line:067ee64": {
   "pl": "Ach, moja gwiazdo roku. Czy możemy przejść do twojej niespodzianki?",
@@ -120,16 +120,16 @@
   "status": "draft"
  },
  "n:line:06dc0b7": {
-  "pl": "Hmm... Chyba kilka rzeczy o życiu Reiny uszło twojej uwadze...",
-  "status": "draft"
+  "pl": "Hmm... Chyba coś ci się pomyliło w życiorysie Reiny...",
+  "status": "review"
  },
  "n:line:06decaf": {
-  "pl": "Ach, moja gwiazda roku wróciła! Nie potrafię dość podziękować za twój wkład w ten rok w Akademii.",
-  "status": "draft"
+  "pl": "Ach, moja gwiazda roku wróciła! Akademia tyle ci w tym roku zawdzięcza, że brak mi słów, by ci podziękować.",
+  "status": "review"
  },
  "n:line:070e83a": {
-  "pl": "Uczniowie zaczynają się niecierpliwić, więc jeśli wszystko gotowe na wykład, <style=\"clue\">zajmij miejsce przy swojej ławce.</style>",
-  "status": "draft"
+  "pl": "Uczniowie zaczynają się niecierpliwić, więc jeśli wszystko gotowe na wykład, <style=\"clue\">usiądź w swojej ławce.</style>",
+  "status": "review"
  },
  "n:line:074b045": {
   "pl": "Na <i>kolejną</i> niespodziankę jeszcze trochę za wcześnie...",
@@ -144,8 +144,8 @@
   "status": "draft"
  },
  "n:line:07b98c8": {
-  "pl": "Jesteśmy o krok bliżej do sprowadzenia naszych uczniów do domu. Maszyna musi być blisko...",
-  "status": "draft"
+  "pl": "Jesteśmy o krok bliżej, żeby sprowadzić naszych uczniów do domu. Maszyna musi być niedaleko...",
+  "status": "review"
  },
  "n:line:07f66f2": {
   "pl": "Siadaj, zaczynamy.",
@@ -192,7 +192,7 @@
   "status": "review"
  },
  "n:line:0a34e1f": {
-  "pl": "Obiecuję, że wspomnienia pozostaną w pełni nienaruszone.",
+  "pl": "Obiecuję, że wasza pamięć wyjdzie z tego bez szwanku.",
   "status": "review"
  },
  "n:line:0adc5f9": {
@@ -212,8 +212,8 @@
   "status": "draft"
  },
  "n:line:0bcafe1": {
-  "pl": "Niezły to dystans do przepłynięcia dla 200-letniego mężczyzny.",
-  "status": "draft"
+  "pl": "Kawał drogi wpław jak na dwustulatka.",
+  "status": "review"
  },
  "n:line:0c6cd46": {
   "pl": "Jeśli któraś odpowiedź sprawi ci kłopot, <style=\"clue\">sprawdź ją w EncyKLUCZopedii</style>.",
@@ -228,16 +228,16 @@
   "status": "draft"
  },
  "n:line:0d9bdb0": {
-  "pl": "Kłamiesz, oto co robisz. I dodam, że nie jest to twoja mocna strona...",
-  "status": "draft"
+  "pl": "Raczej kłamiesz. I dodam, że niezbyt ci to wychodzi...",
+  "status": "review"
  },
  "n:line:0decfe5": {
   "pl": "Nie spiesz się. Należy ci się to z nawiązką.",
   "status": "draft"
  },
  "n:line:0e1800f": {
-  "pl": "Moment, a gdzie twój współlokator? Ta niespodzianka jest dla <style=\"clue\">was obojga</style>.",
-  "status": "draft"
+  "pl": "Moment, a gdzie druga gwiazda roku? Ta niespodzianka jest dla <style=\"clue\">was obojga</style>.",
+  "status": "review"
  },
  "n:line:0e53ea1": {
   "pl": "Pożegnaj go jak należy i <i>koniecznie</i> przyprowadź łódź w jednym kawałku, dobrze?",
@@ -248,8 +248,8 @@
   "status": "draft"
  },
  "n:line:0e7fdba": {
-  "pl": "Jest tu nawet przytulnie... na swój obłąkany, przegrany sposób!",
-  "status": "draft"
+  "pl": "Jest tu nawet przytulnie... na swój obłąkany, nieudacznicki sposób!",
+  "status": "review"
  },
  "n:line:0e83b7e": {
   "pl": "Myślałam, że moja gwiazda roku będzie mądrzejsza i nie da się skusić wizji nieśmiertelności...",

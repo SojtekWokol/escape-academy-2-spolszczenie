@@ -24,8 +24,8 @@
   "status": "draft"
  },
  "n:line:009fcd3": {
-  "pl": "Właśnie tego chcą od nas profesor Jeberson i dyrektorka Solange...",
-  "status": "draft"
+  "pl": "Właśnie tak profesor Jeberson i dyrektorka Solange chcą, żebyśmy myśleli...",
+  "status": "review"
  },
  "n:line:00a97f5": {
   "pl": "Oby tak było! Ale każdemu w końcu kończy się czas...",
@@ -48,8 +48,8 @@
   "status": "draft"
  },
  "n:line:01175c0": {
-  "pl": "Miejmy nadzieję, że profesor Von Bellini będzie miał gładką podróż przez wodę.",
-  "status": "draft"
+  "pl": "Miejmy nadzieję, że profesor Von Bellini spokojnie przepłynie zatokę.",
+  "status": "review"
  },
  "n:line:011af96": {
   "pl": "Tajny gabinet? Lepiej być nie mogło! No dalej, sprawdźmy go.",
@@ -68,8 +68,8 @@
   "status": "draft"
  },
  "n:line:012ef03": {
-  "pl": "Eh, choć profesor Bonilla odwiesiła na kołek swoją kurtkę do majsterkowania bomb, chemia nadal dostarcza mnóstwo emocji!",
-  "status": "draft"
+  "pl": "Eh, choć profesor Bonilla odwiesiła na kołek swój fartuch do konstruowania bomb, chemia nadal dostarcza mnóstwa emocji!",
+  "status": "review"
  },
  "n:line:015185c": {
   "pl": "Chyba nie kosztem uczniów, co?",
@@ -92,8 +92,8 @@
   "status": "draft"
  },
  "n:line:01d4ce7": {
-  "pl": "Przynajmniej u profesora Von Bellini mamy szansę zobaczyć postęp naukowy!",
-  "status": "draft"
+  "pl": "Przynajmniej u profesora Von Belliniego mamy szansę zobaczyć postęp naukowy!",
+  "status": "review"
  },
  "n:line:01e34b6": {
   "pl": "Dzięki za otwarcie mojej celi. Szkoda trochę, że promień zmniejszający w końcu nie był potrzebny...",
@@ -108,8 +108,8 @@
   "status": "draft"
  },
  "n:line:0231cd1": {
-  "pl": "Może komnaty to dokładnie to, na co <i>chcą</i>, żebyśmy patrzyli, byśmy nie zaglądali... <i>gdzie indziej.</i>",
-  "status": "draft"
+  "pl": "Może <i>chcą</i>, żebyśmy zajęli się właśnie komnatami i nie zaglądali... <i>gdzie indziej.</i>",
+  "status": "review"
  },
  "n:line:025f812": {
   "pl": "To jest <i>dokładnie</i> to, na co liczę!",
@@ -144,8 +144,8 @@
   "status": "review"
  },
  "n:line:030ca69": {
-  "pl": "Założę się, że jest tam mnóstwo przydatnego sprzętu do mojego ekwipunku do polowania na potw-- eee... projektu hobbystycznego! Nie-- pracy domowej...?",
-  "status": "draft"
+  "pl": "Założę się, że jest tam mnóstwo przydatnego sprzętu do mojego ekwipunku na potw... eee... projektu hobbystycznego! Nie... pracy domowej...?",
+  "status": "review"
  },
  "n:line:030f4e3": {
   "pl": "Co to za potwór z Loch Kłódkness, o którym ciągle gadasz?",
@@ -192,12 +192,12 @@
   "status": "draft"
  },
  "n:line:03f6aa5": {
-  "pl": "Mapa prowadząca do trzech dogodnie rozmieszczonych, tajnych komnat, które obiecują wyjawić całą prawdę? Zaczyna to wyglądać <i>zbyt</i> oczywiście.",
+  "pl": "Mapa prowadząca do trzech dogodnie rozmieszczonych, tajnych komnat, które obiecują wyjawić całą prawdę? To wszystko zaczyna być <i>zbyt</i> oczywiste.",
   "status": "review"
  },
  "n:line:040b2cd": {
-  "pl": "Ścieżka, którą idziemy, wydaje mi się całkiem przekonująca.",
-  "status": "draft"
+  "pl": "Jak dla mnie idziemy dobrym tropem.",
+  "status": "review"
  },
  "n:line:0417e5e": {
   "pl": "Choć i tak nikt by tego nie pamiętał...",
@@ -236,8 +236,8 @@
   "status": "draft"
  },
  "n:line:04b43f2": {
-  "pl": "<i>Podobno</i> go zlikwidowano, ale jeśli to prawda, to czemu nadal działają tam dźwig i dok? Bo czarnorynkowe części do łamigłówek, <i>właśnie dlatego</i>.",
-  "status": "draft"
+  "pl": "<i>Podobno</i> wszystko tu wygaszono, ale jeśli to prawda, to czemu nadal działają dźwig i dok? Czarnorynkowe części do łamigłówek, <i>ot co</i>.",
+  "status": "review"
  },
  "n:line:04e0e45": {
   "pl": "Podoba mi się, że profesor Von Bellini nie boi się przesuwać granic!",
@@ -252,8 +252,8 @@
   "status": "draft"
  },
  "n:line:05128c5": {
-  "pl": "Musi tu być jakaś głębsza warstwa... i myślę, że znalezienie potwora z Loch Kłódkness to sposób, żeby ją odkryć...",
-  "status": "draft"
+  "pl": "Musi tu być jakaś głębsza warstwa... i myślę, że odkryjemy ją, kiedy znajdziemy potwora z Loch Kłódkness...",
+  "status": "review"
  },
  "n:line:0520e6b": {
   "pl": "Twierdzi, że przez bomby stała się kimś, z kogo nie była dumna – ale podejrzewam, że kryje się za tym jakaś głębsza historia. Zawsze tak jest!",
@@ -272,8 +272,8 @@
   "status": "review"
  },
  "n:line:063e49d": {
-  "pl": "W zamian za utrzymywanie kampusu w tajemnicy przez porywanie tych, którzy kręcą się przy jego granicach, potwór może wychodzić na brzeg <style=\"clue\">co czterdzieści lat</style> po... <style=\"clue\">ofiarę</style>.",
-  "status": "draft"
+  "pl": "W zamian za to, że strzeże tajemnicy kampusu, porywając każdego, kto kręci się przy jego granicach, potwór może <style=\"clue\">co czterdzieści lat</style> wychodzić na brzeg po... <style=\"clue\">ofiarę</style>.",
+  "status": "review"
  },
  "n:line:0648a4d": {
   "pl": "Gdybyśmy mieli promień zmniejszający do rozmiarów mrówki, moglibyśmy się stąd wspiąć. Nie rzucił ci się gdzieś w oczy przypadkiem?",
@@ -288,8 +288,8 @@
   "status": "draft"
  },
  "n:line:06bf224": {
-  "pl": "To naprawdę pozwoli nam szybciej objąć więcej terenu.",
-  "status": "draft"
+  "pl": "Razem szybciej przeczeszemy teren.",
+  "status": "review"
  },
  "n:line:06c21da": {
   "pl": "W książkach piszą, że niektórzy historycy sądzą nawet, że użyto go do wymazania wspomnień całego kampusu!",
@@ -352,16 +352,16 @@
   "status": "draft"
  },
  "n:line:0802bd8": {
-  "pl": "Na tych okularach są kolory kart, prawda? Wyraźnie zrobili je założyciele.",
-  "status": "draft"
+  "pl": "Na tych okularach są kolory kart, prawda? To jasne, że wykuli je założyciele.",
+  "status": "review"
  },
  "n:line:0817ec": {
   "pl": "Chyba tylko ty i ja potrafimy przejrzeć kłamstwa Akademii.",
   "status": "draft"
  },
  "n:line:0833bb0": {
-  "pl": "Nie mam nic przeciwko, ale właśnie to mnie martwi...",
-  "status": "draft"
+  "pl": "Nie przeczę, ale właśnie to mnie martwi...",
+  "status": "review"
  },
  "n:line:0845cee": {
   "pl": "A teraz <i>chcę</i> cię zaniepokoić. Mam niemal pewność, że porwał ją potwór z Loch Kłódkness!",
@@ -396,7 +396,7 @@
   "status": "draft"
  },
  "n:line:096c7bd": {
-  "pl": "Szansa zobaczenia legendarnego potwora na żywo? I... być może zostanie jego posiłkiem..? No dobra, nie najbardziej kuszący pomysł.",
+  "pl": "Szansa, żeby zobaczyć legendarnego potwora na żywo? I... być może zostać jego posiłkiem...? No dobra, nie najbardziej kuszący pomysł.",
   "status": "review"
  },
  "n:line:098fd3f": {
@@ -420,8 +420,8 @@
   "status": "draft"
  },
  "n:line:0a876c1": {
-  "pl": "Prawda? Podobno kilka lat temu prawie zdmuchnął dach latarni morskiej.",
-  "status": "draft"
+  "pl": "Prawda? Podobno kilka lat temu o mało nie wysadził dachu latarni morskiej.",
+  "status": "review"
  },
  "n:line:0aadb9f": {
   "pl": "Dokładnie <i>ten sam</i> cykl, co w historii o potworze z Loch Kłódkness. <style=\"clue\">To nie pierwszy raz, kiedy coś takiego się dzieje</style>...",
@@ -432,7 +432,7 @@
   "status": "draft"
  },
  "n:line:0ae29ab": {
-  "pl": "A stworzenia z bagien nie można przecież mieć wśród czterech twarzy Escape Academy. Więc... pa, pa! Jesteś już historią.",
+  "pl": "A stwora z bagien nie można przecież mieć wśród czterech twarzy Akademii. Więc... pa, pa! Jesteś już historią.",
   "status": "review"
  },
  "n:line:0afce96": {
@@ -452,16 +452,16 @@
   "status": "draft"
  },
  "n:line:0b67fa3": {
-  "pl": "Ciekawe, w ilu jeszcze sprawach do prawdy zabrakło mi włosa, ale nie do końca...",
-  "status": "draft"
+  "pl": "Ciekawe, w ilu jeszcze sprawach od prawdy dzielił mnie tylko włos...",
+  "status": "review"
  },
  "n:line:0b9b4f8": {
   "pl": "Przyznaję, że do tego to wszystko zmierzało, ale... chyba rozsądnie podchodzisz do sprawy.",
   "status": "draft"
  },
  "n:line:0bd2f71": {
-  "pl": "Nie łowię informacji, łowię reakcji. Oczy mówią o wiele więcej niż usta...",
-  "status": "draft"
+  "pl": "Nie łowię informacji, tylko reakcje. Oczy mówią o wiele więcej niż usta...",
+  "status": "review"
  },
  "n:line:0bea2d7": {
   "pl": "Słuchaj, co mówią w telewizji, Wright. I powiem ci jedno: nic nie kontroluje pogody. Można ją tylko okiełznać i wykorzystać.",
@@ -504,16 +504,16 @@
   "status": "draft"
  },
  "n:line:0d2e48d": {
-  "pl": "Jeśli szukasz ludzkiej przynęty, to nie ze mną. Jak chcesz, możesz dać się zjeść, ale beze mnie.",
-  "status": "draft"
+  "pl": "Jeśli szukasz ludzkiej przynęty, to ja odpadam. Jak chcesz, daj się zjeść.",
+  "status": "review"
  },
  "n:line:0d40ded": {
-  "pl": "Moment, nie tak szybko! Bez <style=\"clue\">naszego drugiego wspólnika</style> nie możemy ruszyć dalej ze śledztwem.",
-  "status": "draft"
+  "pl": "Moment, nie tak szybko! Bez <style=\"clue\">reszty naszej spiskowej ekipy</style> nie możemy ruszyć dalej ze śledztwem.",
+  "status": "review"
  },
  "n:line:0d4b66f": {
-  "pl": "Uznanie byłoby miłe, przyznaję... ale to nie czynnik decydujący.",
-  "status": "draft"
+  "pl": "Uznanie byłoby miłe, przyznaję... ale nie o to mi chodzi.",
+  "status": "review"
  },
  "n:line:0d6403b": {
   "pl": "Płynie prosto przez terytorium potwora z Loch Kłódkness...",
@@ -528,11 +528,11 @@
   "status": "draft"
  },
  "n:line:0dde61b": {
-  "pl": "Gdyby tylko <style=\"clue\">mogły nam powiedzieć</style>, jak ich używać...",
-  "status": "draft"
+  "pl": "Gdyby tylko <style=\"clue\">mogli nam powiedzieć</style>, jak ich używać...",
+  "status": "review"
  },
  "n:line:0de7d8b": {
-  "pl": "Brzmi zagadkowo świetnie! Lubię trochę pieprzu w głównym daniu programu.",
+  "pl": "Brzmi zagadkowo czadowo! Lubię, jak danie główne jest trochę pikantne.",
   "status": "review"
  },
  "n:line:0dfeb04": {

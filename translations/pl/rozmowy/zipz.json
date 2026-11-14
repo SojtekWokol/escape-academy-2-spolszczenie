@@ -20,8 +20,8 @@
   "status": "draft"
  },
  "n:line:0184c8b": {
-  "pl": "No dobra... Masz <style=\"clue\">${0} dolców</style> na budowę naszych <style=\"clue\">pierwszych tyrolek</style> tutaj?",
-  "status": "draft"
+  "pl": "No dobra... Masz <style=\"clue\">{0} dolców</style> na budowę naszych <style=\"clue\">pierwszych tyrolek</style> tutaj?",
+  "status": "review"
  },
  "n:line:01c780a": {
   "pl": "To jak... masz jeszcze trochę kapitału, żebyśmy mogli <style=\"clue\">dokończyć sieć na Wydziale Sztuki</style>?",
@@ -32,24 +32,24 @@
   "status": "draft"
  },
  "n:line:021e4ab": {
-  "pl": "Jasne, że mam! <style=\"purchase\">(Daj ${0})</style>",
-  "status": "draft"
+  "pl": "Jasne, że mam! <style=\"purchase\">(Daj {0} $)</style>",
+  "status": "review"
  },
  "n:line:0226381": {
-  "pl": "Masz <style=\"clue\">${0} dolców</style> do wydania na tyrolki w <style=\"clue\">Ogrodach kampusu</style>?",
-  "status": "draft"
+  "pl": "Masz <style=\"clue\">{0} dolców</style> do wydania na tyrolki w <style=\"clue\">ogrodach kampusu</style>?",
+  "status": "review"
  },
  "n:line:0235f25": {
   "pl": "Jasne! <style=\"purchase\">(Daj {0} $)</style>",
   "status": "draft"
  },
  "n:line:024b524": {
-  "pl": "Jasne, że mam! <style=\"purchase\">(Daj ${0})</style>",
-  "status": "draft"
+  "pl": "Jasne, że mam! <style=\"purchase\">(Daj {0} $)</style>",
+  "status": "review"
  },
  "n:line:026895b": {
-  "pl": "Masz te <style=\"clue\">${0} dolców</style> czy jak?",
-  "status": "draft"
+  "pl": "Masz te <style=\"clue\">{0} dolców</style> czy jak?",
+  "status": "review"
  },
  "n:line:029f121": {
   "pl": "Nie mam kasy.",
@@ -76,8 +76,8 @@
   "status": "draft"
  },
  "n:line:0367cc2": {
-  "pl": "Znajdź mnie <style=\"clue\">później na górnym Wydziale Sztuki</style>, to pociągniemy to dalej.",
-  "status": "draft"
+  "pl": "Znajdź mnie <style=\"clue\">później w górnej części Wydziału Sztuki</style>, to pociągniemy to dalej.",
+  "status": "review"
  },
  "n:line:039558e": {
   "pl": "A, i wygląda na to, że to był <style=\"clue\">ostatni odcinek całej sieci tyrolek</style>. Dzięki ci, Escape...",
@@ -88,8 +88,8 @@
   "status": "draft"
  },
  "n:line:043b737": {
-  "pl": "<style=\"clue\">${0} dolców</style> załatwi sprawę!",
-  "status": "draft"
+  "pl": "<style=\"clue\">{0} dolców</style> załatwi sprawę!",
+  "status": "review"
  },
  "n:line:046a5ef": {
   "pl": "Gdy tylko wespnę się po szczeblach Instytutu Lockefellera, tabliczka na Pomniku Ucieczki murowana.",
@@ -104,8 +104,8 @@
   "status": "draft"
  },
  "n:line:05866d2": {
-  "pl": "Jasne, że mam! <style=\"purchase\">(Daj ${0})</style>",
-  "status": "draft"
+  "pl": "Jasne, że mam! <style=\"purchase\">(Daj {0} $)</style>",
+  "status": "review"
  },
  "n:line:059327a": {
   "pl": "Super! <style=\"clue\">Sieć przy wieży jest już gotowa</style>. Tylko nie spadnij z wieży zegarowej!",
@@ -208,20 +208,20 @@
   "status": "draft"
  },
  "n:line:0a4b8e2": {
-  "pl": "Masz ochotę na małą inwestycję, <style=\"clue\">${0} dolców</style>, w <style=\"clue\">sieć tyrolek na dolnym Wydziale Sztuki</style>?",
-  "status": "draft"
+  "pl": "Masz ochotę na małą inwestycję, <style=\"clue\">{0} dolców</style>, w <style=\"clue\">sieć tyrolek w dolnej części Wydziału Sztuki</style>?",
+  "status": "review"
  },
  "n:line:0aa3acb": {
   "pl": "Jasne! <style=\"purchase\">(Daj {0} $)</style>",
   "status": "draft"
  },
  "n:line:0b34c4d": {
-  "pl": "Stary, ale fajnie, że Ipsy pozwalają mi się wkręcić w tyrolki. Nawet jeśli to tylko jeden kawałek sieci, a ja mam na imię Charles.",
+  "pl": "Stary, ale fajnie, że Ipsi pozwalają mi się wkręcić w tyrolki. Nawet jeśli to tylko jeden kawałek sieci, a ja mam na imię Charles.",
   "status": "review"
  },
  "n:line:0b3f77d": {
-  "pl": "Proszę, to powinno wystarczyć! <style=\"purchase\">(Daj ${0})</style>",
-  "status": "draft"
+  "pl": "Proszę, to powinno wystarczyć! <style=\"purchase\">(Daj {0} $)</style>",
+  "status": "review"
  },
  "n:line:0b66f80": {
   "pl": "Dobra, ostatnie odcinki tyrolek dla Tripa.",
@@ -232,8 +232,8 @@
   "status": "draft"
  },
  "n:line:0bf8236": {
-  "pl": "Jak postawimy wieże <style=\"clue\">nad wybrzeżem</style>, Wydział Nauk Ścisłych będzie kompletny! Masz przy sobie <style=\"clue\">${0} dolców</style>?",
-  "status": "draft"
+  "pl": "Jak postawimy wieże <style=\"clue\">wzdłuż nabrzeża</style>, Wydział Nauk Ścisłych będzie kompletny! Masz przy sobie <style=\"clue\">{0} dolców</style>?",
+  "status": "review"
  },
  "n:line:0c34948": {
   "pl": "Wow! Tak po prostu mamy <style=\"clue\">gotowe Ogrody kampusu</style>, co?",
@@ -244,8 +244,8 @@
   "status": "review"
  },
  "n:line:0cdd144": {
-  "pl": "Jasne! <style=\"purchase\">(Daj ${0})</style>",
-  "status": "draft"
+  "pl": "Jasne! <style=\"purchase\">(Daj {0} $)</style>",
+  "status": "review"
  },
  "n:line:0d1a19d": {
   "pl": "Masz <style=\"clue\">{0} dolców</style> na <style=\"clue\">start na Wydziale Nauk Ścisłych</style>?",
@@ -256,8 +256,8 @@
   "status": "draft"
  },
  "n:line:0e07c9e": {
-  "pl": "Pipowi...",
-  "status": "draft"
+  "pl": "Pip...",
+  "status": "review"
  },
  "n:line:0e18314": {
   "pl": "Czekaj, właśnie mnie olśniło, <style=\"clue\">reszta sieci też jest skończona</style>! Co za dumny dzień dla Ipsów.",
@@ -296,8 +296,8 @@
   "status": "draft"
  },
  "n:line:0f9f5e5": {
-  "pl": "Jasne! <style=\"purchase\">(Daj ${0})</style>",
-  "status": "draft"
+  "pl": "Jasne! <style=\"purchase\">(Daj {0} $)</style>",
+  "status": "review"
  },
  "n:line:0ffd69f": {
   "pl": "Nie mam kasy.",

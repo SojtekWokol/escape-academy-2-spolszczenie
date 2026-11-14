@@ -1,11 +1,11 @@
 {
  "n:line:001b407": {
-  "pl": "Stop! Poczekaj chwilę. To <style=\"clue\">towar pod ścisłą kontrolą</style>, który próbujesz kupić!",
-  "status": "draft"
+  "pl": "Stop! Chwileczkę. Próbujesz kupić <style=\"clue\">towar pod ścisłą kontrolą</style>!",
+  "status": "review"
  },
  "n:line:0043d6b": {
-  "pl": "Właściwie nie mam funduszy...",
-  "status": "draft"
+  "pl": "W sumie to mnie nie stać...",
+  "status": "review"
  },
  "n:line:00962d8": {
   "pl": "O, patrzcie, kto przyszedł! Zjawiasz się w samą porę, żeby pomóc mi w ostatnich poprawkach wystawy „Założyciele na serio” przed wielkim otwarciem!",
@@ -56,8 +56,8 @@
   "status": "draft"
  },
  "n:line:04148ab": {
-  "pl": "T-- Możesz śmiało <style=\"clue\">użyć łomu, żeby otworzyć skrzynie</style>...",
-  "status": "draft"
+  "pl": "M-możesz śmiało <style=\"clue\">użyć łomu, żeby otworzyć skrzynie</style>...",
+  "status": "review"
  },
  "n:line:04503bd": {
   "pl": "Ktokolwiek je pakował, <style=\"clue\">nie opisał ich porządnie</style>, a przyjechały razem z transportem jadowitych zwierząt do badań profesor Bonilli.",
@@ -112,8 +112,8 @@
   "status": "draft"
  },
  "n:line:093f125": {
-  "pl": "Hurra! Udało się! Został już tylko jeden krok do ukończenia wystawy i będzie gotowa na przecięcie wstęgi.",
-  "status": "draft"
+  "pl": "Hurra! Udało się! Jeszcze tylko jedno i wystawa będzie gotowa do przecięcia wstęgi.",
+  "status": "review"
  },
  "n:line:0980c04": {
   "pl": "Kto w ogóle pozwolił, żeby przesyłka egzotycznych zwierząt profesor Bonilli wymieszała się z artefaktami?",
@@ -156,8 +156,8 @@
   "status": "draft"
  },
  "n:line:0f96227": {
-  "pl": "Ruszajmy do Archiwum Artefaktów! <style=\"story\">(Dalej z fabułą)</style>",
-  "status": "draft"
+  "pl": "Ruszajmy do Archiwum Artefaktów! <style=\"story\">(Dalej w fabule)</style>",
+  "status": "review"
  },
  "n:line:0f9d620": {
   "pl": "Nie chcę cię poganiać, ale wystawa ma się otworzyć już niedługo, więc... lepiej się, hm... pospiesz!",

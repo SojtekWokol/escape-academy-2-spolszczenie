@@ -336,8 +336,8 @@
   "status": "draft"
  },
  "n:line:09d3e9b": {
-  "pl": "Czy ten twój „lepszy sposób” już jest? Jakby w ogóle <i>istniał</i>. Pff.",
-  "status": "draft"
+  "pl": "No i co, masz już ten swój „lepszy sposób”? Jakby w ogóle <i>istniał</i>. Pff.",
+  "status": "review"
  },
  "n:line:09d6fc9": {
   "pl": "Właściwie to tak! <style=\"purchase\">(Daj strzałę)</style>",
@@ -420,11 +420,11 @@
   "status": "draft"
  },
  "n:line:0b6e962": {
-  "pl": "Gotowy, kiedy ty!",
-  "status": "draft"
+  "pl": "Ja jestem gotowy, strzelaj, kiedy chcesz!",
+  "status": "review"
  },
  "n:line:0b7f457": {
-  "pl": "Kto by pomyślał, że ta uroczystość będzie pełna <i>farby</i> i smutku...",
+  "pl": "Kto by pomyślał, że ta uroczystość tak mocno <i>zabarwi</i> się smutkiem...",
   "status": "review"
  },
  "n:line:0b8a098": {
@@ -440,8 +440,8 @@
   "status": "draft"
  },
  "n:line:0bc2db8": {
-  "pl": "Błagam, musisz ustalić, <style=\"clue\">który z tych łobuzów ukradł ciasteczka ze słoika</style>!",
-  "status": "draft"
+  "pl": "Błagam, musisz ustalić, <style=\"clue\">którzy z tych łobuzów ukradli ciasteczka ze słoika</style>!",
+  "status": "review"
  },
  "n:line:0c1c383": {
   "pl": "Znajdę wam jakiś bezpieczniejszy sposób. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
@@ -452,8 +452,8 @@
   "status": "draft"
  },
  "n:line:0c56202": {
-  "pl": "Rozmiary napojów są wszędzie inne. Jedne duże, inne małe, i to po prostu nie jest w porządku!",
-  "status": "draft"
+  "pl": "Każda porcja jest inna. Jedne duże, inne małe, i to po prostu nie w porządku!",
+  "status": "review"
  },
  "n:line:0c5a6ac": {
   "pl": "Zawsze uważałam, że wodospadowi przydałaby się <style=\"clue\">odrobina więcej koloru</style>, ale nie mam odwagi <style=\"clue\">się tam wspiąć</style>...",
@@ -476,8 +476,8 @@
   "status": "draft"
  },
  "n:line:0d0eb44": {
-  "pl": "<style=\"clue\">Z tyłu pudełka są cztery klejnoty.</style> Ładnie się kolorują, odkąd je porządnie wyszorowałam!",
-  "status": "draft"
+  "pl": "<style=\"clue\">Z tyłu pudełka są cztery klejnoty.</style> Odkąd je porządnie wyszorowałam, aż mienią się kolorami!",
+  "status": "review"
  },
  "n:line:0d1c59b": {
   "pl": "Morale nie było tak niskie od czasu Incydentu przy dystrybutorze wody...",
@@ -488,8 +488,8 @@
   "status": "draft"
  },
  "n:line:0d5536f": {
-  "pl": "Pamiętam, że ciasteczek wystarczyło dla wszystkich, plus jedno extra, bo Jules była chora.",
-  "status": "draft"
+  "pl": "Pamiętam, że ciasteczek wystarczyło dla wszystkich i jedno zostało, bo Jules była chora.",
+  "status": "review"
  },
  "n:line:0d5eee8": {
   "pl": "Żądam odszkodowania za cierpienia psychiczne!",
@@ -500,12 +500,12 @@
   "status": "draft"
  },
  "n:line:0db1998": {
-  "pl": "Skoro Tanya skończyła czyścić artefakty, to teraz je przeanalizuje..?",
-  "status": "draft"
+  "pl": "Skoro Tanya skończyła czyścić artefakty, to teraz je przeanalizuje...?",
+  "status": "review"
  },
  "n:line:0ddae1a": {
-  "pl": "No, strzała w łeb to dla mnie pestka. Mam <i>twardy</i> łeb!",
-  "status": "draft"
+  "pl": "No, strzała w łeb to dla mnie pestka. Mam <i>twardą</i> czaszkę!",
+  "status": "review"
  },
  "n:line:0df49b3": {
   "pl": "Na razie!",
@@ -532,16 +532,16 @@
   "status": "draft"
  },
  "n:line:0e5de79": {
-  "pl": "Założę się, że jest <i>zupełnie</i> bezpiecznie. <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
-  "status": "draft"
+  "pl": "Założę się, że jest <i>zupełnie</i> bezpiecznie. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "review"
  },
  "n:line:0e81b59": {
   "pl": "Do licha! Jest po równo!",
   "status": "draft"
  },
  "n:line:0e956c6": {
-  "pl": "Po co pisać prawdę, skoro mój zespół jest pełen kłamstw?",
-  "status": "draft"
+  "pl": "Po co pisać prawdę, skoro w moim zespole roi się od kłamców?",
+  "status": "review"
  },
  "n:line:0e995c0": {
   "pl": "Nie ma mowy! Ktoś musi zostać na zewnątrz i ostrzec innych.",
@@ -592,7 +592,7 @@
   "status": "draft"
  },
  "n:line:0febbe9": {
-  "pl": "Gdybym był bardziej płynny finansowo, na pewno <style=\"clue\">przyjąłbym zakład Robin</style>, że trafi w dziesiątkę jabłko z głowy Willema.",
-  "status": "draft"
+  "pl": "Gdybym był bardziej płynny finansowo, na pewno <style=\"clue\">przyjąłbym zakład Robin</style>, że zestrzeli jabłko z głowy Willema.",
+  "status": "review"
  }
 }

@@ -4,8 +4,8 @@
   "status": "draft"
  },
  "n:line:01364a6": {
-  "pl": "Spadliśmy z dachu, co? A potem mówią, że ludzie to najinteligentniejsze istoty na Ziemi...",
-  "status": "draft"
+  "pl": "Spadliśmy z dachu, co? A podobno to ludzie są najinteligentniejszymi istotami na Ziemi...",
+  "status": "review"
  },
  "n:line:0219e59": {
   "pl": "Moje nowe programowanie nakazuje mi pomagać.",
@@ -28,8 +28,8 @@
   "status": "draft"
  },
  "n:line:02f6a7b": {
-  "pl": "Och. No cóż. Zaufasz mi...",
-  "status": "draft"
+  "pl": "Och. No cóż. Jeszcze mnie zapamiętasz...",
+  "status": "review"
  },
  "n:line:031ff46": {
   "pl": "Wystarczające wykonanie! Czy możesz teraz zanieść moją głowę do laboratorium i <style=\"clue\">podłączyć mnie z powrotem do właściwego ciała</style>?",
@@ -60,8 +60,8 @@
   "status": "draft"
  },
  "n:line:04e6e60": {
-  "pl": "„Podręcznik łamania zagadek siłą”... Najniebezpieczniejsza książka, napisana przez brata założycielki Reiny Wym! A to mnie nazywają zdrajcą...",
-  "status": "draft"
+  "pl": "„Podręcznik łamania zagadek siłą”... Wyjątkowo niebezpieczna książka napisana przez brata założycielki Reiny Wym! A to mnie nazywają zdrajcą...",
+  "status": "review"
  },
  "n:line:054aef4": {
   "pl": "Widzę, że masz coś dla mnie. Oddasz to?",
@@ -76,7 +76,7 @@
   "status": "draft"
  },
  "n:line:05e7776": {
-  "pl": "Mój uczeń, który został arcywrogiem, który znów został uczniem, jest tutaj! To pozytywne dla nas obu.",
+  "pl": "Proszę, kogo widzę! Z ucznia arcywróg, a z arcywroga znów uczeń! Same korzyści dla obu stron.",
   "status": "review"
  },
  "n:line:060de2b": {
@@ -96,8 +96,8 @@
   "status": "draft"
  },
  "n:line:06809cd": {
-  "pl": "To rozkazy dyrektorki Solange, nie moje! Jestem tylko dumnie nazwanym systemem wypożyczeń.",
-  "status": "draft"
+  "pl": "To rozkazy dyrektorki Solange, nie moje! Jestem tylko systemem wypożyczeń z ładniejszą nazwą.",
+  "status": "review"
  },
  "n:line:0708e9f": {
   "pl": "Co to za historia z tą biblioteką?",
@@ -112,8 +112,8 @@
   "status": "draft"
  },
  "n:line:076f83e": {
-  "pl": "Ludzie są <i>tacy</i> wyrozumiali. Co <i>nie</i> jest czymś, co według moich obliczeń mógłbym wykorzystać!",
-  "status": "draft"
+  "pl": "Ludzie są <i>tacy</i> pobłażliwi. A ja – według moich obliczeń – <i>nie</i> zamierzam tego wcale wykorzystać!",
+  "status": "review"
  },
  "n:line:07d99b1": {
   "pl": "O czym chce ze mną porozmawiać mój arcywróg?",
@@ -140,8 +140,8 @@
   "status": "draft"
  },
  "n:line:0a35e03": {
-  "pl": "Och. Och, moje śrubki. Z nowo odzyskaną mocą czuję przymusową potrzebę... NAUCZANIA!",
-  "status": "draft"
+  "pl": "Och. Och, moje śrubki. Z nowo odzyskaną mocą czuję nieodpartą potrzebę... NAUCZANIA!",
+  "status": "review"
  },
  "n:line:0a4b4e6": {
   "pl": "Jeśli szukasz aktualizacji oprogramowania, stań w kolejce. Jeśli masz wirusa, trzymaj się ode mnie z daleka!",
@@ -220,8 +220,8 @@
   "status": "draft"
  },
  "n:line:0dd84a5": {
-  "pl": "Na szczęście dzieła Sameera przeniesiono do Archiwum Artefaktów wiele lat wcześniej, a większość straconych tekstów to urojone książki z zagadkami do samodzielnego rozwiązywania i trochę tanich powieści z gatunku literatury ucieczkowej.",
-  "status": "draft"
+  "pl": "Na szczęście dzieła Sameera przeniesiono do Archiwum Artefaktów wiele lat wcześniej, a większość straconych tekstów to oderwane od rzeczywistości poradniki w stylu „Zagadkuj się sam” i trochę tandetnych powieści eskapistycznych.",
+  "status": "review"
  },
  "n:line:0e28b8d": {
   "pl": "Widzę, że wracasz z pustymi rękami. Jak niezręcznie.",

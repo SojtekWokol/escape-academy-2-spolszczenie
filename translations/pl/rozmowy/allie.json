@@ -8,8 +8,8 @@
   "status": "draft"
  },
  "n:line:003230b": {
-  "pl": "Ale jeśli zewrzemy szyki jako szkoła, damy radę!",
-  "status": "draft"
+  "pl": "Ale jeśli cała szkoła zewrze szyki, damy radę!",
+  "status": "review"
  },
  "n:line:0058916": {
   "pl": "Muszę się trochę podładować, zanim wezmę się za kolejną porcję nauki... Dogonię was później!",
@@ -104,8 +104,8 @@
   "status": "draft"
  },
  "n:line:0430caa": {
-  "pl": "Z tego, co <style=\"clue\">słyszałam</style>, uwielbia dobrego robaka prosto do wola.",
-  "status": "draft"
+  "pl": "Z tego, co <style=\"clue\">słyszałam</style>, nie pogardzi tłustym robakiem prosto do dzioba.",
+  "status": "review"
  },
  "n:line:04379dc": {
   "pl": "Przyjdź do mnie do <style=\"clue\">laboratorium chemicznego</style>, kiedy najdzie cię ochota na więcej nauki!",
@@ -140,7 +140,7 @@
   "status": "draft"
  },
  "n:line:0575e11": {
-  "pl": "Proszę powiedzieć to, co myślę, że pani zaraz powie--",
+  "pl": "Niech pani powie, że chodzi o to, o czym myślę–",
   "status": "review"
  },
  "n:line:05b7beb": {
@@ -164,16 +164,16 @@
   "status": "draft"
  },
  "n:line:0659879": {
-  "pl": "Udało ci się splecić ten wieniec?",
-  "status": "draft"
+  "pl": "Udało ci się upleść ten wieniec?",
+  "status": "review"
  },
  "n:line:0662bd3": {
   "pl": "Oj... <i>Ostrzegałam</i> dyrektorkę Solange, jak mocna jest ostatnia partia gazu zapomnienia.",
   "status": "draft"
  },
  "n:line:06c0a8e": {
-  "pl": "Najbardziej obrywa się Dyrektorce Solange. Ciągle gada, że sam kierowałby tą szkołą lepiej.",
-  "status": "draft"
+  "pl": "Najbardziej obrywa się dyrektorce Solange. Ciągle gada, że sam kierowałby tą szkołą lepiej.",
+  "status": "review"
  },
  "n:line:06c5dc4": {
   "pl": "Nawet jeśli nasz... <i>starszy</i> profesor nauk ścisłych, Barton Von Bellini, bywa trochę ciasny umysłowo.",
@@ -188,8 +188,8 @@
   "status": "draft"
  },
  "n:line:074e64b": {
-  "pl": "Pozostaje nam pocieszać się tym, że ten <style=\"clue\">wieniec żałobny</style> wniesie odrobinę spokoju w uroczystość ku pamięci biednego Von Bellini.",
-  "status": "draft"
+  "pl": "Pozostaje nam pocieszać się tym, że ten <style=\"clue\">wieniec żałobny</style> wniesie odrobinę spokoju w uroczystość ku pamięci biednego Von Belliniego.",
+  "status": "review"
  },
  "n:line:07cc0d5": {
   "pl": "Wspaniale, jesteś. Nie pozwól, żeby Von Bellini obrzydził ci biologię, obiecuję, że dzisiejsza lekcja będzie inspirująca.",
@@ -204,8 +204,8 @@
   "status": "draft"
  },
  "n:line:084c6db": {
-  "pl": "Nie martw się, po prostu dalej daj się prowadzić kwiatom!",
-  "status": "draft"
+  "pl": "Nie martw się, niech kwiaty dalej cię prowadzą!",
+  "status": "review"
  },
  "n:line:089d7e6": {
   "pl": "No cóż, w każdym razie profesor Von Bellini, a teraz Burza Mózgów.",
@@ -248,16 +248,16 @@
   "status": "draft"
  },
  "n:line:09bbfa2": {
-  "pl": "Nie pomagasz jeszcze Von Belliniemu w jego eksperymencie, prawda?",
-  "status": "draft"
+  "pl": "Eksperyment Von Belliniego jeszcze przed tobą, prawda?",
+  "status": "review"
  },
  "n:line:09d0dbe": {
   "pl": "Nugget lubi <style=\"clue\">ciepło</style>, potrzebuje <style=\"clue\">śniadania</style> i uwielbia <style=\"clue\">kojącą muzykę</style>. Jakieś pytania?",
   "status": "draft"
  },
  "n:line:09f5077": {
-  "pl": "Och! Nasza gwiazda roku znów w Akademii. Mam nadzieję, że reszta wakacji była dla ciebie kojąca.",
-  "status": "draft"
+  "pl": "Och! Nasza gwiazda roku znów w Akademii. Mam nadzieję, że końcówka wakacji minęła ci błogo i kojąco.",
+  "status": "review"
  },
  "n:line:0a0ae4a": {
   "pl": "W czym mogę ci dziś pomóc?",
@@ -272,8 +272,8 @@
   "status": "draft"
  },
  "n:line:0ab0d36": {
-  "pl": "Chyba nie podkradasz mojej herbatki uspokajającej? Nic się nie stało, jeśli tak!",
-  "status": "draft"
+  "pl": "Chyba nie podkradasz mojej herbatki uspokajającej? Jeśli tak, to nic nie szkodzi!",
+  "status": "review"
  },
  "n:line:0acb7dd": {
   "pl": "Czyli... Nugget lubi muzykę?",
@@ -288,8 +288,8 @@
   "status": "draft"
  },
  "n:line:0b3cd8c": {
-  "pl": "Kiedyś byłam najlepszą w branży specjalistką od bomb! Zwróciłam uwagę (i uszy... głównie uszy) Dyrektorki Solange, gdy pokaz rozbrajania skończył się wielkim bum.",
-  "status": "draft"
+  "pl": "Kiedyś byłam najlepszą w branży specjalistką od bomb! Wpadłam w oko (i w ucho... głównie w ucho) dyrektorce Solange, gdy pokaz rozbrajania skończył się wielkim bum.",
+  "status": "review"
  },
  "n:line:0b4be7c": {
   "pl": "Hmm. Wiem, że schowałam <style=\"clue\">nawóz gdzieś w szklarni</style>...",
@@ -336,8 +336,8 @@
   "status": "draft"
  },
  "n:line:0cd62ea": {
-  "pl": "Nie chcę po raz kolejny tłumaczyć Von Belliniemu i Dyrektorce Solange stopionej podłogi...",
-  "status": "draft"
+  "pl": "Nie chcę znowu tłumaczyć się Von Belliniemu i dyrektorce Solange ze stopionej podłogi...",
+  "status": "review"
  },
  "n:line:0cf8486": {
   "pl": "Jak się pani pracuje z profesorem Von Bellinim?",
@@ -376,8 +376,8 @@
   "status": "draft"
  },
  "n:line:0e0554c": {
-  "pl": "Ha! Nie. Absolutnie nie. Solange już próbowała mnie przekonywać, ale... lubię moją małą niszę, którą sobie znalazłam.",
-  "status": "draft"
+  "pl": "Ha! Nie. Absolutnie nie. Solange już próbowała mnie namawiać, ale... dobrze mi w mojej małej niszy, którą sobie wykroiłam.",
+  "status": "review"
  },
  "n:line:0e2a003": {
   "pl": "No cóż, chyba to koniec lekcji nauk ścisłych profesora Von Belliniego.",
@@ -400,8 +400,8 @@
   "status": "draft"
  },
  "n:line:0f03079": {
-  "pl": "Kiedyś pochwalił mnie za moją herbatkę uspokajającą!",
-  "status": "draft"
+  "pl": "Kiedyś pochwalił moją herbatkę uspokajającą!",
+  "status": "review"
  },
  "n:line:0f343e0": {
   "pl": "A jeśli potrzebują małego kopa, żeby zakwitły, przyrządziłam <style=\"clue\">specjalny nawóz</style>, który na pewno pomoże.",

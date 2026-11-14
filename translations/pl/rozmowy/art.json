@@ -8,8 +8,8 @@
   "status": "draft"
  },
  "n:line:004d5f9": {
-  "pl": "Co?! To jest dużo, <i>dużo</i> gorsze!",
-  "status": "draft"
+  "pl": "Co?! To dużo, <i>dużo</i> gorzej!",
+  "status": "review"
  },
  "n:line:0051957": {
   "pl": "Teraz, kiedy w końcu ustaliliśmy nazwę zespołu, w tym roku <i>na pewno</i> się przebijemy.",
@@ -32,8 +32,8 @@
   "status": "draft"
  },
  "n:line:014a0d9": {
-  "pl": "Słuchanie grzmotów to najbliższe uczucie bycia na scenie, jakie znam.",
-  "status": "draft"
+  "pl": "Kiedy słyszę grzmoty, czuję się prawie jak na scenie.",
+  "status": "review"
  },
  "n:line:0186853": {
   "pl": "Dziś nie mogę, poszczę z okazji Jom Kluczpur.",
@@ -96,8 +96,8 @@
   "status": "draft"
  },
  "n:line:03b0e34": {
-  "pl": "A co z dźwiękiem? Aktorzy brzmieli jak prawdziwi ludzie!",
-  "status": "draft"
+  "pl": "A ten dźwięk? Aktorzy brzmieli jak prawdziwi ludzie!",
+  "status": "review"
  },
  "n:line:03d6589": {
   "pl": "Fabuła była dla mnie dość trudna do rozszyfrowania...",
@@ -144,8 +144,8 @@
   "status": "draft"
  },
  "n:line:04f100a": {
-  "pl": "Faktycznie poruszyło, ale nie tak, jak się liczyło.",
-  "status": "draft"
+  "pl": "Owszem, wstrząsnęła mną, ale nie tak, jak miała.",
+  "status": "review"
  },
  "n:line:04fc2dd": {
   "pl": "No co ty! Ta szkoła ma tyle szalonej historii.",
@@ -176,8 +176,8 @@
   "status": "draft"
  },
  "n:line:059cda0": {
-  "pl": "Próbuję znaleźć klucz do metody Stanisławskiego... Ale okazuje się mniej obiektywna, niż sądzono.",
-  "status": "draft"
+  "pl": "Próbuję znaleźć klucz do metody Stanisławskiego... Ale to wszystko jest mniej obiektywne, niż myślałem.",
+  "status": "review"
  },
  "n:line:05ab5ce": {
   "pl": "Fajnie byłoby zagrać w zespole na uroczystości pożegnalnej, ale jedyny instrument, na jakim potrafię grać, to kazoo.",
@@ -249,8 +249,8 @@
   "status": "draft"
  },
  "n:line:0857e96": {
-  "pl": "Hm, myślę, że <i>dokładnie</i> to to znaczy.",
-  "status": "draft"
+  "pl": "Hm, moim zdaniem to <i>właśnie</i> to znaczy.",
+  "status": "review"
  },
  "n:line:085f258": {
   "pl": "Nawet profesor Chortkoff byłaby pod wrażeniem jej naukowej metody aktorskiej.",
@@ -293,8 +293,8 @@
   "status": "draft"
  },
  "n:line:098d374": {
-  "pl": "Wady są okej! Weźmy Chestera, on nie potrafi się skupić na zagadkach.",
-  "status": "draft"
+  "pl": "Wady są okej! Weźmy Chestera, on nie potrafi się skupić na zagad.",
+  "status": "review"
  },
  "n:line:09df2bc": {
   "pl": "Chyba to zwykły kontener pełen śmieci...",
@@ -309,8 +309,8 @@
   "status": "draft"
  },
  "n:line:0a3d69c": {
-  "pl": "Wchodzę w rolę metodą Stanisławskiego, do jednoaktówki <i>Człowiek w zaułku</i>...",
-  "status": "draft"
+  "pl": "Przygotowuję się metodą Stanisławskiego do roli w jednoaktówce <i>Człowiek w zaułku</i>...",
+  "status": "review"
  },
  "n:line:0a61baf": {
   "pl": "To moje miejsce na rekurencyjne marzenia.",
@@ -329,7 +329,7 @@
   "status": "draft"
  },
  "n:line:0bfb948": {
-  "pl": "Ups! Zobaczyłem „zajęcia zespołu” i pomyślałem, że zespół został... rozwiązany.",
+  "pl": "Ups! Pomyliłem „orkiestrę dętą” z „orkiestrą zdjętą” i myślałem, że zajęcia... odwołano.",
   "status": "review"
  },
  "n:line:0c00ec9": {
@@ -389,8 +389,8 @@
   "status": "draft"
  },
  "n:line:0e05281": {
-  "pl": "Aha, chcesz po <i>trudnej</i> drodze? W takim razie wypowiadam... BITWĘ!",
-  "status": "draft"
+  "pl": "Aha, czyli po <i>złości</i>? W takim razie wypowiadam... BITWĘ!",
+  "status": "review"
  },
  "n:line:0e3752d": {
   "pl": "Hej, co się stało z <style=\"clue\">Edie Quill</style>? To <i>ona</i> miała być główną detektywką.",
@@ -413,7 +413,7 @@
   "status": "draft"
  },
  "n:line:0f777ce": {
-  "pl": "Kręcili się tu może moi kumple, <style=\"clue\">Jesse albo Chester</style>? <style=\"clue\">Od dawna ich nie ma</style> w moim miejscu.",
+  "pl": "Kręcili się tu może moi kumple, <style=\"clue\">Jesse albo Chester</style>? <style=\"clue\">Od dawna nie zaglądali</style> do mojej kryjówki.",
   "status": "review"
  },
  "n:line:0f78b64": {

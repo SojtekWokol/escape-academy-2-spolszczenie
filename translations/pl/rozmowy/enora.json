@@ -28,7 +28,7 @@
   "status": "draft"
  },
  "n:line:0119ae6": {
-  "pl": "Spokojnie! Mam dla ciebie zespół, który rozwala system. <style=\"purchase\">(Przedstaw zespół)</style>",
+  "pl": "Spokojnie! Mam dla pani zespół, który rozwala system. <style=\"purchase\">(Przedstaw zespół)</style>",
   "status": "review"
  },
  "n:line:012a7e9": {
@@ -60,8 +60,8 @@
   "status": "review"
  },
  "n:line:02e6ca5": {
-  "pl": "A skoro nic nie stoi już na przeszkodzie, by pożegnać Von Bellini w sposób godny zapamiętania, lepiej <style=\"clue\">ruszajmy do ogrodów kampusu</style>!",
-  "status": "draft"
+  "pl": "A skoro nic nie stoi już na przeszkodzie, by pożegnać Von Belliniego w sposób godny zapamiętania, lepiej <style=\"clue\">ruszajmy do ogrodów kampusu</style>!",
+  "status": "review"
  },
  "n:line:031b2da": {
   "pl": "Oto <style=\"clue\">fragmenty przesłuchań</style> wszystkich kandydatów. I żadnego słodzenia, jeśli są okropne. To nikomu nie pomaga.",
@@ -96,7 +96,7 @@
   "status": "draft"
  },
  "n:line:057ab6b": {
-  "pl": "Chwileczkę, <style=\"clue\">gdzie jest twój partner</style>? Wszyscy muszą to zobaczyć. <i>Wszyscy.</i>",
+  "pl": "Chwileczkę, <style=\"clue\">gdzie druga połowa waszego duetu</style>? Wszyscy muszą to zobaczyć. <i>Wszyscy.</i>",
   "status": "review"
  },
  "n:line:05c81d6": {
@@ -132,12 +132,12 @@
   "status": "draft"
  },
  "n:line:0725f81": {
-  "pl": "Ale się szykuje. A gdy będzie gotowe, pierwszy telefon będzie do ciebie.",
-  "status": "draft"
+  "pl": "Ale już się szykuje. A gdy będzie gotowa, pierwszy telefon będzie do ciebie.",
+  "status": "review"
  },
  "n:line:077d697": {
-  "pl": "Chyba przydałaby ci się chwila przerwy...",
-  "status": "draft"
+  "pl": "Chyba przydałaby się pani chwila przerwy...",
+  "status": "review"
  },
  "n:line:0799e26": {
   "pl": "Nie. Jeszcze nie teraz!",
@@ -160,20 +160,20 @@
   "status": "draft"
  },
  "n:line:09a96dc": {
-  "pl": "Aktorzy, na scenę!",
-  "status": "draft"
+  "pl": "Precz, aktorzy!",
+  "status": "review"
  },
  "n:line:09eeb84": {
-  "pl": "Czy możesz sprawdzić, co robią pozostali profesorowie? Cudownie. A teraz natychmiast zejdź mi z oczu!",
-  "status": "draft"
+  "pl": "Sprawdzisz, co porabiają pozostali profesorowie? Cudownie. A teraz natychmiast zejdź mi z oczu!",
+  "status": "review"
  },
  "n:line:0a03265": {
   "pl": "I na miłość Escape'u, dopilnuj, żeby <style=\"clue\">dobrze znali swoje kwestie.</style>",
   "status": "draft"
  },
  "n:line:0a32c2a": {
-  "pl": "Sprowadź go tu natychmiast!",
-  "status": "draft"
+  "pl": "Natychmiast mi ją tu sprowadź!",
+  "status": "review"
  },
  "n:line:0a6fe80": {
   "pl": "Na razie!",
@@ -188,8 +188,8 @@
   "status": "review"
  },
  "n:line:0afdd4a": {
-  "pl": "Ja też, ale to musi jeszcze solidnie dojrzeć w piekarniku.",
-  "status": "draft"
+  "pl": "Ja też, ale to musi się jeszcze porządnie upiec.",
+  "status": "review"
  },
  "n:line:0b00176": {
   "pl": "Przejrzyj <style=\"clue\">CV</style> wszystkich i zobacz, kto pasuje do której roli. Będę czekać niecierpliwie.",
@@ -216,20 +216,20 @@
   "status": "draft"
  },
  "n:line:0c49261": {
-  "pl": "A teraz daj mi spokój, zaczynam wcześniej szukać talentów do mojej głównej produkcji w tym roku.",
-  "status": "draft"
+  "pl": "A teraz daj mi spokój, już teraz rozglądam się za obsadą do mojego tegorocznego wielkiego przedstawienia.",
+  "status": "review"
  },
  "n:line:0cea374": {
-  "pl": "Jak trafiłaś do Akademii?",
-  "status": "draft"
+  "pl": "Jak pani trafiła do Akademii?",
+  "status": "review"
  },
  "n:line:0ced095": {
-  "pl": "<style=\"clue\">Profesor Slip</style> jest w <style=\"clue\">kostiumerni</style> i skompletowała stroje zgodne z epoką do naszej sztuki, a także...",
+  "pl": "<style=\"clue\">Profesor Slip</style> jest w <style=\"clue\">kostiumerni</style> i kompletuje stroje z epoki do naszej sztuki, a...",
   "status": "review"
  },
  "n:line:0d177c5": {
-  "pl": "Ten twój popis tam na dole, w maszynie mózgowej... to było przedstawienie na miarę wieków!",
-  "status": "draft"
+  "pl": "Ten twój popis tam na dole, w maszynie mózgowej... to było przedstawienie na wieki!",
+  "status": "review"
  },
  "n:line:0d6630a": {
   "pl": "No dobrze, wszyscy są? Wszyscy gotowi?",
@@ -256,8 +256,8 @@
   "status": "draft"
  },
  "n:line:0ebe983": {
-  "pl": "Ja i zespół jesteśmy gotowi... ale wygląda na to, że <style=\"clue\">wciąż czekamy na kilka dodatkowych przygotowań</style>.",
-  "status": "draft"
+  "pl": "Zespół i ja jesteśmy gotowi... ale wygląda na to, że <style=\"clue\">wciąż brakuje kilku rzeczy</style>.",
+  "status": "review"
  },
  "n:line:0ef6588": {
   "pl": "Proszę, nasza gwiazda sceny. Jestem zbyt zajęta, żeby dłużej gawędzić, w mojej głowie szaleje burza, a w niej rodzi się nowe opus magnum.",
@@ -276,8 +276,8 @@
   "status": "draft"
  },
  "n:line:0f5ca71": {
-  "pl": "A <i>co</i> właściwie szykujesz w następnym projekcie?",
-  "status": "draft"
+  "pl": "A <i>co</i> właściwie szykuje pani w następnym projekcie?",
+  "status": "review"
  },
  "n:line:0f80956": {
   "pl": "I coś mi mówi, że to nie będzie bułka z masłem.",

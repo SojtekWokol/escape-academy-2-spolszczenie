@@ -44,8 +44,8 @@
   "status": "review"
  },
  "n:line:00bf00b": {
-  "pl": "Jasne, że wiem! To był tylko test dla ciebie.",
-  "status": "draft"
+  "pl": "Jasne, że wiem! Tylko cię testuję.",
+  "status": "review"
  },
  "n:line:00c20d8": {
   "pl": "Nie jest!",
@@ -96,8 +96,8 @@
   "status": "draft"
  },
  "n:line:016bbfd": {
-  "pl": "Chwila... chcesz powiedzieć, że <i>sama fabryka</i> dźgnęła Petera?",
-  "status": "draft"
+  "pl": "Chwila... chce pan powiedzieć, że <i>sama fabryka</i> dźgnęła Petera?",
+  "status": "review"
  },
  "n:line:01d1063": {
   "pl": "<size=0.7em>To nie twoja kwestia. Ani trochę! Zwróć uwagę na <style=\"clue\">dekoracje</style>!",
@@ -128,7 +128,7 @@
   "status": "draft"
  },
  "n:line:0297bf6": {
-  "pl": "Mówisz, że Peter został zabity...",
+  "pl": "Mówi pan, że Peter został zabity...",
   "status": "review"
  },
  "n:line:02981ec": {
@@ -152,7 +152,7 @@
   "status": "draft"
  },
  "n:line:02c50aa": {
-  "pl": "Nie! Gdyby moje nazwisko było prawdziwe, nazywałabym się Ruby Winowska!",
+  "pl": "Nie! Gdyby moje nazwisko mówiło prawdę, nazywałabym się Ruby Winowska!",
   "status": "review"
  },
  "n:line:02fe23f": {
@@ -168,16 +168,16 @@
   "status": "draft"
  },
  "n:line:038a435": {
-  "pl": "Choć to oczywiście korzystne dla mojej postaci... yyy, dla <i>mnie</i>, Cheta Łotrowicza, może jednak coś ci umknęło!",
-  "status": "draft"
+  "pl": "Choć to oczywiście korzystne dla mojej postaci... yyy, dla <i>mnie</i>, Cheta Łotrowicza, może jednak coś panu umknęło!",
+  "status": "review"
  },
  "n:line:0392800": {
-  "pl": "<size=0.7em>Stary... Zwłoki. Martwe. Tutaj.",
-  "status": "draft"
+  "pl": "<size=0.7em>Stary... Trup. Leży. Tutaj.",
+  "status": "review"
  },
  "n:line:039b261": {
-  "pl": "Tak! Ciągle to powtarzasz. I właśnie dlatego przyszedłem z tą sprawą do ciebie... *gul*",
-  "status": "draft"
+  "pl": "Tak! Pan... ciągle to powtarza. I właśnie dlatego przyszedłem z tą sprawą do pana... *gul*",
+  "status": "review"
  },
  "n:line:03cbb41": {
   "pl": "Tak czy inaczej wciąż nie znamy <style=\"clue\">motywu zabójcy</style>, a ja na pewno żadnego nie mam.",
@@ -252,8 +252,8 @@
   "status": "draft"
  },
  "n:line:04d4510": {
-  "pl": "Oczywiście! I zaraz ci powiem, co dokładnie...",
-  "status": "draft"
+  "pl": "Oczywiście! I zaraz panu powiem, co dokładnie...",
+  "status": "review"
  },
  "n:line:04dc3e9": {
   "pl": "Co więcej, to ty jesteś mordercą, nie Ruby!",
@@ -268,8 +268,8 @@
   "status": "draft"
  },
  "n:line:05189c1": {
-  "pl": "Mam przeczucie. Spójrz na to. <style=\"purchase\">(Pokaż obraz)</style>",
-  "status": "draft"
+  "pl": "Mam przeczucie. Proszę na to spojrzeć. <style=\"purchase\">(Pokaż obraz)</style>",
+  "status": "review"
  },
  "n:line:05700f0": {
   "pl": "Przebiegłem <style=\"clue\">przez ulicę</style> i wpadłem do jego salonu, a tam zobaczyłem...",
@@ -284,8 +284,8 @@
   "status": "draft"
  },
  "n:line:0599002": {
-  "pl": "<size=0.7em>To nie ta kwestia! Włożyłam mnóstwo myśli w tematykę tego adresu...",
-  "status": "draft"
+  "pl": "<size=0.7em>To nie ta kwestia! Tyle się nagłowiłam nad wymową tego adresu...",
+  "status": "review"
  },
  "n:line:05c4ffb": {
   "pl": "<size=0.7em>Co?! Przecież leżę tu na samym środku!</size>",
@@ -356,8 +356,8 @@
   "status": "review"
  },
  "n:line:06943f9": {
-  "pl": "Ups, daj mi sekundę. To... bardzo obciążające!",
-  "status": "draft"
+  "pl": "Ups, daj mi sekundę. Ten obraz jest... bardzo obciążający!",
+  "status": "review"
  },
  "n:line:06a8f95": {
   "pl": "<size=0.7em>Skoro już improwizujesz, to <i>przynajmniej</i> graj „tak, i...”! Lepiej trzymaj się mojego scenariusza.",
@@ -368,8 +368,8 @@
   "status": "draft"
  },
  "n:line:06b61dd": {
-  "pl": "Przeprosiny zachowaj na sąd! Kolejna zagadka w kieszeni dla...",
-  "status": "draft"
+  "pl": "Przeprosiny zachowaj na sąd! Kolejną zagadkę ma na koncie...",
+  "status": "review"
  },
  "n:line:06da958": {
   "pl": "Mógłbym przysiąc, że mój <style=\"clue\">groźny list szantażysty</style> był dość tajemniczy i subtelny, by nikt nie wytropił jego autora.",
@@ -392,8 +392,8 @@
   "status": "draft"
  },
  "n:line:0730d43": {
-  "pl": "Chyba nie sugerujesz, że to <style=\"clue\">ja spaliłem fabrykę Ruby</style>?!",
-  "status": "draft"
+  "pl": "Chyba nie sugeruje pan, że to <style=\"clue\">ja spaliłem fabrykę Ruby</style>?!",
+  "status": "review"
  },
  "n:line:0752bc3": {
   "pl": "Widzisz coś <style=\"clue\">przez okno?</style>",
@@ -436,8 +436,8 @@
   "status": "draft"
  },
  "n:line:083787b": {
-  "pl": "<size=0.7em>Yyy... byłoby dużo lepiej, gdyby trzymać się roli. No, na czym to ja stanąłem? Ach!</size>",
-  "status": "draft"
+  "pl": "<size=0.7em>Yyy... szłoby ci dużo lepiej, bez wychodzenia z roli. No, na czym to ja skończyłem? Ach!</size>",
+  "status": "review"
  },
  "n:line:0844d53": {
   "pl": "Proszę opowiedzieć mi <i>wszystko</i>, co pan widział. Bez pomijania szczegółów ani uczuć!",
@@ -448,8 +448,8 @@
   "status": "draft"
  },
  "n:line:084ffe8": {
-  "pl": "Proszę mówić śmiało. <i>Sypać jak z rękawa.</i>",
-  "status": "draft"
+  "pl": "Proszę śmiało sypać. <i>Jak fasolkę z puszki.</i>",
+  "status": "review"
  },
  "n:line:085dc37": {
   "pl": "62...",
@@ -504,8 +504,8 @@
   "status": "draft"
  },
  "n:line:08e61a6": {
-  "pl": "Najpierw pomyślałem, że to kolejny wybuch z <style=\"clue\">spalonej fabryki zamków na północy</style>.",
-  "status": "draft"
+  "pl": "Najpierw pomyślałem, że to po prostu kolejny wybuch w tle ze <style=\"clue\">spalonej fabryki zamków na północy</style>.",
+  "status": "review"
  },
  "n:line:08fb93a": {
   "pl": "Peter został zabity siekierą!",
@@ -524,8 +524,8 @@
   "status": "draft"
  },
  "n:line:096f162": {
-  "pl": "Chyba faktycznie <i>dałem</i> ci dość wskazówek, żeby poskładać tę układankę... *gul*",
-  "status": "draft"
+  "pl": "Chyba faktycznie <i>dałem</i> panu dość wskazówek, żeby poskładać tę układankę... *gul*",
+  "status": "review"
  },
  "n:line:0972e6c": {
   "pl": "Nie!!! To całkiem zbędne, ee- to znaczy, yy... Nie pamiętam adresu Petera.",
@@ -544,7 +544,7 @@
   "status": "draft"
  },
  "n:line:0a130bd": {
-  "pl": "Jest pan całkiem pewien tego imienia? To ee-- nie to, co stoi w Żółtych Stronach Zagadek... No to poczekam.",
+  "pl": "Jest pan całkiem pewien tego nazwiska? To ee... nie to, co stoi w Żółtych Stronach Zagadek... No to poczekam.",
   "status": "review"
  },
  "n:line:0a17e0f": {
@@ -556,8 +556,8 @@
   "status": "review"
  },
  "n:line:0a294a9": {
-  "pl": "Oto Eska-Cola, której pan tak szczęśliwie potrzebuje! <style=\"purchase\">(Daj napój)</style>",
-  "status": "draft"
+  "pl": "Oto Eska-Cola, której – jakże wygodnie – akurat pan potrzebuje! <style=\"purchase\">(Daj napój)</style>",
+  "status": "review"
  },
  "n:line:0a2c752": {
   "pl": "Podpalaczy...",
@@ -592,8 +592,8 @@
   "status": "draft"
  },
  "n:line:0ab0826": {
-  "pl": "Gdy to znajdziesz, na pewno będzie bardzo obciążające akurat dla Ruby Niewinowskiej!",
-  "status": "draft"
+  "pl": "Gdy go pan znajdzie, na pewno okaże się bardzo obciążający – akurat dla Ruby Niewinowskiej!",
+  "status": "review"
  },
  "n:line:0ac4e8e": {
   "pl": "<size=0.7em>Ależ istnieje... sama go namalowałam! Spróbuj tej sceny jeszcze raz.",
@@ -632,8 +632,8 @@
   "status": "review"
  },
  "n:line:0b2a981": {
-  "pl": "Mówisz, że adres Petera to...",
-  "status": "draft"
+  "pl": "Mówi pan, że adres Petera to...",
+  "status": "review"
  },
  "n:line:0b2ced9": {
   "pl": "Do <i>kłódki</i> nędzy! Chyba po mnie!",
@@ -712,8 +712,8 @@
   "status": "draft"
  },
  "n:line:0c27570": {
-  "pl": "<size=0.7em>To było <i>tuż</i> obok! <i>Tuż</i> obok! Wielkie nieba.",
-  "status": "draft"
+  "pl": "<size=0.7em>Już <i>prawie</i>! No <i>prawie</i>! Wielkie nieba.",
+  "status": "review"
  },
  "n:line:0c3d5ab": {
   "pl": "Peter został zabity patelnią!",
@@ -724,8 +724,8 @@
   "status": "draft"
  },
  "n:line:0c65657": {
-  "pl": "*Sapnięcie* Chcesz powiedzieć, że narzędziem zbrodni było <style=\"clue\">coś innego</style>?!",
-  "status": "draft"
+  "pl": "*Sapnięcie* Chce pan powiedzieć, że narzędziem zbrodni było <style=\"clue\">coś innego</style>?!",
+  "status": "review"
  },
  "n:line:0c67c22": {
   "pl": "<size=0.7em>Chyba <style=\"clue\">zapominasz coś zrobić z tym obrazem.</style></size>",
@@ -764,12 +764,12 @@
   "status": "review"
  },
  "n:line:0ce5083": {
-  "pl": "Daj mi chwilę, a ci powiem!",
-  "status": "draft"
+  "pl": "Proszę dać mi chwilę, a powiem!",
+  "status": "review"
  },
  "n:line:0cfc230": {
-  "pl": "I że potem podjąłem misterne kroki, by <style=\"clue\">wyglądało na to, że winny jest Peter Hintz</style>...",
-  "status": "draft"
+  "pl": "I że potem wszystko misternie ukartowałem, żeby <style=\"clue\">wyglądało na to, że winny jest Peter Hintz</style>...",
+  "status": "review"
  },
  "n:line:0d08a8e": {
   "pl": "Ale jeśli Peter nie został zastrzelony, jakie jeszcze dowody niezdarnie zainscenizowaliśmy?",
@@ -796,8 +796,8 @@
   "status": "draft"
  },
  "n:line:0d47bf1": {
-  "pl": "Daj mi chwilę, a ci powiem!",
-  "status": "draft"
+  "pl": "Proszę dać mi chwilę, a powiem!",
+  "status": "review"
  },
  "n:line:0d619f5": {
   "pl": "Peter Hintz nie był malarzem.",
@@ -848,8 +848,8 @@
   "status": "draft"
  },
  "n:line:0e8c112": {
-  "pl": "To, yyy... co o tym wszystkim sądzisz, detektywie?",
-  "status": "draft"
+  "pl": "To, yyy... co pan o tym wszystkim sądzi, detektywie?",
+  "status": "review"
  },
  "n:line:0ef1fe0": {
   "pl": "<size=0.7em>Wchodzisz mi w kwestię!",
@@ -860,8 +860,8 @@
   "status": "draft"
  },
  "n:line:0efdf7f": {
-  "pl": "Peter i ja kłóciliśmy się latami, bo <style=\"clue\">spalił moją fabrykę łamigłówek do fundamentów</style>. Kto by nie chciał zemsty?",
-  "status": "draft"
+  "pl": "Od lat byliśmy z Peterem skłóceni, bo <style=\"clue\">spalił moją fabrykę łamigłówek do fundamentów</style>. Kto by nie chciał zemsty?",
+  "status": "review"
  },
  "n:line:0f2d184": {
   "pl": "Ulica!",
@@ -872,12 +872,12 @@
   "status": "draft"
  },
  "n:line:0f51f3a": {
-  "pl": "<size=0.7em>To <style=\"clue\">w ogóle nie twoje imię</style>! Jeszcze raz. I to <i>z uczuciem!</i>",
-  "status": "draft"
+  "pl": "<size=0.7em>To <style=\"clue\">w ogóle nie twoje nazwisko</style>! Jeszcze raz. I to <i>z uczuciem!</i>",
+  "status": "review"
  },
  "n:line:0f66e1d": {
-  "pl": "Aaach! Ale skąd o tym wiesz?",
-  "status": "draft"
+  "pl": "Aaach! Ale skąd pan to wie?",
+  "status": "review"
  },
  "n:line:0f9e615": {
   "pl": "30...",

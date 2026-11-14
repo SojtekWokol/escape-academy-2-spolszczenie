@@ -124,8 +124,8 @@
   "status": "draft"
  },
  "n:line:0631503": {
-  "pl": "Ojej, już od samego patrzenia na scenę robią mi się mokre oczy, jak zacznie się muzyka, to się rozkleję!",
-  "status": "draft"
+  "pl": "Ojej, już od samego patrzenia na scenę kręcą mi się łzy w oczach, a jak zacznie się muzyka, to się całkiem rozkleję!",
+  "status": "review"
  },
  "n:line:064094b": {
   "pl": "Koniec końców wszystko dobrze się skończyło. Na dodatek zrobiliśmy razem <i>prawdziwe</i> wykopaliska archeologiczne! Nie wspominając o uratowaniu sytuacji.",
@@ -152,24 +152,24 @@
   "status": "draft"
  },
  "n:line:07697f9": {
-  "pl": "Wiem, że to duże buty do wypełnienia, ale z Solange za plecami i świetnym rocznikiem uczniów chyba się uda!",
-  "status": "draft"
+  "pl": "Wiem, że w tej nowej robocie poprzeczka wisi wysoko, ale z Solange u boku i świetnym rocznikiem uczniów chyba się uda!",
+  "status": "review"
  },
  "n:line:07d78e7": {
   "pl": "Naprawdę musisz uważać na te Królewskie Zagadkobry!",
   "status": "review"
  },
  "n:line:07e10c2": {
-  "pl": "Wszystko było takie... tak... idealne. Ojej, znowu zaczynam! *Pociągnięcie nosem*",
-  "status": "draft"
+  "pl": "Wszystko było po prostu... takie... idealne. Ojej, znowu zaczynam! *Pociąga nosem*",
+  "status": "review"
  },
  "n:line:07ec7bf": {
   "pl": "Założę się, że zabrzmi to pięknie, kiedy grupa zapalonych eskapistów zagra to z całego serca...",
   "status": "draft"
  },
  "n:line:083c0ba": {
-  "pl": "Rozwiązane jak złoto! Szybko, z powrotem do wagonika.",
-  "status": "draft"
+  "pl": "Złota robota! Szybko, z powrotem do wagonika.",
+  "status": "review"
  },
  "n:line:0853dbd": {
   "pl": "Hmm... Wiesz, Fernando <i>słynął</i> z trudnych szyfrów... więc dobrze, że <style=\"clue\">wyposażenie Centrum Szyfrów</style> jest najnowocześniejsze!",
@@ -188,8 +188,8 @@
   "status": "draft"
  },
  "n:line:094d77e": {
-  "pl": "Ale żeby ci pomóc na start: jestem <style=\"clue\">Profesor Jeb Jeberson</style>! Świeżo po robocie dozorcy, a teraz twój nowiutki historyk Akademii.",
-  "status": "draft"
+  "pl": "Ale żeby ci pomóc na start: jestem <style=\"clue\">profesor Jeb Jeberson</style>! Świeżo po robocie dozorcy, a teraz twój nowiutki historyk Akademii.",
+  "status": "review"
  },
  "n:line:098592b": {
   "pl": "Lepiej się nie ociągajmy i znajdźmy tę kryptę. Możemy iść?",
@@ -204,7 +204,7 @@
   "status": "draft"
  },
  "n:line:0a336ad": {
-  "pl": "A czekaj chwilę, gdzie twój partner? Przydałaby mi się pomoc <style=\"clue\">was obojga</style> na dole w Archiwum Artefaktów.",
+  "pl": "Chwileczkę, a gdzie druga osoba z twojej ekipy? Przydałaby mi się pomoc <style=\"clue\">całej waszej dwójki</style> na dole w Archiwum Artefaktów.",
   "status": "review"
  },
  "n:line:0a362bb": {
@@ -216,7 +216,7 @@
   "status": "review"
  },
  "n:line:0a6ba60": {
-  "pl": "W środku jest aranżacja muzyczna skomponowana przez Fernando Augustína, która, jestem pewien, <i>spodobałaby się</i> Von Belliniemu, ale...",
+  "pl": "W środku jest aranżacja Fernanda Augustína i <i>wiem</i>, że Von Belliniemu by się spodobała, ale...",
   "status": "review"
  },
  "n:line:0a6d177": {
@@ -240,8 +240,8 @@
   "status": "draft"
  },
  "n:line:0b6138d": {
-  "pl": "Uff, ale tu gorąco jak w piecu! <style=\"clue\">Przetransportujmy mnie i ten wagonik przez rzekę lawy</style>, zanim przepocę kolejny garnitur.",
-  "status": "draft"
+  "pl": "Uff, ale tu gorąco jak w piecu! <style=\"clue\">Przeprawmy mnie i ten wagonik przez rzekę lawy</style>, zanim przepocę kolejny garnitur.",
+  "status": "review"
  },
  "n:line:0b6c13c": {
   "pl": "O, cześć! Dzięki tobie muzeum okazało się wielkim hitem. Nigdy nie widziałem uczniów tak nakręconych na historię.",
@@ -256,8 +256,8 @@
   "status": "draft"
  },
  "n:line:0bbfb2f": {
-  "pl": "Jak będę miał <i>naprawdę</i> szczęście, to na emeryturę odpłynę tak samo jak Profesor Von Bellini!",
-  "status": "draft"
+  "pl": "Jak będę miał <i>naprawdę</i> szczęście, to na emeryturę odpłynę tak samo jak profesor Von Bellini!",
+  "status": "review"
  },
  "n:line:0bc0eaf": {
   "pl": "Mam nadzieję, że te tory prowadzą w jakieś chłodniejsze miejsce! <style=\"clue\">Wskakuj z powrotem i przekonamy się</style>!",
@@ -276,8 +276,8 @@
   "status": "draft"
  },
  "n:line:0c98e45": {
-  "pl": "Jesteś z powrotem! Nie wiem, co może być ważniejsze od zadania, które mamy przed sobą, ale... musimy znaleźć tę kryptę!",
-  "status": "draft"
+  "pl": "Jesteś z powrotem! Nie wiem, co może być ważniejsze od naszego zadania, ale... musimy znaleźć tę kryptę!",
+  "status": "review"
  },
  "n:line:0ca619f": {
   "pl": "I słusznie! Bez tej trójki nie byłoby Akademii ani świata ucieczek, jaki znamy.",
@@ -292,7 +292,7 @@
   "status": "draft"
  },
  "n:line:0d38d2d": {
-  "pl": "Rany, nie wierzę, że zobaczę, jak Czerwony Śledź wypływa w rejs! Wszystkie legendy stawały u jej steru...",
+  "pl": "Rany, nie wierzę, że zobaczę, jak Czerwony Śledź wypływa w rejs! U jej steru stawały najróżniejsze legendy...",
   "status": "review"
  },
  "n:line:0d4f113": {
@@ -304,16 +304,16 @@
   "status": "draft"
  },
  "n:line:0de1748": {
-  "pl": "Zejść do jednego z nich samemu to... Och, co ja tak gadam i gadam.",
-  "status": "draft"
+  "pl": "A teraz sami do jednego schodzimy, to... Och, ale się rozgadałem.",
+  "status": "review"
  },
  "n:line:0e2c1b9": {
   "pl": "Szczerze mówiąc, prowadzenie muzeum to kupa roboty... Nie mogę się doczekać krótkiej przerwy, żeby zobaczyć <style=\"clue\">nową sztukę profesor Chortkoff</style>.",
   "status": "draft"
  },
  "n:line:0e6d3f9": {
-  "pl": "Co za historia ma to miejsce, nie? Aż je człowiek czuje, jakby żyło...",
-  "status": "draft"
+  "pl": "Ile tu historii, co? Aż czuć, że to miejsce żyje...",
+  "status": "review"
  },
  "n:line:0eae65d": {
   "pl": "Ci założyciele to chyba ktoś ważny...",
@@ -324,8 +324,8 @@
   "status": "review"
  },
  "n:line:0ed9e4b": {
-  "pl": "O, kogo ja widzę! Mój ulubi... eee... największa gwiazda zeszłego roku!",
-  "status": "draft"
+  "pl": "O, kogo ja widzę! Moje oczko w gło... eee... największa gwiazda zeszłego roku!",
+  "status": "review"
  },
  "n:line:0f1035e": {
   "pl": "Mój Boże, ten rok to była istna kolejka górska! Ale wiesz... sam nie wiem, czego innego mogłem się spodziewać po pierwszym roku nauczania w Akademii...",

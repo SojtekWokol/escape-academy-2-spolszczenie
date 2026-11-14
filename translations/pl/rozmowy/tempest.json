@@ -16,8 +16,8 @@
   "status": "draft"
  },
  "n:line:007a186": {
-  "pl": "No cóż... Wy wszyscy staneliście na wysokości zadania i zrobiliście, co trzeba dla Akademii, więc... teraz moja kolej.",
-  "status": "draft"
+  "pl": "No cóż... Wy wszyscy stanęliście na wysokości zadania i zrobiliście, co trzeba dla Akademii, więc... teraz moja kolej.",
+  "status": "review"
  },
  "n:line:00c7c0d": {
   "pl": "Ja tam staram się po prostu przetrwać ten i tak już dość ekscytujący drugi rok.",
@@ -80,8 +80,8 @@
   "status": "draft"
  },
  "n:line:0198ce9": {
-  "pl": "Może trochę mniej wciskania wszystkim w twarz swojej wielkości..? To może podcinać skrzydła. Niektórym uczniom. Nie mnie, oczywiście...",
-  "status": "draft"
+  "pl": "Może nie obnoś się tak ze swoją wielkością...? To może podcinać skrzydła. Niektórym uczniom. Nie mnie, oczywiście...",
+  "status": "review"
  },
  "n:line:01a4f28": {
   "pl": "Reed i ja mamy wszystko pod kontrolą, jeśli znowu chcesz stchórzyć.",
@@ -152,12 +152,12 @@
   "status": "draft"
  },
  "n:line:02bbd7f": {
-  "pl": "Co mogłoby być ważniejsze niż prowadzenie Akademii przez taką stratę?",
-  "status": "draft"
+  "pl": "Co może być ważniejsze niż wspieranie Akademii po takiej stracie?",
+  "status": "review"
  },
  "n:line:02e1e11": {
-  "pl": "Świetnie, teraz <style=\"clue\">nie możemy ufać żadnym drzwiom</style>. Kiepski początek dedukowania prawdy.",
-  "status": "draft"
+  "pl": "Świetnie, teraz <style=\"clue\">nie możemy ufać żadnym drzwiom</style>. Kiepski początek, jak na dochodzenie do prawdy.",
+  "status": "review"
  },
  "n:line:03018ab": {
   "pl": "To wszystko nie może być zbiegiem okoliczności...",
@@ -204,7 +204,7 @@
   "status": "draft"
  },
  "n:line:03d4dea": {
-  "pl": "Świetnie. Jest jeszcze trochę światła dziennego, rób, co masz do zrobienia.",
+  "pl": "Świetnie. Jeszcze jest jasno, rób swoje.",
   "status": "review"
  },
  "n:line:03f96d3": {
@@ -248,12 +248,12 @@
   "status": "draft"
  },
  "n:line:04b764b": {
-  "pl": "Totalnie błędnie oceniasz tę sytuację.",
-  "status": "draft"
+  "pl": "Zupełnie opacznie to odbierasz.",
+  "status": "review"
  },
  "n:line:04e2239": {
-  "pl": "Dwie sekundy temu wyszliśmy z lochów pełnych gazu wymazującego pamięć, a już <style=\"clue\">Gillian pędzi na dziedziniec</style>, a <style=\"clue\">Reed wbiega do holu</style>, żeby dalej węszyć.",
-  "status": "draft"
+  "pl": "Dwie sekundy temu wyszliśmy z lochów pełnych gazu zapomnienia, a już <style=\"clue\">Gillian pędzi na dziedziniec</style>, a <style=\"clue\">Reed wbiega do holu</style>, żeby dalej węszyć.",
+  "status": "review"
  },
  "n:line:05509e8": {
   "pl": "Dobrze wiedzieć, że nie jestem w tym sama.",
@@ -264,8 +264,8 @@
   "status": "draft"
  },
  "n:line:056b66b": {
-  "pl": "Nauka tańca od myślącego monitora CRT jakoś wydaje się chyba gorsza niż udział w sztuce Chortkoff...",
-  "status": "draft"
+  "pl": "Nauka tańca od myślącego monitora CRT to chyba jeszcze gorsza opcja niż udział w sztuce Chortkoff...",
+  "status": "review"
  },
  "n:line:056ed2a": {
   "pl": "Przychodzi mi do głowy milion wyjaśnień i jestem pewna, że żadne nie jest tak szalone jak prawdziwe.",
@@ -276,7 +276,7 @@
   "status": "draft"
  },
  "n:line:058f219": {
-  "pl": "Mam nadzieję, że dyrektorka Solange wie, co robi, pozwalając Quanty wrócić do jego laboratorium...",
+  "pl": "Mam nadzieję, że dyrektorka Solange wie, co robi, pozwalając Quanty'emu wrócić do jego laboratorium...",
   "status": "review"
  },
  "n:line:059c513": {
@@ -292,8 +292,8 @@
   "status": "draft"
  },
  "n:line:05f832e": {
-  "pl": "Czekaj, stój! Widzę kogoś--",
-  "status": "draft"
+  "pl": "Czekaj, stój! Widzę kogoś...",
+  "status": "review"
  },
  "n:line:0606dff": {
   "pl": "Jestem tu, prawda? Po prostu... coraz bardziej jestem pewna, że to może być <i>naprawdę</i> niebezpieczne.",
@@ -316,7 +316,7 @@
   "status": "draft"
  },
  "n:line:06798b0": {
-  "pl": "Może coś z moich umiejętności się do ciebie przyklei, jeśli dopisze ci szczęście.",
+  "pl": "Przy odrobinie szczęścia może udzieli ci się coś z moich umiejętności.",
   "status": "review"
  },
  "n:line:0697a02": {
@@ -324,8 +324,8 @@
   "status": "draft"
  },
  "n:line:06a17d6": {
-  "pl": "Wystarczy tylko rozgryźć <style=\"clue\">historię na cokole</style>, zanim zamkną nas tu na zawsze. Ł-- łatwizna!",
-  "status": "draft"
+  "pl": "Wystarczy tylko rozgryźć <style=\"clue\">historię na cokole</style>, zanim zamkną nas tu na zawsze. Ł-łatwizna!",
+  "status": "review"
  },
  "n:line:06a6166": {
   "pl": "Na razie!",
@@ -360,20 +360,20 @@
   "status": "draft"
  },
  "n:line:075de35": {
-  "pl": "Obiecaj mi tylko, że jak to wszystko się skończy, nie rzucimy się od razu w kolejne śledztwo na pierwszy <i>zapach</i> tajemnicy, dobrze?",
-  "status": "draft"
+  "pl": "Obiecaj mi tylko, że jak to wszystko się skończy, nie rzucimy się od razu w kolejne śledztwo, gdy tylko <i>zwęszymy</i> tajemnicę, dobrze?",
+  "status": "review"
  },
  "n:line:076e4df": {
-  "pl": "Wracajmy do pokoju w akademiku i pilnujmy sobie nawzajem pleców.",
-  "status": "draft"
+  "pl": "Wracajmy do akademika i miejmy się nawzajem na oku.",
+  "status": "review"
  },
  "n:line:0776cb8": {
   "pl": "Nie sposób zrozumieć, o co tu w ogóle chodzi.",
   "status": "draft"
  },
  "n:line:077ce00": {
-  "pl": "Kiedy Solange znowu was przyłapie? Mojego nazwiska w to nie mieszajcie...",
-  "status": "draft"
+  "pl": "Jak Solange znowu was przyłapie, to mojego nazwiska w to nie mieszajcie...",
+  "status": "review"
  },
  "n:line:0788787": {
   "pl": "Ee. Tak. Zdecydowanie ci odbiło.",
@@ -452,24 +452,24 @@
   "status": "draft"
  },
  "n:line:090c442": {
-  "pl": "Chyba jesteśmy blisko prawdy, więc... Cokolwiek podpowiadałoby ci myślenie à la Reed, zrób dokładnie na odwrót. Rozgryziemy to <i>razem.</i>",
-  "status": "draft"
+  "pl": "Chyba jesteśmy blisko prawdy, więc... po prostu rób dokładnie na odwrót niż Reed. Rozgryziemy to <i>razem.</i>",
+  "status": "review"
  },
  "n:line:0945c93": {
-  "pl": "Udało ci się! I to dla nas! Wiedziałam, że mogę na ciebie liczyć.",
-  "status": "draft"
+  "pl": "Udało ci się! Naprawdę jesteś tu po nas! Wiedziałam, że mogę na ciebie liczyć.",
+  "status": "review"
  },
  "n:line:094f398": {
-  "pl": "Najpierw rodzeństwo, kiedy dorastałam, a teraz wy... Chyba nigdy nie wyjdę z niczyjego cienia!",
-  "status": "draft"
+  "pl": "Najpierw całe dzieciństwo w cieniu rodzeństwa, teraz wy... Chyba nigdy nie wyjdę z czyjegoś cienia!",
+  "status": "review"
  },
  "n:line:09676ad": {
   "pl": "*Westchnienie* Nie powinnam była pytać. Dzięki za szczerość, chyba...",
   "status": "draft"
  },
  "n:line:097ebfb": {
-  "pl": "Naraz zniosę tylko określoną liczbę ludzi i zagadek. Dzięki za zrozumienie.",
-  "status": "draft"
+  "pl": "Ludzie i zagadki naraz? Mam swoje limity. Dzięki za zrozumienie.",
+  "status": "review"
  },
  "n:line:09a2a1b": {
   "pl": "Wszyscy ciągle opowiadają, jak świetnie ucieka gwiazda roku Solange, a tu jeszcze okazuje się, że z tobą miło się gada? Ja... Do zobaczenia na zajęciach!",
@@ -552,8 +552,8 @@
   "status": "draft"
  },
  "n:line:0ae43a0": {
-  "pl": "Hmm... <style=\"clue\">nadal nie ma Solange</style>. Co może być tak ważne, że opuściła uroczystość ku pamięci kogoś z własnego grona pedagogicznego..?",
-  "status": "draft"
+  "pl": "Hmm... <style=\"clue\">nadal nie ma Solange</style>. Co może być tak ważne, że opuszcza uroczystość ku pamięci własnego profesora...?",
+  "status": "review"
  },
  "n:line:0ae440c": {
   "pl": "Nie pozwolę, żeby ktoś jeszcze z was został porwany.",
@@ -588,12 +588,12 @@
   "status": "draft"
  },
  "n:line:0b6b101": {
-  "pl": "Nie chcę wiedzieć, co się dzieje, kiedy jest się po złej stronie jego maszyny do mózgów...",
-  "status": "draft"
+  "pl": "Nie chcę wiedzieć, co się dzieje z tymi, którzy trafią do jego maszyny do mózgów...",
+  "status": "review"
  },
  "n:line:0b6fca4": {
-  "pl": "Te wszystkie zniknięcia zaczynają się sumować. A tu jeszcze Von Bellini niedługo opuści kampus na dobre...",
-  "status": "draft"
+  "pl": "Tych zniknięć jest coraz więcej. A tu jeszcze Von Bellini niedługo opuści kampus na dobre...",
+  "status": "review"
  },
  "n:line:0b977ac": {
   "pl": "Czas położyć temu wszystkiemu kres?",
@@ -648,8 +648,8 @@
   "status": "draft"
  },
  "n:line:0c5f73c": {
-  "pl": "Po prostu-- obiecaj mi, że <style=\"clue\">opowiesz Solange wszystko</style> i przyjdziesz mnie szukać.",
-  "status": "draft"
+  "pl": "Po prostu... obiecaj mi, że <style=\"clue\">opowiesz Solange wszystko</style> i przyjdziesz mnie szukać.",
+  "status": "review"
  },
  "n:line:0c7cc4b": {
   "pl": "Nie spiesz się! Zajmę ci miejsce w klasie.",
@@ -692,8 +692,8 @@
   "status": "draft"
  },
  "n:line:0d1d5e6": {
-  "pl": "Solange to jawny wróg.",
-  "status": "draft"
+  "pl": "Solange to ewidentnie wróg.",
+  "status": "review"
  },
  "n:line:0d2c54d": {
   "pl": "Po prostu zmierzajmy do ostatniej komnaty, tyle możemy teraz zrobić.",
@@ -748,8 +748,8 @@
   "status": "draft"
  },
  "n:line:0e56089": {
-  "pl": "Tylko trzymaj mnie z daleka od wszelkich króliczych nor, w które zanurkujecie z Reedem.",
-  "status": "draft"
+  "pl": "Tylko trzymaj mnie z daleka od szalonych teorii, w które wkręcicie się z Reedem.",
+  "status": "review"
  },
  "n:line:0e65335": {
   "pl": "Fakt, ma na to dość dziwny sposób...",
@@ -800,8 +800,8 @@
   "status": "draft"
  },
  "n:line:0f3622a": {
-  "pl": "Musiał być dla dyrektorki prawdziwym zmartwieniem...",
-  "status": "draft"
+  "pl": "Musiał być dla dyrektorki prawdziwym utrapieniem...",
+  "status": "review"
  },
  "n:line:0f44949": {
   "pl": "Na razie!",
@@ -816,8 +816,8 @@
   "status": "draft"
  },
  "n:line:0f8a4b2": {
-  "pl": "Ty <i>pomyślisz</i> o tym? Ale... to przez ciebie tu siedzę...",
-  "status": "draft"
+  "pl": "<i>Pomyślisz</i> o tym? Ale... to przez ciebie tu siedzę...",
+  "status": "review"
  },
  "n:line:0f8d93a": {
   "pl": "Halo? Kira, to ty tam na dole? Co robisz poza akademikiem o tej porze...",

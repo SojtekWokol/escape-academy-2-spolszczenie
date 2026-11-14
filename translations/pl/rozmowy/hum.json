@@ -28,8 +28,8 @@
   "status": "draft"
  },
  "n:line:00615f3": {
-  "pl": "Aż się chce oddać niejedną zagadkę, żeby zobaczyć, co kryje Archiwum Artefaktów.",
-  "status": "draft"
+  "pl": "Za rzut oka na to, co kryje Archiwum Artefaktów, warto by wybulić niezłą zagadkę.",
+  "status": "review"
  },
  "n:line:0063e7a": {
   "pl": "Każdy dziennikarz wart swojego puzzla <style=\"clue\">wysłuchałby zeznań wszystkich</style>, zanim wyciągnie pochopne wnioski!",
@@ -48,8 +48,8 @@
   "status": "draft"
  },
  "n:line:01096a7": {
-  "pl": "Jak ci się udało ocalić sytuację? Ja ledwo ogarniam pracę domową z szyfrów...",
-  "status": "draft"
+  "pl": "Jak ci się udało wszystkich uratować? Ja ledwo ogarniam pracę domową z szyfrów...",
+  "status": "review"
  },
  "n:line:012b080": {
   "pl": "Może tata wie!",
@@ -76,8 +76,8 @@
   "status": "draft"
  },
  "n:line:01f4d60": {
-  "pl": "Dobrze, że miała mocną dublerkę...",
-  "status": "draft"
+  "pl": "Dobrze, że miała świetną dublerkę...",
+  "status": "review"
  },
  "n:line:0206a79": {
   "pl": "Cieszę się, że profesor Chortkoff ma teatr jako odskocznię... Wyobrażasz sobie, gdyby pracowała w Kłódheed Martin?",
@@ -96,8 +96,8 @@
   "status": "draft"
  },
  "n:line:02b4555": {
-  "pl": "Tyle tragedii spada na Escape Academy, a nasze sprawdziany i tak odbywają się zgodnie z planem...",
-  "status": "draft"
+  "pl": "Tyle tragedii spotyka Escape Academy, a sprawdziany i tak idą zgodnie z planem...",
+  "status": "review"
  },
  "n:line:02c11c8": {
   "pl": "Wow, ta Burza Mózgów na pewno przejdzie do historii!",
@@ -112,8 +112,8 @@
   "status": "review"
  },
  "n:line:02f2b17": {
-  "pl": "Jeśli jeszcze kiedyś usłyszę o jakimś maniaku wyciskającym mózgi, to właśnie do ciebie zadzwonię w pierwszej kolejności!",
-  "status": "draft"
+  "pl": "Jeśli jeszcze kiedyś usłyszę o jakimś maniaku wyciskającym mózgi, od razu dzwonię do ciebie!",
+  "status": "review"
  },
  "n:line:02fb377": {
   "pl": "Eee...",
@@ -128,24 +128,24 @@
   "status": "draft"
  },
  "n:line:034f6d7": {
-  "pl": "Dziś mam nadzieję wypożyczyć <i>Słoń Horton słyszy wskazówkę</i>!",
-  "status": "draft"
+  "pl": "Dziś chcę wypożyczyć <i>Horton słyszy Kluczosia</i>!",
+  "status": "review"
  },
  "n:line:0366d21": {
   "pl": "Jasne! Komu potrzebna samodzielność? <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
   "status": "draft"
  },
  "n:line:03866ea": {
-  "pl": "Ale trzymają to pod kluczem i na siedem kłódek.",
-  "status": "draft"
+  "pl": "Ale zamykają je na cztery spusty.",
+  "status": "review"
  },
  "n:line:038f474": {
   "pl": "Udało ci się przepisać pracę domową z dekodowania od <style=\"clue\">Mike'a</style>, zanim zniknął?",
   "status": "draft"
  },
  "n:line:039d79d": {
-  "pl": "Wow! Udało ci się je otworzyć! Banan na twarzy!",
-  "status": "draft"
+  "pl": "Wow! Udało ci się je otworzyć! Ale odjazd!",
+  "status": "review"
  },
  "n:line:03c89a5": {
   "pl": "A co do ciebie, gwiazdo roku: dziękuję za rozwiązanie sprawy. Masz coś za fatygę!",
@@ -168,15 +168,15 @@
   "status": "draft"
  },
  "n:line:0424d7f": {
-  "pl": "No i... rozglądasz się tu trochę?",
-  "status": "draft"
+  "pl": "No i... wypożyczasz coś?",
+  "status": "review"
  },
  "n:line:0425fb5": {
   "pl": "Ech... To może wejdźmy oboje do fontanny jedną nogą, na wszelki wypadek?",
   "status": "draft"
  },
  "n:line:0427cee": {
-  "pl": "Gryzą mnie wyrzuty sumienia: koleżanka z grupy do nauki dostała ode mnie docinkę i od razu przepadła jak kamień w wodę... Jakby moje docinki ją zdmuchnęły.",
+  "pl": "Głupio mi, że dogryzłam koleżance od nauki, zanim zniknęła... Jakbym jej dogadała, a ona się rozpłynęła.",
   "status": "review"
  },
  "n:line:043f8f3": {
@@ -196,16 +196,16 @@
   "status": "draft"
  },
  "n:line:045ec1d": {
-  "pl": "Mieliśmy się tu spotkać z <style=\"clue\">Paige Turner</style>, żeby wymienić uwagi o manuskryptach, ale <style=\"clue\">jej nie ma...</style>",
-  "status": "draft"
+  "pl": "Mieliśmy się tu spotkać z <style=\"clue\">Paige Turner</style>, żeby wymienić uwagi o naszych rękopisach, ale <style=\"clue\">jej nie ma...</style>",
+  "status": "review"
  },
  "n:line:0498b1c": {
   "pl": "Do licha... Chyba zapodziała mi się moja <i>Zasuwa 22</i>.",
   "status": "review"
  },
  "n:line:049a12e": {
-  "pl": "Bo z zasady sprzeciwiam się wszystkiemu, z czym Kelly prowadzi kampanię. A Jeb to naprawdę miły facet!",
-  "status": "draft"
+  "pl": "Bo z zasady jestem przeciw wszystkiemu, co Kelly głosi w swojej kampanii. A Jeb to naprawdę miły facet!",
+  "status": "review"
  },
  "n:line:04a19af": {
   "pl": "Czekaj, my mamy <i>ćwiczyć?</i>",
@@ -244,16 +244,16 @@
   "status": "draft"
  },
  "n:line:0514b44": {
-  "pl": "Tęsknię za profesorem Von Bellini. Zawsze umiał urozmaicić lekcje, nawet jeśli nie zawsze celowo...",
-  "status": "draft"
+  "pl": "Tęsknię za profesorem Von Bellinim. Zawsze umiał urozmaicić lekcje, nawet jeśli nie zawsze celowo...",
+  "status": "review"
  },
  "n:line:052c580": {
   "pl": "Czy ty też czasem masz wrażenie, że rozwiązanie życiowych problemów bywa <style=\"clue>tuż nad twoją głową</style> i poza zasięgiem?",
   "status": "review"
  },
  "n:line:05526f7": {
-  "pl": "Mam z profesorem Jebersonem kość do obgryzienia, bo chce mnie oblać z archeologii!",
-  "status": "draft"
+  "pl": "Mam z profesorem Jebersonem na pieńku, bo chce mnie oblać z archeologii! Jeszcze mu to wygrzebię!",
+  "status": "review"
  },
  "n:line:0576780": {
   "pl": "Święta racja.",
@@ -268,7 +268,7 @@
   "status": "draft"
  },
  "n:line:059008f": {
-  "pl": "Czytam więcej o pomidorach, bo wiedza na ten temat musi mi <i>dojrzeć</i>.",
+  "pl": "Czytam więcej o pomidorach, bo chcę, żeby moja wiedza na ten temat porządnie dojrzała.",
   "status": "review",
   "tags_ok": "<i> </i>"
  },
@@ -277,24 +277,24 @@
   "status": "draft"
  },
  "n:line:05b7df6": {
-  "pl": "Uwielbiam odgłosy maszyn do pisania, reporterów i wrzasków Nate Noah Nameson dobiegające z dołu.",
-  "status": "draft"
+  "pl": "Uwielbiam odgłosy maszyn do pisania, gwar reporterów i wrzaski Nate'a Noaha Namesona dobiegające z dołu.",
+  "status": "review"
  },
  "n:line:05d55dd": {
   "pl": "Podobno Stinky Steve żyje poza systemem... może pozwoli nam ją u siebie postawić.",
   "status": "draft"
  },
  "n:line:05db8f0": {
-  "pl": "Te zajęcia z psychozamkologii to klapa! Czemu to nie <i>moje</i> ego jest super?",
-  "status": "draft"
+  "pl": "Te zajęcia z psychozamkologii to klapa! Czemu <i>moje</i> ego nie może być super?",
+  "status": "review"
  },
  "n:line:05f1f0e": {
   "pl": "Dzięki za rozwiązanie naszych problemów! Chyba naprawdę czegoś się dziś nauczyliśmy.",
   "status": "draft"
  },
  "n:line:061ecb4": {
-  "pl": "Szkoda, wykład o słynnych rozbiciach statków eskapistów odwołano z powodu „złego smaku”.",
-  "status": "draft"
+  "pl": "Szkoda, wykład o słynnych katastrofach statków eskapistów odwołali, bo był „w złym guście”.",
+  "status": "review"
  },
  "n:line:062ca2e": {
   "pl": "Myślisz, że z tego będzie sprawdzian?",
@@ -317,8 +317,8 @@
   "status": "draft"
  },
  "n:line:0669691": {
-  "pl": "Profesor Chortkoff kazała nam poczytać o historii muzyki, to będziemy pewniakami na pierwsze krzesła!",
-  "status": "draft"
+  "pl": "Profesor Chortkoff kazała nam poczytać o historii muzyki, a wtedy pierwsze pulpity mamy w kieszeni!",
+  "status": "review"
  },
  "n:line:0678e46": {
   "pl": "Założę się, że <style=\"clue\">te talerze mają coś wspólnego z zagadką</style>...",
@@ -329,11 +329,11 @@
   "status": "draft"
  },
  "n:line:069f592": {
-  "pl": "Być częścią jej świty to coś wspaniałego.",
-  "status": "draft"
+  "pl": "Należeć do jej świty – to jest coś!",
+  "status": "review"
  },
  "n:line:06ca586": {
-  "pl": "Aż mnie korci, żeby wbić zęby w <i>Drakluea</i>. Gdyby tylko znaleźć jakiś egzemplarz...",
+  "pl": "Aż mnie korci, żeby wbić zęby w <i>Drakluczulę</i>. Gdyby tylko znaleźć jakiś egzemplarz...",
   "status": "review"
  },
  "n:line:06e10b9": {
@@ -385,8 +385,8 @@
   "status": "draft"
  },
  "n:line:07c4d56": {
-  "pl": "Wreszcie ten mózgożerny potwór to już historia!",
-  "status": "draft"
+  "pl": "Wreszcie ten potwór od wyciskania mózgów to już historia!",
+  "status": "review"
  },
  "n:line:07d6e1c": {
   "pl": "Ja <i>tylko</i> biorę książkę, jasne, regale? NIE próbuję uruchomić żadnej pułapki...",
@@ -417,8 +417,8 @@
   "status": "draft"
  },
  "n:line:0856d0d": {
-  "pl": "Czy to na pewno gorące wieści...?",
-  "status": "draft"
+  "pl": "Czy to na pewno wiadomość z ostatniej chwili...?",
+  "status": "review"
  },
  "n:line:0868406": {
   "pl": "Ciii. Mnie tu nie ma.",
@@ -429,7 +429,7 @@
   "status": "draft"
  },
  "n:line:08761bb": {
-  "pl": "Wygląda na to, że wspominki ku czci profesora Von Bellini będą wydarzeniem, którego nie da się zapomnieć!",
+  "pl": "Wygląda na to, że wspominki ku czci profesora Von Belliniego będą wydarzeniem nie do zapomnienia!",
   "status": "review"
  },
  "n:line:088a530": {
@@ -445,7 +445,7 @@
   "status": "draft"
  },
  "n:line:08999b9": {
-  "pl": "Kto wymyślił <style=\"clue\">Kluczowy System Dziesiętny</style>, to prawdziwy geniusz. <style=\"clue\">Otwiera</style> przed nami wszelkie rodzaje wiedzy!",
+  "pl": "Kto wymyślił <style=\"clue\">Kluczowy System Dziesiętny</style>, to prawdziwy geniusz. <style=\"clue\">Otwiera</style> drogę do każdej wiedzy!",
   "status": "review"
  },
  "n:line:08c0267": {
@@ -469,8 +469,8 @@
   "status": "draft"
  },
  "n:line:0914ba3": {
-  "pl": "Nie pozwolę, żeby ta Burza Mózgów zalała mi paradę!",
-  "status": "draft"
+  "pl": "Nie pozwolę, żeby ta Burza Mózgów zmyła mi uśmiech z twarzy!",
+  "status": "review"
  },
  "n:line:091ce97": {
   "pl": "Na pewno kwiatki ucieszą się z całego tego deszczu.",
@@ -481,12 +481,12 @@
   "status": "draft"
  },
  "n:line:0954244": {
-  "pl": "Okej. To które z nas z nim pogada?",
-  "status": "draft"
+  "pl": "Okej. To który z nas z nim pogada?",
+  "status": "review"
  },
  "n:line:0987128": {
-  "pl": "Szkoda, że to zielona szklarnia, a nie czerwona.",
-  "status": "draft"
+  "pl": "Szkoda, że w tej szklarni wszystko jest zielone, a nie czerwone.",
+  "status": "review"
  },
  "n:line:099fcf1": {
   "pl": "Wiecie <i>przecież</i>, że podwójny rush kluczaków to taktyka dla tchórzy, co?",
@@ -501,8 +501,8 @@
   "status": "draft"
  },
  "n:line:09d8bc9": {
-  "pl": "Żeby przygotować się na uroczystość ku czci profesora Von Bellini, czytam więcej o miejscu, w którym spotkał go przedwczesny koniec...",
-  "status": "draft"
+  "pl": "Przed uroczystością ku czci profesora Von Belliniego czytam więcej o miejscu, w którym spotkała go przedwczesna śmierć...",
+  "status": "review"
  },
  "n:line:09f71ac": {
   "pl": "Żeby znów mogła być miażdżona, palona, zatruwana i wysadzana po staremu!",
@@ -517,20 +517,20 @@
   "status": "review"
  },
  "n:line:0a13e8a": {
-  "pl": "Śmietniki są <i>tak</i> niedoceniane.",
-  "status": "draft"
+  "pl": "Śmietniki są <i>strasznie</i> niedoceniane.",
+  "status": "review"
  },
  "n:line:0a415f9": {
   "pl": "Działa ci <style=\"clue\">komputer</style>? Mój chyba złapał wirusa albo coś...",
   "status": "draft"
  },
  "n:line:0a41b04": {
-  "pl": "Cholera. Widać mnie w tych krzakach? Tyle z mojej tajnej obserwacji.",
-  "status": "draft"
+  "pl": "Cholera. Widać mnie w tych krzakach? No to po mojej tajnej obserwacji.",
+  "status": "review"
  },
  "n:line:0a4dd3b": {
-  "pl": "Od zawsze coś mi nie pasowało w profesorze Von Bellini...",
-  "status": "draft"
+  "pl": "Od zawsze coś mi nie pasowało w profesorze Von Bellinim...",
+  "status": "review"
  },
  "n:line:0a774c2": {
   "pl": "Mamy gorące wieści prosto w Kurierze Eskapisty!",
@@ -549,8 +549,8 @@
   "status": "draft"
  },
  "n:line:0abeeb1": {
-  "pl": "Przydałaby mi się dobra ocena z historii po tej pałce u profesor Chortkoff.",
-  "status": "draft"
+  "pl": "Przydałaby mi się dobra ocena z historii po tej pale u profesor Chortkoff.",
+  "status": "review"
  },
  "n:line:0adc822": {
   "pl": "Kiedy wróci, chcę *sap* dotrzymać mu kroku.",
@@ -593,8 +593,8 @@
   "status": "draft"
  },
  "n:line:0b56776": {
-  "pl": "Czy to tylko mnie się wydaje, czy wszystkie artefakty założycieli pachną starymi ludźmi?",
-  "status": "draft"
+  "pl": "Czy to tylko mnie się wydaje, czy wszystkie artefakty założycieli pachną jak dom spokojnej starości?",
+  "status": "review"
  },
  "n:line:0b8e0d2": {
   "pl": "Łykasz tę bajeczkę, którą wciska nam grono pedagogiczne, że uczniowie wyjeżdżają do domu przez presję?",
@@ -629,12 +629,12 @@
   "status": "draft"
  },
  "n:line:0c537ff": {
-  "pl": "Ta sprawa z profesorem Von Bellini obudziła we mnie zainteresowanie morskimi tragediami...",
-  "status": "draft"
+  "pl": "Ta sprawa z profesorem Von Bellinim obudziła we mnie zainteresowanie morskimi tragediami...",
+  "status": "review"
  },
  "n:line:0c5bc71": {
-  "pl": "Właśnie tu <i>dokładnie</i> sypie się tryb 2 na 2!",
-  "status": "draft"
+  "pl": "<i>Dokładnie</i> w tym miejscu sypie się tryb 2 na 2!",
+  "status": "review"
  },
  "n:line:0c6972b": {
   "pl": "Jadę dziś na oparach... Oby udało mi się skupić na wykładzie dyrektorki Solange!",
@@ -681,8 +681,8 @@
   "status": "draft"
  },
  "n:line:0d47224": {
-  "pl": "Popieram nadchodzącą wystawę muzealną profesora Jebersona i ty też ją poprzyj! Dlaczego?",
-  "status": "draft"
+  "pl": "Popieram nową wystawę profesora Jebersona w muzeum i ty też ją poprzyj! Dlaczego?",
+  "status": "review"
  },
  "n:line:0d4a324": {
   "pl": "No właśnie, o takie podejście chodzi!",
@@ -701,8 +701,8 @@
   "status": "draft"
  },
  "n:line:0d97d0d": {
-  "pl": "Ja co tydzień jestem w rubryce „Przegapione spotkania”!",
-  "status": "draft"
+  "pl": "Ja co tydzień trafiam do rubryki „Szukam cię”!",
+  "status": "review"
  },
  "n:line:0d9b1a6": {
   "pl": "Jedno ciasteczko to było po prostu za mało.",
@@ -713,8 +713,8 @@
   "status": "draft"
  },
  "n:line:0dc6b9c": {
-  "pl": "Myślisz, że dałoby się rozwiązać dla nas tę zagadkę?",
-  "status": "draft"
+  "pl": "To może rozwiążesz za nas tę zagadkę?",
+  "status": "review"
  },
  "n:line:0dd5073": {
   "pl": "Mów to twórcom LockCraft: Clued War. To w pełni legalna strategia!",
@@ -745,12 +745,12 @@
   "status": "draft"
  },
  "n:line:0ef01b2": {
-  "pl": "Aż tak źle to piszę...?",
-  "status": "draft"
+  "pl": "Aż tak źle piszę...?",
+  "status": "review"
  },
  "n:line:0ef88d1": {
-  "pl": "Nie mów mi, żebym się uspokoił. Sam się uspokój! I wracaj do roboty.",
-  "status": "draft"
+  "pl": "Nie mów mi, żebym się uspokoił. Ty się uspokój! I wracaj do roboty.",
+  "status": "review"
  },
  "n:line:0f0351f": {
   "pl": "W moim pokoju zawsze przydałoby się więcej dekoracji!",
@@ -761,12 +761,12 @@
   "status": "draft"
  },
  "n:line:0f54c38": {
-  "pl": "Jasne, że tak. W końcu to <i>rozbija</i> nam zespół!",
-  "status": "draft"
+  "pl": "Jasne, że tak. Nasz zespół przeżywa przez to <i>ostatnie chwile</i>!",
+  "status": "review"
  },
  "n:line:0f6076f": {
-  "pl": "Próbuję czegoś nowego: udaję luzaka i nie daję się nikomu zaczepiać.",
-  "status": "draft"
+  "pl": "Próbuję czegoś nowego: zgrywam wyluzowaną i nic mnie nie rusza.",
+  "status": "review"
  },
  "n:line:0f77306": {
   "pl": "Byle były suche. Woda mnie przeraża.",
@@ -789,7 +789,7 @@
   "status": "draft"
  },
  "n:line:0ff593d": {
-  "pl": "Skorzystanie z tych artefaktów naprawdę pomogłoby mi wejść w rolę... <i>starszej osoby.</i>",
-  "status": "draft"
+  "pl": "Gdybym mogła użyć tych artefaktów, dużo łatwiej byłoby mi wejść w rolę... <i>starszej osoby.</i>",
+  "status": "review"
  }
 }

@@ -12,8 +12,8 @@
   "status": "draft"
  },
  "n:line:0072c9a": {
-  "pl": "Klucz do dobrej roboty z szablonami zawsze leży w <style=\"clue\">doborze właściwych kolorów</style>...",
-  "status": "draft"
+  "pl": "W pracy z szablonami najważniejszy jest zawsze <style=\"clue\">dobór właściwych kolorów</style>...",
+  "status": "review"
  },
  "n:line:00e4dcc": {
   "pl": "Mam go tutaj! <style=\"purchase\">(Daj obraz)</style>",
@@ -44,8 +44,8 @@
   "status": "draft"
  },
  "n:line:02c5ea2": {
-  "pl": "Wiesz, kiedy Solange przyłapała mnie, jak wieszam jedną z moich prac w sieci tramwajowej, i zaproponowała, żebym został nauczycielem sztuki ucieczek...",
-  "status": "draft"
+  "pl": "Wiesz, kiedy Solange przyłapała mnie, jak umieszczam jedną ze swoich prac gdzieś przy trasie tramwaju, i zaproponowała, żebym został nauczycielem sztuki ucieczek...",
+  "status": "review"
  },
  "n:line:02cc2ba": {
   "pl": "No proszę, wróciliście na kampus w jednym kawałku.",
@@ -60,28 +60,28 @@
   "status": "draft"
  },
  "n:line:0319d49": {
-  "pl": "Chyba dlatego Solange dała mi tę posadę, nawet jeśli moje projekty artystyczne niektórych wprawiają w oburzenie.",
-  "status": "draft"
+  "pl": "Chyba dlatego Solange dała mi tę fuchę, nawet jeśli moje projekty artystyczne niektórym działają na nerwy.",
+  "status": "review"
  },
  "n:line:036ed5f": {
-  "pl": "Trochę dziwnie, ale lubię myśleć, że mogę zaoferować inną perspektywę niż reszta profesorów.",
-  "status": "draft"
+  "pl": "Trochę dziwnie, ale chcę wierzyć, że patrzę na różne rzeczy inaczej niż reszta profesorów.",
+  "status": "review"
  },
  "n:line:0384f5d": {
   "pl": "Mam dla ciebie pelerynę! <style=\"purchase\">(Daj pelerynę!)</style>",
   "status": "draft"
  },
  "n:line:03b005f": {
-  "pl": "Uff. Tak, to się często zdarza... Jestem Slip! Tutejszy artysta-partyzant i najmłodszy nauczyciel w Akademii.",
-  "status": "draft"
+  "pl": "Ojej. Tak, to się często zdarza... Jestem Slip! Tutejszy artysta-partyzant i najmłodszy nauczyciel w Akademii.",
+  "status": "review"
  },
  "n:line:043778a": {
   "pl": "Świetna robota w sztuce, ten występ to był strzał w dziesiątkę. Nawet <i>mimo</i> tego, że Chortkoff wrzeszczała na ciebie zza kulis.",
   "status": "draft"
  },
  "n:line:0442d9e": {
-  "pl": "I to przy minimalnym wrzasku!",
-  "status": "draft"
+  "pl": "I to prawie bez wrzasków!",
+  "status": "review"
  },
  "n:line:0485ee6": {
   "pl": "Gdzie są szablony?",
@@ -120,12 +120,12 @@
   "status": "draft"
  },
  "n:line:0638953": {
-  "pl": "Wiesz, Enora naprawdę wstawiła się za Von Bellinim, prawda...",
-  "status": "draft"
+  "pl": "Wiesz, Enora naprawdę się postarała dla Von Belliniego, co...",
+  "status": "review"
  },
  "n:line:063a8f5": {
-  "pl": "Właśnie nanoszę ostatnie poprawki na dziele, które stworzyłem w wakacje. Gotowi znów przesuwać granice sztuki ucieczek w tym roku?",
-  "status": "draft"
+  "pl": "Właśnie kończę dzieło, które zrobiłem w wakacje. Gotowi w tym roku znów przekraczać granice sztuki ucieczek?",
+  "status": "review"
  },
  "n:line:06a28cf": {
   "pl": "Do zobaczenia!",
@@ -140,8 +140,8 @@
   "status": "draft"
  },
  "n:line:0786650": {
-  "pl": "Gdyby Von Bellini tu był, to... pewnie większości tego by nie znosił, ale taki już był.",
-  "status": "draft"
+  "pl": "Gdyby Von Bellini tu był, to... pewnie większość by go zirytowała, ale taki już był.",
+  "status": "review"
  },
  "n:line:07db991": {
   "pl": "Nawet nie kazała mi wpisywać prawdziwego imienia i nazwiska do papierów. Pewnie to nawet nie jest prawnie wiążące.",
@@ -156,19 +156,19 @@
   "status": "draft"
  },
  "n:line:08774dc": {
-  "pl": "Zwykle lubię porządną burzę mózgów, ale... nie taką. Cały kampus jest przez nią na krawędzi.",
-  "status": "draft"
+  "pl": "Zwykle lubię porządną burzę mózgów, ale... nie taką. Przez nią cały kampus chodzi jak na szpilkach.",
+  "status": "review"
  },
  "n:line:0938685": {
-  "pl": "Czysta robota! Lepiej chodźmy oboje na <style=\"clue\">scenę</style>, wiem już, że nie warto kazać Enorze długo czekać...",
-  "status": "draft"
+  "pl": "Czysta robota! Lepiej chodźmy już na <style=\"clue\">scenę</style>, wiem już, że nie warto kazać Enorze długo czekać...",
+  "status": "review"
  },
  "n:line:094baa3": {
   "pl": "Czysta robota! Spotkamy się na dole, <style=\"clue\">na scenie, jak skończysz</style> resztę przygotowań.",
   "status": "draft"
  },
  "n:line:09b5953": {
-  "pl": "Z peleryną ledwo wiążę <i>koniec z końcem</i>. Przydałaby się pomoc.",
+  "pl": "Z peleryną coś mi się <i>pruje</i>. Przydałaby się pomoc.",
   "status": "review"
  },
  "n:line:09c1c86": {
@@ -200,28 +200,28 @@
   "status": "draft"
  },
  "n:line:0bbbbd4": {
-  "pl": "To nie żarty z tym, co mówiłem wcześniej o trzech Eska-Colach dziennie. Nie stać nas tu na kolejną eksplozję serca...",
-  "status": "draft"
+  "pl": "Mówiłem serio z tymi trzema Eska-Colami dziennie. Nie stać nas tu na kolejną eksplozję serca...",
+  "status": "review"
  },
  "n:line:0bd0a66": {
-  "pl": "I odradzam kazanie Enorze czekać zbyt długo. Wiem to z własnego, bolesnego doświadczenia...",
-  "status": "draft"
+  "pl": "I lepiej nie każ Enorze długo czekać. Przekonałem się o tym na własnej skórze...",
+  "status": "review"
  },
  "n:line:0bede0f": {
-  "pl": "Slip to chyba nie jest <i>prawdziwe</i> nazwisko, prawda?",
-  "status": "draft"
+  "pl": "Slip to chyba nie jest pana <i>prawdziwe</i> nazwisko?",
+  "status": "review"
  },
  "n:line:0c17666": {
   "pl": "Jak chcesz rozwijać swój fach, to mi pasuje. Każdy jest trochę inaczej skrojony.",
   "status": "draft"
  },
  "n:line:0c97001": {
-  "pl": "Nic na to nie poradzę, że szukam inspiracji w miejscach, do których <i>technicznie rzecz biorąc</i> nie wolno mi wchodzić.",
-  "status": "draft"
+  "pl": "Nic na to nie poradzę, że inspiracja dopada mnie w miejscach, do których <i>formalnie rzecz biorąc</i> nie wolno mi wchodzić.",
+  "status": "review"
  },
  "n:line:0cab52a": {
-  "pl": "Jasne! Jak listonosz z kopertą.",
-  "status": "draft"
+  "pl": "Jasne! Jak przemytnik.",
+  "status": "review"
  },
  "n:line:0d73559": {
   "pl": "No właśnie? Jakby żywiła się wyłącznie Eska-Colą.",

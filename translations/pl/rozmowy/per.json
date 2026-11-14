@@ -64,8 +64,8 @@
   "status": "draft"
  },
  "n:line:026f3f8": {
-  "pl": "Hej, chciałem ci podziękować. Gdyby nie twoja pomoc, Ollie i ja nigdy nie ogarnęlibyśmy tych sześcianów, a ja wyszedłbym na największego kwadrata!",
-  "status": "draft"
+  "pl": "Hej, chciałem ci podziękować. Gdyby nie twoja pomoc, Ollie i ja nigdy nie ogarnęlibyśmy tych sześcianów, a ja wyszedłbym na ograniczonego jak kwadrat!",
+  "status": "review"
  },
  "n:line:02a01f6": {
   "pl": "Wow. Wbrew temu, co wszyscy mówią, w sztuce <i>da się</i> zarobić!",
@@ -76,8 +76,8 @@
   "status": "draft"
  },
  "n:line:02c8a49": {
-  "pl": "Znowu źle! O co chodzi? Zaczynam podejrzewać, że z Eelem Barnesem nie masz wiele wspólnego.",
-  "status": "draft"
+  "pl": "Znowu źle! O co chodzi? Zaczynam podejrzewać, że Eel Barnes wcale cię nie obchodzi.",
+  "status": "review"
  },
  "n:line:02e49c2": {
   "pl": "Niezły też, żeby wylądować w izbie chorych.",
@@ -156,8 +156,8 @@
   "status": "draft"
  },
  "n:line:0504241": {
-  "pl": "Nie, to już cała twoja działka.",
-  "status": "draft"
+  "pl": "Nie, to już twoja działka.",
+  "status": "review"
  },
  "n:line:0514353": {
   "pl": "Dosyć, dosyć, uszy mi więdną! Weź całą forsę z mojego portfela, tylko przestań już na tym grać!",
@@ -196,8 +196,8 @@
   "status": "draft"
  },
  "n:line:05dd9fb": {
-  "pl": "Co tam, eskapisto. Nie przejmuj się mną, tylko testuję odporność naszego kostiumu na gwałtowne ruchy ciała, plamy farby i ogień.",
-  "status": "draft"
+  "pl": "Co tam, gwiazdo ucieczek. Nie przejmuj się mną, tylko testuję odporność naszego kostiumu na gwałtowne ruchy ciała, plamy farby i ogień.",
+  "status": "review"
  },
  "n:line:05f4e4d": {
   "pl": "Gdyby tylko Eel widział, jak głęboko jesteśmy mu oddani...",
@@ -216,8 +216,8 @@
   "status": "draft"
  },
  "n:line:071bd2a": {
-  "pl": "Co?! Eel Barnes był tylko największym eskapistą wszech czasów! I do tego najprzystojniejszym...",
-  "status": "draft"
+  "pl": "Co?! Eel Barnes to był, ni mniej, ni więcej, największy eskapista wszech czasów! I do tego najprzystojniejszy...",
+  "status": "review"
  },
  "n:line:074d110": {
   "pl": "Doskonała robota! Przypominasz mi... no cóż, mnie sprzed kilku lat!",
@@ -232,8 +232,8 @@
   "status": "draft"
  },
  "n:line:080a2d6": {
-  "pl": "<i>Nie</i> polecam znaleźć się na celowniku wybuchu Enory. Peace!",
-  "status": "draft"
+  "pl": "<i>Nie</i> polecam podpaść Enorze, kiedy wybucha.",
+  "status": "review"
  },
  "n:line:08fb4ba": {
   "pl": "Wiesz już, o co chodzi z tymi wszystkimi posągami na kampusie? Pewnie, bułka z <i>kostką</i> masła...",
@@ -248,20 +248,20 @@
   "status": "draft"
  },
  "n:line:093e394": {
-  "pl": "Co tam, eskapisto.",
-  "status": "draft"
+  "pl": "Co tam, gwiazdo ucieczek.",
+  "status": "review"
  },
  "n:line:09502df": {
-  "pl": "Poświęcił się w ręce podłych naukowców wrogich ucieczkom, żeby zachować Akademię w tajemnicy, a świat escape'u w bezpieczeństwie. Żeby ochronić <i>nas</i>.",
+  "pl": "Oddał się w ręce podłych naukowców wrogich ucieczkom, żeby zachować Akademię w tajemnicy, a świat escape'u w bezpieczeństwie. Żeby ochronić <i>nas</i>.",
   "status": "review"
  },
  "n:line:0951e34": {
-  "pl": "Musi to wytrzymać, żeby przeżyć jedną z produkcji Enory...",
-  "status": "draft"
+  "pl": "Inaczej nie przetrwa żadnej produkcji Enory...",
+  "status": "review"
  },
  "n:line:095692d": {
-  "pl": "A, i nie rozmawiamy o zeszłorocznym incydencie z robotem-sobowtórem, który próbował przejąć szkołę... On nie miał z tym nic wspólnego.",
-  "status": "draft"
+  "pl": "A, i nie wspominamy o zeszłorocznym incydencie z robotem-sobowtórem, który próbował przejąć szkołę... On nie miał z tym nic wspólnego.",
+  "status": "review"
  },
  "n:line:0986a0d": {
   "pl": "Na razie ani okruszka.",
@@ -308,7 +308,7 @@
   "status": "draft"
  },
  "n:line:0b3f198": {
-  "pl": "Mam twój ser w sprayu, <i>ser</i>decznie polecam! <style=\"purchase\">(Daj ser)</style>",
+  "pl": "<i>Ser</i>wuję twój ser w sprayu! <style=\"purchase\">(Daj ser)</style>",
   "status": "review"
  },
  "n:line:0b5a23b": {
@@ -332,8 +332,8 @@
   "status": "review"
  },
  "n:line:0bdf076": {
-  "pl": "Nie ciągnij mnie za nos jak mozzarellę!",
-  "status": "draft"
+  "pl": "Nie wodź mnie za nos, bo się ser-io wkurzę!",
+  "status": "review"
  },
  "n:line:0be3111": {
   "pl": "Chodzi o to, że te obrazy hańbią dziedzictwo Eela Barnesa i trzeba je poprawić.",
@@ -348,8 +348,8 @@
   "status": "draft"
  },
  "n:line:0cd0c5a": {
-  "pl": "Nie, jeśli mam coś do powiedzenia!",
-  "status": "draft"
+  "pl": "Przebije, już ja tego dopilnuję!",
+  "status": "review"
  },
  "n:line:0ce9be1": {
   "pl": "Idź <style=\"clue\">kupić bilety na przedstawienie</style>, zanim się skończą...",
@@ -368,8 +368,8 @@
   "status": "draft"
  },
  "n:line:0d963d4": {
-  "pl": "Brzmi, jakby przydał się asystent! <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
-  "status": "draft"
+  "pl": "Wygląda na to, że przyda ci się asystent! <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
+  "status": "review"
  },
  "n:line:0dbd337": {
   "pl": "Fuj. Farba byłaby smaczniejsza.",
@@ -412,8 +412,8 @@
   "status": "draft"
  },
  "n:line:0e63f47": {
-  "pl": "Gładkie szycie. Masz nosa do wizualnej dynamiki.",
-  "status": "draft"
+  "pl": "Gładkie szycie. Masz oko do dynamicznych form.",
+  "status": "review"
  },
  "n:line:0eaf783": {
   "pl": "Chyba <style=\"clue\">Ollie przyda się pomoc</style> w rozszyfrowaniu, co znaczą te posągi. Kubizm zawsze wydawał mi się zbyt abstrakcyjny.",
@@ -440,8 +440,8 @@
   "status": "draft"
  },
  "n:line:0f20634": {
-  "pl": "Chyba <i>moja</i> cisza i spokój są ważniejsze...",
-  "status": "draft"
+  "pl": "Chyba <i>mój</i> spokój jest ważniejszy...",
+  "status": "review"
  },
  "n:line:0f4602c": {
   "pl": "Jak tam serowe poszukiwania?",
