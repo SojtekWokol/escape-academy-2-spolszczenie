@@ -225,8 +225,8 @@
   "status": "draft"
  },
  "g:HMI_Office_EelMask": {
-  "pl": "Mam złe przeEELczucie co do tego roku...",
-  "status": "draft"
+  "pl": "Ten rok nie wróży wiEELe dobrego...",
+  "status": "review"
  },
  "g:HMI_Office_EscapeDoor": {
   "pl": "Nie możemy wyjść, musimy znaleźć okulary!",
