@@ -504,8 +504,8 @@
   "status": "draft"
  },
  "g:GUIMap_CostumeShop": {
-  "pl": "Sklep z kostiumami",
-  "status": "draft"
+  "pl": "Pracownia kostiumów",
+  "status": "review"
  },
  "g:GUIMap_Courtyard": {
   "pl": "Patio",
@@ -600,8 +600,8 @@
   "status": "draft"
  },
  "g:GUIMap_HallOfEscapists": {
-  "pl": "Hala Eskapistów",
-  "status": "draft"
+  "pl": "Sala Eskapistów",
+  "status": "review"
  },
  "g:GUIMap_HedgeMaze": {
   "pl": "Labirynt z żywopłotu",
@@ -1464,8 +1464,8 @@
   "status": "draft"
  },
  "g:HallOfEscapists_Hint_Location": {
-  "pl": "Idź do Hali Eskapistów na Wydziale Sztuki.",
-  "status": "draft"
+  "pl": "Idź do Sali Eskapistów na Wydziale Sztuki.",
+  "status": "review"
  },
  "g:Hint_Allie": {
   "pl": "Porozmawiaj z prof. Bonillą.",
@@ -2040,8 +2040,8 @@
   "status": "draft"
  },
  "g:acheivement_12": {
-  "pl": "Von, ale w pamięci",
-  "status": "draft"
+  "pl": "Von, ale nie zapomniany",
+  "status": "review"
  },
  "g:acheivement_13": {
   "pl": "Pilnie strzeżony sekret",
@@ -2060,8 +2060,8 @@
   "status": "review"
  },
  "g:acheivement_17": {
-  "pl": "Ucieknij z akademii",
-  "status": "draft"
+  "pl": "Ucieczka z Akademii",
+  "status": "review"
  },
  "g:acheivement_18": {
   "pl": "Gwiazda roku",
@@ -2204,8 +2204,8 @@
   "status": "draft"
  },
  "g:achievement_desc_12": {
-  "pl": "Ukończ „Von, ale w pamięci”",
-  "status": "draft"
+  "pl": "Ukończ „Von, ale nie zapomniany”",
+  "status": "review"
  },
  "g:achievement_desc_13": {
   "pl": "Ukończ „Trzecia komora”",

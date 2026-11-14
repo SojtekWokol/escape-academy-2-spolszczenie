@@ -232,8 +232,8 @@
   "status": "draft"
  },
  "g:MUS_Fertilizer_Item": {
-  "pl": "Eska-Pole",
-  "status": "draft"
+  "pl": "Żywo-Cola",
+  "status": "review"
  },
  "g:MUS_Fertilizer_Item_Description": {
   "pl": "Smakuje trochę lepiej niż Eska-Cola",

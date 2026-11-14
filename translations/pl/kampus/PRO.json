@@ -380,8 +380,8 @@
   "status": "draft"
  },
  "g:PRO_HallwayEast_DoorQuiz": {
-  "pl": "Powodzenia temu, kto tam teraz pisze sprawdzian!",
-  "status": "draft"
+  "pl": "Powodzenia temu, kto pisze tam teraz sprawdzian!",
+  "status": "review"
  },
  "g:PRO_HallwayWest_Checklist": {
   "pl": "1. Przeżyj kolce.<br><br>2. Znajdź swoją szafkę.<br><br>3. Otwórz swój pokój.<br><br>4. Kup podręczniki.<br><br><i>Gdy skończysz, idź do gabinetu dyrektorki.</i>",
@@ -392,8 +392,8 @@
   "status": "draft"
  },
  "g:PRO_HallwayWest_GoodLuckQuiz": {
-  "pl": "Powodzenia tym, którzy właśnie piszą tam quiz!",
-  "status": "draft"
+  "pl": "Powodzenia temu, kto pisze tam teraz sprawdzian!",
+  "status": "review"
  },
  "g:PRO_HallwayWest_HelpLine": {
   "pl": "Ta infolinia naprawdę pomogła!",

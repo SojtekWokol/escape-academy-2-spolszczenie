@@ -40,8 +40,8 @@
   "status": "review"
  },
  "n:line:0235f25": {
-  "pl": "Jasne! <style=\"purchase\">(Daj {0} $)</style>",
-  "status": "draft"
+  "pl": "Jasne, że mam! <style=\"purchase\">(Daj {0} $)</style>",
+  "status": "review"
  },
  "n:line:024b524": {
   "pl": "Jasne, że mam! <style=\"purchase\">(Daj {0} $)</style>",

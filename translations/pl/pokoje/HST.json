@@ -56,8 +56,8 @@
   "status": "draft"
  },
  "g:HST_BlueprintChronicler": {
-  "pl": "Cudowna skrzynka Sameera",
-  "status": "draft"
+  "pl": "Skrzynia cudów Sameera",
+  "status": "review"
  },
  "g:HST_BlueprintGreece": {
   "pl": "Skrzynka Zamkratesa",
@@ -112,8 +112,8 @@
   "status": "draft"
  },
  "g:HST_ChroniclersChest": {
-  "pl": "Cudowna skrzynka Sameera",
-  "status": "draft"
+  "pl": "Skrzynia cudów Sameera",
+  "status": "review"
  },
  "g:HST_CoinCircle": {
   "pl": "Moneta okrągła",
