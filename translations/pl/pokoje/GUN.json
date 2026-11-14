@@ -8,8 +8,8 @@
   "status": "draft"
  },
  "g:GUN_Address_Lane": {
-  "pl": "uliczka",
-  "status": "draft"
+  "pl": "zaułek",
+  "status": "review"
  },
  "g:GUN_Address_Street": {
   "pl": "ulica",
@@ -48,20 +48,20 @@
   "status": "draft"
  },
  "g:GUN_Crime_Arson": {
-  "pl": "podpalenie",
+  "pl": "Podpalaczy",
   "status": "review"
  },
  "g:GUN_Crime_Embezzlement": {
-  "pl": "sprzeniewierzenie",
-  "status": "draft"
+  "pl": "Defraudacji",
+  "status": "review"
  },
  "g:GUN_Crime_Fraud": {
-  "pl": "oszustwo",
-  "status": "draft"
+  "pl": "Oszustów",
+  "status": "review"
  },
  "g:GUN_Crime_TaxEvasion": {
-  "pl": "uchylanie się od podatków",
-  "status": "draft"
+  "pl": "Unikania Podatków",
+  "status": "review"
  },
  "g:GUN_DetectiveAgency": {
   "pl": "B.S. Agencja<br>Detektywistyczna",
@@ -440,24 +440,24 @@
   "status": "draft"
  },
  "g:GUN_Street1": {
-  "pl": "ul. Oszustów",
-  "status": "draft"
+  "pl": "zauł. Oszustów",
+  "status": "review"
  },
  "g:GUN_Street2": {
   "pl": "ul. Kantów",
   "status": "draft"
  },
  "g:GUN_Street3": {
-  "pl": "al. Defraudacji",
-  "status": "draft"
+  "pl": "bulw. Defraudacji",
+  "status": "review"
  },
  "g:GUN_Street4": {
   "pl": "al. Podpalaczy",
   "status": "draft"
  },
  "g:GUN_Street5": {
-  "pl": "al. Łapówek",
-  "status": "draft"
+  "pl": "bulw. Łapówek",
+  "status": "review"
  },
  "g:GUN_Street6": {
   "pl": "ul. Napadów",
