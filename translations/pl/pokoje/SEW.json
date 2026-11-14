@@ -281,31 +281,31 @@
  },
  "g:SEW_LiarPoster1": {
   "pl": "M",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LiarPoster2": {
   "pl": "A",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LiarPoster3": {
   "pl": "T",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LiarPoster4": {
   "pl": "A",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LiarPoster5": {
   "pl": "C",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LiarPoster6": {
   "pl": "Z",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LiarPoster7": {
   "pl": "E",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_LiarPoster8": {
   "pl": " ",
@@ -317,7 +317,7 @@
  },
  "g:SEW_LockPasswordLie": {
   "pl": "M,A,T,A,C,Z,E",
-  "status": "review"
+  "status": "done"
  },
  "g:SEW_META_ItemDescription_Lens": {
   "pl": "Odsłaniają tajemnice nocą.",
