@@ -832,8 +832,8 @@
   "status": "draft"
  },
  "y:line:045cda6": {
-  "pl": "Powinniśmy iść dalej, żeby <style=\"vis_clue\">wrócić do szlabanowych lochów</style> przed dyrektorką Solange.",
-  "status": "draft"
+  "pl": "Powinniśmy iść dalej, żeby <style=\"vis_clue\">wrócić do Karceru</style> przed dyrektorką Solange.",
+  "status": "review"
  },
  "y:line:046474e": {
   "pl": "Zatem podziwiaj! Jestem <style=\"vis_clue\">Barton Von Bellini</style>, starszy profesor nauk ścisłych, z etatem starszym niż całe grono pedagogiczne.",
@@ -2088,7 +2088,7 @@
   "status": "draft"
  },
  "y:line:0b7e38c": {
-  "pl": "Niestety nie zostawiacie mi wyboru: skazuję <i>was wszystkich</i> na <style=\"vis_clue\">szlabanowe lochy</style>.",
+  "pl": "Niestety nie zostawiacie mi wyboru: skazuję <i>was wszystkich</i> na <style=\"vis_clue\">Karcer</style>.",
   "status": "review"
  },
  "y:line:0b7fc0f": {
@@ -2276,7 +2276,7 @@
   "status": "draft"
  },
  "y:line:0cb2ca8": {
-  "pl": "Z zasady: kto rozwiąże, ten zatrzyma! To, no... wie pani...",
+  "pl": "Bo... zasada „Kto rozwiąże, ten zatrzyma”! No, wie pani...",
   "status": "review"
  },
  "y:line:0cbe873": {
