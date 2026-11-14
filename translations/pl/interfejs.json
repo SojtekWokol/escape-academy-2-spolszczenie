@@ -2180,8 +2180,8 @@
   "status": "draft"
  },
  "g:acheivement_7": {
-  "pl": "Uważaj na szlaban",
-  "status": "draft"
+  "pl": "Uwaga, koza!",
+  "status": "review"
  },
  "g:acheivement_8": {
   "pl": "Strzelba Chortkoff",
@@ -2344,8 +2344,8 @@
   "status": "draft"
  },
  "g:achievement_desc_7": {
-  "pl": "Ukończ „Uważaj na szlaban”",
-  "status": "draft"
+  "pl": "Ukończ „Uwaga, koza!”",
+  "status": "review"
  },
  "g:achievement_desc_8": {
   "pl": "Ukończ „Strzelba Chortkoff”",

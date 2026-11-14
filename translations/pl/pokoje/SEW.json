@@ -236,8 +236,8 @@
   "status": "draft"
  },
  "g:SEW_Hint_Return": {
-  "pl": "Wróć na szlaban w wieży!",
-  "status": "draft"
+  "pl": "Wróć do Karceru w wieży!",
+  "status": "review"
  },
  "g:SEW_Item_GrassBlue": {
   "pl": "Niebieska trawa",
@@ -340,8 +340,8 @@
   "status": "draft"
  },
  "g:SEW_Obj1": {
-  "pl": "Wydostań się ze szlabanu.",
-  "status": "draft"
+  "pl": "Wydostań się z Karceru.",
+  "status": "review"
  },
  "g:SEW_Obj2": {
   "pl": "Znajdź zastosowanie dla okularów.",
@@ -356,8 +356,8 @@
   "status": "draft"
  },
  "g:SEW_Obj5": {
-  "pl": "Wkradnij się z powrotem na szlaban.",
-  "status": "draft"
+  "pl": "Wkradnij się z powrotem do Karceru.",
+  "status": "review"
  },
  "g:SEW_Placard": {
   "pl": "Co za dziwna tabliczka...",
