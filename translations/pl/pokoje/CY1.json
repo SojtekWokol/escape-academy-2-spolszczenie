@@ -488,11 +488,11 @@
   "status": "draft"
  },
  "g:CY1_PasswordUnmask": {
-  "pl": "U,N,M,A,S,K",
+  "pl": "O,D,K,R,Y,J",
   "status": "review"
  },
  "g:CY1_PasswordUnmaskNoSpaces": {
-  "pl": "UNMASK",
+  "pl": "ODKRYJ",
   "status": "review"
  },
  "g:CY1_PourPrompt": {
