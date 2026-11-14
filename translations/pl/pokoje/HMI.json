@@ -192,8 +192,9 @@
   "status": "draft"
  },
  "g:HMI_Office_Book_SafeCodeText": {
-  "pl": "Zanim ruszysz na sejf: <b>be cztery</b> wszystkim przemyśl plan, <b>cztery a</b> zwróć uwagę na każdy szczegół, <b>dwa be</b> czujny, gdy coś nie pasuje, a <b>ce jeden</b> – bierz się do roboty...",
-  "status": "review"
+  "pl": "<align=center>Jak otworzyć sejf:</align><br>Zasada 4.B: Wykonuj te kroki uważnie.<br>Zasada 4.A: Zwracaj uwagę na szczegóły.<br>Zasada 2.B: Szukaj ukrytych kodów.<br>Zasada 1.C: Otwórz sejf.",
+  "status": "review",
+  "tags_ok": "<align=center> </align> <br> <br> <br> <br>"
  },
  "g:HMI_Office_Book_SnakesTrain": {
   "pl": "Węże w pociągu",
