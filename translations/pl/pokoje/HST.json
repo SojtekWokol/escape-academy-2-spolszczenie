@@ -648,12 +648,12 @@
   "status": "draft"
  },
  "v:Jeb_HST_BurntToast": {
-  "pl": "Jak nie otworzymy tej skrzynki, jestem usmażony jak tost.",
-  "status": "review"
+  "pl": "Jak nie otworzymy tej skrzynki, jestem spalony. Jak grzanka.",
+  "status": "done"
  },
  "v:Jeb_HST_Crates": {
-  "pl": "Skrzynkowa klasa z tymi skrzyniami!",
-  "status": "review"
+  "pl": "Skrzynialna robota tam z tyłu!",
+  "status": "done"
  },
  "v:Jeb_HST_DeathWhistle": {
   "pl": "Niech mnie zagadka kopnie, ale to okropne.",
@@ -676,8 +676,8 @@
   "status": "draft"
  },
  "v:Jeb_HST_Futile": {
-  "pl": "Ech, człowieku... Ta cała syzyfowa praca zaczyna mi się wydawać bez sensu.",
-  "status": "review"
+  "pl": "Ech... Zaczyna mi to wyglądać na syzyfową pracę.",
+  "status": "done"
  },
  "v:Jeb_HST_JadeDragon": {
   "pl": "Szkoda, że każda cywilizacja prędzej czy później robi się zblazowana... jak ten nefryt.",
@@ -701,6 +701,6 @@
  },
  "v:Jeb_HST_Win": {
   "pl": "Uff! To rozwiązanie zasługuje na osobny rozdział w podręcznikach do historii.",
-  "status": "review"
+  "status": "done"
  }
 }

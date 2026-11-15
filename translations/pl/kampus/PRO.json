@@ -904,7 +904,7 @@
   "status": "draft"
  },
  "v:Paige_PRO_HardFind": {
-  "pl": "Podobno ta książka jest trudna do znalezienia. Jak to w chowanego.",
-  "status": "review"
+  "pl": "Podobno tę książkę trudno znaleźć.",
+  "status": "done"
  }
 }

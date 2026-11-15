@@ -28,8 +28,8 @@
   "status": "draft"
  },
  "v:Allie_WLD_HelloEscapist": {
-  "pl": "Witaj, ucieczkowa duszo.",
-  "status": "review"
+  "pl": "Witaj, gwiazdo ucieczek.",
+  "status": "done"
  },
  "v:Allie_WLD_Hola": {
   "pl": "Hola!",
@@ -172,8 +172,8 @@
   "status": "draft"
  },
  "v:Enora_WLD_ClueliardDidNotPrepareMe#1": {
-  "pl": "Clueliard nie przygotował mnie na to...",
-  "status": "review"
+  "pl": "Na to nie przygotowała mnie nawet Szyfrówka...",
+  "status": "done"
  },
  "v:Enora_WLD_EnoraExplainsTheJoke": {
   "pl": "Przerwa, pięć minut. A teraz mów: „dziękuję za pięć”.",
@@ -321,7 +321,7 @@
  },
  "v:FemmeFetaleFemaleStudent_NeverAudition": {
   "pl": "Nigdy nie chodzę na przesłuchania.",
-  "status": "review"
+  "status": "done"
  },
  "v:FemmeFetaleFemaleStudent_SolveThatPuzzle": {
   "pl": "Och nie, nie mogłabym rozwiązać tej zagadki za ciebie!",
@@ -340,16 +340,16 @@
   "status": "draft"
  },
  "v:Gardens_WLD_AmazedLost": {
-  "pl": "Aż mnie zatkało, że zabłądziłam w tym labiryncie.",
-  "status": "review"
+  "pl": "Błądzić rzecz ludzka... ale w tym labiryncie to już przesada.",
+  "status": "done"
  },
  "v:Gardens_WLD_DIeOnHill": {
   "pl": "Najlepszy widok w Akademii. Na tym wzgórzu mogę nawet zginąć.",
   "status": "draft"
  },
  "v:Gardens_WLD_NotGonnaLawn": {
-  "pl": "Nie będę się przed tobą trawnie płaszczyć jak reszta uczniów.",
-  "status": "review"
+  "pl": "Nie będę się przed tobą kłaniać jak trawa na wietrze – w przeciwieństwie do reszty.",
+  "status": "done"
  },
  "v:Gardens_WLD_Root4U": {
   "pl": "Kibicuję ci korzeniami!",
@@ -380,8 +380,8 @@
   "status": "draft"
  },
  "v:Gillian_WLD_LookWhoIs": {
-  "pl": "Proszę, proszę, kto to.",
-  "status": "review"
+  "pl": "No proszę, kogo my tu mamy?",
+  "status": "done"
  },
  "v:Gillian_WLD_LookinAtSomething": {
   "pl": "Na coś się gapisz?",
@@ -413,7 +413,7 @@
  },
  "v:Gillian_WLD_ThinkKeepUp": {
   "pl": "Myślisz, że dotrzymasz mi kroku?",
-  "status": "review"
+  "status": "done"
  },
  "v:Gillian_WLD_Whatsup": {
   "pl": "Co u ciebie?",
@@ -449,7 +449,7 @@
  },
  "v:HistoryFemaleStudent2_WLD_": {
   "pl": "Czy ty się kiedykolwiek uczysz?",
-  "status": "review"
+  "status": "done"
  },
  "v:HistoryFemaleStudent2_WLD_EscapistTimesHacks": {
   "pl": "Kurier Eskapisty piszą pismacy.",
@@ -457,7 +457,7 @@
  },
  "v:HistoryFemaleStudent2_WLD_LecturedTo": {
   "pl": "Nie znoszę, jak ktoś prawi mi kazania.",
-  "status": "review"
+  "status": "done"
  },
  "v:HistoryFemaleStudent2_WLD_NeverKnowWhatAnyonesSaying": {
   "pl": "Nigdy nie rozumiem, co mówią ludzie w Centrum Szyfrów.",
@@ -488,16 +488,16 @@
   "status": "draft"
  },
  "v:HistoryFemaleStudent_WLD_ProfJebNewExhibit": {
-  "pl": "Myślę, że nowa wystawa Profesora Jebersona może być całkiem mu-zabawna.",
-  "status": "review"
+  "pl": "Coś czuję, że nowa wystawa profesora Jebersona będzie niezłym muzealnym ubawem.",
+  "status": "done"
  },
  "v:HistoryFemaleStudent_WLD_StKeytersburg": {
   "pl": "Nauka o Sankt Kluczersburgu to świetny pomysł – stołeczny wręcz!",
   "status": "draft"
  },
  "v:Jeb_WLD_AllInDays": {
-  "pl": "Ot, dzień jak co dzień – na ucieczce.",
-  "status": "review"
+  "pl": "Ot, ucieczka jak co dzień.",
+  "status": "done"
  },
  "v:Jeb_WLD_AnythingHelp": {
   "pl": "Mogę ci w czymś pomóc?",
@@ -544,8 +544,8 @@
   "status": "draft"
  },
  "v:Jeb_WLD_OkIfNervous": {
-  "pl": "Spokojnie, możesz się denerwować – ja na pewno się denerwuję!",
-  "status": "review"
+  "pl": "Nic nie szkodzi, jak się denerwujesz – ja się denerwuję jak nie wiem!",
+  "status": "done"
  },
  "v:Jeb_WLD_PassedTime": {
   "pl": "Dzwonek był, czas na lekcję!",
@@ -564,8 +564,8 @@
   "status": "draft"
  },
  "v:Jeb_WLD_ShesBeautiful": {
-  "pl": "Łuu! Czyż ten kampus nie jest piękny?",
-  "status": "review"
+  "pl": "Łuu! Piękny ten nasz kampus, co?",
+  "status": "done"
  },
  "v:Jeb_WLD_StressinLesson": {
   "pl": "Kto tu się stresuje przed lekcją?",
@@ -640,12 +640,12 @@
   "status": "draft"
  },
  "v:Kira_WLD_JebersonNeedsAKeyA": {
-  "pl": "Chyba profesorowi Jebersonowi przydałby się asy-klucz-tent.",
-  "status": "review"
+  "pl": "Chyba profesorowi Jebersonowi przydałby się kluczowy asystent.",
+  "status": "done"
  },
  "v:Kira_WLD_MoreWrightThanWrong": {
   "pl": "Moim zdaniem Reed częściej się myli, niż ma rację.",
-  "status": "review"
+  "status": "done"
  },
  "v:Kira_WLD_NiceChatting": {
   "pl": "Miło się gadało.",
@@ -764,8 +764,8 @@
   "status": "draft"
  },
  "v:NLCMaleStudent_WLD_ImLockinHere": {
-  "pl": "Ej, ja tu skupiam się na cztery spusty!",
-  "status": "review"
+  "pl": "Ej, tu się główkuje!",
+  "status": "done"
  },
  "v:NLCMaleStudent_WLD_WhaddyaGonnaClue": {
   "pl": "No i co mi podpowiesz?",
@@ -780,8 +780,8 @@
   "status": "draft"
  },
  "v:NLCMaleStudent_WLD_YouBlewIt": {
-  "pl": "Ale zagadkowa wpadka!",
-  "status": "review"
+  "pl": "I po zagadkach!",
+  "status": "done"
  },
  "v:NeedSpaceFemaleStudent_WLD_LockAndHardPlace": {
   "pl": "Nie znoszę tkwić między kłódką a kowadłem.",
@@ -797,7 +797,7 @@
  },
  "v:NeedSpaceFemaleStudent_WLD_SpaceToPuzzle": {
   "pl": "Potrzebuję przestrzeni do główkowania.",
-  "status": "review"
+  "status": "done"
  },
  "v:NeedSpaceFemaleStudent_WLD_StrangerDanger": {
   "pl": "Uwaga, obcy!",
@@ -876,8 +876,8 @@
   "status": "done"
  },
  "v:PASystem_WLD_LLL": {
-  "pl": "Ogłoszenie: Zamknięte na zamki szafki w bibliotece zardzewieją bez zbawiennego smaru do zawiasów.",
-  "status": "review"
+  "pl": "Ogłoszenie: Zamknięte zamkami szafki zostawione na zapleczu zardzewieją bez zbawiennego zestawu do zawiasów.",
+  "status": "done"
  },
  "v:PASystem_WLD_ManipulateNews": {
   "pl": "Oświadczenie: Ja nie wymyślam wiadomości – ja je tylko podkręcam.",
@@ -900,8 +900,8 @@
   "status": "draft"
  },
  "v:PASystem_WLD_QuantyUpgrade": {
-  "pl": "Pamiętajcie, by pogratulować Quanty aktualizacji do starszego profesora nauk ścisłych.",
-  "status": "review"
+  "pl": "Pamiętajcie, by pogratulować Quanty aktualizacji do wersji „starszy profesor nauk ścisłych”.",
+  "status": "done"
  },
  "v:PASystem_WLD_ResultinF": {
   "pl": "Dzień dobry, Escape Academy! Przypominamy, że śmierć na lekcji skutkuje jedynką.",
@@ -909,7 +909,7 @@
  },
  "v:PASystem_WLD_RunPuzzle": {
   "pl": "Przypomnienie: NIE wolno biegać i rozwiązywać zagadek jednocześnie. Nie stać nas na kolejny pozew.",
-  "status": "review"
+  "status": "done"
  },
  "v:PASystem_WLD_SchoolPlay": {
   "pl": "Przypomnienie: Obecność na szkolnym przedstawieniu jest obowiązkowa, więc pamiętajcie o kupnie biletów.",
@@ -980,8 +980,8 @@
   "status": "draft"
  },
  "v:QTY_WLD_Goodbyte": {
-  "pl": "Do bajtu.",
-  "status": "review"
+  "pl": "Bajt, bajt.",
+  "status": "done"
  },
  "v:QTY_WLD_Greetings": {
   "pl": "Pozdrowienia.",
@@ -992,8 +992,8 @@
   "status": "draft"
  },
  "v:QTY_WLD_Hi": {
-  "pl": "01001000 01101001",
-  "status": "review"
+  "pl": "01001000 01100101 01101010",
+  "status": "done"
  },
  "v:QTY_WLD_HiPupil": {
   "pl": "Witaj, jednostko uczniowska.",
@@ -1012,8 +1012,8 @@
   "status": "draft"
  },
  "v:QTY_WLD_NoPuzzleUnsolved": {
-  "pl": "Nie zostawiaj żadnej zagadki nierozwiązanej.",
-  "status": "review"
+  "pl": "Zagadki są po to, żeby je rozwiązywać.",
+  "status": "done"
  },
  "v:QTY_WLD_NurseFixYou": {
   "pl": "Zaraz cię załatam!",
@@ -1057,15 +1057,15 @@
  },
  "v:Quanty_WLD_ExcellFailure": {
   "pl": "Wygląda na to, że w jednej dziedzinie nie masz sobie równych: w porażce.",
-  "status": "review"
+  "status": "done"
  },
  "v:Reed_WLD_AlwaysConnected": {
   "pl": "Wszystko jest ze wszystkim połączone... tak mawiała mama Wright!",
   "status": "draft"
  },
  "v:Reed_WLD_BrotherEnroll": {
-  "pl": "Mój brat chciał się zapisać, ale dwóch Wrightów to o jednego za dużo...",
-  "status": "review"
+  "pl": "Mój brat chciał się zapisać, ale dwoje Wrightów naraz? Ostatnim razem skończyło się wynalezieniem samolotu...",
+  "status": "done"
  },
  "v:Reed_WLD_ChemistryPeriodic": {
   "pl": "Lubię chemię... okresowo.",
@@ -1188,8 +1188,8 @@
   "status": "draft"
  },
  "v:ScienceMaleStudent_WLD_UpAndAtom": {
-  "pl": "Jestem atomowo gotowy do działania.",
-  "status": "review"
+  "pl": "Jestem pełen energii... atomowej!",
+  "status": "done"
  },
  "v:Slip_WLD_CheckLater": {
   "pl": "Do później.",
@@ -1260,8 +1260,8 @@
   "status": "draft"
  },
  "v:Solange_WLD_EscapistReturns": {
-  "pl": "Wraca nasza ucieczkowa gwiazda.",
-  "status": "review"
+  "pl": "Wraca nasza gwiazda roku.",
+  "status": "done"
  },
  "v:Solange_WLD_GotMyEyeOnYou": {
   "pl": "Mam cię na oku.",
@@ -1280,12 +1280,12 @@
   "status": "draft"
  },
  "v:Solange_WLD_SchoolOfHardLocks": {
-  "pl": "Nie bez powodu mówią, że to szkoła życia... i zamków.",
-  "status": "review"
+  "pl": "Nie bez powodu mówią, że ta szkoła to twardy zamek do złamania.",
+  "status": "done"
  },
  "v:Solange_WLD_SeeYouSoon": {
   "pl": "Do zobaczenia wkrótce!",
-  "status": "review"
+  "status": "done"
  },
  "v:Solange_WLD_SolutionAlwaysPresentsItself": {
   "pl": "Rozwiązanie zawsze się znajdzie.",
@@ -1305,11 +1305,11 @@
  },
  "v:Solange_WLD_TryNotDie": {
   "pl": "Postaraj się nie zginąć!",
-  "status": "review"
+  "status": "done"
  },
  "v:Solange_WLD_WatchYourStep": {
   "pl": "Uważaj, gdzie stawiasz stopy.",
-  "status": "review"
+  "status": "done"
  },
  "v:Solange_WLD_WelcomeBackToEA": {
   "pl": "Witaj z powrotem w Akademii.",
@@ -1345,7 +1345,7 @@
  },
  "v:StokedFemaleStudent_WLD_CantWaitTrap": {
   "pl": "Nie mogę się doczekać, aż wpadnę w pułapkę!",
-  "status": "review"
+  "status": "done"
  },
  "v:StokedFemaleStudent_WLD_FounderSomeday": {
   "pl": "Chciałabym kiedyś zostać założycielką...",
@@ -1373,11 +1373,11 @@
  },
  "v:StokedFemaleStudent_WLD_SolveAnyGood": {
   "pl": "Udało się ostatnio rozwiązać jakąś dobrą zagadkę?",
-  "status": "review"
+  "status": "done"
  },
  "v:StokedFemaleStudent_WLD_SolveEmAll": {
-  "pl": "Trzeba rozwiązać je wszystkie!",
-  "status": "review"
+  "pl": "Rozwiąż je wszystkie!",
+  "status": "done"
  },
  "v:StokedFemaleStudent_WLD_SpikedCeiling": {
   "pl": "Ja chętnie zaliczyłabym jeszcze jeden sufit z kolcami.",
@@ -1400,8 +1400,8 @@
   "status": "draft"
  },
  "v:StonyMaleStudent_WLD_SoLost": {
-  "pl": "Jestem teraz kompletnie zagubiony.",
-  "status": "review"
+  "pl": "Totalnie się pogubiłem.",
+  "status": "done"
  },
  "v:StonyMaleStudent_WLD_Woah": {
   "pl": "Wow.",
@@ -1488,8 +1488,8 @@
   "status": "draft"
  },
  "v:UnderstudyFemaleStudent_WLD_DockTardiness": {
-  "pl": "Profesor Von Bellini nie obcinałby punktów za spóźnienie na nabrzeże, prawda?",
-  "status": "review"
+  "pl": "Profesor Von Bellini chyba nie zatopi mnie za spóźnienie, prawda?",
+  "status": "done"
  },
  "v:UnderstudyFemaleStudent_WLD_WishBelliniPickedMe": {
   "pl": "Chciałabym, żeby Profesor Von Bellini wybrał mnie do swoich nielegalnych eksperymentów.",
@@ -1572,12 +1572,12 @@
   "status": "draft"
  },
  "v:VonBellini_WLD_SeeYouAft-Er": {
-  "pl": "Spokojnie, zobaczymy się na rufie... znaczy, później.",
-  "status": "review"
+  "pl": "Spokojnie, zobaczymy się na następnej wachcie.",
+  "status": "done"
  },
  "v:VonBellini_WLD_SoLongStudent": {
   "pl": "Do zobaczenia, młody talencie.",
-  "status": "review"
+  "status": "done"
  },
  "v:VonBellini_WLD_TheScience": {
   "pl": "Oto nadchodzi nauka.",
@@ -1592,8 +1592,8 @@
   "status": "draft"
  },
  "v:WarBuffMaleStudent2_WLD_CipherCenterWorry": {
-  "pl": "Trochę się martwię programem w Centrum Szyfrów... Podobno trzeba tam ciągle wchodzić do krypt.",
-  "status": "review"
+  "pl": "Trochę się martwię programem w Centrum Szyfrów... Podobno będziemy ciągle siedzieć w kryptach. Krypto-grafia, rozumiesz.",
+  "status": "done"
  },
  "v:WarBuffMaleStudent2_WLD_HalfTheStory": {
   "pl": "Historia to tylko połowa prawdy.",
@@ -1625,7 +1625,7 @@
  },
  "v:WindowsMaleStudent_WLD_DontMindMe": {
   "pl": "Nie zwracaj na mnie uwagi.",
-  "status": "review"
+  "status": "done"
  },
  "v:WindowsMaleStudent_WLD_Interesting": {
   "pl": "Oooh... jakie ciekawe...",

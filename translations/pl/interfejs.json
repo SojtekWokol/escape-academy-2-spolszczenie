@@ -2120,7 +2120,7 @@
   "status": "done"
  },
  "g:acheivement_30": {
-  "pl": "Śledź z serca",
+  "pl": "Śledź od serca",
   "status": "done"
  },
  "g:acheivement_31": {
@@ -3005,62 +3005,62 @@
  },
  "v:Gillian_EPI_NormalTerm": {
   "pl": "Czyli po tym wszystkim mamy tak po prostu... normalnie dokończyć semestr?",
-  "status": "review"
+  "status": "done"
  },
  "v:Jeb_WET_BoatsReady": {
-  "pl": "Ucieczkowa Łódź gotowa do odjazdu!",
-  "status": "review"
+  "pl": "Łódź Ucieczek gotowa do startu!",
+  "status": "done"
  },
  "v:Jeb_WET_StudentsToSave": {
   "pl": "Wszystko gotowe? Mamy uczniów do uratowania!",
-  "status": "review"
+  "status": "done"
  },
  "v:Kira_EPI_EnoughExcitement": {
   "pl": "Wrażeń starczy mi na cały rok...",
-  "status": "review"
+  "status": "done"
  },
  "v:MSC_Graffiti_CantIgnore": {
   "pl": "Slip, po czymś takim nie da się nas zignorować.",
-  "status": "review"
+  "status": "done"
  },
  "v:MSC_Graffiti_GreatPaint": {
-  "pl": "Wielka sztuka zaczyna się od wielkiej farby.",
-  "status": "review"
+  "pl": "Sztuka wymaga poświęceń. I farby.",
+  "status": "done"
  },
  "v:MSC_Graffiti_TagIt": {
-  "pl": "Berek! Teraz ty malujesz.",
-  "status": "review"
+  "pl": "Berek! Teraz ty tagujesz.",
+  "status": "done"
  },
  "v:MSC_Zipz_HipTimes": {
-  "pl": "Tyrolka to hit, każdy chce lecieć w mig.",
-  "status": "review"
+  "pl": "Tyrolka to hit – zjeżdżaj w mig!",
+  "status": "done"
  },
  "v:MSC_Zipz_LoseGrip": {
-  "pl": "Gdy na linie mkniesz, chwytu nie puszczaj, wiesz?",
-  "status": "review"
+  "pl": "Gdy na tyrolce mkniesz – trzymaj mocno, wiesz?",
+  "status": "done"
  },
  "v:MSC_Zipz_NeedTip": {
-  "pl": "Rada na dziś? Tyrolką leć wzwyż!",
-  "status": "review"
+  "pl": "Potrzebna rada? Na tyrolkę wsiadaj!",
+  "status": "done"
  },
  "v:MSC_Zipz_SkipOfIps": {
-  "pl": "Jestem Skip od Tyrolek i nikt nie przemknie szybciej.",
-  "status": "review"
+  "pl": "Jestem Skip z ekipy Zip – na tyrolce śmigamy w mig!",
+  "status": "done"
  },
  "v:Reed_EPI_Ready4Conspiracy": {
   "pl": "Ja? Mnie się marzy kolejny spisek.",
-  "status": "review"
+  "status": "done"
  },
  "v:Solange_LAR_QuieterTerm": {
-  "pl": "Mam nadzieję, że reszta semestru będzie spokojniejsza?",
-  "status": "review"
+  "pl": "Reszta semestru mija już spokojniej, mam nadzieję?",
+  "status": "done"
  },
  "v:Solange_WET_Now'sTheTime": {
-  "pl": "Pora ruszać – daj znać, kiedy wszystko gotowe.",
-  "status": "review"
+  "pl": "Czas ruszać – czekam na twój znak.",
+  "status": "done"
  },
  "v:Solange_WET_SoAreWe": {
   "pl": "My też.",
-  "status": "review"
+  "status": "done"
  }
 }

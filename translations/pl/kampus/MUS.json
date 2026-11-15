@@ -981,7 +981,7 @@
  },
  "v:Allie_MUS_SimplyLovely": {
   "pl": "Ach, jak pięknie. Dobra uroczystość jest wreszcie na wyciągnięcie wieńca.",
-  "status": "review"
+  "status": "done"
  },
  "v:Bonham_MUS_RealOriginal": {
   "pl": "Wow. Naprawdę oryginalne.",
@@ -989,15 +989,15 @@
  },
  "v:Enora_MUS_BrassTax": {
   "pl": "Teraz przechodzimy do konkretów – czyli do blachy.",
-  "status": "review"
+  "status": "done"
  },
  "v:Enora_MUS_DoYouKnowWhoIAM": {
   "pl": "Za kogo oni się mają, ci muzycy...",
   "status": "draft"
  },
  "v:Enora_MUS_KeyToAnyEnsemble": {
-  "pl": "Dobry pianista to klucz... a właściwie klawisz do każdego zespołu.",
-  "status": "review"
+  "pl": "Dobry pianista to klucz wiolinowy każdego zespołu.",
+  "status": "done"
  },
  "v:Enora_MUS_MemorialToRemember": {
   "pl": "To będzie uroczystość, którą się zapamięta!",
@@ -1113,7 +1113,7 @@
  },
  "v:SLIP_MUS_NoPainPun": {
   "pl": "Bez farby nie ma kołaczy.",
-  "status": "review"
+  "status": "done"
  },
  "v:SLIP_MUS_RestOfMyPaints": {
   "pl": "Nigdy się nie dowiecie, gdzie trzymam resztę farb.",
@@ -1121,7 +1121,7 @@
  },
  "v:row895": {
   "pl": "♪ Gra nuta la ♪",
-  "status": "review"
+  "status": "done"
  },
  "v:row896": {
   "pl": "♪ Gra nuta si ♪",

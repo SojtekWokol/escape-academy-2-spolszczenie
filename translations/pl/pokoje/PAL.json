@@ -277,19 +277,19 @@
  },
  "v:Kira_PAL_YouFoundUs": {
   "pl": "Udało ci się nas znaleźć!",
-  "status": "review"
+  "status": "done"
  },
  "v:Paige_PAL_NotGoodRead": {
   "pl": "Kompletnie nie mogę tego rozczytać.",
   "status": "draft"
  },
  "v:StudentF_PAL_PuzzForScapin": {
-  "pl": "Co to za zagadkowe zadupie?",
-  "status": "review"
+  "pl": "Co to za zagadkowa dziura?",
+  "status": "done"
  },
  "v:StudentF_PAL_WhereWhoI": {
   "pl": "Gdzie ja jestem – kim ja jestem?",
-  "status": "review"
+  "status": "done"
  },
  "v:StudentM_PAL_DontLikePlace": {
   "pl": "Nie przepadam za tym miejscem.",
@@ -304,12 +304,12 @@
   "status": "draft"
  },
  "v:StudentM_PAL_PuzzedUp": {
-  "pl": "Ale tu pozagadkowane, stary!",
-  "status": "review"
+  "pl": "Ale tu zagadkowo, stary!",
+  "status": "done"
  },
  "v:VonBellini_PAL_AbridgedVersion": {
   "pl": "Nie chcę tego słuchać – nawet prosto z mostu!",
-  "status": "review"
+  "status": "done"
  },
  "v:VonBellini_PAL_DoYouMIND": {
   "pl": "Zejdź mi z głowy!",

@@ -628,8 +628,8 @@
   "status": "draft"
  },
  "v:PER_Accordion_TwoLoves": {
-  "pl": "Mam tylko dwie miłości. Morze i tonację C-dur.",
-  "status": "review"
+  "pl": "Mam tylko dwie miłości. Marynarski mundur i C-dur.",
+  "status": "done"
  },
  "v:PER_BreakDance_OhPuzz": {
   "pl": "O rany puzzle! On to robi!",
@@ -652,8 +652,8 @@
   "status": "draft"
  },
  "v:PER_EelExhi_Alive": {
-  "pl": "Coś mi mówi, że Eel wciąż tam jest. Prawie czuję... Eela.",
-  "status": "review"
+  "pl": "Coś mi mówi, że Eel wciąż tam jest. To aż EELektryzujące...",
+  "status": "done"
  },
  "v:PER_EelExhi_RealDeal": {
   "pl": "Eel to ideał.",
@@ -680,20 +680,20 @@
   "status": "draft"
  },
  "v:QTY_PER_SafetyDance": {
-  "pl": "Nie, nie będziemy tańczyć Safety Dance.",
-  "status": "review"
+  "pl": "Nie, nie zatańczymy tańca zwycięstwa nad sejfem.",
+  "status": "done"
  },
  "v:QTY_PER_TapingSomeTime": {
   "pl": "To trwa jak przewijanie kasety.",
-  "status": "review"
+  "status": "done"
  },
  "v:Slip_PER_ActorsNines": {
   "pl": "Ci aktorzy będą wystrojeni jak spod igły.",
   "status": "draft"
  },
  "v:Slip_PER_Capable": {
-  "pl": "Wiedziałem, że masz talent do peleryn.",
-  "status": "review"
+  "pl": "Wiedziałem, że dasz radę. Peleryna ci pasuje.",
+  "status": "done"
  },
  "v:Slip_PER_MeasureUp": {
   "pl": "Wiem, że to zadanie jest szyte na twoją miarę.",
@@ -705,11 +705,11 @@
  },
  "v:Slip_PER_SewThis": {
   "pl": "Spokojnie, to nić trudnego!",
-  "status": "review"
+  "status": "done"
  },
  "v:Slip_PER_VerySpool": {
-  "pl": "Bardzo szpulowo.",
-  "status": "review"
+  "pl": "Szpoko! Bardzo szpoko.",
+  "status": "done"
  },
  "v:Slip_PER_WontCutIt": {
   "pl": "Dla Enory byle jak nie wystarczy. Tu nie ma co ciąć na skróty.",

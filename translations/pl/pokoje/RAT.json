@@ -544,8 +544,8 @@
   "status": "draft"
  },
  "v:VonBellini_RAT_InPrismedMind": {
-  "pl": "Nie pozwól, by zagadka uwięziła twój umysł w pryzmacie!",
-  "status": "review"
+  "pl": "Nigdy nie patrz na wszystko przez pryzmat jednej zagadki.",
+  "status": "done"
  },
  "v:VonBellini_RAT_LabAssistantOnARoll": {
   "pl": "Nasza asystentka laboratoryjna toczy się jak burza!",
@@ -564,8 +564,8 @@
   "status": "draft"
  },
  "v:VonBellini_RAT_PuzzkillSolange": {
-  "pl": "Oj, nie bądź taką zagadko-zrzędą, Solange.",
-  "status": "review"
+  "pl": "Oj, Solange, nie psuj nam zagadkowej zabawy.",
+  "status": "done"
  },
  "v:VonBellini_RAT_RatsRap": {
   "pl": "Uważam, że szczury nie zasługują na złą opinię. Są bardzo przydatne.",
@@ -580,8 +580,8 @@
   "status": "draft"
  },
  "v:VonBellini_RAT_TurmericTraining": {
-  "pl": "No dobra, Kurkumo, do pociągu! Na to właśnie trenowałaś.",
-  "status": "review"
+  "pl": "No dobra, Kurkumo, całą parą! Właśnie po to trenowałaś.",
+  "status": "done"
  },
  "v:VonBellini_RAT_WouldntBelieveHowLong": {
   "pl": "Nie uwierzysz, jak długo ludzie trzymają tam swoje rzeczy...",

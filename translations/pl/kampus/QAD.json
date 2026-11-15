@@ -149,7 +149,7 @@
  },
  "v:HUM_Lemonade_ThanksAid": {
   "pl": "Dzięki za pomoc, bardzo orzeźwiającą!",
-  "status": "review"
+  "status": "done"
  },
  "v:HUM_Lemonade_TrySell": {
   "pl": "Gdy życie daje ci cytryny, spróbuj je sprzedać!",
@@ -184,8 +184,8 @@
   "status": "draft"
  },
  "v:QAD_Red_HerringCaring": {
-  "pl": "Dzielenie się śledziem to troska.",
-  "status": "review"
+  "pl": "Śledź od serca!",
+  "status": "done"
  },
  "v:QAD_Red_ImExcited": {
   "pl": "Nic nie szkodzi, po prostu bardzo cieszą mnie te ryby.",

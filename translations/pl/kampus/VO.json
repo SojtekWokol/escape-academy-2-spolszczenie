@@ -1,19 +1,19 @@
 {
  "v:MUS_NNN_Angry": {
   "pl": "Wściekły",
-  "status": "review"
+  "status": "done"
  },
  "v:MUS_NNN_Bah": {
   "pl": "Bah!",
   "status": "draft"
  },
  "v:MUS_NNN_Grumble": {
-  "pl": "Burczenie",
-  "status": "review"
+  "pl": "Pomruk",
+  "status": "done"
  },
  "v:MUS_NNN_Whoa": {
-  "pl": "Łoo",
-  "status": "review"
+  "pl": "Łał",
+  "status": "done"
  },
  "v:Slip_WLD_WhatsGood": {
   "pl": "Co tam?",

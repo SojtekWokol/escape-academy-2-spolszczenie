@@ -744,12 +744,12 @@
   "status": "draft"
  },
  "v:Allie_SCI_OffRecord": {
-  "pl": "Nie nagrywajmy tego na płytę, ale Nugget jest chyba trochę rozpieszczona.",
-  "status": "review"
+  "pl": "Mówiąc poza nagraniem: Nugget jest chyba trochę rozpieszczona.",
+  "status": "done"
  },
  "v:Allie_SCI_PaltryDiet": {
   "pl": "Robaki... Nędzna ta kurza dieta.",
-  "status": "review"
+  "status": "done"
  },
  "v:SCI_Snack_ChippingIn": {
   "pl": "Dzięki za wsparcie – i za chipsy!",
@@ -757,7 +757,7 @@
  },
  "v:SCI_Tele_CrawlVents": {
   "pl": "Teraz mogę sobie połazić po zardzewiałych szybach wentylacyjnych!",
-  "status": "review"
+  "status": "done"
  },
  "v:row882": {
   "pl": "♪ Odtwarzanie nagrania ♪",
@@ -788,8 +788,8 @@
   "status": "draft"
  },
  "v:row889": {
-  "pl": "♪ Nic nie bije kilku kostek lodu w przełyku. ♪",
-  "status": "review"
+  "pl": "♪ Kilka kostek lodu – i w gardle pełno chłodu. ♪",
+  "status": "done"
  },
  "v:row890": {
   "pl": "♪ Gra łagodny jazz ♪",

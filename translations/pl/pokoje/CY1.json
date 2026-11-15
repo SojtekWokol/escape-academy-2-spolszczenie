@@ -564,12 +564,12 @@
   "status": "draft"
  },
  "v:Reed_CY1_MeantToKey": {
-  "pl": "Temu gościowi chyba nie było pisane... klucz do sukcesu. Szkoda...",
-  "status": "review"
+  "pl": "Temu gościowi chyba nie był pisany klucz do sukcesu... Szkoda...",
+  "status": "done"
  },
  "v:Reed_CY1_MeantToKey_ALT": {
   "pl": "Dotarcie do sedna tego spisku to klucz do wszystkiego. Czuję to!",
-  "status": "review"
+  "status": "done"
  },
  "v:Reed_CY1_MovingStatues": {
   "pl": "Ruchome posągi są o wiele częstsze, niż się wydaje. Uważać trzeba na te, które mają własną świadomość.",

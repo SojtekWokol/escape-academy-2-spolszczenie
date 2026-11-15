@@ -396,8 +396,8 @@
   "status": "draft"
  },
  "v:Solange_LAR_NoBrainIsSafe": {
-  "pl": "Wygląda na to, że żaden mózg nie jest bezpieczny przed naszym czwartym założycielem... nawet w sejfie.",
-  "status": "review"
+  "pl": "Przed naszym czwartym założycielem nawet sejf nie ochroni mózgu...",
+  "status": "done"
  },
  "v:Solange_LAR_NoEscape": {
   "pl": "To koniec. Alistair nie ma już dokąd uciec...",
@@ -405,7 +405,7 @@
  },
  "v:Solange_LAR_NoTimeToLose": {
   "pl": "Nie ma czasu do stracenia – znajdź sposób, żeby dostać się do kapsuły!",
-  "status": "review"
+  "status": "done"
  },
  "v:Solange_LAR_SadPlace": {
   "pl": "Co za smutne miejsce na spędzanie tylu lat...",

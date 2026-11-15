@@ -456,8 +456,8 @@
   "status": "draft"
  },
  "v:VonBellini_AHY_AhoyAssistant": {
-  "pl": "Ahoj, asysto!",
-  "status": "review"
+  "pl": "Ahoj, prawa ręko!",
+  "status": "done"
  },
  "v:VonBellini_AHY_BarrelingThroughPuzzles": {
   "pl": "Toczmy się dalej przez te zagadki jak beczka, musimy dotrzeć do szalupy ratunkowej.",
@@ -469,7 +469,7 @@
  },
  "v:VonBellini_AHY_CaptainGoesDown": {
   "pl": "Nie przyznaję racji zasadzie, że „kapitan tonie wraz ze statkiem”.",
-  "status": "review"
+  "status": "done"
  },
  "v:VonBellini_AHY_CaptainObvious": {
   "pl": "Nie chcę być kapitanem Oczywistym, ale... nie jesteśmy w najlepszej formie.",
@@ -481,23 +481,23 @@
  },
  "v:VonBellini_AHY_CurrentSituationHa": {
   "pl": "Nasza bieżąca sytuacja mogłaby być lepsza, owszem.",
-  "status": "review"
+  "status": "done"
  },
  "v:VonBellini_AHY_EasyNow": {
   "pl": "Spokojnie... SPOKOJNIE... CZŁOWIEK ZA BUUUuuurtą... *Plusk*",
   "status": "draft"
  },
  "v:VonBellini_AHY_EscapingTheAcademyRollCredits": {
-  "pl": "Przed zamiłowaniem Akademii do dramatycznych efektów i rac nie da się uciec.",
-  "status": "review"
+  "pl": "Ta Akademia zawsze musi narobić dymu.",
+  "status": "done"
  },
  "v:VonBellini_AHY_ExhaustingRetirement": {
   "pl": "Nikt mi nie powiedział, że emerytura będzie taka... wyczerpująca.",
   "status": "draft"
  },
  "v:VonBellini_AHY_FailsafesAreBad": {
-  "pl": "Zabezpieczenia w tej kajucie nadają się chyba tylko do spania, prawda?",
-  "status": "review"
+  "pl": "Te zabezpieczenia to bajka na dobranoc, co?",
+  "status": "done"
  },
  "v:VonBellini_AHY_HitDeck": {
   "pl": "Na pokład!",
@@ -525,7 +525,7 @@
  },
  "v:VonBellini_AHY_SeeNothingSayNothing": {
   "pl": "Cokolwiek robisz, ignoruj bieżącą wodę, która zalewa statek.",
-  "status": "review"
+  "status": "done"
  },
  "v:VonBellini_AHY_ShipVeeredOffCourse": {
   "pl": "Tak zbaczać z kursu? Ktoś nam chyba wcisnął kwaśną cytrynę zamiast statku.",
@@ -557,7 +557,7 @@
  },
  "v:VonBellini_AHY_TooMuchSecurity": {
   "pl": "Na tym ustrojstwie jest stanowczo za dużo przeklętych zabezpieczeń...",
-  "status": "review"
+  "status": "done"
  },
  "v:VonBellini_AHY_Upupup": {
   "pl": "Do góry, do góry! Nie ty, wodo, ty zostajesz tam, gdzie jesteś.",

@@ -292,8 +292,8 @@
   "status": "draft"
  },
  "v:Reed_DET_BreakoutLocketList": {
-  "pl": "Ucieczka z więzienia? Odhaczone na liście marzeń... zamkniętej na kłódkę.",
-  "status": "review"
+  "pl": "Ucieczka z więzienia? Kolejna kłódka z listy marzeń otwarta!",
+  "status": "done"
  },
  "v:Reed_DET_Fail": {
   "pl": "Cóż, żegnajcie wspomnienia.",

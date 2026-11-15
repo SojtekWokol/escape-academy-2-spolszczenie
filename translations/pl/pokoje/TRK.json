@@ -385,7 +385,7 @@
  },
  "v:Jeb_TRK_GetRocked": {
   "pl": "Rozłupana zagadka!",
-  "status": "review"
+  "status": "done"
  },
  "v:Jeb_TRK_GoGoGo": {
   "pl": "Dalej, dalej, dalej! Tunele zaraz nam się zawalą na głowy!",
@@ -396,12 +396,12 @@
   "status": "draft"
  },
  "v:Jeb_TRK_KeepOnRails": {
-  "pl": "Hej! Trzymajcie się szyn tam z tyłu!",
-  "status": "review"
+  "pl": "Hej! Tylko mi się tam nie wykolejcie!",
+  "status": "done"
  },
  "v:Jeb_TRK_LeftOvenOn": {
   "pl": "Kto zostawił włączony piekarnik?!",
-  "status": "review"
+  "status": "done"
  },
  "v:Jeb_TRK_LetterRip": {
   "pl": "Jazda z tym listem!",
@@ -448,8 +448,8 @@
   "status": "draft"
  },
  "v:Jeb_TRK_TripToCrypts": {
-  "pl": "Szkoda, że nasza wycieczka do krypt odbywa się w tak poważnych... wręcz grobowych okolicznościach.",
-  "status": "review"
+  "pl": "Szkoda, że do krypt wybieramy się w tak grobowych okolicznościach...",
+  "status": "done"
  },
  "v:Jeb_TRK_WatchHowSwinging": {
   "pl": "Ej! Uważaj, jak tym machasz.",

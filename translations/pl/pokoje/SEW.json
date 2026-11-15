@@ -405,7 +405,7 @@
  },
  "v:GIllian_SEW_HaveBeSewers": {
   "pl": "Czy te okulary musiały nas zaprowadzić aż do kanałów?",
-  "status": "review"
+  "status": "done"
  },
  "v:GIllian_SEW_WhatPlace": {
   "pl": "Co... to za miejsce...",
@@ -417,7 +417,7 @@
  },
  "v:Kira_SEW_BackToTheDungeon": {
   "pl": "Możemy po prostu wrócić do Karceru i udawać, że nic się nie stało...",
-  "status": "review"
+  "status": "done"
  },
  "v:Kira_SEW_BadFeelingAboutThis": {
   "pl": "Mam z tym złe przeczucia...",
