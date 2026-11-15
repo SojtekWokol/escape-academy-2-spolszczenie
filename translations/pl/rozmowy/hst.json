@@ -1,11 +1,11 @@
 {
  "n:line:001b407": {
   "pl": "Stop! Chwileczkę. Próbujesz kupić <style=\"clue\">towar pod ścisłą kontrolą</style>!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0043d6b": {
   "pl": "W sumie to mnie nie stać...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00962d8": {
   "pl": "O, patrzcie, kto przyszedł! Zjawiasz się w samą porę, żeby pomóc mi w ostatnich poprawkach wystawy „Założyciele na serio” przed wielkim otwarciem!",
@@ -57,7 +57,7 @@
  },
  "n:line:04148ab": {
   "pl": "M-możesz śmiało <style=\"clue\">użyć łomu, żeby otworzyć skrzynie</style>...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04503bd": {
   "pl": "Ktokolwiek je pakował, <style=\"clue\">nie opisał ich porządnie</style>, a przyjechały razem z transportem jadowitych zwierząt do badań profesor Bonilli.",
@@ -69,7 +69,7 @@
  },
  "n:line:04823be": {
   "pl": "A, i uważaj przy podważaniu! Niektóre z tych skrzyń mogą być <style=\"clue>niebezpieczne</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0506f70": {
   "pl": "Próbowałem gołymi rękami, ale skończyło się tylko na drzazgach...",
@@ -97,7 +97,7 @@
  },
  "n:line:08324c9": {
   "pl": "Nie biorę odpowiedzialności za żaden <i>łom</i>ot.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:087d4c5": {
   "pl": "Dzięki za zakupy! I nie mów mi, co zamierzasz z tym zrobić.",
@@ -105,7 +105,7 @@
  },
  "n:line:08ac789": {
   "pl": "Patrz, nawet nie jest podrobione! <style=\"purchase\">(Pokaż pozwolenie)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:08d0dae": {
   "pl": "Skocz do <style=\"clue\">magazynu i kup łom za {0} dolców</style>. Zaczekam tu na ciebie!",
@@ -113,7 +113,7 @@
  },
  "n:line:093f125": {
   "pl": "Hurra! Udało się! Jeszcze tylko jedno i wystawa będzie gotowa do przecięcia wstęgi.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0980c04": {
   "pl": "Kto w ogóle pozwolił, żeby przesyłka egzotycznych zwierząt profesor Bonilli wymieszała się z artefaktami?",
@@ -125,7 +125,7 @@
  },
  "n:line:0bb2421": {
   "pl": "Wow, naprawdę jeszcze nigdy czegoś takiego nie widziałem... Wygląda wiarygodnie! Ten łom jest twój za jedyne <style=\"clue\">{0} $</style>!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c6a1a0": {
   "pl": "Czy <style=\"clue\">tabliczki</style> muszą być zawsze takie tajemnicze?",
@@ -169,6 +169,6 @@
  },
  "n:line:0fd41e7": {
   "pl": "M-możesz śmiało <style=\"clue\">użyć łomu, żeby otworzyć skrzynie</style>...",
-  "status": "review"
+  "status": "done"
  }
 }

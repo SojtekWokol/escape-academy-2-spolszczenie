@@ -1,7 +1,7 @@
 {
  "n:line:000753a": {
   "pl": "Wchodź już do środka, profesor Chortkoff nie zacznie przedstawienia, dopóki sala nie będzie pełna.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:000f325": {
   "pl": "Na razie!",
@@ -25,7 +25,7 @@
  },
  "n:line:002fbe0": {
   "pl": "Ciekawe, jak Jeb... to znaczy profesor Jeberson poradzi sobie z prowadzeniem naszych lekcji historii.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00439a9": {
   "pl": "Czasem jesteś nie do zniesienia, wiesz?",
@@ -37,7 +37,7 @@
  },
  "n:line:004b72f": {
   "pl": "Poproszę jeden bilet! <style=\"purchase\">(Daj {0} $)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0076dca": {
   "pl": "Czeka nas długa noc...",
@@ -69,7 +69,7 @@
  },
  "n:line:0100cc2": {
   "pl": "Ha! Mnie akurat z jakiegoś powodu całkiem ufa.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0106279": {
   "pl": "Jak myślisz, czemu założyciele wymazali Alistaira z historii?",
@@ -81,7 +81,7 @@
  },
  "n:line:01241a5": {
   "pl": "W tym roku pokażę wszystkim moim hejterom, na co stać tę eskapistkę.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0136b5a": {
   "pl": "Przyjęłam. Idę na północ...",
@@ -109,11 +109,11 @@
  },
  "n:line:0173266": {
   "pl": "Oj, daruj sobie! Skromność <i>i</i> talent naraz? To wkurzające.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0186079": {
   "pl": "Jesteśmy we wspólnej podświadomości Von Belliniego i jego ofiar!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:019c589": {
   "pl": "Te szyby to istny labirynt. Dobrze, że mamy te niezwykle pomocne mapy!",
@@ -133,7 +133,7 @@
  },
  "n:line:022191a": {
   "pl": "Mam nadzieję, że spodoba ci się przypuszczalnie napuszone przedstawienie profesor Chortkoff.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02228f4": {
   "pl": "Okej, idę na wschód...",
@@ -177,11 +177,11 @@
  },
  "n:line:031a674": {
   "pl": "Przyjęłam, idę na zachód...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0320f2d": {
   "pl": "Nie mam pojęcia, ale to musiało być coś <i>złego.</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0344144": {
   "pl": "No dobra, mamy plan i mapę. Znikamy!",
@@ -189,11 +189,11 @@
  },
  "n:line:03610b7": {
   "pl": "Jeśli nadal upierasz się, żeby wejść, to będzie <style=\"clue\">{0} eskadolarów</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:036a28a": {
   "pl": "Do dzieła. Te okulary są nasze! <style=\"story\">(Kontynuuj historię)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:036c465": {
   "pl": "<i>Nigdy</i> nie uciszysz plotek o faworyzowaniu przez dyrektorkę.",
@@ -217,7 +217,7 @@
  },
  "n:line:039ca40": {
   "pl": "Ech, mówisz jak moi rodzice. Dla mnie to wszystko jest Escape!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:03a1c03": {
   "pl": "Moi rodzice uważają nawet, że mogłaby trochę poluzować.",
@@ -265,7 +265,7 @@
  },
  "n:line:0456818": {
   "pl": "No dobra. Tak... Ale to nie znaczy, że nie spróbuję <i>też</i> wkraść się w <i>jego</i> łaski i zachować dla siebie wszystkiego, co chce utrzymać w tajemnicy!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0467671": {
   "pl": "Mam nadzieję, że ta guma się przyda. Była obrzydliwa i lepka, kiedy zdrapywałam ją z biurka... może <style=\"clue\">posłuży za dobry klej</style>!",
@@ -281,11 +281,11 @@
  },
  "n:line:049b012": {
   "pl": "To <i>o wiele</i> większa sprawa, niż mogło mi się śnić!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04ae934": {
   "pl": "Czyli mogę jeszcze <i>chwilę</i> zachować resztki godności.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04b7dd0": {
   "pl": "Tylko się za bardzo nie nadymaj po Wyzwaniu wieży zegarowej... jestem <i>tuż</i> za tobą.",
@@ -305,7 +305,7 @@
  },
  "n:line:04dae77": {
   "pl": "Bez przesady. Dobrze wiemy, że jest... magnesem na wypadki.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04fa5ef": {
   "pl": "Na razie!",
@@ -349,7 +349,7 @@
  },
  "n:line:05c8ffe": {
   "pl": "Wow! Tu jest <style=\"clue\">wielka torba z pieniędzmi</style>! Jest też <style=\"clue\">przejście na wschód i na południe</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05d152b": {
   "pl": "No to na co czekasz? Jeb nie dał mi <style=\"clue\">pozwolenia na łom</style>.",
@@ -389,7 +389,7 @@
  },
  "n:line:06184d6": {
   "pl": "Wygląda na to, że <style=\"clue\">na tym cokole jest ukryta wiadomość</style> do uzupełnienia.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06190a6": {
   "pl": "Tak, to długa historia.",
@@ -417,7 +417,7 @@
  },
  "n:line:0697cf1": {
   "pl": "No dobra! Zachowaj swoje sekrety. Jakby mnie to obchodziło.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06a3a60": {
   "pl": "Widzę <style=\"clue\">skrzynkę z narzędziami na północy</style> i <style=\"clue\">kask na południu</style>.",
@@ -437,11 +437,11 @@
  },
  "n:line:06fac09": {
   "pl": "To już <i>twój</i> problem.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:070a1b0": {
   "pl": "Lepiej weź się <i>porządnie</i> w garść, jeśli chcesz dotrzymać mi kroku!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:073513c": {
   "pl": "Naprawdę go polubiłam, ale... nie wygląda mi na naukowca. Historia to zbyt ważny przedmiot, żeby coś w niej pomylić!",
@@ -449,7 +449,7 @@
  },
  "n:line:073e4fa": {
   "pl": "Są na nim <style=\"clue\">wyryte symbole kart</style>... Co mamy zrobić, po prostu <style=\"clue\">poprosić założycieli o pomoc?</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:074b0d3": {
   "pl": "Ciebie też miło widzieć, Gillian. Moje wakacje były świetne, dzięki, że pytasz.",
@@ -465,7 +465,7 @@
  },
  "n:line:0771e5e": {
   "pl": "No weź... Nie zmuszaj mnie, żebym wytrzepała z ciebie {0} eskadolarów.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:077ab22": {
   "pl": "Daj mi chwilę, spojrzę na mapy...",
@@ -497,7 +497,7 @@
  },
  "n:line:07f6d09": {
   "pl": "Prawdę mówiąc, można się było spodziewać dużo więcej zagadkowych wpadek...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0823287": {
   "pl": "Idź <style=\"vis_clue\">na zachód</style>.",
@@ -513,7 +513,7 @@
  },
  "n:line:0853a35": {
   "pl": "Musimy sprzedać określoną liczbę biletów, bo inaczej profesor Chortkoff nie da mi zaliczenia...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:08775da": {
   "pl": "Na razie!",
@@ -525,7 +525,7 @@
  },
  "n:line:0880194": {
   "pl": "Uczniowie być może zaginęli, a ty myślisz o swojej reputacji?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:088413a": {
   "pl": "Ciekawe, pod którą częścią kampusu jesteśmy... Te tunele kompletnie mnie zdezorientowały.",
@@ -533,7 +533,7 @@
  },
  "n:line:088a2d0": {
   "pl": "O, jesteś! Czekamy <style=\"clue\">do zmroku</style> na małe włamanie?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0891cbe": {
   "pl": "Jeśli chcemy odnieść sukces jako eskapiści, ważne, żebyśmy znali historię tego, skąd się wzięliśmy.",
@@ -577,7 +577,7 @@
  },
  "n:line:099862d": {
   "pl": "I żeby ktoś porządnie jej uczył.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09acb55": {
   "pl": "Dobra, wracam...",
@@ -585,7 +585,7 @@
  },
  "n:line:09ad0a6": {
   "pl": "Gaz niepamięci, sufity z kolcami, <style=\"clue\"><i>podręczniki</style>!</i> Fantastyczny początek, co nie?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09bc816": {
   "pl": "Mówię poważnie. Nikomu nie mów, że naprawdę cię szanuję.",
@@ -625,11 +625,11 @@
  },
  "n:line:0a50491": {
   "pl": "Dobra, plan gotowy! Wystarczy <style=clue\">poczekać do zmroku</style>, żeby go wykonać.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a55a6a": {
   "pl": "Miło znowu z kimś nadawać na tych samych falach. Ja... w wakacje nie miałam tego za wiele...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a6247f": {
   "pl": "Jedna z tych rzeczy nie pasuje do pozostałych...",
@@ -641,7 +641,7 @@
  },
  "n:line:0a761a3": {
   "pl": "Teraz musimy poczekać, aż skończą się próby, i dopiero wtedy zacznie się przedstawienie.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a9b8d8": {
   "pl": "Profesor Chortkoff jeszcze nie dała mi biletów, a ja nie zamierzam handlować jej towarem, dopóki nie będzie to absolutnie konieczne.",
@@ -681,11 +681,11 @@
  },
  "n:line:0b241b6": {
   "pl": "Czemu ty tak łatwo zjednujesz sobie wszystkich, a mnie to prawie nie wychodzi...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b37798": {
   "pl": "Ślepy zaułek. Ale ktoś zostawił tu... <style=\"clue\">koło ratunkowe</style>? Nie bardzo wiem, jak to w ogóle możliwe.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b5d01e": {
   "pl": "Jestem przy kasku. Widzę <style=\"clue\">zawór na zachodzie</style>. A <style=\"clue\">na północy jest skrzynka z narzędziami</style>.",
@@ -709,11 +709,11 @@
  },
  "n:line:0bcede2": {
   "pl": "Zaraz wielkie otwarcie wystawy! <style=\"clue\">Zobaczmy, co ma do powiedzenia profesor Jeberson</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bdbbac": {
   "pl": "Bełkotał tylko, że niemożliwe, żeby <i>Paisley</i> nie poleciała od razu na niego donieść Solange. Ma paranoję. I jest <i>stary</i>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bfd23e": {
   "pl": "Oj, przychodzi mi do głowy kilka wyjaśnień.",
@@ -769,7 +769,7 @@
  },
  "n:line:0cab840": {
   "pl": "Grzebanie w tajemnicy Akademii, unikanie dyrektorki Solange, szukanie związku z zaginionymi uczniami...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0cae49c": {
   "pl": "Za żadne skarby! A teraz wyciągnij mnie stąd i weź to, wolę głodować.",
@@ -781,7 +781,7 @@
  },
  "n:line:0ce7989": {
   "pl": "O co chodzi z profesorem Von Bellinim? Chciałam pomóc przy jego <style=\"clue\">eksperymencie</style>, ale kompletnie mnie zbył.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0cef691": {
   "pl": "Idź <style=\"vis_clue\">na wschód</style>.",
@@ -897,7 +897,7 @@
  },
  "n:line:0ef8a9e": {
   "pl": "W tym roku znowu uratowaliśmy Akademię, co nie?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f09e1b": {
   "pl": "Na razie!",
@@ -913,7 +913,7 @@
  },
  "n:line:0f18023": {
   "pl": "Co nie ma w ogóle sensu! Przecież to ty jesteś największym oczkiem w głowie Solange. Bez urazy. No, <i>trochę</i> z urazą.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f19140": {
   "pl": "No halo, przecież tam byłam. Pamiętam wszystkie zagadkowe szczegóły.",

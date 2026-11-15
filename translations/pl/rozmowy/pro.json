@@ -45,7 +45,7 @@
  },
  "n:line:032a398": {
   "pl": "O, dobrze, że wracasz. Może jednak zdobędziesz dla mnie tę Eska-Colę?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:032b1c0": {
   "pl": "Sam ssiesz jak odkurzacz!",
@@ -73,7 +73,7 @@
  },
  "n:line:04a275e": {
   "pl": "<style=\"clue\">Tuż za rogiem stoi automat z napojami</style>. Tak blisko, a zarazem tak daleko...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0547bfb": {
   "pl": "Spoko. Resztę semestru mogę spędzić na tej ławce.",
@@ -97,7 +97,7 @@
  },
  "n:line:0741711": {
   "pl": "Wygląda na to, że potrzebujecie porządnego grafiku sprzątania! <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:074335e": {
   "pl": "Stary... <style=\"clue\">Michael i Wyatt</style> drą się na siebie na <style=\"clue\">tylnej klatce schodowej</style>, odkąd wprowadziliśmy się do akademika...",
@@ -117,7 +117,7 @@
  },
  "n:line:0a075f6": {
   "pl": "Powiesz Michaelowi, że to <i>boleśnie</i> oczywiste: Kłódź Puzzlers to najlepsza drużyna Puzzle Ball?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a89d1f": {
   "pl": "Tysiąc razy dziękuję. To będzie długi rok, jeśli nie przetrwam dni adaptacyjnych.",
@@ -141,7 +141,7 @@
  },
  "n:line:0cd2156": {
   "pl": "No cóż... mam śmiertelne <style=\"clue\">uczulenie na kurz</style>, więc miotełki z piórami prędko nie tknę.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d3c9d3": {
   "pl": "Nie ruszę tego nawet kijem.",
@@ -165,15 +165,15 @@
  },
  "n:line:0dbb010": {
   "pl": "Tobie trzeba o wiele więcej niż puszki Eska-Coli. Na razie!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0de8a72": {
   "pl": "No cóż... przynajmniej Michael i Wyatt podzielili się obowiązkami. Choć kłótnie chyba wcale nie ucichły!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0eacb85": {
   "pl": "Masz parę eskadolarów za fatygę!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0eb4eb8": {
   "pl": "Na razie!",
@@ -193,7 +193,7 @@
  },
  "n:line:0fac733": {
   "pl": "Powiesz Wyattowi, że Nowa Kłódka Yankeys pozyskała wschodzący talent zagadkowy i w tym sezonie wygląda groźnie?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ff1e5b": {
   "pl": "Powiesz, proszę, <i>mojemu</i> współlokatorowi, że jest zwykłym flejtuchem?",

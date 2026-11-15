@@ -13,7 +13,7 @@
  },
  "n:line:002eafa": {
   "pl": "Przykro mi, hydraulika to nie moja działka.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:004224c": {
   "pl": "Może szafka z zagadkami Jacoba była po prostu przeznaczona do spalarni...",
@@ -29,11 +29,11 @@
  },
  "n:line:00777ed": {
   "pl": "Żeby ją zmylić, to <i>ty</i> <style=\"clue\">zdobędziesz potrzebne materiały</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:007cee2": {
   "pl": "Najtrudniejsze obliczenia już zrobiłem, wystarczy, że użyjesz mojego równania <style=\"clue\">z tablicy</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00882b9": {
   "pl": "Był list... ale przepadł.",
@@ -49,7 +49,7 @@
  },
  "n:line:00ae0c3": {
   "pl": "Trzyma swoją pracę zaliczeniową z projektowania zagadek nad <style=\"clue\">Żarnicą Piecową</style> o wiele dłużej, niż to zdrowe.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00bc101": {
   "pl": "Jasne, stary, wchodzę w to. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
@@ -85,7 +85,7 @@
  },
  "n:line:013d72e": {
   "pl": "Chwileczkę... co to ma być? Gdzie druga para rąk z mojego laboratorium? <style=\"clue\">Potrzebuję tu was obojga</style> do obsługi statku!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:013f1c9": {
   "pl": "A kiedy pan się wyprowadza, ja się <i>wprowadzam.</i> <style=\"clue\">Z powrotem do mojego starego laboratorium</style>.",
@@ -129,7 +129,7 @@
  },
  "n:line:01e4139": {
   "pl": "Daj mi w spokoju przeżyć żałobę...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:022c420": {
   "pl": "Do zobaczenia!",
@@ -157,7 +157,7 @@
  },
  "n:line:02a7f0a": {
   "pl": "Razem stworzyliśmy tę szkołę i razem mieliśmy <i>nią kierować</i> przez długie lata.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02b67fe": {
   "pl": "I oddać swoje idealne miejsce na plaży? Zapomnij, stary.",
@@ -165,7 +165,7 @@
  },
  "n:line:02cb6f3": {
   "pl": "Wraca moja prawa ręka!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:033050d": {
   "pl": "Jeszcze nie teraz...",
@@ -177,7 +177,7 @@
  },
  "n:line:0340c7d": {
   "pl": "Dla mnie jest super... ale wszyscy inni pałają do tej gry ognistą nienawiścią. Stąd piec...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:034e307": {
   "pl": "Tak, chyba przyszła pora, bym przeszedł na emeryturę, reszta grona pedagogicznego z pewnością tak uważa...",
@@ -185,7 +185,7 @@
  },
  "n:line:03990b3": {
   "pl": "Och, to małe zebranie rady pedagogicznej... absolutnie nie ma się czym martwić! Zostałem tylko niepotrzebnie zrugany za moją naukę. <i>Znowu</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:039aa7e": {
   "pl": "A, i to małe zebranie grona pedagogicznego nie miało z nami nic wspólnego, nic nam nie grozi! Zwykła, rutynowa kontrola kadry.",
@@ -221,7 +221,7 @@
  },
  "n:line:0487105": {
   "pl": "Potem możesz <style=\"clue\">wrócić tutaj</style> i...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0488777": {
   "pl": "Naprawdę!? Ojej, zdejmujesz ze mnie sporo ciśnienia.",
@@ -249,7 +249,7 @@
  },
  "n:line:0526ba8": {
   "pl": "Pomogę, w końcu praktycznie terminuję u Jeba! <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0529a31": {
   "pl": "Wiem, że bywam trudny, ale... robię to tylko dlatego, że chcę, aby Akademia prosperowała jeszcze długo po tym, jak nas wszystkich zabraknie.",
@@ -281,11 +281,11 @@
  },
  "n:line:05e83bd": {
   "pl": "Skandal! Opóźnianie nauki to ciężki grzech. Po prostu... wróć, jak już się zdecydujesz. I lepiej, żeby to było szybko.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:060d60c": {
   "pl": "Poza tym ty odpowiadasz za to, żeby statek wrócił w jednym kawałku.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:067b566": {
   "pl": "Ja... zaraz was dogonię!",
@@ -309,11 +309,11 @@
  },
  "n:line:070a22b": {
   "pl": "Ale to nic nowego. Co więcej... póki wszyscy żyją tym <style=\"clue\">otwarciem muzeum</style>... mogę niepostrzeżenie uprawiać więcej nauki!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0771c83": {
   "pl": "<i>Żartowałem!</i> To oczywiście eskadolary.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07d2134": {
   "pl": "Dobrze! Ignoruj mnie. Jak wszyscy.",
@@ -393,7 +393,7 @@
  },
  "n:line:0921689": {
   "pl": "Dzięki tobie Axel spuścił trochę pary! <i>A do tego</i> rury naprawione.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09555ef": {
   "pl": "Nikt ci nigdy nie mówił, że stawanie między armatą a jej celem to kiepski pomysł?",
@@ -413,7 +413,7 @@
  },
  "n:line:099c274": {
   "pl": "Mało ci było kierowania moją szkołą, to teraz jeszcze sprzeciwiasz się woli założycieli?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09a0048": {
   "pl": "Nie tak szybko! Mogę spróbować? <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
@@ -457,7 +457,7 @@
  },
  "n:line:0a6f933": {
   "pl": "Jeśli nie masz problemu ze wspinaczką, podobno widoki <style=\"clue\">ze szczytu turbiny</style> są <i>zawrotne</i>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a70364": {
   "pl": "Muszę skupić się na absorpcji, jeśli mam doprowadzić to do końca.",
@@ -485,7 +485,7 @@
  },
  "n:line:0b379f7": {
   "pl": "A teraz spotkaj się ze mną <style=\"clue\">za Fabryką Łamigłówek</style>, żeby nikt nie zauważył, jak się tam wślizgujemy.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b5c6f8": {
   "pl": "Będę wypatrywał moich notatek z laboratorium... Byłoby karygodne je zgubić.",
@@ -493,7 +493,7 @@
  },
  "n:line:0b93fee": {
   "pl": "Za łatwa?! Na pewno? Każdy się zna najlepiej, co?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ba3be9": {
   "pl": "Oto <style=\"clue\">lista</style> komponentów. W <style=\"clue\">magazynie</style> powinno być wszystko, czego potrzebujemy. Śpiesz się!",
@@ -501,11 +501,11 @@
  },
  "n:line:0bc15e6": {
   "pl": "EHEM! Właśnie do tego dochodziłem, Quanty. Jeszcze nie jesteś starszym profesorem nauk ścisłych. Ale tak...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bd267e": {
   "pl": "Nie ma mowy, stary. Nie ma mowy.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bd943a": {
   "pl": "Rozwiązane! Naprawdę rozwiązane! Może wcale nie jestem takim złym projektantem zagadek.",
@@ -517,7 +517,7 @@
  },
  "n:line:0c080ed": {
   "pl": "Moment... gdzie twoja para z laboratorium? <style=\"clue\">Potrzebuję tu was obu</style>, jeśli mamy to przeprowadzić!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c2b4ce": {
   "pl": "Ej, uważaj <style=\"clue\">za rogiem</style>... Chyba Axelowi zaraz puszczą nerwy.",
@@ -529,7 +529,7 @@
  },
  "n:line:0c77148": {
   "pl": "Dobra, załadowany. Czerwony Śledź gotowy do rejsu! Rany... Ten dzień naprawdę zaskoczył starego eskapistę!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c7e426": {
   "pl": "Albo ich spalanie! Dla mnie to brzmi jak fajne powołanie.",
@@ -549,7 +549,7 @@
  },
  "n:line:0cb1b41": {
   "pl": "Chodzi tu przecież o „rozwijanie naszego potencjału” jako eskapistów, prawda? A my ledwie liznęliśmy temat!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0cc6cc1": {
   "pl": "Siema, stary! Hej, nie ruszaj się, dobra? Stoisz w idealnym miejscu, żeby zasłaniać słońce, bo od rana świeci mi prosto w oczy...",
@@ -565,7 +565,7 @@
  },
  "n:line:0cedd7c": {
   "pl": "A żeby zebrać <style=\"clue\">niezbędne odczyty</style>...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d0a768": {
   "pl": "Kiedy się wydostałem, wszyscy moi przyjaciele nie żyli, a mnie wymazano z historii! Mimo to kontynuowałem misję, którą wspólnie obraliśmy.",
@@ -589,7 +589,7 @@
  },
  "n:line:0daf2d5": {
   "pl": "Ha! W końcu ktoś to docenia! Ale jeśli tak... to dlaczego nadal nie ma rozwiązania?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0db3d7f": {
   "pl": "Mam tylko nadzieję, że zostanę w pamięci moich uczniów tak, jak oni zostaną w mojej...",
@@ -617,7 +617,7 @@
  },
  "n:line:0e0df4c": {
   "pl": "Skoro tak, to chyba lepiej się zbierać.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e1fcfc": {
   "pl": "Yyy... mam kawałki pewnego listu, który jest mega ważny... <style=\"story\">(Pokaż strzępy)</style>",
@@ -637,7 +637,7 @@
  },
  "n:line:0e6d9b1": {
   "pl": "W sumie racja, stary. Totalna racja.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e71823": {
   "pl": "No to przygotuj się. Mam dość przeciągania. Wracaj do mnie migiem!",
@@ -665,7 +665,7 @@
  },
  "n:line:0ee11d3": {
   "pl": "Hej, czy to nie jedna z moich zapasowych baterii z tyłu tego urządzenia?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ee8d9d": {
   "pl": "No to się pospiesz i je zbierz!",
@@ -677,7 +677,7 @@
  },
  "n:line:0ef01b0": {
   "pl": "No raczej. Jak inaczej mam osiągnąć oświecenie?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ef2a21": {
   "pl": "Jeszcze tylko krok do wypłynięcia... A ja chcę mieć cię <style=\"clue\">u boku w tej podróży</style> po wodach losu!",
@@ -713,7 +713,7 @@
  },
  "n:line:0fa74c4": {
   "pl": "Czas na trochę zakazanej nauki! <style=\"story\">(Kontynuuj historię)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0fc4003": {
   "pl": "Och. <i>Bardzo</i> dziękuję za zwrócenie mi uwagi. A teraz wynocha!",

@@ -9,7 +9,7 @@
  },
  "n:line:002ad75": {
   "pl": "Zamiatamy pod dywan to, że przed chwilą próbowała mnie pani zabić?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:002f4a9": {
   "pl": "Ufam, że wkrótce znów się zobaczymy. Stanowczo za wcześnie.",
@@ -37,7 +37,7 @@
  },
  "n:line:009b6b0": {
   "pl": "Moment, chyba należy nam się cała historia <style=\"clue\">od was obojga</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00a7f80": {
   "pl": "Pomożesz mi z moimi rzeczami, jak dojedziemy na kampus?",
@@ -45,7 +45,7 @@
  },
  "n:line:00b0c60": {
   "pl": "Ktoś, z kim o mały włos nie dzieliłem pokoju, przybywa nam z odsieczą! <i>Wiedziałem</i>, że gwiazda roku mnie znajdzie.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00b176b": {
   "pl": "Wypił też alarmującą ilość mojej herbaty uspokajającej...",
@@ -65,11 +65,11 @@
  },
  "n:line:00c5409": {
   "pl": "Chy-chyba mi się udało! Mam nadzieję, że dostanę rolę! Zawsze marzyła mi się rola detektywa.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00c7e8e": {
   "pl": "Mój były arcywróg, a obecnie sprzymierzeniec, wraca!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00ccac3": {
   "pl": "Ale ruchy! Zobaczymy, czy obsada będzie miała po spektaklu dość energii, żeby dotrzymać kroku...",
@@ -77,11 +77,11 @@
  },
  "n:line:00cd32a": {
   "pl": "Nie, nie, nie. <style=\"clue\">Nikogo ci nie brakuje?</style> Poczekam tu, aż tę osobę odszukasz.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00d14fd": {
   "pl": "Ale czad! Z miejsca wskakujesz do czołówki wydziałowej blachy! Wchodzę z tobą w jam ku pamięci Von Belliniego!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00da1b1": {
   "pl": "Szkoda. Choć i tak Solange by mi nie uwierzyła... W końcu jesteś jej ukochaną gwiazdą roku.",
@@ -101,11 +101,11 @@
  },
  "n:line:010c6da": {
   "pl": "Kiedy ja kiedyś odejdę z Akademii, to będzie co najmniej... trzy razy większe wydarzenie! Z fajerwerkami. <i>I chórem!</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:011aded": {
   "pl": "Ałć. Skok w stylu BASIC bez porządnego kodowania? Drugiego nie polecam.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:011dd8b": {
   "pl": "Ach, yy... przepraszam. Ten bilet jest ważny na dwie osoby... <style=\"clue\">Musicie być tu oboje</style>, żeby zająć miejsca.",
@@ -157,7 +157,7 @@
  },
  "n:line:0168964": {
   "pl": "Oby nie trzęsło za bardzo... Trochę się objadłem.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:01695c3": {
   "pl": "Ha, mój arcywróg wraca! Tak, wróciłem. Tak, moja sieć wózków Quanty została zdegradowana do całej masy upokarzających stanowisk na terenie kampusu.",
@@ -181,7 +181,7 @@
  },
  "n:line:01940d6": {
   "pl": "Ludzie są <i>tacy</i> pobłażliwi. A ja – według moich obliczeń – <i>nie</i> zamierzam tego wcale wykorzystać!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:01a2a95": {
   "pl": "Jeb, nasze śledztwo trafia już tylko na ślepe zaułki. Musimy przynajmniej rozważyć zamknięcie Akademii...",
@@ -201,7 +201,7 @@
  },
  "n:line:01c3e08": {
   "pl": "Nasi ogrodnicy muszą być bajecznie bogaci, bo ciągle znajduję eskadolary <style=\"clue\">w doniczkach</style>...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:01dc697": {
   "pl": "A, tak. Powiedzieliśmy Von Belliniemu, że ta maszyna się zepsuła, ale po prostu nie chciało nam się taszczyć tam jego rzeczy.",
@@ -245,7 +245,7 @@
  },
  "n:line:021f507": {
   "pl": "Ma to w kieszeni.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:022a967": {
   "pl": "Mam teraz nową dyrektywę.",
@@ -253,7 +253,7 @@
  },
  "n:line:02304d5": {
   "pl": "Czy to źle, że moim zdaniem Slipowi całkiem do twarzy z wąsem?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02378b3": {
   "pl": "Jasne! <style=\"purchase\">(Daj bilet)</style>",
@@ -265,7 +265,7 @@
  },
  "n:line:0248d53": {
   "pl": "Jest... wymagająca. Wiem, że niektórym podoba się, jak wysoko stawia poprzeczkę uczniom, ale... ja mówię: wyluzuj, kobieto.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:025641c": {
   "pl": "Mam nadzieję, że Łódź Ucieczek zniesie tę Burzę Mózgów. Wygląda na porządnie rozjuszoną...",
@@ -373,7 +373,7 @@
  },
  "n:line:02f67b3": {
   "pl": "Oby otwarcie muzeum poszło Jebowi jak z płatka. Szykował je całe lato!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02f892e": {
   "pl": "Taką, która dotyczy wyłącznie wprowadzania uczniów w tajniki nauk o ucieczce!",
@@ -401,7 +401,7 @@
  },
  "n:line:031bc0f": {
   "pl": "No, czekam. <style=\"clue\">Pokaż mi</style>, co potrafisz!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:03321b4": {
   "pl": "To mi wystarczy.",
@@ -417,7 +417,7 @@
  },
  "n:line:0349ff0": {
   "pl": "W każdym razie na pewno cieszy cię widok mojej degradacji do roli kasjera w księgarni.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:035c3be": {
   "pl": "Gotowi? Mam coraz gorsze przeczucia.",
@@ -429,7 +429,7 @@
  },
  "n:line:037d05c": {
   "pl": "Ty pomóż profesorowi Von Belliniemu w jego rejsie. A kiedy wrócisz, wszystko będzie gotowe. Obiecuję.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:038ad9b": {
   "pl": "Oto prawdziwy duch eskapisty!",
@@ -437,7 +437,7 @@
  },
  "n:line:038cc36": {
   "pl": "TBD Fluff Dialogue!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:03b5093": {
   "pl": "I tak, w zeszłym roku spaliłem bibliotekę i próbowałem obalić dyrektorkę Solange. Ale zaczynam od zera... i jedynki, tak stanowi mój nowy kod!",
@@ -445,7 +445,7 @@
  },
  "n:line:03c3b3d": {
   "pl": "Profesor Von Bellini zamierza... co? Ja... chyba nie bardzo rozumiem.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:03c40bf": {
   "pl": "Chcę cię tylko nagrodzić za ukończenie zajęć wprowadzających przed wszystkimi innymi.",
@@ -465,11 +465,11 @@
  },
  "n:line:03deab7": {
   "pl": "Można by pomyśleć, że to premiera jednej z moich inscenizacji, tyle ludzi zebrało się tu na pożegnanie profesora Von Belliniego...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:03ebff7": {
   "pl": "Hej, no weź, to nie jest droga do wieży! Mamy wrócić tak, żeby nikt nas nie przyłapał, pamiętasz?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:03fc5c8": {
   "pl": "To czego możemy się spodziewać w programie nauk ścisłych w przyszłym roku?",
@@ -497,7 +497,7 @@
  },
  "n:line:0451097": {
   "pl": "„Czym jest podpowiedź? To, co zwiemy podpowiedzią, pod inną nazwą rozwiązałoby się równie szybko.”",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0451d9c": {
   "pl": "Dziękuję! Powodzenia w odszyfrowywaniu jakiegokolwiek fragmentu...",
@@ -505,11 +505,11 @@
  },
  "n:line:0457c3e": {
   "pl": "Kapusta. Ale ta <i>w banknotach.</i> <style=\"clue\">{0} zielonych</style> i dźwig może jakimś cudem znów ruszy.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:046d6ff": {
   "pl": "Naprawdę zadziałało? Jestem pod wrażeniem... Ale nie myślcie sobie, że to popieram!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04739a9": {
   "pl": "W nagrodę za dobrze zrobioną ucieczkę przygotowałam dla ciebie małą niespodziankę.",
@@ -541,7 +541,7 @@
  },
  "n:line:04c8dd4": {
   "pl": "Ech. Kolejny dowód na ludzką skłonność do pogardzania własnym instynktem samozachowawczym.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04ceb1a": {
   "pl": "Oby tego bagażu nie było za dużo!",
@@ -549,7 +549,7 @@
  },
  "n:line:04d3a09": {
   "pl": "<style=\"clue\">Czyż to są elementy, co je widzę przed sobą, z układanką zwróconą ku mej dłoni?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04db4c9": {
   "pl": "W razie zastoju niektóre istoty rozumne – nie ja osobiście – uznały <style=\"clue\">słowa trenera Yoacha</style> za pomocne.",
@@ -601,7 +601,7 @@
  },
  "n:line:052846e": {
   "pl": "W obecnej postaci nie mogę wywijać w rytm muzyki, ale to nie znaczy, że nie potrafię docenić tej formy sztuki.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05284b0": {
   "pl": "To jak, okradamy gabinet dyrektorki czy nie?",
@@ -625,7 +625,7 @@
  },
  "n:line:0571c6e": {
   "pl": "Ej, halo! Gdzieś się wybierasz? Mamy komnatę do znalezienia, nie zmywaj się teraz!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0579dd7": {
   "pl": "Nawet tutaj nie mogę zostawić całego swojego bagażu!",
@@ -661,7 +661,7 @@
  },
  "n:line:05d7868": {
   "pl": "Ojej, znowu leją mi się łzy jak grochy!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05e48b1": {
   "pl": "Myślisz, że da się stąd wynieść jakąś statuę?",
@@ -669,7 +669,7 @@
  },
  "n:line:05e7d5a": {
   "pl": "Co ci mówiłem o wchodzeniu bez pozwolenia? Plujesz na obwody naszego skrupulatnie zakodowanego programu nauczania!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05e8596": {
   "pl": "Wrócę później.",
@@ -677,11 +677,11 @@
  },
  "n:line:05e9ef6": {
   "pl": "W takim razie to ci się spodoba!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05ef6fa": {
   "pl": "Będziemy tu czekać. Bez porządnego przygotowania nie mamy szans.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:060836e": {
   "pl": "Jeszcze raz! <style=\"assignment\">(Rzuć wyzwanie pianiście)</style>",
@@ -697,7 +697,7 @@
  },
  "n:line:06158a8": {
   "pl": "Poza tym, eee... hydraulika <i>nie</i> hydraulikuje. Trzeba będzie <style=\"clue\">wrócić później</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06163cf": {
   "pl": "Nie pamiętam cię i mam to gdzieś!",
@@ -729,7 +729,7 @@
  },
  "n:line:06396d2": {
   "pl": "Wpadasz do piwnicy przywitać się ze starym kumplem naczelnikiem? Dzieje się tu więcej, niż można by się spodziewać.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0648133": {
   "pl": "Przypuszczam, że to logiczny wniosek.",
@@ -757,7 +757,7 @@
  },
  "n:line:067f29b": {
   "pl": "<style=\"clue\">Czyż to jest układanka, co ją widzę przed sobą, z elementami zwróconymi ku mej dłoni?</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0686966": {
   "pl": "<i>A</i> to świetny sposób na zdobycie serc uczniów, którzy mają mnóstwo dobrych powodów, by we mnie wątpić.",
@@ -781,7 +781,7 @@
  },
  "n:line:06aa692": {
   "pl": "No i proszę, moja nieufność wobec Von Belliniego <i>w pełni</i> się potwierdziła.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06c7161": {
   "pl": "Von Bellini zamierza wycisnąć uczniom mózgi na sok!",
@@ -789,7 +789,7 @@
  },
  "n:line:06e1d12": {
   "pl": "Tylko nie znowu...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06e37e4": {
   "pl": "Kąpiel w fosie, co? Strach pomyśleć, co pływa w tej wodzie.",
@@ -821,7 +821,7 @@
  },
  "n:line:06ff5fb": {
   "pl": "No <i>nareszcie</i>, dotarliśmy na górę! Jesteśmy o krok bliżej <style=\"clue\">pierwszej komnaty</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07176dc": {
   "pl": "Oficjalnie się poddaję. <style=\"clue\">Liczba wtargnięć bez pozwolenia: {0}</style> – to obraza. A teraz idź już sobie.",
@@ -861,7 +861,7 @@
  },
  "n:line:074bd5f": {
   "pl": "Nieźle. Ale <i>nie ma szans</i>, że <style=\"clue\">dokończysz</style> następną.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0755c94": {
   "pl": "I to mamy robić do końca życia...? <i>Beznadzieja!</i>",
@@ -873,11 +873,11 @@
  },
  "n:line:0764607": {
   "pl": "Dzięki mojej mocy obliczeniowej udało mi się przetworzyć stratę Von Belliniego <i>bardzo</i> szybko.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0772a81": {
   "pl": "Podobał mi się moment, kiedy wszyscy słyszeli, jak Chortkoff wykrzykuje polecenia zza kulis!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0774f81": {
   "pl": "Sprostowanie: największych eskapistów <i>według władz Akademii.</i> Brakuje tam sporo osób, i to bardzo podejrzanie.",
@@ -893,7 +893,7 @@
  },
  "n:line:07930ce": {
   "pl": "Ugryzł mnie kiedyś wąż. Nic mi nie zrobił.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0795f96": {
   "pl": "Może później.",
@@ -901,7 +901,7 @@
  },
  "n:line:07a2147": {
   "pl": "Jestem tu, żeby jeść śledzie i otwierać zamki. <i>A śledzie mi się skończyły.</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07ae25c": {
   "pl": "Dobra robota, ekipo! Zagraliśmy to na puzo-nokaut.",
@@ -925,7 +925,7 @@
  },
  "n:line:07be3a2": {
   "pl": "Oświadczam, że przywieziono mnie tu wbrew mojej woli. Żywię minimalną sympatię do profesora, którego mam zastąpić. Jestem lepszym sprzętem.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07c15b8": {
   "pl": "„Księga wytrychów” Larkina! Prawdziwa okazja, za jedyne <style=\"clue\">{0} $</style>.",
@@ -945,7 +945,7 @@
  },
  "n:line:07d8be6": {
   "pl": "No dobra, wchodzisz? Tylko nie ciesz się za bardzo przedstawieniem beze mnie.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07e7768": {
   "pl": "Nie możesz uciec, to o wiele za ważne!",
@@ -957,11 +957,11 @@
  },
  "n:line:07ec8dc": {
   "pl": "Nadciąga Burza Mózgów i lepiej, żeby nie zastała cię na zewnątrz, gdy uderzy w ląd.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07fdd0b": {
   "pl": "Wypatruj na kampusie <style\"clue\">śledzi-zmyłek</style>. Wiele z nich jest <style=\"clue\">ukrytych na widoku</style>!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0804b97": {
   "pl": "Mam TRZECIĄ stronę twojego pamiętnika!",
@@ -977,7 +977,7 @@
  },
  "n:line:082db20": {
   "pl": "Wracasz z prezentami? <style=\"clue\">{0} $ nam wystarczy...</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:083a9da": {
   "pl": "Ten psuj zamków, ten wyważacz drzwi... <i>ŁOM</i> jeden!",
@@ -1021,7 +1021,7 @@
  },
  "n:line:08a3329": {
   "pl": "Niech ci ludzie szykują się na puzo-nokaut!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:08c08e8": {
   "pl": "Występ na uroczystości ku pamięci Von Belliniego to spora prośba, ale...",
@@ -1105,11 +1105,11 @@
  },
  "n:line:096a1e1": {
   "pl": "Dobra, chyba bardziej gotowa na przeszukanie plaży już nie będę... Tylko <i>obiecajcie</i> mi, że trzymamy się razem.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:096e3b1": {
   "pl": "A w przeciwieństwie do wszystkich w tym pokoju nie będę ci rzucać kłód pod nogi... O ile <style=\"clue\">stać cię na moją opłatę za występ, {0} $.</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:097d947": {
   "pl": "Zaczynaj, kiedy chcesz, Garth.",
@@ -1117,7 +1117,7 @@
  },
  "n:line:09824c2": {
   "pl": "A ten czwarty założyciel to <i>jednocześnie</i> profesor Von Bellini, a nie dosłownie wodny potwór?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:098875a": {
   "pl": "Proszę bardzo, Garth.",
@@ -1165,7 +1165,7 @@
  },
  "n:line:09e5681": {
   "pl": "Chyba moja główna rola w tegorocznej sztuce właśnie odpłynęła, co...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09e5ad5": {
   "pl": "Jest tu mnóstwo rzeczy związanych z Eelem Barnesem...",
@@ -1185,7 +1185,7 @@
  },
  "n:line:09fcc77": {
   "pl": "Ja? Mam nadzieję, że wszyscy zaliczą klapę!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a192b3": {
   "pl": "Mam PIERWSZĄ stronę twojego pamiętnika!",
@@ -1201,11 +1201,11 @@
  },
  "n:line:0a2877a": {
   "pl": "Czyż to nie brzmi <i>znajomo</i>?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a2db85": {
   "pl": "O co chodzi z profesor Chortkoff?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a37e3b": {
   "pl": "Siedzę! <style=\"story\">(Kontynuuj historię!)</style>",
@@ -1213,7 +1213,7 @@
  },
  "n:line:0a3c8e1": {
   "pl": "Wolałabym nie musieć prosić profesor Chortkoff, żeby <style=\"clue\">dostać się do Sali Eskapistów,</style> ale... co trzeba, to trzeba.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a550ac": {
   "pl": "Wiesz może, gdzie podziewa się ta niesprawna <style=\"clue\">Paige Turner</style>?",
@@ -1241,11 +1241,11 @@
  },
  "n:line:0aa9ee2": {
   "pl": "Z aktora na biletera, który musi słuchać prób zza drzwi... <i>Chyba</i> to niezła okazja, żeby wykuć sobie charakter.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0aadd68": {
   "pl": "To nie zawody, Enoro... ani widowisko. Rzeczy mogą po prostu <i>być.</i> Wiesz o tym, prawda...?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ac0e31": {
   "pl": "TBD Fluff Dialogue!",
@@ -1261,7 +1261,7 @@
  },
  "n:line:0ae49bb": {
   "pl": "Śmiganie na tyrolkach to jest coś, nie? Jak cała sieć będzie gotowa, to dopiero będzie frajda.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0af0df4": {
   "pl": "Może później.",
@@ -1305,7 +1305,7 @@
  },
  "n:line:0b3e6d3": {
   "pl": "Co?! Opanowanie tego zajęło mi <i>dwa lata</i>. Myślisz, że wejdziesz tu sobie i mnie przebijesz? To <style=\"clue\">dokończ <i>tę</style>!</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b47997": {
   "pl": "Stary, te tyrolki to jest wow!",
@@ -1321,7 +1321,7 @@
  },
  "n:line:0b66f2a": {
   "pl": "Możemy zaczynać <style=\"clue\">zajęcia wprowadzające?</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b76aa8": {
   "pl": "Jasne, spoko!",
@@ -1349,7 +1349,7 @@
  },
  "n:line:0b930b0": {
   "pl": "A ja się cieszę, że w ogóle tu jestem, z takim imieniem jak Charles.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0baf08f": {
   "pl": "Nie zgadzam się na marnowanie potencjału w Akademii.",
@@ -1393,7 +1393,7 @@
  },
  "n:line:0bff19d": {
   "pl": "Szyfry od B do A! Wyjdzie C dolców. Eee... <style=\"clue\"><i>{0}</i> eskadolarów</style>!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c06997": {
   "pl": "Nigdy nie zostawiasz swojej ekipy na lodzie. To najlepszy dzień w moim życiu.",
@@ -1425,7 +1425,7 @@
  },
  "n:line:0c57ab2": {
   "pl": "Przykro mi, że przekłuwam ci balonik...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c6185c": {
   "pl": "Wątpię... ale przynajmniej mamy wspólną traumę, którą możemy emocjonalnie przepracować muzyką!",
@@ -1449,7 +1449,7 @@
  },
  "n:line:0c7e025": {
   "pl": "Och. No cóż. Jeszcze mnie zapamiętasz...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c8524d": {
   "pl": "No dobra, to dość długa historia... <style=\"story\">(Kontynuuj historię)</style>",
@@ -1477,7 +1477,7 @@
  },
  "n:line:0cc044e": {
   "pl": "Chyba zaraz spanikuję, stary, to miejsce to jakiś obłęd!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0cc429e": {
   "pl": "Oczywiście, że tak! Moje zdolności obserwacji i nadzoru okazały się imponujące.",
@@ -1485,7 +1485,7 @@
  },
  "n:line:0cd739b": {
   "pl": "Potrzebuję jeszcze chwili...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0cdafef": {
   "pl": "A teraz twoje pierwsze zadanie: musisz przejść <style=\"clue\">zajęcia wprowadzające.</style>",
@@ -1509,7 +1509,7 @@
  },
  "n:line:0d083e4": {
   "pl": "Chwała kodowi, że ratownik był na posterunku. Mogliśmy cię stracić na morzu, a do tego bywa tam lodowato.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d0a2fd": {
   "pl": "Czekajcie, muszę jeszcze coś zabrać z akademika...",
@@ -1557,7 +1557,7 @@
  },
  "n:line:0d658b1": {
   "pl": "Jestem *gul* zaszczycony możliwością nauczenia obsady tych ruchów *gul* na ukłony po spektaklu.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d7127d": {
   "pl": "Co ty sobie <i>myślisz</i>, wchodząc teraz do wody? Może i nie ma tam potwora z Loch Kłódkness, ale i tak jest niebezpiecznie.",
@@ -1577,7 +1577,7 @@
  },
  "n:line:0da72d5": {
   "pl": "Ale wiesz, co mogłoby nas skłonić do zmiany zdania...?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0dab173": {
   "pl": "<style=\"clue\">Czym jest podpowiedź? To, co zwiemy podpowiedzią, pod inną nazwą rozwiązałoby się równie szybko.",
@@ -1621,7 +1621,7 @@
  },
  "n:line:0de9217": {
   "pl": "Ech! Właśnie <i>dlatego</i> prowadziłam kampanię przeciwko eksperymentom profesora Von Belliniego.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0dee3c3": {
   "pl": "Szkoda. Choć i tak Solange by mi nie uwierzyła... W końcu jesteś jej ukochaną gwiazdą roku.",
@@ -1649,7 +1649,7 @@
  },
  "n:line:0e1c338": {
   "pl": "Och. No cóż. Jeszcze mnie zapamiętasz...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e1e54b": {
   "pl": "Przynajmniej mają fajną wystawę o Eelu Barnesie...",
@@ -1681,7 +1681,7 @@
  },
  "n:line:0e4b4c6": {
   "pl": "Radzę teraz <style=\"clue\">zdobyć bilet</style> na przedstawienie profesor Chortkoff.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e6a395": {
   "pl": "Muahaha. Już niedługo wrócę do dawnej chwały.",
@@ -1689,7 +1689,7 @@
  },
  "n:line:0e743b2": {
   "pl": "Twoje ruchy są wystarczające. Z umiarkowaną przyjemnością <style=\"clue\">przyznaję ci trochę punktów</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e87f4d": {
   "pl": "Obawiam się, że nie mam czasu na pogawędki, czeka na mnie istny natłok... obowiązków dyrektorki.",
@@ -1697,7 +1697,7 @@
  },
  "n:line:0e8d17d": {
   "pl": "<style=\"clue\">Czyż to jest układanka, co ją widzę przed sobą, z elementami zwróconymi ku mej dłoni?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e8e223": {
   "pl": "Nigdy nie zrozumiem ludzkiego zamiłowania do łamania zasad.",
@@ -1713,11 +1713,11 @@
  },
  "n:line:0ea9cd8": {
   "pl": "Mogę spróbować jeszcze raz...?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0eaf30f": {
   "pl": "Czas skończyć z tą zarazą, która trawi Akademię.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0eaf326": {
   "pl": "Skup się na swoim zadaniu. Bez zwiększonej mocy obliczeniowej nie mogę prawidłowo wykonywać procedur mojej nowej roli.",
@@ -1741,7 +1741,7 @@
  },
  "n:line:0ecafa1": {
   "pl": "Hej, nie rozpraszaj się. Musimy iść prosto do wieży i wszystko opowiedzieć dyrektorce Solange!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ee1a20": {
   "pl": "No dobra, gwiazdo roku, pokaż, co potrafisz. <style=\"clue\">Dokończ tę melodię...</style>",
@@ -1769,7 +1769,7 @@
  },
  "n:line:0f1365c": {
   "pl": "Jak to? Mamy okulary, wiemy, że komnata jest gdzieś na plaży... co mi umyka?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f1cd05": {
   "pl": "To <i>bardzo</i> szkodzi obwodom.",
@@ -1805,7 +1805,7 @@
  },
  "n:line:0f6c5d6": {
   "pl": "Wróć, jak będzie cię stać, żeby nas przekupić jak normalny człowiek!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f6d1f6": {
   "pl": "Ho ho, co za zręczne łaskotanie klawiszy! Dobra, <i>jestem za.</i>",
@@ -1829,7 +1829,7 @@
  },
  "n:line:0f9b7a3": {
   "pl": "Doceniam entuzjazm, ale potrzebujemy całej siły łamigłówkowej, jaką się da zebrać. Proszę, <style=\"clue\">znajdź drugą gwiazdę roku</style>, a wtedy wyruszymy.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f9fc8b": {
   "pl": "Nie ma czasu do stracenia.",

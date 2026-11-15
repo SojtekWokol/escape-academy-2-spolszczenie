@@ -41,7 +41,7 @@
  },
  "n:line:0246891": {
   "pl": "Teraz od prawdy dzielą go już tylko <style=\"clue\">drzwi do laboratorium</style>...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0281430": {
   "pl": "Jesteś z powrotem! Mam nadzieję, że ty i Jeb coś znaleźliście... bo ja tak.",
@@ -61,7 +61,7 @@
  },
  "n:line:042018d": {
   "pl": "Spędzić tyle lat w takiej ciasnej, smutnej klitce...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0468883": {
   "pl": "To musi być ukryte wejście do tajnej kryjówki. Musimy znaleźć sposób, żeby je otworzyć!",
@@ -77,7 +77,7 @@
  },
  "n:line:04ed217": {
   "pl": "Obiecuję, że żadne mityczne stworzenie nie wyjdzie z jeziora, żeby porywać uczniów Akademii. Nie, dopóki ja tu rządzę.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04f1946": {
   "pl": "Szybko, musisz znaleźć sposób, żeby podłączyć się do maszyny mózgowej i <style=\"clue\">dostarczyć list do jego podświadomości.</style>",
@@ -97,11 +97,11 @@
  },
  "n:line:05c5eba": {
   "pl": "To na pokładzie Czerwonego Śledzia założyciele odkryli nasz kampus. Ta łódź to taka sama część naszej historii jak Deklaracja Ucieczki!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:061951b": {
   "pl": "Akademia na pewno będzie... inna bez profesora Von Belliniego!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:062956c": {
   "pl": "Przejrzyj wszystko jeszcze raz, <style=\"clue\">popraw odpowiedzi i spróbuj ponownie!</style>",
@@ -109,7 +109,7 @@
  },
  "n:line:062f6fb": {
   "pl": "No to... do dna!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:067ee64": {
   "pl": "Ach, moja gwiazdo roku. Czy możemy przejść do twojej niespodzianki?",
@@ -121,15 +121,15 @@
  },
  "n:line:06dc0b7": {
   "pl": "Hmm... Chyba coś ci się pomyliło w życiorysie Reiny...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06decaf": {
   "pl": "Ach, moja gwiazda roku wróciła! Akademia tyle ci w tym roku zawdzięcza, że brak mi słów, by ci podziękować.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:070e83a": {
   "pl": "Uczniowie zaczynają się niecierpliwić, więc jeśli wszystko gotowe na wykład, <style=\"clue\">usiądź w swojej ławce.</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:074b045": {
   "pl": "Na <i>kolejną</i> niespodziankę jeszcze trochę za wcześnie...",
@@ -145,7 +145,7 @@
  },
  "n:line:07b98c8": {
   "pl": "Jesteśmy o krok bliżej, żeby sprowadzić naszych uczniów do domu. Maszyna musi być niedaleko...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07f66f2": {
   "pl": "Siadaj, zaczynamy.",
@@ -185,15 +185,15 @@
  },
  "n:line:0a20cf0": {
   "pl": "A co do sprawy Reeda i potwora z Loch Kłódkness...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a31b81": {
   "pl": "Moment, gdzie moja druga gwiazda roku? Razem dotarliście aż tutaj, więc <style=\"clue\">ten list też musimy otworzyć razem</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a34e1f": {
   "pl": "Obiecuję, że wasza pamięć wyjdzie z tego bez szwanku.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0adc5f9": {
   "pl": "Ja zajmę się ustaleniem, gdzie jest maszyna Alistaira...",
@@ -213,11 +213,11 @@
  },
  "n:line:0bcafe1": {
   "pl": "Kawał drogi wpław jak na dwustulatka.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c6cd46": {
   "pl": "Jeśli któraś odpowiedź sprawi ci kłopot, <style=\"clue\">sprawdź ją w EncyKLUCZopedii</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c91ee8": {
   "pl": "Znajdziemy inną drogę powrotną, na której nikt nie zafunduje nam gazu niepamięci!",
@@ -229,7 +229,7 @@
  },
  "n:line:0d9bdb0": {
   "pl": "Raczej kłamiesz. I dodam, że niezbyt ci to wychodzi...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0decfe5": {
   "pl": "Nie spiesz się. Należy ci się to z nawiązką.",
@@ -237,7 +237,7 @@
  },
  "n:line:0e1800f": {
   "pl": "Moment, a gdzie druga gwiazda roku? Ta niespodzianka jest dla <style=\"clue\">was obojga</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e53ea1": {
   "pl": "Pożegnaj go jak należy i <i>koniecznie</i> przyprowadź łódź w jednym kawałku, dobrze?",
@@ -249,7 +249,7 @@
  },
  "n:line:0e7fdba": {
   "pl": "Jest tu nawet przytulnie... na swój obłąkany, nieudacznicki sposób!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e83b7e": {
   "pl": "Myślałam, że moja gwiazda roku będzie mądrzejsza i nie da się skusić wizji nieśmiertelności...",
@@ -261,7 +261,7 @@
  },
  "n:line:0f6bfa6": {
   "pl": "I to jeszcze łaskawie powiedziane...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f787ed": {
   "pl": "Lunatykuję...?",

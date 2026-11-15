@@ -9,7 +9,7 @@
  },
  "n:line:003230b": {
   "pl": "Ale jeśli cała szkoła zewrze szyki, damy radę!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0058916": {
   "pl": "Muszę się trochę podładować, zanim wezmę się za kolejną porcję nauki... Dogonię was później!",
@@ -17,7 +17,7 @@
  },
  "n:line:006c345": {
   "pl": "I radzę się pospieszyć, bo inaczej dostaniesz od Enory <i>wieniec</i> na grób. Adios!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:009fcf2": {
   "pl": "Na Wydziale Nauk Ścisłych przygotowaliśmy dla uczniów olśniewający program nauczania!",
@@ -61,7 +61,7 @@
  },
  "n:line:0258a9a": {
   "pl": "Lepiej chodźmy na <style=\"clue\">scenę w Ogrodach Kampusu.</style> Wolałabym nie dostać od Enory <i>wieńca</i> na grób. Adios!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02608ca": {
   "pl": "Jak wygląda sprawa z posiłkami Nugget?",
@@ -105,7 +105,7 @@
  },
  "n:line:0430caa": {
   "pl": "Z tego, co <style=\"clue\">słyszałam</style>, nie pogardzi tłustym robakiem prosto do dzioba.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04379dc": {
   "pl": "Przyjdź do mnie do <style=\"clue\">laboratorium chemicznego</style>, kiedy najdzie cię ochota na więcej nauki!",
@@ -141,7 +141,7 @@
  },
  "n:line:0575e11": {
   "pl": "Niech pani powie, że chodzi o to, o czym myślę–",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05b7beb": {
   "pl": "Wow... pomyśleć, że moje ręce będą miały wpływ na umysły setek osób!",
@@ -165,7 +165,7 @@
  },
  "n:line:0659879": {
   "pl": "Udało ci się upleść ten wieniec?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0662bd3": {
   "pl": "Oj... <i>Ostrzegałam</i> dyrektorkę Solange, jak mocna jest ostatnia partia gazu niepamięci.",
@@ -173,7 +173,7 @@
  },
  "n:line:06c0a8e": {
   "pl": "Najbardziej obrywa się dyrektorce Solange. Ciągle gada, że sam kierowałby tą szkołą lepiej.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06c5dc4": {
   "pl": "Nawet jeśli nasz... <i>starszy</i> profesor nauk ścisłych, Barton Von Bellini, bywa nieco zamknięty na nowości.",
@@ -189,7 +189,7 @@
  },
  "n:line:074e64b": {
   "pl": "Pozostaje nam pocieszać się tym, że ten <style=\"clue\">wieniec żałobny</style> wniesie odrobinę spokoju w uroczystość ku pamięci biednego Von Belliniego.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07cc0d5": {
   "pl": "Wspaniale, jesteś. Nie daj się Von Belliniemu zniechęcić do biologii – obiecuję, że dzisiejsza lekcja będzie inspirująca.",
@@ -205,7 +205,7 @@
  },
  "n:line:084c6db": {
   "pl": "Nie martw się, niech kwiaty dalej cię prowadzą!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:089d7e6": {
   "pl": "No cóż, w każdym razie profesor Von Bellini, a teraz Burza Mózgów.",
@@ -249,7 +249,7 @@
  },
  "n:line:09bbfa2": {
   "pl": "Eksperyment Von Belliniego jeszcze przed tobą, prawda?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09d0dbe": {
   "pl": "Nugget lubi <style=\"clue\">ciepło</style>, potrzebuje <style=\"clue\">śniadania</style> i uwielbia <style=\"clue\">kojącą muzykę</style>. Jakieś pytania?",
@@ -257,7 +257,7 @@
  },
  "n:line:09f5077": {
   "pl": "Och! Nasza gwiazda roku znów w Akademii. Mam nadzieję, że końcówka wakacji minęła ci błogo i kojąco.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a0ae4a": {
   "pl": "W czym mogę ci dziś pomóc?",
@@ -265,7 +265,7 @@
  },
  "n:line:0a416b9": {
   "pl": "Śmiało, użyj <style=\"clue\">Synthatronu</style>, żeby wytworzyć partię naszej uroczej, różowej niespodzianki, która wymazuje wspomnienia.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a62498": {
   "pl": "Na razie!",
@@ -273,7 +273,7 @@
  },
  "n:line:0ab0d36": {
   "pl": "Chyba nie podkradasz mojej herbatki uspokajającej? Jeśli tak, to nic nie szkodzi!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0acb7dd": {
   "pl": "Czyli... Nugget lubi muzykę?",
@@ -289,7 +289,7 @@
  },
  "n:line:0b3cd8c": {
   "pl": "Kiedyś byłam najlepszą w branży specjalistką od bomb! Wpadłam w oko (i w ucho... głównie w ucho) dyrektorce Solange, gdy pokaz rozbrajania skończył się wielkim bum.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b4be7c": {
   "pl": "Hmm. Wiem, że schowałam <style=\"clue\">nawóz gdzieś w szklarni</style>...",
@@ -313,7 +313,7 @@
  },
  "n:line:0bd80f1": {
   "pl": "Ach. Nasza gwiazda roku wraca na Wydział Nauk Ścisłych! Chyba szuka cię <style=\"clue\">profesor Von Bellini</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bf533e": {
   "pl": "Ale moja odmiana „Wstawaj i działaj” wali równie mocno!",
@@ -337,7 +337,7 @@
  },
  "n:line:0cd62ea": {
   "pl": "Nie chcę znowu tłumaczyć się Von Belliniemu i dyrektorce Solange ze stopionej podłogi...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0cf8486": {
   "pl": "Jak się pani pracuje z profesorem Von Bellinim?",
@@ -377,7 +377,7 @@
  },
  "n:line:0e0554c": {
   "pl": "Ha! Nie. Absolutnie nie. Solange już próbowała mnie namawiać, ale... dobrze mi w mojej małej niszy, którą sobie wykroiłam.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e2a003": {
   "pl": "No cóż, chyba to koniec lekcji nauk ścisłych profesora Von Belliniego.",
@@ -385,7 +385,7 @@
  },
  "n:line:0e3c134": {
   "pl": "Tak. Szczerze mówiąc, mnóstwo.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e85b31": {
   "pl": "Zanim cokolwiek zmieszamy, musisz <style=\"clue\">odblokować</style> potrzebne <style=\"clue\">chemikalia.</style>",
@@ -401,7 +401,7 @@
  },
  "n:line:0f03079": {
   "pl": "Kiedyś pochwalił moją herbatkę uspokajającą!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f343e0": {
   "pl": "A jeśli trzeba im kopa, żeby „wybuchły” kwieciem, przyrządziłam <style=\"clue\">specjalny nawóz</style>, który na pewno pomoże.",

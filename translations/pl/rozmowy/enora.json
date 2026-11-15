@@ -29,7 +29,7 @@
  },
  "n:line:0119ae6": {
   "pl": "Spokojnie! Mam dla pani zespół, który rozwala system. <style=\"purchase\">(Przedstaw zespół)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:012a7e9": {
   "pl": "<size=0.7em>Poczuj scenę, daj się ponieść postaci i <i>nie zepsuj mi tego!</i>",
@@ -57,11 +57,11 @@
  },
  "n:line:02a8842": {
   "pl": "No dobrze... musi wystarczyć! Szkoda, że Clue Jackman przestał odbierać moje telefony. Ale mniejsza z tym, czas na próbę!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02e6ca5": {
   "pl": "A skoro nic nie stoi już na przeszkodzie, by pożegnać Von Belliniego w sposób godny zapamiętania, lepiej <style=\"clue\">ruszajmy do ogrodów kampusu</style>!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:031b2da": {
   "pl": "Oto <style=\"clue\">fragmenty przesłuchań</style> wszystkich kandydatów. I żadnego słodzenia, jeśli są okropne. To nikomu nie pomaga.",
@@ -97,7 +97,7 @@
  },
  "n:line:057ab6b": {
   "pl": "Chwileczkę, <style=\"clue\">gdzie druga połowa waszego duetu</style>? Wszyscy muszą to zobaczyć. <i>Wszyscy.</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05c81d6": {
   "pl": "Głowa pęka mi od pomysłów na ciąg dalszy!",
@@ -133,11 +133,11 @@
  },
  "n:line:0725f81": {
   "pl": "Ale już się szykuje. A gdy będzie gotowa, pierwszy telefon będzie do ciebie.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:077d697": {
   "pl": "Chyba przydałaby się pani chwila przerwy...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0799e26": {
   "pl": "Nie. Jeszcze nie teraz!",
@@ -161,11 +161,11 @@
  },
  "n:line:09a96dc": {
   "pl": "Precz, aktorzy!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09eeb84": {
   "pl": "Sprawdzisz, co porabiają pozostali profesorowie? Cudownie. A teraz natychmiast zejdź mi z oczu!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a03265": {
   "pl": "I na miłość Escape'u, dopilnuj, żeby <style=\"clue\">dobrze znali swoje kwestie.</style>",
@@ -173,7 +173,7 @@
  },
  "n:line:0a32c2a": {
   "pl": "Natychmiast mi ją tu sprowadź!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a6fe80": {
   "pl": "Na razie!",
@@ -185,11 +185,11 @@
  },
  "n:line:0abd08d": {
   "pl": "Nie mogę się doczekać, żeby to zobaczyć!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0afdd4a": {
   "pl": "Ja też, ale to musi się jeszcze porządnie upiec.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b00176": {
   "pl": "Przejrzyj <style=\"clue\">CV</style> wszystkich i zobacz, kto pasuje do której roli. Będę czekać niecierpliwie.",
@@ -221,11 +221,11 @@
  },
  "n:line:0cea374": {
   "pl": "Jak pani trafiła do Akademii?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ced095": {
   "pl": "<style=\"clue\">Profesor Slip</style> jest w <style=\"clue\">kostiumerni</style> i kompletuje stroje z epoki do naszej sztuki, a...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d177c5": {
   "pl": "Ten twój popis tam na dole, w maszynie mózgowej... to było przedstawienie wszech czasów!",
@@ -257,7 +257,7 @@
  },
  "n:line:0ebe983": {
   "pl": "Zespół i ja jesteśmy gotowi... ale wygląda na to, że <style=\"clue\">wciąż brakuje kilku rzeczy</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ef6588": {
   "pl": "Proszę, nasza gwiazda sceny. Jestem zbyt zajęta, żeby dłużej gawędzić, w mojej głowie szaleje burza, a w niej rodzi się nowe opus magnum.",
@@ -277,7 +277,7 @@
  },
  "n:line:0f5ca71": {
   "pl": "A <i>co</i> właściwie szykuje pani w następnym projekcie?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f80956": {
   "pl": "I coś mi mówi, że to nie będzie bułka z masłem.",
@@ -289,6 +289,6 @@
  },
  "n:line:0ffde8b": {
   "pl": "Tylu uczniów, tak mało talentu...",
-  "status": "review"
+  "status": "done"
  }
 }

@@ -5,7 +5,7 @@
  },
  "n:line:0008c4e": {
   "pl": "...Zagadeusz.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0015d14": {
   "pl": "<size=0.7em>Co ty robisz? Dokładasz kolejny zwrot akcji?!",
@@ -41,11 +41,11 @@
  },
  "n:line:00838b2": {
   "pl": "Coś się tu nie zgadza, Chet, i <i>nie</i> mam na myśli rachunków...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00bf00b": {
   "pl": "Jasne, że wiem! Tylko cię testuję.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00c20d8": {
   "pl": "Bo nie jest!",
@@ -53,7 +53,7 @@
  },
  "n:line:00ce9ec": {
   "pl": "Chwała Escape! Obawiam się, że <style=\"clue>doszło do morderstwa</style>, a słyszałem, że nie ma sprawy, której by pan nie rozwiązał!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00d720d": {
   "pl": "Fakt, że to <i>moja</i> sprawka! <i>Tego</i> nikt się nie spodziewał. <i>Nawet ja.</i>",
@@ -61,7 +61,7 @@
  },
  "n:line:00d84b0": {
   "pl": "<style=\"clue\">{0} {1}</style>?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00dc189": {
   "pl": "No to co z tą Eska-Colą...",
@@ -97,7 +97,7 @@
  },
  "n:line:016bbfd": {
   "pl": "Chwila... chce pan powiedzieć, że <i>sama fabryka</i> dźgnęła Petera?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:01d1063": {
   "pl": "<size=0.7em>To nie twoja kwestia. Ani trochę! Zwróć uwagę na <style=\"clue\">dekoracje</style>!",
@@ -129,7 +129,7 @@
  },
  "n:line:0297bf6": {
   "pl": "Mówi pan, że Peter został zabity...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02981ec": {
   "pl": "Detektywie! Nazywam się Chet Łotrowicz i bardzo dobrze, że mnie pan przyjmuje. To po prostu... to takie straszne!",
@@ -153,7 +153,7 @@
  },
  "n:line:02c50aa": {
   "pl": "Nie! Gdyby moje nazwisko mówiło prawdę, nazywałabym się Ruby Winowska!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02fe23f": {
   "pl": "<size=0.7em>Świetny pomysł! Na wypadek, gdyby publiczność za pierwszym razem nie uważała...</style>",
@@ -169,15 +169,15 @@
  },
  "n:line:038a435": {
   "pl": "Choć to oczywiście korzystne dla mojej postaci... yyy, dla <i>mnie</i>, Cheta Łotrowicza, może jednak coś panu umknęło!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0392800": {
   "pl": "<size=0.7em>Stary... Trup. Leży. Tutaj.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:039b261": {
   "pl": "Tak! Pan... ciągle to powtarza. I właśnie dlatego przyszedłem z tą sprawą do pana... *gul*",
-  "status": "review"
+  "status": "done"
  },
  "n:line:03cbb41": {
   "pl": "Tak czy inaczej wciąż nie znamy <style=\"clue\">motywu zabójcy</style>, a ja na pewno żadnego nie mam.",
@@ -225,7 +225,7 @@
  },
  "n:line:04602cd": {
   "pl": "Unikania Podatków...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0467c04": {
   "pl": "<size=0.7em>Psst... nie trzymasz żadnego obrazu.</size>",
@@ -241,19 +241,19 @@
  },
  "n:line:046f7d2": {
   "pl": "Defraudacji...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04a40e9": {
   "pl": "Prawdziwe narzędzie zbrodni jest w jego skrzynce z narzędziami...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04c4a9f": {
   "pl": "Herkules...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04d4510": {
   "pl": "Oczywiście! I zaraz panu powiem, co dokładnie...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04dc3e9": {
   "pl": "Co więcej, to pan jest mordercą, nie Ruby!",
@@ -261,7 +261,7 @@
  },
  "n:line:04e6473": {
   "pl": "...Zamkochodzik.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0510ae8": {
   "pl": "<size=0.7em>Świetny pomysł! Na wypadek, gdyby publiczność za pierwszym razem nie uważała...</style>",
@@ -269,7 +269,7 @@
  },
  "n:line:05189c1": {
   "pl": "Mam przeczucie. Proszę na to spojrzeć. <style=\"purchase\">(Pokaż obraz)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05700f0": {
   "pl": "Przebiegłem <style=\"clue\">przez ulicę</style> i wpadłem do jego salonu, a tam zobaczyłem...",
@@ -293,7 +293,7 @@
  },
  "n:line:05e5471": {
   "pl": "Z przyjemnością! Peter nie został zastrzelony...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05ef29c": {
   "pl": "Brian Samsworth!",
@@ -301,7 +301,7 @@
  },
  "n:line:060d6c8": {
   "pl": "Drzwi Ruby są zamknięte na głucho. Musimy znaleźć jakiś sposób, żeby się dostać do środka.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0622027": {
   "pl": "<size=0.7em>Dawaj to, psujesz mi starannie wyważone tempo!",
@@ -313,7 +313,7 @@
  },
  "n:line:062cf4e": {
   "pl": "Ależ Chet, nie możemy jej zamknąć. To człowiek, a nie książka!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0636759": {
   "pl": "Bulwar!",
@@ -325,7 +325,7 @@
  },
  "n:line:06562e0": {
   "pl": "Oszustów...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:065f29e": {
   "pl": "Nie zamierzam. Uwaga, obywatele!",
@@ -353,11 +353,11 @@
  },
  "n:line:068134f": {
   "pl": "<style=\"clue\">{0} {1}</style>?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06943f9": {
   "pl": "Ups, daj mi sekundę. Ten obraz jest... bardzo obciążający!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06a8f95": {
   "pl": "<size=0.7em>Skoro już improwizujesz, to <i>przynajmniej</i> graj „tak, i...”! Lepiej trzymaj się mojego scenariusza.",
@@ -393,7 +393,7 @@
  },
  "n:line:0730d43": {
   "pl": "Chyba nie sugeruje pan, że to <style=\"clue\">ja spaliłem fabrykę Ruby</style>?!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0752bc3": {
   "pl": "Widzi pan coś <style=\"clue\">przez okno?</style>",
@@ -449,7 +449,7 @@
  },
  "n:line:084ffe8": {
   "pl": "Proszę śmiało sypać. <i>Jak fasolkę z puszki.</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:085dc37": {
   "pl": "62...",
@@ -481,7 +481,7 @@
  },
  "n:line:08b0934": {
   "pl": "<style=\"clue\">{2} {1} {0}</style>?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:08b1631": {
   "pl": "Oczywiście! Nie nazywasz się Ruby Niewinowska...",
@@ -505,7 +505,7 @@
  },
  "n:line:08e61a6": {
   "pl": "Najpierw pomyślałem, że to po prostu kolejny wybuch w tle ze <style=\"clue\">spalonej fabryki zamków na północy</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:08fb93a": {
   "pl": "Peter został zabity siekierą!",
@@ -525,7 +525,7 @@
  },
  "n:line:096f162": {
   "pl": "Chyba faktycznie <i>dałem</i> panu dość wskazówek, żeby poskładać tę układankę... *gul*",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0972e6c": {
   "pl": "Nie!!! To całkiem zbędne, ee- to znaczy, yy... Nie pamiętam adresu Petera.",
@@ -545,7 +545,7 @@
  },
  "n:line:0a130bd": {
   "pl": "Jest pan całkiem pewien tego nazwiska? To ee... nie to, co stoi w Żółtych Stronach Zagadek... No to poczekam.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a17e0f": {
   "pl": "Prawdziwe narzędzie zbrodni jest w jego kuchennej szafce...",
@@ -557,11 +557,11 @@
  },
  "n:line:0a294a9": {
   "pl": "Oto Eska-Cola, której – jakże wygodnie – akurat pan potrzebuje! <style=\"purchase\">(Daj napój)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a2c752": {
   "pl": "Podpalaczy...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a2ec9a": {
   "pl": "To mnie po prostu przerasta. Nie dam rady bez <style=\"clue\">puszki Eska-Coli</style> na uspokojenie nerwów.",
@@ -593,7 +593,7 @@
  },
  "n:line:0ab0826": {
   "pl": "Gdy go pan znajdzie, na pewno okaże się bardzo obciążający – akurat dla Ruby Niewinowskiej!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ac4e8e": {
   "pl": "<size=0.7em>Ależ istnieje... sama go namalowałam! Spróbuj tej sceny jeszcze raz.",
@@ -629,15 +629,15 @@
  },
  "n:line:0b1fee6": {
   "pl": "Peter Tropiński mieszkał pod numerem...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b2a981": {
   "pl": "Mówi pan, że adres Petera to...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b2ced9": {
   "pl": "Do <i>kłódki</i> nędzy! Chyba po mnie!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b41e05": {
   "pl": "Ojej!",
@@ -657,7 +657,7 @@
  },
  "n:line:0b6b53e": {
   "pl": "Naprawdę?!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b902fc": {
   "pl": "<size=0.7em>Ta sztuka jest zupełnie bez ładu i składu?</size>",
@@ -665,7 +665,7 @@
  },
  "n:line:0b97ac6": {
   "pl": "Chwila! Muszę się pozbierać jak... owoce w sadzie.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b9c4d8": {
   "pl": "Proszę nie przerywać, akurat zaczynało mnie to wciągać!",
@@ -693,7 +693,7 @@
  },
  "n:line:0be1796": {
   "pl": "Został wysadzony w powietrze!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bfa4dc": {
   "pl": "Nie tak szybko, Łotrowiczu, najpierw muszę <i>dobrze</i> obejrzeć miejsce zbrodni.",
@@ -705,7 +705,7 @@
  },
  "n:line:0c0893f": {
   "pl": "Bo to ja, <i>detektyw Rozwiązalski.</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c1d384": {
   "pl": "Tak!",
@@ -713,7 +713,7 @@
  },
  "n:line:0c27570": {
   "pl": "<size=0.7em>Już <i>prawie</i>! No <i>prawie</i>! Wielkie nieba.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c3d5ab": {
   "pl": "Peter został zabity patelnią!",
@@ -725,7 +725,7 @@
  },
  "n:line:0c65657": {
   "pl": "*Sapnięcie* Chce pan powiedzieć, że narzędziem zbrodni było <style=\"clue\">coś innego</style>?!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c67c22": {
   "pl": "<size=0.7em>Chyba <style=\"clue\">zapominasz coś zrobić z tym obrazem.</style></size>",
@@ -737,7 +737,7 @@
  },
  "n:line:0c80f26": {
   "pl": "Sherlock...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c879d2": {
   "pl": "Może pan jeszcze raz opowiedzieć, jak to było?",
@@ -765,11 +765,11 @@
  },
  "n:line:0ce5083": {
   "pl": "Proszę dać mi chwilę, a powiem!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0cfc230": {
   "pl": "I że potem wszystko misternie ukartowałem, żeby <style=\"clue\">wyglądało na to, że winny jest Peter Tropiński</style>...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d08a8e": {
   "pl": "Ale jeśli Peter nie został zastrzelony, jakie jeszcze dowody niezdarnie zainscenizowaliśmy?",
@@ -797,7 +797,7 @@
  },
  "n:line:0d47bf1": {
   "pl": "Proszę dać mi chwilę, a powiem!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d619f5": {
   "pl": "Peter Tropiński nie był malarzem.",
@@ -825,7 +825,7 @@
  },
  "n:line:0e09d4e": {
   "pl": "...Szyfrewicz.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e20c25": {
   "pl": "Ja nie widzę absolutnie nic podejrzanego!",
@@ -849,7 +849,7 @@
  },
  "n:line:0e8c112": {
   "pl": "To, yyy... co pan o tym wszystkim sądzi, detektywie?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ef1fe0": {
   "pl": "<size=0.7em>Wchodzisz mi w kwestię!",
@@ -861,7 +861,7 @@
  },
  "n:line:0efdf7f": {
   "pl": "Od lat byliśmy z Peterem skłóceni, bo <style=\"clue\">spalił moją Fabrykę Łamigłówek do fundamentów</style>. Kto by nie chciał zemsty?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f2d184": {
   "pl": "Ulica!",
@@ -873,11 +873,11 @@
  },
  "n:line:0f51f3a": {
   "pl": "<size=0.7em>To <style=\"clue\">w ogóle nie twoje nazwisko</style>! Jeszcze raz. I to <i>z uczuciem!</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f66e1d": {
   "pl": "Aaach! Ale skąd pan to wie?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f9e615": {
   "pl": "30...",

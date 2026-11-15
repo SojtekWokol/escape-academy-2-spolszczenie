@@ -45,7 +45,7 @@
  },
  "n:line:0201e5e": {
   "pl": "Chyba nie powinnaś tego robić...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:022c843": {
   "pl": "Skaczemy sobie do gardeł, tak się nie da pracować!",
@@ -85,7 +85,7 @@
  },
  "n:line:02f2f47": {
   "pl": "Stawiam ${0}, że zestrzelę mu to jabłko z głowy!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0314c62": {
   "pl": "Strzała z przyssawką to chyba był dobry pomysł... nawet jeśli było mniej emocji.",
@@ -133,7 +133,7 @@
  },
  "n:line:041bf92": {
   "pl": "Nie mówcie potem, że nie było ostrzeżenia.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:042d970": {
   "pl": "Jak śmiesz porównywać nas do tego żałosnego brukowca!",
@@ -157,7 +157,7 @@
  },
  "n:line:04a9a20": {
   "pl": "Dobrze! Trzymaj się z daleka. To miejsce jest nawiedzone!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04b44bf": {
   "pl": "A ty jesteś średniej wielkości palantem.",
@@ -337,7 +337,7 @@
  },
  "n:line:09d3e9b": {
   "pl": "No i co, masz już ten swój „lepszy sposób”? Jakby w ogóle <i>istniał</i>. Pff.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09d6fc9": {
   "pl": "Właściwie to tak! <style=\"purchase\">(Daj strzałę)</style>",
@@ -421,11 +421,11 @@
  },
  "n:line:0b6e962": {
   "pl": "Ja jestem gotowy, strzelaj, kiedy chcesz!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b7f457": {
   "pl": "Kto by pomyślał, że ta uroczystość tak mocno <i>zabarwi</i> się smutkiem...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b8a098": {
   "pl": "Szczerze? Cieszę się, że Nate wyrzucił mnie z redakcji <style=\"clue\">Kuriera Eskapisty</style>... za dużo tam dramatów.",
@@ -441,7 +441,7 @@
  },
  "n:line:0bc2db8": {
   "pl": "Błagam, musisz ustalić, <style=\"clue\">którzy z tych łobuzów ukradli ciasteczka ze słoika</style>!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c1c383": {
   "pl": "Znajdę wam jakiś bezpieczniejszy sposób. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
@@ -453,7 +453,7 @@
  },
  "n:line:0c56202": {
   "pl": "Każda porcja jest inna. Jedne duże, inne małe, i to po prostu nie w porządku!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c5a6ac": {
   "pl": "Zawsze uważałam, że wodospadowi przydałaby się <style=\"clue\">odrobina więcej koloru</style>, ale nie mam odwagi <style=\"clue\">się tam wspiąć</style>...",
@@ -477,7 +477,7 @@
  },
  "n:line:0d0eb44": {
   "pl": "<style=\"clue\">Z tyłu pudełka są cztery klejnoty.</style> Odkąd je porządnie wyszorowałam, aż mienią się kolorami!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d1c59b": {
   "pl": "Morale nie było tak niskie od czasu Incydentu przy dystrybutorze wody...",
@@ -489,7 +489,7 @@
  },
  "n:line:0d5536f": {
   "pl": "Pamiętam, że ciasteczek wystarczyło dla wszystkich i jedno zostało, bo Jules była chora.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d5eee8": {
   "pl": "Żądam odszkodowania za cierpienia psychiczne!",
@@ -501,11 +501,11 @@
  },
  "n:line:0db1998": {
   "pl": "Skoro Tanya skończyła czyścić artefakty, to teraz je przeanalizuje...?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ddae1a": {
   "pl": "No, strzała w łeb to dla mnie pestka. Mam <i>twardą</i> czaszkę!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0df49b3": {
   "pl": "Na razie!",
@@ -521,7 +521,7 @@
  },
  "n:line:0e32e67": {
   "pl": "Ci szubrawcy wpadli na gorącym <i>cieście</i>. Moment... czy ciastka to ciasto?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e5280a": {
   "pl": "Potwór... to... ten pies?",
@@ -533,7 +533,7 @@
  },
  "n:line:0e5de79": {
   "pl": "Założę się, że jest <i>zupełnie</i> bezpiecznie. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e81b59": {
   "pl": "Do licha! Jest po równo!",
@@ -541,7 +541,7 @@
  },
  "n:line:0e956c6": {
   "pl": "Po co pisać prawdę, skoro w moim zespole roi się od kłamców?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e995c0": {
   "pl": "Nie ma mowy! Ktoś musi zostać na zewnątrz i ostrzec innych.",
@@ -593,6 +593,6 @@
  },
  "n:line:0febbe9": {
   "pl": "Gdybym był bardziej płynny finansowo, na pewno <style=\"clue\">przyjąłbym zakład Robin</style>, że zestrzeli jabłko z głowy Willema.",
-  "status": "review"
+  "status": "done"
  }
 }

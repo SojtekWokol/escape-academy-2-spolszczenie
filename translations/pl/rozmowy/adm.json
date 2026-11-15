@@ -5,7 +5,7 @@
  },
  "n:line:000706f": {
   "pl": "Czekaj... nie chcesz posłuchać fragmentu?!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00072da": {
   "pl": "Nie tylko ja uważam, że to trochę dziwne, że Quanty jest pielęgniarzem, prawda? Nie ma nawet kończyn...",
@@ -25,7 +25,7 @@
  },
  "n:line:0028d75": {
   "pl": "Ty w sztuce profesor Chortkoff... no, to było coś!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:004aa3e": {
   "pl": "Ucieszyłem się, gdy dziadkowie powiedzieli, że kupią mi jedną z tych tabliczek... Ale <i>naprawdę</i> żałuję, że to zrobili.",
@@ -33,7 +33,7 @@
  },
  "n:line:0068196": {
   "pl": "Spokojnie, to nie torebka, tylko teczka. Sprawa na pięć minut.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:006b6cb": {
   "pl": "Ale może zainteresuje cię kontynuacja powieści mojego autorstwa „Serce na wolności 2 – Pasja zagadki”.",
@@ -41,7 +41,7 @@
  },
  "n:line:008d8c2": {
   "pl": "Mam nadzieję, że jak dobrze rozegram karty, będę w ucieczkach takim asem jak nasi założyciele!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0095f6e": {
   "pl": "Nikt nigdy nie powiedział mi nic tak miłego!",
@@ -89,7 +89,7 @@
  },
  "n:line:0155bb6": {
   "pl": "Wow, gdyby nie ty, byłoby po mnie! Masz, coś za fatygę.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:016696a": {
   "pl": "Przeważnie trzymam się wieży... to chyba najlepsze miejsce, żeby nie dać się porwać.",
@@ -125,7 +125,7 @@
  },
  "n:line:01e4996": {
   "pl": "Całkiem przystojny ten eskapista w lewym górnym rogu, nie żebym się chwalił.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:01e54e4": {
   "pl": "Nie wierzę, że Jesse i Chester już wylądowali w lochu kar. Mieli mi pomagać w zagadkach!",
@@ -169,7 +169,7 @@
  },
  "n:line:02a2a29": {
   "pl": "Podobno profesor Chortkoff wciąż nie może przeboleć, że straciła głos na premierze, w której debiutowała w <i>Upiorze w Zamkoperze</i>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02af51b": {
   "pl": "Spadłem z wodospadu...",
@@ -213,11 +213,11 @@
  },
  "n:line:030f7c2": {
   "pl": "Tak! Tak. To... dokładnie tak się stało. Jak się nad tym zastanowić – to tak naprawdę wina stolarza!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:032dbb3": {
   "pl": "Ojej! Powiedziane z własnej woli, i to bez żadnego wypytywania!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0330f32": {
   "pl": "Dzięki Escape, już jesteś!",
@@ -225,7 +225,7 @@
  },
  "n:line:0342122": {
   "pl": "Tęsknię za czasami, gdy przy ladzie stała <style=\"clue\">Paige Turner</style>. Teraz te półki „polecane przez obsługę” jakoś nie mają duszy.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:03445be": {
   "pl": "Nie wiesz, gdzie jest <style=\"clue\">Edie Quill</style>? Nigdzie jej nie widać.",
@@ -241,7 +241,7 @@
  },
  "n:line:0384262": {
   "pl": "A ja nie mogę uwierzyć, że jakiś szaleniec musiał porwać moich dwóch najlepszych przyjaciół na świecie, żebym w końcu stawił czoła strachowi przed wodą i ogarnął higienę!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:038b60f": {
   "pl": "Jak by tu wynieść stąd tę lampę, żeby nikt nie zauważył...",
@@ -297,7 +297,7 @@
  },
  "n:line:046800d": {
   "pl": "Przepraszam, no... pizza jest tylko na pokaz. To plastik, i to nie z tych smacznych.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:048cf12": {
   "pl": "Skąd mam tu wytrzasnąć jakieś pieniądze, <style=\"clue\"><i>z toalet</style>?</i>",
@@ -329,11 +329,11 @@
  },
  "n:line:04e515d": {
   "pl": "Czy nie mogę choć raz po prostu <i>kupić</i> napoju? Zgubiłam <style=\"clue>arkusz z zasadami</style>, a liczby to moi WROGOWIE!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04e78de": {
   "pl": "Porcja zamkazanii byłaby teraz w sam raz.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04e7a22": {
   "pl": "Próbuję dojść, <i>dlaczego</i> wysłano mnie do gabinetu dyrektorki, <i>zanim</i> pójdę porozmawiać z Solange...",
@@ -349,7 +349,7 @@
  },
  "n:line:0516b17": {
   "pl": "Jedno przedstawienie profesor Chortkoff mi wystarczyło.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0520e10": {
   "pl": "Ściany mogą zacząć się trząść, niebo rozbłyśnie, a prąd może zniknąć na dobre...",
@@ -409,7 +409,7 @@
  },
  "n:line:062a676": {
   "pl": "Tak. TAK. Kichnąłem. Tak... z impetem. Zdmuchnąłem trofea prosto z półki.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:063b327": {
   "pl": "Myślisz, że ktoś by zauważył małą łamigłówkową drzemkę?",
@@ -485,7 +485,7 @@
  },
  "n:line:072c711": {
   "pl": "No to powodzenia.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:073abdb": {
   "pl": "Hej... podobno szukasz <i>przekąski</i>?",
@@ -513,7 +513,7 @@
  },
  "n:line:0767416": {
   "pl": "Dobra, w takim razie pójdę za tobą z takiej odległości, żeby nikt mnie nie zauważył!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:078201b": {
   "pl": "Jak ci się odwidzi, to... dalej tu będę.",
@@ -541,7 +541,7 @@
  },
  "n:line:0809998": {
   "pl": "...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:080c80c": {
   "pl": "Zwykle gdy wysyłają cię do gabinetu dyrektorki, to ona czeka na ciebie, a nie odwrotnie.",
@@ -553,7 +553,7 @@
  },
  "n:line:0810f87": {
   "pl": "Pracuję nad tym. Cierpliwości.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:081ebba": {
   "pl": "Jasne.",
@@ -565,7 +565,7 @@
  },
  "n:line:0864186": {
   "pl": "Nie pozwolili nam trzymać Skrzynki Zagadek w pokoju, więc Steve pozwolił nam rozstawić ją tutaj!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0874ea0": {
   "pl": "Może w tym roku mój pokój w akademiku będzie miał łóżko!",
@@ -617,15 +617,15 @@
  },
  "n:line:08ec7de": {
   "pl": "Rany. Oby udało mi się zostać jednym z jego królików doświadczalnych!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0900057": {
   "pl": "Posiedzę tu chwilę. Muszę przetrawić tę szaloną akcję z królestwem umysłu, czymkolwiek to było...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09152fc": {
   "pl": "Burza Mózgów już depcze nam po piętach, a ja zaczynam się martwić o <style=\"clue\">Mike'a T. Umihurtza</style>...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:092d346": {
   "pl": "Proszę, kolego. <style=\"purchase\">(Daj mleko)</style>",
@@ -689,19 +689,19 @@
  },
  "n:line:0a1beb7": {
   "pl": "Ojej! Marnie ci idzie z tymi współlokatorami, co?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a23d3e": {
   "pl": "U mnie jej dawno brak!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a4f941": {
   "pl": "Trener Yoach kazał mi zetrzeć kurz w gablocie z trofeami. Ale, no...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a5e158": {
   "pl": "Wiem, że wszyscy bez przerwy zachwycają się gwiazdami roku Solange, ale to Puzzle-Man jest <i>prawdziwym</i> bohaterem Akademii.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a69935": {
   "pl": "Po długim namyśle postanowiłem spędzić resztę semestru w tym holu.",
@@ -745,7 +745,7 @@
  },
  "n:line:0aeb403": {
   "pl": "Omijam Wydział Sztuki, dopóki profesor Chortkoff jest w wirze przygotowań do spektaklu.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0aee9ea": {
   "pl": "Zajęte!",
@@ -781,11 +781,11 @@
  },
  "n:line:0b590c8": {
   "pl": "Naprawdę muszę kupić podręczniki, ale nie mam dość <style=\"clue\">eskadolarów</style>!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b59170": {
   "pl": "Przykro mi, Ralph. Niby <i>mogę</i>, ale... szczerze mówiąc, nie chce mi się.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b6c577": {
   "pl": "Na emeryturę profesora Von Belliniego czekano od dawna!",
@@ -797,11 +797,11 @@
  },
  "n:line:0b9ef06": {
   "pl": "Rany, właśnie usłyszałem, że <style=\"clue\">Kira Tempest</style> zaginęła... to już chyba <i>wszyscy</i> twoi współlokatorzy?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ba4dd0": {
   "pl": "Po <style=\"clue>podręczniki</style>?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bae439": {
   "pl": "Wpadasz podrzucić zagadkę pod schody? Mamy zapas.",
@@ -813,7 +813,7 @@
  },
  "n:line:0bd1c3a": {
   "pl": "Skoro mam się zaszyć, to lepiej z dobrą książką... Och! Może mają tu „Bóg Imperator Zagaduny”.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bd7fcf": {
   "pl": "Jest solidnie ufortyfikowana.",
@@ -825,7 +825,7 @@
  },
  "n:line:0be2fe2": {
   "pl": "Och. <style\"clue\">Kira Tempest</style> była za słodka, żeby ją porywać! Ktokolwiek za tym stoi, powinien był porwać Gillian Paisley!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0beb639": {
   "pl": "Ale fajnie, że udało ci się zadzwonić dzwonami wieży zegarowej w EATV! Pewnie miło mieć u Solange takie względy...",
@@ -873,15 +873,15 @@
  },
  "n:line:0c62c49": {
   "pl": "Ja akurat mogę...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c730ae": {
   "pl": "Ugryzła mnie zagadkobra królewska, która pełzała sobie luzem po muzeum... Co ona tam w ogóle robiła?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c965f5": {
   "pl": "Ja dokładam swoją cegiełkę do przygotowań na Burzę Mózgów: uszczelniam okna.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c9ede6": {
   "pl": "Pewnie będzie tu po prostu siedział, jak zwykle. Na większość uczniów to działa.",
@@ -901,7 +901,7 @@
  },
  "n:line:0cc5ba1": {
   "pl": "Czy to... <style=\"vis_clue\">kula sierści pełna kasy?!</style> Bingo!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ccb66c": {
   "pl": "Całe jedzenie robię własnymi rękami! Świeższe już być nie może.",
@@ -945,7 +945,7 @@
  },
  "n:line:0d5309c": {
   "pl": "Już to zrobili. Jakiś czas temu.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d68d8b": {
   "pl": "Chyba nie dam rady iść na tę uroczystość żałobną...",
@@ -961,7 +961,7 @@
  },
  "n:line:0d979f2": {
   "pl": "A ja robię sobie przedziałek! Masz grzebień?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0da3d42": {
   "pl": "Nie wiesz, gdzie podziewa się <style=\"clue\">Tony Kerrigan</style>? Mieliśmy spotkać się na dziedzińcu.",
@@ -977,7 +977,7 @@
  },
  "n:line:0dc6b5a": {
   "pl": "Dobra! Ale lepiej nie ostrz sobie zębów na moje stanowisko, to był <i>mój</i> pomysł!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0dcd157": {
   "pl": "Jak mam się skupić na zadaniu domowym z otwierania zamków, skoro uczniowie i wykładowcy padają jak muchy!",
@@ -993,7 +993,7 @@
  },
  "n:line:0ded41c": {
   "pl": "Psia tama! Nie mam dość punktów na drzwi tam na dole...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0df1618": {
   "pl": "W moim przedszkolu było dużo burzliwiej.",
@@ -1033,11 +1033,11 @@
  },
  "n:line:0e64806": {
   "pl": "Nie patrz na mnie! Mnie tu nie ma!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e675ab": {
   "pl": "Na „Śmierci artysty” zrywałem boki ze śmiechu...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e7109a": {
   "pl": "Wiesz, że Jeb dostał awans? Jako nowy historyk na pewno będzie pod presją...",
@@ -1053,11 +1053,11 @@
  },
  "n:line:0ebf672": {
   "pl": "Za bardzo się starała, żeby tak skończyć. A poza tym Akademia <i>uwielbia</i> kasę Paisleyów...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ec46df": {
   "pl": "Stary... nie wierzę, że wydostaliśmy się z... tego czegoś, czymkolwiek to było, i że Von Bellini nie wycisnął nam mózgów jak cytryn.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ed6b5c": {
   "pl": "Szczerze – nie mam nic do tej kanapki! Za kilka godzin mój żołądek może mieć inne zdanie...",
@@ -1077,11 +1077,11 @@
  },
  "n:line:0eebf98": {
   "pl": "Muzea to nie moja bajka, ale to, jak profesor Jeberson próbuje urządzić nową wystawę, na pewno będzie ciekawe.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0eec5c9": {
   "pl": "Ależ skąd, wcale nie zazdroszczę ci, że wybrano cię do jednego z tych odjazdowych eksperymentów profesora Von Belliniego. Ani trochę!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0eecd01": {
   "pl": "*Sss*",
@@ -1093,7 +1093,7 @@
  },
  "n:line:0efa36e": {
   "pl": "Aha. No cóż... skoro naprawdę tak się stało, to nic nie mówiłam.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f022de": {
   "pl": "Idziemy na Wydział Humanistyczny!",
@@ -1125,7 +1125,7 @@
  },
  "n:line:0f5e171": {
   "pl": "No. Nie mam teraz czasu na te... cokolwiek to jest.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f76c87": {
   "pl": "Nie ma co, nawet ze <style=\"clue>ściągą</style> chyba nigdy nie pojmę automatów Sudokąski.",
@@ -1145,7 +1145,7 @@
  },
  "n:line:0fb2206": {
   "pl": "Mia... *khe, khe* *ptu*",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0fb819a": {
   "pl": "Bieganie *sap* sprawia, że myślę szybciej *sap*",
@@ -1169,6 +1169,6 @@
  },
  "n:line:0ff9fde": {
   "pl": "Piątą klepkę.",
-  "status": "review"
+  "status": "done"
  }
 }

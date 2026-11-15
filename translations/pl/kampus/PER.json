@@ -65,7 +65,7 @@
  },
  "g:PER_Cast_Debra_Resume": {
   "pl": "<b>DOTYCHCZASOWE ROLE:</b><br>Mamma Kluczia: surowa recepcjonistka hotelowa<br>Tramwaj zwany Zagadką: przesadnie dramatyczna siostra<br>Romeo i Zagadulia: nieszczęśliwa łamigłowaczka<br><br><b>KOLIZJE TERMINÓW:</b><br>Klub debat w środy<br>Klub taneczny w czwartki",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Cast_DetectiveRoleDescription": {
   "pl": "<b>Rola:</b> Detektyw<br><b>Umiejętność:</b> Walka<br><b>Terminy:</b> poniedziałki + czwartki",
@@ -141,7 +141,7 @@
  },
  "g:PER_Cast_Sides_Second": {
   "pl": "Czyż to jest układanka, co ją widzę przed sobą, z elementami zwróconymi ku mej dłoni? <i>(Kręci głową)</i>",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Cast_Sides_Third": {
   "pl": "Czym jest podpowiedź? To, co zwiemy podpowiedzią, pod inną nazwą rozwiązałoby się równie szybko. <i>(Wzdycha)</i>",

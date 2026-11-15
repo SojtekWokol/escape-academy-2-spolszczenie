@@ -9,7 +9,7 @@
  },
  "n:line:0026199": {
   "pl": "Ta tama wygląda tam-tastycznie ze świeżą warstwą farby.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:002a55d": {
   "pl": "Wiesz, że można <style=\"clue\">wejść na szyld teatru</style>? Dziwne, że nikt jeszcze nie próbował poprzestawiać liter...",
@@ -25,7 +25,7 @@
  },
  "n:line:00c7aa5": {
   "pl": "Nikt nie da rady, <style=\"clue\">Bączek Eskapisty</style> to zbyt wymagająca figura.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00f187b": {
   "pl": "Podobno <style=\"clue\">Grace szuka pomocy</style>, żeby zrobić coś jeszcze większego!",
@@ -65,7 +65,7 @@
  },
  "n:line:026f3f8": {
   "pl": "Hej, chciałem ci podziękować. Gdyby nie twoja pomoc, Ollie i ja nigdy nie ogarnęlibyśmy tych sześcianów, a ja wyszedłbym na ograniczonego jak kwadrat!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02a01f6": {
   "pl": "Wow. Wbrew temu, co wszyscy mówią, w sztuce <i>da się</i> zarobić!",
@@ -77,7 +77,7 @@
  },
  "n:line:02c8a49": {
   "pl": "Znowu źle! O co chodzi? Zaczynam podejrzewać, że Eel Barnes wcale cię nie obchodzi.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02e49c2": {
   "pl": "Niezły też, żeby wylądować w izbie chorych.",
@@ -133,7 +133,7 @@
  },
  "n:line:042b36d": {
   "pl": "Profesor Slip powiedział, że żeby zdobyć <style=\"clue>nagrodę ukrytą w tej rzeźbie</style>, muszę spojrzeć na nią <style=\"clue\">z wielu różnych perspektyw</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:044b251": {
   "pl": "Ty może i masz forsę, ale to ja mam ser...",
@@ -157,7 +157,7 @@
  },
  "n:line:0504241": {
   "pl": "Nie, to już twoja działka.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0514353": {
   "pl": "Dosyć, dosyć, uszy mi więdną! Weź całą forsę z mojego portfela, tylko przestań już na tym grać!",
@@ -169,15 +169,15 @@
  },
  "n:line:0545eaf": {
   "pl": "Dzięki! To było pro...<i>serfesjonalne</i>!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0546ff0": {
   "pl": "Profesor Slip zamknął wszystkie farby w sprayu, ale i tak dorwiemy trochę <style=\"clue\">sera w <i>sprayu</style>!</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:054f4af": {
   "pl": "Wow! Udało się! Dzięki za pomoc. Masz <style=\"purchase\"> ${0} w gotówce</style> za to, że wyszedłem na kozaka.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0585b45": {
   "pl": "Chcesz mi pomóc napisać moją najnowszą i <style=\"clue\">najbardziej irytującą</style> melodię?",
@@ -197,7 +197,7 @@
  },
  "n:line:05dd9fb": {
   "pl": "Co tam, gwiazdo ucieczek. Nie przejmuj się mną, tylko testuję odporność naszego kostiumu na gwałtowne ruchy ciała, plamy farby i ogień.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05f4e4d": {
   "pl": "Gdyby tylko Eel widział, jak głęboko jesteśmy mu oddani...",
@@ -217,7 +217,7 @@
  },
  "n:line:071bd2a": {
   "pl": "Co?! Eel Barnes to był, ni mniej, ni więcej, największy eskapista wszech czasów! I do tego najprzystojniejszy...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:074d110": {
   "pl": "Doskonała robota! Przypominasz mi... no cóż, mnie sprzed kilku lat!",
@@ -237,7 +237,7 @@
  },
  "n:line:08fb4ba": {
   "pl": "Wiesz już, o co chodzi z tymi wszystkimi posągami na kampusie? Pewnie, bułka z <i>kostką</i> masła...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:091b8c6": {
   "pl": "Twoja strata, ty szczurze lądowy o delikatnych uszkach!",
@@ -249,19 +249,19 @@
  },
  "n:line:093e394": {
   "pl": "Co tam, gwiazdo ucieczek.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:09502df": {
   "pl": "Oddał się w ręce podłych Naukowców Przeciwko Ucieczkom, żeby zachować Akademię w tajemnicy, a świat escape'u w bezpieczeństwie. Żeby ochronić <i>nas</i>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0951e34": {
   "pl": "Inaczej nie przetrwa żadnej produkcji Enory...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:095692d": {
   "pl": "A, i nie wspominamy o zeszłorocznym incydencie z robotem-sobowtórem, który próbował przejąć szkołę... On nie miał z tym nic wspólnego.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0986a0d": {
   "pl": "Na razie ani okruszka.",
@@ -309,7 +309,7 @@
  },
  "n:line:0b3f198": {
   "pl": "<i>Ser</i>wuję twój ser w sprayu! <style=\"purchase\">(Daj ser)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b5a23b": {
   "pl": "Ty mały... Przecież <i>jestem</i> profesjonalistą!",
@@ -325,15 +325,15 @@
  },
  "n:line:0b95da9": {
   "pl": "Tyle hałasu o <i>węgorza</i>. Pa!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bb6097": {
   "pl": "Masz, parę eskadolarów.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0bdf076": {
   "pl": "Nie wodź mnie za nos, bo się ser-io wkurzę!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0be3111": {
   "pl": "Chodzi o to, że te obrazy hańbią dziedzictwo Eela Barnesa i trzeba je poprawić.",
@@ -349,7 +349,7 @@
  },
  "n:line:0cd0c5a": {
   "pl": "Przebije, już ja tego dopilnuję!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ce9be1": {
   "pl": "Idź <style=\"clue\">kupić bilety na przedstawienie</style>, zanim się skończą...",
@@ -393,7 +393,7 @@
  },
  "n:line:0e38506": {
   "pl": "Ser w sprayu cię nie satysfakcjonuje, co? Ale mnie ser-ce boli.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e3ea2b": {
   "pl": "Dobre oko! Oko Eela powinno być otwarte, nie zamknięte.",
@@ -441,11 +441,11 @@
  },
  "n:line:0f20634": {
   "pl": "Chyba <i>mój</i> spokój jest ważniejszy...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f4602c": {
   "pl": "Jak tam serowe poszukiwania?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f5ff9e": {
   "pl": "Za sztukę <i>albo</i> za szacun na ulicy.",
