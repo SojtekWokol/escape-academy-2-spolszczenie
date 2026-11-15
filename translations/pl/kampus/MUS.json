@@ -173,7 +173,7 @@
  },
  "g:MUS_EC_Aztec_QuestName": {
   "pl": "Zemsta Szyfrezumy",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_EC_EscapistTimes_Obj1": {
   "pl": "Zakreśl winowajców na tablicy.",
@@ -225,7 +225,7 @@
  },
  "g:MUS_EscapistsHedge": {
   "pl": "ŻYWO-COLA",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_FertilizerFull": {
   "pl": "Teraz rozkwitamy!",
@@ -233,7 +233,7 @@
  },
  "g:MUS_Fertilizer_Item": {
   "pl": "Żywo-Cola",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Fertilizer_Item_Description": {
   "pl": "Smakuje trochę lepiej niż Eska-Cola",

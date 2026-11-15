@@ -185,7 +185,7 @@
  },
  "n:line:04e817e": {
   "pl": "Jesse i Chester to najlepsi kumple, nie mogę się doczekać, aż wyjdą z kozy. Ich zachęta to było wszystko, czego mi trzeba, żeby częściej zapuszczać się na kampus.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:050e5bd": {
   "pl": "Właśnie się dowiaduję, że Czerwony Śledź się wywrócił... Co się tam stało!?",
@@ -221,7 +221,7 @@
  },
  "n:line:05ecc91": {
   "pl": "Ooo. Uwielbiam nagrody. <i>I jeszcze</i> plotki. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:05f549a": {
   "pl": "Tu wszyscy obiecują się ze mną spotkać po zajęciach, ale... nigdy nie przychodzą.",
@@ -337,7 +337,7 @@
  },
  "n:line:084fdb6": {
   "pl": "Na początku istnienia Akademii to była główna Fabryka Łamigłówek dla całego świata ucieczek!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0856a26": {
   "pl": "Na razie!",
@@ -453,7 +453,7 @@
  },
  "n:line:0a74e8a": {
   "pl": "Chyba da się wejść <style=\"clue\">na szczyt Fabryki Łamigłówek</style>, jeśli nie boisz się trochę poskakać...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0a7a7af": {
   "pl": "Uff, co za ulga. Wszyscy inni mi odmówili, a nie jadłem od kilku dni.",
@@ -721,6 +721,6 @@
  },
  "n:line:0ff19ca": {
   "pl": "Prędzej <i>umrę z głodu</i> niż zmierzę się z kolejnym <style=\"clue\">automatem Sudokąski</style>.",
-  "status": "review"
+  "status": "done"
  }
 }

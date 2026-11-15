@@ -505,7 +505,7 @@
  },
  "g:GUIMap_CostumeShop": {
   "pl": "Pracownia kostiumów",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_Courtyard": {
   "pl": "Patio",
@@ -601,7 +601,7 @@
  },
  "g:GUIMap_HallOfEscapists": {
   "pl": "Sala Eskapistów",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_HedgeMaze": {
   "pl": "Labirynt z żywopłotu",
@@ -657,7 +657,7 @@
  },
  "g:GUIMap_PuzzleFactory": {
   "pl": "Fabryka Łamigłówek",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_Quad": {
   "pl": "Dziedziniec",
@@ -1465,7 +1465,7 @@
  },
  "g:HallOfEscapists_Hint_Location": {
   "pl": "Idź do Sali Eskapistów na Wydziale Sztuki.",
-  "status": "review"
+  "status": "done"
  },
  "g:Hint_Allie": {
   "pl": "Porozmawiaj z prof. Bonillą.",
@@ -1969,7 +1969,7 @@
  },
  "g:UND_MemoryGasBarrels": {
   "pl": "„Koncentrat gazu niepamięci: NIE pić”",
-  "status": "review"
+  "status": "done"
  },
  "g:UND_ReinaRecognize": {
   "pl": "Reina Wym wygląda groźnie...",
@@ -2025,7 +2025,7 @@
  },
  "g:WeatherTower_Hint_Location": {
   "pl": "Idź do wieży meteo na Wydziale Nauk Ścisłych.",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_1": {
   "pl": "Znów do szkoły",
@@ -2041,7 +2041,7 @@
  },
  "g:acheivement_12": {
   "pl": "Von, ale nie zapomniany",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_13": {
   "pl": "Pilnie strzeżony sekret",
@@ -2049,19 +2049,19 @@
  },
  "g:acheivement_14": {
   "pl": "Wykolejeni",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_15": {
   "pl": "W oku Burzy Mózgów",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_16": {
   "pl": "Co starszym chodzi po głowie",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_17": {
   "pl": "Ucieczka z Akademii",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_18": {
   "pl": "Gwiazda roku",
@@ -2117,7 +2117,7 @@
  },
  "g:acheivement_3": {
   "pl": "Coś tu dzwoni",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_30": {
   "pl": "Śledź z serca",
@@ -2181,7 +2181,7 @@
  },
  "g:acheivement_7": {
   "pl": "Uwaga, koza!",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_8": {
   "pl": "Strzelba Chortkoff",
@@ -2205,7 +2205,7 @@
  },
  "g:achievement_desc_12": {
   "pl": "Ukończ „Von, ale nie zapomniany”",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_13": {
   "pl": "Ukończ „Trzecia komora”",
@@ -2213,15 +2213,15 @@
  },
  "g:achievement_desc_14": {
   "pl": "Ukończ „Wykolejeni”",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_15": {
   "pl": "Ukończ „W oku Burzy Mózgów”",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_16": {
   "pl": "Ukończ „Co starszym chodzi po głowie”",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_17": {
   "pl": "Przetrwaj drugi rok w Escape Academy.",
@@ -2237,11 +2237,11 @@
  },
  "g:achievement_desc_2": {
   "pl": "Ukończ „Zagadkowa pobudka”",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_20": {
   "pl": "Zsyntetyzuj własną partię gazu niepamięci.",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_21": {
   "pl": "Odblokuj Wydział Nauk Ścisłych.",
@@ -2281,7 +2281,7 @@
  },
  "g:achievement_desc_3": {
   "pl": "Ukończ „Coś tu dzwoni”",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_30": {
   "pl": "Oddaj wszystkie 50 śledzi-zmyłek Cod Stewartowi.",
@@ -2345,7 +2345,7 @@
  },
  "g:achievement_desc_7": {
   "pl": "Ukończ „Uwaga, koza!”",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_8": {
   "pl": "Ukończ „Strzelba Chortkoff”",

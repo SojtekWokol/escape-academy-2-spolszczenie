@@ -21,7 +21,7 @@
  },
  "n:line:022a16a": {
   "pl": "Dasz radę zdobyć dla mnie <style=\"clue\">puszkę Eska-Coli</style>? Od razu postawi mnie na nogi.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:02d6aa6": {
   "pl": "Powiesz, proszę, mojemu współlokatorowi, że jest zapominalską zmorą?",
@@ -181,7 +181,7 @@
  },
  "n:line:0ec6856": {
   "pl": "Ech... te całe zajęcia wprowadzające wyciskają ze mnie każdą kroplę energii – a i tak <i>wciąż</i> jej za mało.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f1b991": {
   "pl": "„Lubić” to mocne słowo, ale mogę zmywać <style=\"clue\">naczynia</style> albo <style=\"clue\">odkurzać</style>.",

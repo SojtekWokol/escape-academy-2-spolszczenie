@@ -689,7 +689,7 @@
  },
  "n:line:060afc7": {
   "pl": "W każdym razie wolałbym nie oglądać cię w tym roku w kozie co tydzień.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0611d42": {
   "pl": "Nie pamiętam cię i nic mnie to nie obchodzi!",
@@ -805,7 +805,7 @@
  },
  "n:line:06ec377": {
   "pl": "Skrzydło założycieli jest częścią Sali Eskapistów od jej wielkiego otwarcia, które nastąpiło tuż przed przejściem Reiny Wym na emeryturę.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:06ef650": {
   "pl": "TBD Fluff Dialogue!",
@@ -913,7 +913,7 @@
  },
  "n:line:07b4758": {
   "pl": "Jaką wiedzą mogę cię uraczyć na temat Sali Eskapistów?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07bab5f": {
   "pl": "TBD Fluff Dialogue!",
@@ -1061,7 +1061,7 @@
  },
  "n:line:08f2964": {
   "pl": "Najpierw zobaczmy, jak radzisz sobie z suwakiem puzonu. Potem pogadamy o moim występie na uroczystości ku pamięci Von Belliniego.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:090320a": {
   "pl": "Na razie!",
@@ -1565,7 +1565,7 @@
  },
  "n:line:0d72c20": {
   "pl": "Czas odzyskać te okulary! <style=\"story\">(Kontynuuj historię!)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0d7b6df": {
   "pl": "Ludzie są <i>tacy</i> pobłażliwi. A ja – według moich obliczeń – wcale <i>nie</i> zamierzam tego wykorzystać!",
@@ -1645,7 +1645,7 @@
  },
  "n:line:0e12946": {
   "pl": "Gość chyba liczył na naszą pomoc tylko dlatego, że idzie na emeryturę? Bez przesady! Jest wredny. <i>I do tego</i> stary!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e1c338": {
   "pl": "Och. No cóż. Jeszcze mnie zapamiętasz...",
@@ -1657,7 +1657,7 @@
  },
  "n:line:0e22ae8": {
   "pl": "Powiedzmy, że gaz niepamięci narobił <i>znacznie</i> więcej szkód, niż pani planowała...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e29d6f": {
   "pl": "Właściwie... wolę nie wiedzieć.",
@@ -1869,6 +1869,6 @@
  },
  "n:line:0fee6eb": {
   "pl": "Jedno jest pewne: będzie w nim Kurkuma. Przywiązałem się do tej małej szczurzycy.",
-  "status": "review"
+  "status": "done"
  }
 }

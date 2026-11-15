@@ -177,7 +177,7 @@
  },
  "g:AHY_Hint_Von": {
   "pl": "Profesor jest na zewnątrz, za Fabryką Łamigłówek.",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_Hint_VonB": {
   "pl": "Spotkaj Profesora Von Bellini na łodzi i postaw żagle!",
@@ -265,7 +265,7 @@
  },
  "g:AHY_Meta_QuestObj1": {
   "pl": "Porozmawiaj z prof. Von Bellinim przy Fabryce Łamigłówek.",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_Meta_QuestObj2": {
   "pl": "Przekup operatorów dźwigów.",

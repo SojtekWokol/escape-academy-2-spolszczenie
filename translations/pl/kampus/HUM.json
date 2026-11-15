@@ -453,7 +453,7 @@
  },
  "g:HUM_LectureEscapeAcademy": {
   "pl": "Escape Academy to szkoła poświęcona nauce ucieczek. Uczy uczniów logiki testów, pracy zespołowej i zachowania zimnej krwi.<br><br>Odgrywa kluczową rolę we współczesnym społeczeństwie eskapistów. Choć jest powszechnie szanowana, jej wpływy i metody spotykają się z krytyką, zwłaszcza ze strony Naukowców Przeciwko Ucieczkom.",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_LectureEscapeRooms": {
   "pl": "Escape roomy to gry w zagadki dostępne dla szerokiej publiczności. Oficjalnie klasyfikuje się je jako „rozrywkę”.<br><br>W rzeczywistości większość escape roomów działa jako globalna sieć rekrutacji i oceny Escape Academy. Strategię tę zwykle przypisuje się Fernandowi Augustínowi.",

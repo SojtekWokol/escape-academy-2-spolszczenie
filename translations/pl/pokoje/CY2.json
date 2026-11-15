@@ -5,7 +5,7 @@
  },
  "g:CY2_Barrels": {
   "pl": "Siedzę na beczce prochu!",
-  "status": "review"
+  "status": "done"
  },
  "g:CY2_BigDipper": {
   "pl": "Wielka Niedźwiedzica",
@@ -281,7 +281,7 @@
  },
  "g:CY2_Ingots1": {
   "pl": "Przydałby się jakiś <i>złoty</i> pomysł na ucieczkę!",
-  "status": "review"
+  "status": "done"
  },
  "g:CY2_Ingots2": {
   "pl": "Nie tracę nadziei – wyjście stąd jest na wagę <i>złota</i>.",
@@ -393,7 +393,7 @@
  },
  "g:CY2_Meta_QuestObj3": {
   "pl": "Zbadaj tajną komnatę.",
-  "status": "review"
+  "status": "done"
  },
  "g:CY2_Meta_QuestObj4": {
   "pl": "Wróć z Kirą do pokoju w akademiku.",
@@ -461,7 +461,7 @@
  },
  "g:CY2_Vase1": {
   "pl": "Muszę to dobrze roz<i>waz</i>yć, żeby rozwiązać te zagadki.",
-  "status": "review"
+  "status": "done"
  },
  "g:CY2_Vials": {
   "pl": "Trzeba rozgryźć ciąg dalszy tej historii, zanim dostanę fioła.",

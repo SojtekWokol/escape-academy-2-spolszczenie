@@ -381,7 +381,7 @@
  },
  "g:PRO_HallwayEast_DoorQuiz": {
   "pl": "Powodzenia temu, kto pisze tam teraz sprawdzian!",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_HallwayWest_Checklist": {
   "pl": "1. Przeżyj kolce.<br><br>2. Znajdź swoją szafkę.<br><br>3. Otwórz swój pokój.<br><br>4. Kup podręczniki.<br><br><i>Gdy skończysz, idź do gabinetu dyrektorki.</i>",
@@ -393,7 +393,7 @@
  },
  "g:PRO_HallwayWest_GoodLuckQuiz": {
   "pl": "Powodzenia temu, kto pisze tam teraz sprawdzian!",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_HallwayWest_HelpLine": {
   "pl": "Ta infolinia naprawdę pomogła!",
@@ -417,7 +417,7 @@
  },
  "g:PRO_HallwayWest_OrientationPrompt": {
   "pl": "Lista zadań wprowadzających",
-  "status": "review"
+  "status": "done"
  },
  "g:PRO_HallwayWest_OutOfOrder": {
   "pl": "Nieczynne",

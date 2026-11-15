@@ -749,7 +749,7 @@
  },
  "v:NLCFemaleStudent_WLD_TurmericHomesick": {
   "pl": "Na widok Kurkumy robi mi się tęskno za domem...",
-  "status": "review"
+  "status": "done"
  },
  "v:NLCMaleStudent_WLD_Hey": {
   "pl": "Hej!",
@@ -873,7 +873,7 @@
  },
  "v:PASystem_WLD_GasLeak": {
   "pl": "Przypomnienie: Omijajcie wschodnie skrzydło Wieży. Jest zamknięte z powodu wycieku gazu niepamięci.",
-  "status": "review"
+  "status": "done"
  },
  "v:PASystem_WLD_LLL": {
   "pl": "Ogłoszenie: Zamknięte na zamki szafki w bibliotece zardzewieją bez zbawiennego smaru do zawiasów.",
@@ -1365,7 +1365,7 @@
  },
  "v:StokedFemaleStudent_WLD_RuddyHerringCapsized": {
   "pl": "Jak to jest być na pokładzie Czerwonego Śledzia, gdy się wywraca?",
-  "status": "review"
+  "status": "done"
  },
  "v:StokedFemaleStudent_WLD_SawYouOnEATV": {
   "pl": "Widziałam cię w EATV! Skupienie na cztery spusty!",
@@ -1393,7 +1393,7 @@
  },
  "v:StonyMaleStudent_WLD_MemoryGas": {
   "pl": "Ta ostatnia partia gazu niepamięci inaczej wchodzi...",
-  "status": "review"
+  "status": "done"
  },
  "v:StonyMaleStudent_WLD_PuzzleFeelings": {
   "pl": "Stary, a co, jeśli zagadki mają uczucia?",

@@ -45,7 +45,7 @@
  },
  "g:RAT_BelovedPet": {
   "pl": "Poznaj Kurkumę<br>Ukochaną maskotkę klasy!",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_BelovedPet2": {
   "pl": "Kocha ser! Taka milutka!",
@@ -101,7 +101,7 @@
  },
  "g:RAT_FeedingChart": {
   "pl": "Harmonogram karmienia Kurkumy serem",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_Files1": {
   "pl": "„Całkowicie legalne eksperymenty nr 33–85”",
@@ -109,7 +109,7 @@
  },
  "g:RAT_Files2": {
   "pl": "„Harmonogramy karmienia Kurkumy”",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_Files3": {
   "pl": "„Schematy maszynerii”",
@@ -125,7 +125,7 @@
  },
  "g:RAT_GolfFlag": {
   "pl": "Profesor Von Bellini chyba lubi wystawiać Kurkumę na próbę... na każdym dołku.",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_Hint_Back": {
   "pl": "Wkradnij się od tyłu i przeprowadź eksperyment!",
@@ -225,7 +225,7 @@
  },
  "g:RAT_Hint_Wheel": {
   "pl": "Włóż Kurkumę do jej kołowrotka!",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_HoopPrompt": {
   "pl": "Rzućmy do kosza!",
@@ -381,7 +381,7 @@
  },
  "g:RAT_Pinboard": {
   "pl": "„Regulamin Fabryki Łamigłówek: absolutny zakaz rozwiązywania w pokoju socjalnym”",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_Plane": {
   "pl": "Model samolotu",
@@ -449,7 +449,7 @@
  },
  "g:RAT_TrainJoke": {
   "pl": "Kurkuma ma do tego prawdziwy pociąg.",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_TrainMissing": {
   "pl": "Brakuje tu kawałka torów...",
@@ -481,7 +481,7 @@
  },
  "g:RAT_UrgentWheel": {
   "pl": "Muszę wsadzić Kurkumę do tego kołowrotka!",
-  "status": "review"
+  "status": "done"
  },
  "g:RAT_VonBellini": {
   "pl": "Von Bellini",
@@ -589,6 +589,6 @@
  },
  "v:VonBellini_RAT_YesTurmeric": {
   "pl": "Tak, Kurkumo, tak!",
-  "status": "review"
+  "status": "done"
  }
 }

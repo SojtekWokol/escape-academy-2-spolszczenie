@@ -65,7 +65,7 @@
  },
  "g:SCI_Camp_StairwellSignage": {
   "pl": "DO WIEŻY METEO",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_CarbonC": {
   "pl": "C",
@@ -317,11 +317,11 @@
  },
  "g:SCI_Give_Obj1": {
   "pl": "Porozmawiaj z prof. Von Bellinim na Wydziale Nauk Ścisłych.",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Give_QuestDesc": {
   "pl": "Porozmawiaj z prof. Von Bellinim, żeby zacząć program Wydziału Nauk Ścisłych i zgarnąć punkty!",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_Give_QuestName": {
   "pl": "Metoda naukowa",
@@ -573,7 +573,7 @@
  },
  "g:SCI_RAT_Obj2": {
   "pl": "Przeprowadź nieautoryzowany eksperyment w Fabryce Łamigłówek.",
-  "status": "review"
+  "status": "done"
  },
  "g:SCI_RAT_QuestDesc": {
   "pl": "Pomóż profesorowi Von Bellini przeprowadzić jego nieautoryzowany eksperyment naukowy.",

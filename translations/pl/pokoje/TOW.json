@@ -405,7 +405,7 @@
  },
  "g:TOW_QuestDesc": {
   "pl": "Dowiedz się, jaką nagrodę dyrektorka Solange przygotowała za najszybsze ukończenie zajęć wprowadzających.",
-  "status": "review"
+  "status": "done"
  },
  "g:TOW_QuestName": {
   "pl": "Niespodziewany start",

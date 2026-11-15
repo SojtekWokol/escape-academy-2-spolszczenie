@@ -17,7 +17,7 @@
  },
  "g:VON_BinaryPoster_Title": {
   "pl": "Binarny elementarz",
-  "status": "review"
+  "status": "done"
  },
  "g:VON_Burnice_Drop": {
   "pl": "Upuść",
@@ -225,7 +225,7 @@
  },
  "g:VON_Lab_Groovy": {
   "pl": "Jazda, czuję ten rytm!",
-  "status": "review"
+  "status": "done"
  },
  "g:VON_Lab_PlugInLabel": {
   "pl": "Sterownik osobowości",
@@ -393,7 +393,7 @@
  },
  "g:VON_Meteor_QuestObj1": {
   "pl": "Porozmawiaj z prof. Von Bellinim w wieży meteo.",
-  "status": "review"
+  "status": "done"
  },
  "g:VON_Meteor_QuestObj2": {
   "pl": "Pobierz próbkę powietrza.",
@@ -541,7 +541,7 @@
  },
  "v:QTY_VON_CantSpellLaboratory": {
   "pl": "W laboratorium trzeba orać – widać to w nazwie.",
-  "status": "review"
+  "status": "done"
  },
  "v:QTY_VON_CarryingSkills": {
   "pl": "Twoje umiejętności przenoszenia są wystarczające.",
