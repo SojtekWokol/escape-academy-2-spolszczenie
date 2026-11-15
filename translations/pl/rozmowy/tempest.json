@@ -16,8 +16,8 @@
   "status": "draft"
  },
  "n:line:007a186": {
-  "pl": "No cóż... Wy wszyscy stanęliście na wysokości zadania i zrobiliście, co trzeba dla Akademii, więc... teraz moja kolej.",
-  "status": "review"
+  "pl": "No cóż... Każde z was stanęło na wysokości zadania i zrobiło, co trzeba dla Akademii, więc... teraz moja kolej.",
+  "status": "done"
  },
  "n:line:00c7c0d": {
   "pl": "Ja tam staram się po prostu przetrwać ten i tak już dość ekscytujący drugi rok.",
@@ -36,8 +36,8 @@
   "status": "draft"
  },
  "n:line:00ec5dc": {
-  "pl": "Doceniam próbę podniesienia mnie na duchu, ale aktorstwo to po prostu nie moja bajka...",
-  "status": "draft"
+  "pl": "Doceniam próbę podniesienia mnie na duchu, ale aktorstwo to po prostu nie moja rola...",
+  "status": "done"
  },
  "n:line:00ee12c": {
   "pl": "Może masz rację. Ale razem jesteśmy silniejsi. Reed musi to w końcu zrozumieć...",
@@ -164,8 +164,8 @@
   "status": "draft"
  },
  "n:line:0317723": {
-  "pl": "Zrozumiałe, biorąc pod uwagę nasze dotychczasowe spotkania, ale...",
-  "status": "draft"
+  "pl": "Zrozumiałe, biorąc pod uwagę nasze dotychczasowe starcia z nią, ale...",
+  "status": "done"
  },
  "n:line:032ab78": {
   "pl": "Do zobaczenia!",
@@ -180,8 +180,8 @@
   "status": "draft"
  },
  "n:line:034803d": {
-  "pl": "Hmm. Zauważ, że dyrektorka trzyma się z dala od całego zamieszania wokół uroczystości żałobnej.",
-  "status": "draft"
+  "pl": "Hmm. Rzuciło ci się w oczy, że dyrektorka trzyma się z dala od całego zamieszania wokół uroczystości żałobnej?",
+  "status": "done"
  },
  "n:line:035a3ba": {
   "pl": "Do zobaczenia!",
@@ -472,8 +472,8 @@
   "status": "review"
  },
  "n:line:09a2a1b": {
-  "pl": "Wszyscy ciągle opowiadają, jak świetnie ucieka gwiazda roku Solange, a tu jeszcze okazuje się, że z tobą miło się gada? Ja... Do zobaczenia na zajęciach!",
-  "status": "draft"
+  "pl": "Wszyscy ciągle gadają, jak genialnie gwiazda roku Solange radzi sobie z ucieczkami, a tu się okazuje, że z tobą jeszcze miło się gada? Ja... Do zobaczenia na zajęciach!",
+  "status": "done"
  },
  "n:line:09b2f0c": {
   "pl": "Jesteśmy tu tylko my, więc miej oczy szeroko otwarte i <style=\"clue\">użyj okularów</style>, żeby znaleźć tę komnatę!",
@@ -496,8 +496,8 @@
   "status": "draft"
  },
  "n:line:09eac63": {
-  "pl": "Musimy rozwiązać <style=\"clue\">zagadkę cokołu</style>! Ona <i>musi</i> odsłonić posąg.",
-  "status": "draft"
+  "pl": "Musimy rozwiązać <style=\"clue\">zagadkę cokołu</style>! To <i>musi</i> odsłonić posąg.",
+  "status": "done"
  },
  "n:line:0a0d850": {
   "pl": "Tak, super, ty się poświęcisz. Świetny pomysł!",
@@ -600,8 +600,8 @@
   "status": "draft"
  },
  "n:line:0ba85aa": {
-  "pl": "Myślisz, że Solange próbowała nam coś powiedzieć któregoś wieczoru?",
-  "status": "draft"
+  "pl": "Myślisz, że Solange próbowała nam coś powiedzieć tamtej nocy na plaży?",
+  "status": "done"
  },
  "n:line:0bc1414": {
   "pl": "Jak ci za gorąco, wyjdź z kuchni.",

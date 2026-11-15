@@ -140,8 +140,8 @@
   "status": "draft"
  },
  "y:line:00b36c3": {
-  "pl": "Wiecie, podobno osoba, na której to się opiera, <i>naprawdę</i> próbowała wrobić całe miasto, nie tylko Ruby. Adaptację musieli <i>złagodzić</i>.",
-  "status": "draft"
+  "pl": "Wiecie, podobno pierwowzór tej postaci <i>naprawdę</i> próbował wrobić całe miasto, nie tylko Ruby. Adaptację musieli <i>złagodzić</i>.",
+  "status": "done"
  },
  "y:line:00bdc0b": {
   "pl": "Jak miło widzieć moje gwiazdy roku z powrotem w Akademii.",
@@ -216,8 +216,8 @@
   "status": "draft"
  },
  "y:line:0118e50": {
-  "pl": "Coś, czym muszę zająć się osobiście. Mam nadzieję, że rozumiecie, że to <i>moja</i> odpowiedzialność, a nie wasza.",
-  "status": "draft"
+  "pl": "Coś, czym muszę zająć się osobiście. Mam nadzieję, że rozumiecie: to <i>moja</i> odpowiedzialność, nie wasza.",
+  "status": "done"
  },
  "y:line:011cfa5": {
   "pl": "To zajmie tylko chwilkę!",
@@ -260,8 +260,8 @@
   "status": "draft"
  },
  "y:line:01781a1": {
-  "pl": "Proszę państwa, proszę zająć miejsca i wyciszyć pagery. <i>Jeb, to dotyczy ciebie.</i>",
-  "status": "review"
+  "pl": "Szanowni państwo, proszę zająć miejsca i wyciszyć pagery. <i>Jeb, ciebie też to dotyczy.</i>",
+  "status": "done"
  },
  "y:line:017cae8": {
   "pl": "Muszę koniecznie porozmawiać z całym gronem pedagogicznym.",
@@ -308,8 +308,8 @@
   "status": "draft"
  },
  "y:line:01ad191": {
-  "pl": "A ja <style=\"vis_clue\">zwerbuję... <i>zespół</style>!</i> W <style=\"vis_clue\">sali muzycznej</style> zostało jeszcze kilku wykonawców, którzy tylko czekają, aż ktoś wyrwie ich z zapomnienia!",
-  "status": "review"
+  "pl": "A ja <style=\"vis_clue\">zwerbuję... <i>zespół</style>!</i> W <style=\"vis_clue\">sali muzycznej</style> zostało jeszcze kilku wykonawców, którzy tylko czekają, aż ktoś wyciągnie ich z cienia!",
+  "status": "done"
  },
  "y:line:01bb393": {
   "pl": "Dyrektorka Solange olewa odwieczną tradycję eskapistów? No ja myślę! To totalna kpina.",
@@ -332,8 +332,8 @@
   "status": "done"
  },
  "y:line:01d1e2c": {
-  "pl": "<style=\"vis_clue\">Oryginalny utwór z Akademii</style> byłby świetnym sposobem na uhonorowanie pasji Von Belliniego do historii Akademii!",
-  "status": "review"
+  "pl": "<style=\"vis_clue\">Oryginalny utwór z dawnej Akademii</style> byłby pięknym hołdem dla pasji, z jaką Von Bellini podchodził do historii Akademii!",
+  "status": "done"
  },
  "y:line:01d4f97": {
   "pl": "Temat dzisiejszego wykładu: „Przełomowe losy pierwszej założycielki”. Opowiemy o <style=\"vis_clue\">życiu Reiny Wym</style>!",
@@ -384,16 +384,16 @@
   "status": "draft"
  },
  "y:line:020bd62": {
-  "pl": "Może i działacie mi na nerwy jak zacięty zamek, ale i tak dzielimy pokój...",
-  "status": "draft"
+  "pl": "Może i jesteście dla mnie jak klucz złamany w zamku, ale wciąż jesteście moją ekipą z pokoju...",
+  "status": "done"
  },
  "y:line:020c053": {
   "pl": "Intrygujące. Dawno nie słyszałem tego imienia... Dobrze. Koniec udawania!",
   "status": "draft"
  },
  "y:line:020d1d4": {
-  "pl": "Będę czekać <style=\"vis_clue\">w centrum Wydziału Humanistycznego</style>, gdy tylko zechcesz ruszyć dalej... Lepiej nie traćmy czasu.",
-  "status": "draft"
+  "pl": "Będę czekać <style=\"vis_clue\">na środku Wydziału Humanistycznego</style>, przyjdź, kiedy zechcesz... Lepiej nie traćmy czasu.",
+  "status": "done"
  },
  "y:line:02138db": {
   "pl": "Lepiej wracajmy do akademika, zanim potwór z Loch Kłódkness wpadnie na pomysł, żeby porwać kogoś z nas...",
@@ -444,8 +444,8 @@
   "status": "review"
  },
  "y:line:0254d7b": {
-  "pl": "Ach, ten Reed ma jednak wyobraźnię!",
-  "status": "draft"
+  "pl": "Ach, cóż za wyobraźnię ma ten Reed!",
+  "status": "done"
  },
  "y:line:025f2ea": {
   "pl": "Cześć, ekipa!",
@@ -456,8 +456,8 @@
   "status": "review"
  },
  "y:line:0274af4": {
-  "pl": "Moja wspólna sieć Wózków Quanty została zdegradowana do mnóstwa upokarzających stanowisk na całym kampusie.",
-  "status": "draft"
+  "pl": "Moją sieć wózków Quanty zdegradowano do mnóstwa upokarzających stanowisk na całym kampusie.",
+  "status": "done"
  },
  "y:line:0279af5": {
   "pl": "Ale kiedy- *krsh* skończę, przydałby mi się transport *krsh* -rót. Z księżyca...",
@@ -548,8 +548,8 @@
   "status": "review"
  },
  "y:line:02fa110": {
-  "pl": "Jestem po stronie Reeda. Musimy <style=\"vis_clue\">znaleźć sposób na otwarcie naszych cel</style>, żeby uciec z tego lochu i dowiedzieć się, co się <i>naprawdę</i> dzieje.",
-  "status": "draft"
+  "pl": "Zgadzam się z Reedem. Musimy <style=\"vis_clue\">znaleźć sposób na otwarcie naszych cel</style>, żeby uciec z tego lochu i dowiedzieć się, co się <i>naprawdę</i> dzieje.",
+  "status": "done"
  },
  "y:line:02fe3b0": {
   "pl": "Urządzenie trzeba... należycie przeanalizować. Zajmę się tym <i>osobiście!</i>",
@@ -608,12 +608,12 @@
   "status": "draft"
  },
  "y:line:03451b6": {
-  "pl": "Niech to licho, lepiej od razu uruchomię Łódź Ucieczek!",
-  "status": "draft"
+  "pl": "No to jazda, lecę uruchomić Łódź Ucieczek!",
+  "status": "done"
  },
  "y:line:034a844": {
-  "pl": "Jest tu, żeby z moją nemezis zacząć od zera... i jedynki! O tak, już sobie wszystko wyjaśniliśmy.",
-  "status": "review"
+  "pl": "Jest tu, żeby z moim arcywrogiem zacząć od zera... i jedynki! O tak, już sobie wszystko wyjaśniliśmy.",
+  "status": "done"
  },
  "y:line:035c187": {
   "pl": "I założę się, że to drzewo zaprowadzi nas prosto do niego.",
@@ -728,8 +728,8 @@
   "status": "draft"
  },
  "y:line:03e30b3": {
-  "pl": "Uff. Paisley ma chyba sporo swoich kompleksów...",
-  "status": "review"
+  "pl": "Oho. Paisley ma chyba jakieś swoje kompleksy...",
+  "status": "done"
  },
  "y:line:03e8737": {
   "pl": "<i>*Gillian, Reed, Kira... *</i>",
@@ -780,8 +780,8 @@
   "status": "review"
  },
  "y:line:0423b08": {
-  "pl": "Pewnie dlatego, że odkryli, że to automat, kosmita albo nawet <i>potwór.</i> Wiecie który.",
-  "status": "draft"
+  "pl": "Pewnie odkryli, że to automat, kosmita albo nawet <i>potwór.</i> Wiecie który.",
+  "status": "done"
  },
  "y:line:0427aeb": {
   "pl": "Gillian <style=\"vis_clue\">naprawdę zniknęła</style>, prawda... Minął już cały tydzień.",
@@ -792,8 +792,8 @@
   "status": "draft"
  },
  "y:line:042976c": {
-  "pl": "W tym roku przechodzę na emeryturę i mam kilka <i>prywatnych</i> eksperymentów do odhaczenia z listy marzeń, które nie są do końca zatwierdzone, i...",
-  "status": "review"
+  "pl": "W tym roku przechodzę na emeryturę, a na mojej kluczowej liście marzeń zostało kilka <i>prywatnych</i> eksperymentów, niezupełnie zatwierdzonych, i...",
+  "status": "done"
  },
  "y:line:0430a74": {
   "pl": "Ale i tak nie mamy dokąd iść, tylko naprzód.",
@@ -828,8 +828,8 @@
   "status": "draft"
  },
  "y:line:04534d2": {
-  "pl": "Dopiero co usłyszeliśmy, co się stało – wszyscy o tym mówią. Czy... wszystko u ciebie w porządku?",
-  "status": "draft"
+  "pl": "Dopiero co usłyszeliśmy, co się stało – wszyscy o tym mówią. Nic... nic ci nie jest?",
+  "status": "done"
  },
  "y:line:045cda6": {
   "pl": "Powinniśmy iść dalej, żeby <style=\"vis_clue\">wrócić do Karceru</style> przed dyrektorką Solange.",
@@ -840,8 +840,8 @@
   "status": "review"
  },
  "y:line:0468b86": {
-  "pl": "Dobra, został mi tylko jeden przejazd tramwajem do szkoły! Oby bez przesiadek, nie znoszę postojów.",
-  "status": "review"
+  "pl": "Dobra, został mi tylko jeden przejazd tramwajem do szkoły! Oby to był kurs bezpośredni, nie znoszę przystanków.",
+  "status": "done"
  },
  "y:line:04740c6": {
   "pl": "To na tobie polegała, licząc, że poprowadzisz naszą Akademię ku jutru...",
@@ -904,8 +904,8 @@
   "status": "draft"
  },
  "y:line:04dc22e": {
-  "pl": "A teraz wybacz, muszę wpaść do <style=\"vis_clue\">muzeum</style>!",
-  "status": "draft"
+  "pl": "A teraz wybacz, muszę pędzić do <style=\"vis_clue\">muzeum</style>!",
+  "status": "done"
  },
  "y:line:04e0288": {
   "pl": "Wiedziałam, że Von Bellini nie odejdzie z Akademii po cichu, ale nie spodziewałam się aż tak dramatycznego wyjścia...",
@@ -964,8 +964,8 @@
   "status": "draft"
  },
  "y:line:05429e9": {
-  "pl": "O, witaj! Udało ci się dotrzeć na Wydział Humanistyczny. Piękny, co nie?",
-  "status": "draft"
+  "pl": "O, cześć! Witaj na Wydziale Humanistycznym. Cudeńko, co?",
+  "status": "done"
  },
  "y:line:0544c22": {
   "pl": "Spuść szalupę i ratuj się! Chyba emerytura była moją ostatnią ucieczką...",
@@ -1088,8 +1088,8 @@
   "status": "draft"
  },
  "y:line:05d2998": {
-  "pl": "<i>Proszę</i>, wyłączcie mnie z tego.",
-  "status": "draft"
+  "pl": "<i>Proszę</i>, nie mieszajcie mnie w to.",
+  "status": "done"
  },
  "y:line:05d78a5": {
   "pl": "Och, to... to straszne! W jednej chwili jest z nami, a w następnej... już go nie ma. Na zawsze...",
@@ -1144,8 +1144,8 @@
   "status": "done"
  },
  "y:line:063cd1a": {
-  "pl": "Ty jeszcze nie masz swojego? Och, to chyba będę pierwsza na peronie! Ten rok będzie <i>totalnie</i> mój!",
-  "status": "draft"
+  "pl": "Ty jeszcze nie masz swojego? To chyba będę pierwsza na peronie! Ten rok będzie <i>totalnie</i> mój!",
+  "status": "done"
  },
  "y:line:0645c1f": {
   "pl": "A dzięki punktom, które z pewnością przyniósł ci dzisiejszy występ, poszukasz łamigłówek <style=\"vis_clue\">poza wieżą dyrektorki</style>.",
@@ -1264,8 +1264,8 @@
   "status": "draft"
  },
  "y:line:06f1e53": {
-  "pl": "Dobra, bierzmy się za szukanie tych okularów, mogą być wszędzie. Ruszamy się, <style=\"vis_clue\">nie zostawiajmy żadnej półki bez sprawdzenia</style>!",
-  "status": "draft"
+  "pl": "Dobra, bierzmy się do szukania tych okularów, mogą być wszędzie. Ruszamy się, <style=\"vis_clue\">sprawdzamy każdą półkę</style>!",
+  "status": "done"
  },
  "y:line:0700705": {
   "pl": "Nie sama. Pomogła mi... Reina! Opowiedziała mi o pańskiej... pańskiej zdradzie.",
@@ -1312,8 +1312,8 @@
   "status": "draft"
  },
  "y:line:0748ea2": {
-  "pl": "A nic tak nie pomaga w autentycznej kreacji detektywa jak konieczność <style=\"vis_clue\">rozwiązania zagadki</style> naprawdę...",
-  "status": "review"
+  "pl": "A nic tak nie służy autentycznej kreacji detektywa, jak zmuszenie aktora, by naprawdę <style=\"vis_clue\">rozwiązał zagadkę</style>...",
+  "status": "done"
  },
  "y:line:074b8a6": {
   "pl": "<style=\"vis_clue\">Robili to uczniowie</style>.",
@@ -1360,8 +1360,8 @@
   "status": "draft"
  },
  "y:line:0798304": {
-  "pl": "Możesz mieć rację, Reed. Ona zwykle jest o krok przed wszystkimi w tej szkole...",
-  "status": "draft"
+  "pl": "Możesz mieć rację, Reed. Zwykle jest o krok przed wszystkimi w tej szkole...",
+  "status": "done"
  },
  "y:line:079c8f4": {
   "pl": "Skoro rok szkolny oficjalnie się rozpoczął, pora zacząć twoją naukę na drugim roku.",
@@ -1380,12 +1380,12 @@
   "status": "draft"
  },
  "y:line:07bd7da": {
-  "pl": "Będę na górze, na drabinie.",
-  "status": "draft"
+  "pl": "Będę na górze, przy drabinie.",
+  "status": "done"
  },
  "y:line:07bdc3b": {
-  "pl": "To <i>chyba</i> oczywiste. Nasi trzej nieomylni założyciele <style=\"vis_clue\">wymazali z podręczników historii tajnego czwartego założyciela</style>.",
-  "status": "draft"
+  "pl": "To <i>raczej</i> oczywiste. Nasi trzej nieomylni założyciele <style=\"vis_clue\">wymazali z podręczników historii tajnego czwartego założyciela</style>.",
+  "status": "done"
  },
  "y:line:07bfa31": {
   "pl": "Alistair? Alistair?!",
@@ -1412,8 +1412,8 @@
   "status": "draft"
  },
  "y:line:07d18be": {
-  "pl": "Plan jest prosty: zmobilizujemy wydziały sztuki, nauk ścisłych i historii, żeby <style=\"vis_clue\">wystawić przedstawienie ku pamięci</style>, które przejdzie do historii!",
-  "status": "draft"
+  "pl": "Plan jest prosty: zmobilizujemy wydziały sztuki, nauk ścisłych i historii, żeby <style=\"vis_clue\">wystawić przedstawienie ku jego pamięci</style>, o którym będzie się mówić latami!",
+  "status": "done"
  },
  "y:line:07d1c1a": {
   "pl": "Miejmy tylko nadzieję, że cokolwiek ma do powiedzenia, nam pomoże...",
@@ -1472,8 +1472,8 @@
   "status": "draft"
  },
  "y:line:082523e": {
-  "pl": "Ale pani dyrektorko, my tylko trzymaliśmy się akademickiej tradycji: „Rozwiązane nie kradzione”. A Kira nawet nic nie zrobiła!",
-  "status": "review"
+  "pl": "Ale pani dyrektorko, my tylko trzymaliśmy się tradycji samej Akademii: „Rozwiązane nie kradzione”. A Kira nawet nic nie zrobiła!",
+  "status": "done"
  },
  "y:line:08288dc": {
   "pl": "Och, skoro dyrektorka mówi, że to <i>konieczne...</i>",
@@ -1552,8 +1552,8 @@
   "status": "draft"
  },
  "y:line:0876290": {
-  "pl": "Porywacie się z <i>motyką</i> na słońce...",
-  "status": "review"
+  "pl": "Porywacie się z motyką na <i>słońce</i>...",
+  "status": "done"
  },
  "y:line:08796c5": {
   "pl": "I możliwe, że trochę przeciekamy... Ale spokojnie! Wciąż płyniemy <i>prawie całym</i> statkiem.",
@@ -1640,8 +1640,8 @@
   "status": "done"
  },
  "y:line:0902106": {
-  "pl": "No dobra, jak chcesz. Będę się wystrzegać mitycznych stworzeń, kiedy pójdę rozgromić <style=\"vis_clue\">program historii</style> profesora Jebersona na <style=\"vis_clue\">Wydziale Humanistycznym.</style>",
-  "status": "review"
+  "pl": "No dobra, jasne. Będę uważać na mityczne stwory, kiedy pójdę zmiażdżyć <style=\"vis_clue\">program historii</style> profesora Jebersona na <style=\"vis_clue\">Wydziale Humanistycznym.</style>",
+  "status": "done"
  },
  "y:line:09040ea": {
   "pl": "Wiemy, że jest <style=\"vis_clue\">na plaży</style>, ale potrzeba nam <style=\"vis_clue\">więcej punktów</style>, żeby się tam dostać...",
@@ -1720,8 +1720,8 @@
   "status": "draft"
  },
  "y:line:093c09e": {
-  "pl": "Jesteście zdani na siebie.",
-  "status": "draft"
+  "pl": "Jesteście... jesteście zdani na siebie.",
+  "status": "done"
  },
  "y:line:093e3a6": {
   "pl": "Tylko niech zostanie między nami, <i>jak</i> je zdobyliśmy...",
@@ -1812,8 +1812,8 @@
   "status": "draft"
  },
  "y:line:09b38d8": {
-  "pl": "Co za balast...",
-  "status": "review"
+  "pl": "Chodząca katastrofa...",
+  "status": "done"
  },
  "y:line:09b7f58": {
   "pl": "...zzz...",
@@ -1844,8 +1844,8 @@
   "status": "draft"
  },
  "y:line:09df24a": {
-  "pl": "Naprawdę nas to dziwi? To <i>ta sama</i> Akademia, która przez swoją fabrykę dostarczała formy do Lock-Keyed Martin.",
-  "status": "review"
+  "pl": "Naprawdę nas to dziwi? To <i>ta sama</i> Akademia, która w swojej fabryce robiła formy dla Lock-Keyed Martin.",
+  "status": "done"
  },
  "y:line:09e02be": {
   "pl": "Podwędziłam je tuż przed tym, jak Solange nas przyłapała.",
@@ -1856,8 +1856,8 @@
   "status": "draft"
  },
  "y:line:09ea578": {
-  "pl": "Dobrze czujesz się wśród pieniędzy. Będziesz sprzedawać bilety.",
-  "status": "draft"
+  "pl": "Pieniądze to twój żywioł. Będziesz sprzedawać bilety.",
+  "status": "done"
  },
  "y:line:09ecf95": {
   "pl": "Uff, o włos! Nic, czego nie wyleczy odrobina łamigłówkowej gimnastyki.",
@@ -1888,12 +1888,12 @@
   "status": "review"
  },
  "y:line:0a2f06f": {
-  "pl": "Korzystając z praw fizyki, poprowadzisz ją przez <style=\"vis_clue\">labiryntowy ciąg śmiałych przeszkód</style>.",
-  "status": "draft"
+  "pl": "Korzystając z praw fizyki, poprowadzisz ją przez <style=\"vis_clue\">labirynt zuchwałych przeszkód</style>.",
+  "status": "done"
  },
  "y:line:0a327a4": {
-  "pl": "Mam zaszczyt powitać państwa na inscenizacji skłaniającej do refleksji sztuki „Śmierć artysty”.",
-  "status": "review"
+  "pl": "Mam zaszczyt powitać państwa na inscenizacji „Śmierci artysty” – sztuki skłaniającej do refleksji.",
+  "status": "done"
  },
  "y:line:0a36287": {
   "pl": "Sprzęt do wykrywania <i>czego</i>? To przez to ostatnio robisz ze wszystkiego taką tajemnicę?",
@@ -1912,8 +1912,8 @@
   "status": "draft"
  },
  "y:line:0a59de4": {
-  "pl": "Alistair tak ciężko zniósł utratę Akademii, że zbudował jakąś <style=\"vis_clue\">maszynę, która ma podtrzymywać założycieli przy życiu</style>...",
-  "status": "draft"
+  "pl": "Czyli Alistair tak ciężko zniósł rozstanie z Akademią, że zbudował jakąś <style=\"vis_clue\">maszynę, która ma podtrzymywać założycieli przy życiu</style>...",
+  "status": "done"
  },
  "y:line:0a61ce5": {
   "pl": "Przydałaby się twoja pomoc, ale <style=\"vis_clue\">najpierw lepiej zapoznaj się z kampusem i naszą historią</style>, żeby osadzić wystawę we właściwym kontekście!",
@@ -1964,8 +1964,8 @@
   "status": "draft"
  },
  "y:line:0ac1545": {
-  "pl": "Niech to. Naprawdę trzeba było pomyśleć, co się stanie, jeśli ktoś znajdzie się <i>w środku</i> przedziału, kiedy to montowaliśmy...",
-  "status": "draft"
+  "pl": "Niech to. Montując je, naprawdę trzeba było pomyśleć, co będzie, jeśli ktoś zostanie <i>w środku</i> przedziału...",
+  "status": "done"
  },
  "y:line:0ac45ff": {
   "pl": "Nie, tylko uwaga! Miło mieć czasem współspiskowców.",
@@ -2012,12 +2012,12 @@
   "status": "draft"
  },
  "y:line:0af368d": {
-  "pl": "Ooo... wie pani co, pani profesor? Mam kilka utworów, które od dawna chciałem zanieść do <style=\"vis_clue\">Centrum Szyfrów</style>, żeby je rozkodować.",
-  "status": "review"
+  "pl": "Ooo... wie pani co, pani profesor? Mam kilka utworów, które od dawna chciałem zanieść do <style=\"vis_clue\">Centrum Szyfrów</style>, żeby je rozszyfrować.",
+  "status": "done"
  },
  "y:line:0afb7d8": {
-  "pl": "Ma to tyle wspólnego z <style=\"vis_clue\">odejściem garstki uczniów</style>, co Wielka Poszlaka czy Diabeł z Jerskey...",
-  "status": "review"
+  "pl": "Ma to tyle wspólnego z <style=\"vis_clue\">odejściem garstki uczniów</style>, co Wielki Trop czy Diabeł z Jerskey...",
+  "status": "done"
  },
  "y:line:0b00cce": {
   "pl": "Na wszystkie ucieczki... Bu... Burza Mózgów! Właśnie szaleje nad zatoką!",
@@ -2160,12 +2160,12 @@
   "status": "review"
  },
  "y:line:0bf94cb": {
-  "pl": "Za mechaniczne odbębnianie ruchów nie ma punktów. Trzeba być ruchem. <i>Wz</i>ruszeniem! A tu wszystko jest w ruchu, bo mamy przedstawienie do wystawienia!",
-  "status": "review"
+  "pl": "Za mechaniczne odbębnianie ruchów nie ma punktów. Trzeba być ruchem. <i>Wz</i>ruszeniem! A tu wszystko jest w ruchu, bo wystawiamy przedstawienie!",
+  "status": "done"
  },
  "y:line:0bfc8c1": {
-  "pl": "<i>Wiedziałam</i>, że nie powinniśmy podpadać dyrektorce! Co wyście w ogóle zobaczyli w gabinecie, że tak się wściekła?",
-  "status": "draft"
+  "pl": "<i>Wiedziałam</i>, że nie trzeba było podpadać dyrektorce! Co wyście w ogóle zobaczyli w gabinecie, że tak się wściekła?",
+  "status": "done"
  },
  "y:line:0bffcce": {
   "pl": "Uff, zdążyłam! Już mnie nosiło w drodze... Wakacje w posiadłości Paisleyów zdawały się nie mieć końca.",
@@ -2176,8 +2176,8 @@
   "status": "draft"
  },
  "y:line:0c0f9cb": {
-  "pl": "Dość. Rick, przydasz się bardziej, pomagając sztuce... od strony wizualnej.",
-  "status": "review"
+  "pl": "Dość. Rick, bardziej przydasz się przy... oprawie wizualnej.",
+  "status": "done"
  },
  "y:line:0c0fab8": {
   "pl": "Mój kod nakazuje mi odczuwać przeciążenie ekscytacją z powodu awansu na starszego profesora nauk ścisłych!",
@@ -2332,8 +2332,8 @@
   "status": "draft"
  },
  "y:line:0d0eebe": {
-  "pl": "<i>Gillian Paisley! Reed Wright!</i> Przez wszystkie lata mojej pracy jako dyrektorka nigdy jeszcze...",
-  "status": "review"
+  "pl": "<i>Gillian Paisley! Reed Wright!</i> Przez wszystkie lata na stanowisku dyrektorki nigdy jeszcze...",
+  "status": "done"
  },
  "y:line:0d14fe0": {
   "pl": "Dzięki <style=\"vis_clue\">pochłanianiu mózgów</style>!",
@@ -2376,16 +2376,16 @@
   "status": "draft"
  },
  "y:line:0d51749": {
-  "pl": "Dobrze, uwaga wszyscy! Dyrektorka Solange powierzyła <i>mnie</i> zadanie wymyślenia niezapomnianego sposobu uczczenia pamięci profesora Von Belliniego.",
-  "status": "review"
+  "pl": "Dobrze, uwaga wszyscy! Dyrektorka Solange powierzyła <i>mnie</i> zadanie: wymyślić, jak w niezapomniany sposób uczcić pamięć profesora Von Belliniego.",
+  "status": "done"
  },
  "y:line:0d5cf48": {
   "pl": "Ojejku!",
   "status": "draft"
  },
  "y:line:0d606f9": {
-  "pl": "Skupiam się! Jak laser. <i>Skupienie</i> na maksa. Po prostu przy okazji mnie to ciekawi. Jedno nie wyklucza drugiego!",
-  "status": "review"
+  "pl": "Skupiam się! Jak laser. <i>Skupienie</i> na maksa. Po prostu ciekawość też mam. Jedno nie wyklucza drugiego!",
+  "status": "done"
  },
  "y:line:0d63791": {
   "pl": "Co do tego...",
@@ -2456,8 +2456,8 @@
   "status": "done"
  },
  "y:line:0dd46ca": {
-  "pl": "Aktywować go...",
-  "status": "draft"
+  "pl": "...go wcisnąć...",
+  "status": "done"
  },
  "y:line:0dd5cce": {
   "pl": "<i>My</i> mamy okulary.",
@@ -2468,8 +2468,8 @@
   "status": "review"
  },
  "y:line:0de23c8": {
-  "pl": "A co do ciebie... radzę ci odpocząć, póki możesz, czeka nas wielki dzień.",
-  "status": "review"
+  "pl": "A ty, moja gwiazdo roku... radzę ci odpocząć, póki możesz, bo czeka nas wielki dzień.",
+  "status": "done"
  },
  "y:line:0dee19a": {
   "pl": "Ta cała sprawa z komnatami zaczyna wyglądać na pułapkę. Przecież grzebiemy w piasku w poszukiwaniu wskazówek na terytorium potwora... jesteśmy łatwym łupem!",
@@ -2500,8 +2500,8 @@
   "status": "review"
  },
  "y:line:0e10f15": {
-  "pl": "Dzielimy pokój. Nie chcę, żeby coś wam się stało...",
-  "status": "draft"
+  "pl": "W końcu razem mieszkamy. Nie chcę, żeby coś wam się stało...",
+  "status": "done"
  },
  "y:line:0e19155": {
   "pl": "Tych dwoje aż się prosi o kłopoty... Skoro <i>koniecznie</i> chcesz iść z nimi, miej na nich oko, dobra?",
@@ -2612,8 +2612,8 @@
   "status": "review"
  },
  "y:line:0ec06df": {
-  "pl": "EKIPO! <i>Jestem z powrotem</i> i mam olśnienie!",
-  "status": "draft"
+  "pl": "LUDZIE! <i>Jestem z powrotem</i> i mam olśnienie!",
+  "status": "done"
  },
  "y:line:0ec355c": {
   "pl": "A teraz wciągnijmy ją na górę na przecięcie wstęgi.",
@@ -2700,8 +2700,8 @@
   "status": "draft"
  },
  "y:line:0f5e7f6": {
-  "pl": "Ale spektakl toczył się dalej, na ile to było możliwe – dzięki wam.",
-  "status": "draft"
+  "pl": "Ale robiliście, co się dało, żeby spektakl szedł dalej.",
+  "status": "done"
  },
  "y:line:0f5eb41": {
   "pl": "Ale to, że wszyscy mieliśmy do niego raczej mieszane uczucia, nie znaczy, że nie możemy go uhonorować w spektakularny sposób!",
@@ -2712,8 +2712,8 @@
   "status": "review"
  },
  "y:line:0f6952a": {
-  "pl": "Ale jest o wiele <style=\"vis_clue\">zbyt uparty, żeby słowa do niego trafiły</style>... dlatego zdradzę wam coś, o czym dotąd wiedzieli tylko dawni dyrektorzy.",
-  "status": "review"
+  "pl": "Ale jest <style=\"vis_clue\">tak uparty, że słowa do niego nie trafią</style>... dlatego zdradzę wam coś, o czym dotąd wiedzieli tylko dawni dyrektorzy.",
+  "status": "done"
  },
  "y:line:0f6a494": {
   "pl": "Zobaczmy teraz, co takiego strasznego zrobił ten Alistair Bell, że pozostali założyciele go wymazali, i <style=\"vis_clue\">znajdźmy tę komnatę</style>...",
@@ -2748,8 +2748,8 @@
   "status": "draft"
  },
  "y:line:0f9c67f": {
-  "pl": "No to jesteśmy! Archiwum Artefaktów... nie ma nic lepszego niż stęchły, wspaniały zapach historii, co nie?",
-  "status": "draft"
+  "pl": "No to jesteśmy! Archiwum Artefaktów... nie ma nic piękniejszego niż stęchły, wspaniały zapach historii, prawda?",
+  "status": "done"
  },
  "y:line:0f9e9fd": {
   "pl": "...",
@@ -2764,8 +2764,8 @@
   "status": "draft"
  },
  "y:line:0faccf1": {
-  "pl": "A nic tak nie pomaga w autentycznych kreacjach detektywów jak konieczność <style=\"vis_clue\">rozwiązania zagadki</style> naprawdę...",
-  "status": "review"
+  "pl": "A nic tak nie służy autentycznym kreacjom detektywów, jak zmuszenie aktorów, by naprawdę <style=\"vis_clue\">rozwiązali zagadkę</style>...",
+  "status": "done"
  },
  "y:line:0faf85d": {
   "pl": "Fuj.",

@@ -64,7 +64,7 @@
   "status": "review"
  },
  "g:GUN_DetectiveAgency": {
-  "pl": "B.S. Agencja<br>Detektywistyczna",
+  "pl": "B.R. Agencja<br>Detektywistyczna",
   "status": "review"
  },
  "g:GUN_DetectiveDrinks": {
@@ -172,8 +172,8 @@
   "status": "draft"
  },
  "g:GUN_Hint_NameB": {
-  "pl": "Twoje inicjały to B.S.",
-  "status": "draft"
+  "pl": "Twoje inicjały to B.R.",
+  "status": "review"
  },
  "g:GUN_Hint_PhoneA": {
   "pl": "Odbierz telefon!",
@@ -308,7 +308,7 @@
   "status": "review"
  },
  "g:GUN_Name_Solverson": {
-  "pl": "Solverson",
+  "pl": "Rozwiązalski",
   "status": "review"
  },
  "g:GUN_PaintingSubtitle": {
@@ -396,8 +396,8 @@
   "status": "draft"
  },
  "g:GUN_Quip4": {
-  "pl": "„Certyfikat detektywa dla niejakiego pana B.S.”",
-  "status": "draft"
+  "pl": "„Certyfikat detektywa dla niejakiego pana B.R.”",
+  "status": "review"
  },
  "g:GUN_RoomName": {
   "pl": "Śmierć artysty",
@@ -640,8 +640,8 @@
   "status": "draft"
  },
  "v:Noirator_GUN_ShortDrive": {
-  "pl": "Po krótkiej jeździe i długiej rozmowie dotarli do domu Petera Hintza, a w powietrzu unosił się zapach zagadki.",
-  "status": "draft"
+  "pl": "Po krótkiej jeździe i długiej rozmowie dotarli do domu Petera Tropińskiego, a w powietrzu unosił się zapach zagadki.",
+  "status": "review"
  },
  "v:Noirator_GUN_StenchDeceit": {
   "pl": "Od Cheta Łotrowicza czuć było kłamstwo jak od nieświeżego śledzia, ale nie było dowodu w tym puddingu. Nie. Jeszcze nie.",

@@ -36,7 +36,7 @@
   "status": "draft"
  },
  "n:line:004b72f": {
-  "pl": "Poproszę jeden bilet! <style=\"purchase\">(Zapłać {0} eskadolarów)</style>",
+  "pl": "Poproszę jeden bilet! <style=\"purchase\">(Daj {0} $)</style>",
   "status": "review"
  },
  "n:line:0076dca": {
@@ -192,7 +192,7 @@
   "status": "review"
  },
  "n:line:036a28a": {
-  "pl": "Do dzieła. Te okulary są nasze! <style=\"story\">(Dalej w fabule)</style>",
+  "pl": "Do dzieła. Te okulary są nasze! <style=\"story\">(Kontynuuj historię)</style>",
   "status": "review"
  },
  "n:line:036c465": {
@@ -288,8 +288,8 @@
   "status": "review"
  },
  "n:line:04b7dd0": {
-  "pl": "Nie wywyższaj się za bardzo po wyzwaniu wieży zegarowej... jestem <i>tuż</i> za tobą.",
-  "status": "draft"
+  "pl": "Tylko się za bardzo nie nadymaj po Wyzwaniu wieży zegarowej... jestem <i>tuż</i> za tobą.",
+  "status": "done"
  },
  "n:line:04c6c39": {
   "pl": "Wróć, jak zdobędziesz <style=\"clue\">resztę punktów, </style> to skończymy z tym upokorzeniem...",
@@ -368,8 +368,8 @@
   "status": "draft"
  },
  "n:line:05f87f6": {
-  "pl": "Co?! Nie dało się powiedzieć mi tego, <i>zanim</i> tu wpełzłam?",
-  "status": "review"
+  "pl": "Co?! A nie można było mi tego powiedzieć, <i>zanim</i> tu wpełzłam?",
+  "status": "done"
  },
  "n:line:05fb1cc": {
   "pl": "Miejmy przynajmniej oczy szeroko otwarte. Chyba nie masz problemu z instynktem samozachowawczym?",
@@ -560,8 +560,8 @@
   "status": "draft"
  },
  "n:line:0918fa6": {
-  "pl": "Argh, mam sprzedawać bilety? Co się Chortkoff zacięło w zamku?! To, że moja rodzina jest bogata, wcale nie znaczy, że jestem dobra z matmy.",
-  "status": "draft"
+  "pl": "Argh, mam sprzedawać bilety? Co się Chortkoff poprzestawiało w zamku?! To, że moja rodzina jest bogata, wcale nie znaczy, że jestem dobra z matmy.",
+  "status": "done"
  },
  "n:line:091ed09": {
   "pl": "Na razie!",
@@ -636,8 +636,8 @@
   "status": "draft"
  },
  "n:line:0a6a5e6": {
-  "pl": "Chyba muszę poczekać do trzeciego roku, żeby zająć pierwsze miejsce w klasie...",
-  "status": "draft"
+  "pl": "Chyba muszę poczekać do trzeciego roku, żeby zostać najlepszą na roku...",
+  "status": "done"
  },
  "n:line:0a761a3": {
   "pl": "Teraz musimy poczekać, aż skończą się próby, i dopiero wtedy zacznie się przedstawienie.",
@@ -820,8 +820,8 @@
   "status": "draft"
  },
  "n:line:0d772ce": {
-  "pl": "Słyszymy cię głośno i wyraźnie!",
-  "status": "draft"
+  "pl": "Słyszymy cię doskonale, odbiór!",
+  "status": "done"
  },
  "n:line:0d7a5de": {
   "pl": "Uff, dobra! <i>Jestem w środku!</i> <style=\"clue\">Otworzę drzwi</style> od środka.",

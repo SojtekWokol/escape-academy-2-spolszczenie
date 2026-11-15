@@ -292,8 +292,8 @@
   "status": "review"
  },
  "n:line:06c21da": {
-  "pl": "W książkach piszą, że niektórzy historycy sądzą nawet, że użyto go do wymazania wspomnień całego kampusu!",
-  "status": "draft"
+  "pl": "Podobno niektórzy historycy sądzą nawet, że użyto go do wymazania pamięci całemu kampusowi!",
+  "status": "done"
  },
  "n:line:06d46cc": {
   "pl": "Muszę przyznać, że trochę smutno patrzeć, jak profesor Von Bellini odchodzi! Zawsze wydawał mi się prawdziwym eskapistą wśród eskapistów.",
@@ -312,12 +312,12 @@
   "status": "draft"
  },
  "n:line:07361a9": {
-  "pl": "Trochę mnie dziwi, że Dyrektorka Solange wpuszcza Quanty'ego z powrotem do pracowni komputerowej po tym, co było w zeszłym roku, ale przynajmniej to już nie budynek przeznaczony do rozbiórki!",
-  "status": "review"
+  "pl": "Trochę mnie dziwi, że dyrektorka Solange po zeszłym roku wpuszcza Quanty'ego z powrotem do pracowni komputerowej, ale przynajmniej budynek nie idzie już do rozbiórki!",
+  "status": "done"
  },
  "n:line:07559e6": {
-  "pl": "Te <style=\"clue\">świecidełka</style> na półkach wydają mi się znajome... ale co <i>oznaczają?</i>",
-  "status": "draft"
+  "pl": "Te <style=\"clue\">drobiazgi</style> na półkach wydają mi się znajome... ale co <i>oznaczają?</i>",
+  "status": "done"
  },
  "n:line:07564d9": {
   "pl": "<style=\"clue\">Złóżmy w całość historię na piedestale</style> i opowiedzmy Gillian wszystko!",
@@ -580,8 +580,8 @@
   "status": "draft"
  },
  "n:line:0fd7ae0": {
-  "pl": "Drzewom nie ufam od zawsze.",
-  "status": "draft"
+  "pl": "Drzewom nigdy nie ufam.",
+  "status": "done"
  },
  "n:line:0fea628": {
   "pl": "Na pewno przyniosłoby zagładę wszystkim. Więc pozostali założyciele musieli to szybciutko zdusić w zarodku.",

@@ -41,7 +41,7 @@
  },
  "n:line:0190a4a": {
   "pl": "Moja mama mówi, że życie jest jak pudełko zagadek... Nigdy nie wiesz, czy je rozgryziesz.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:01bfcc5": {
   "pl": "Rozwiązuję w deszczu, no tak, rozwiązuję w deszczu! Co za uczucie, znów rozwiązuję!",
@@ -116,8 +116,8 @@
   "status": "draft"
  },
  "n:line:042d4b6": {
-  "pl": "Nie wiem czemu, ale jak tu stoję, nachodzi mnie ochota, żeby zagrać na skrzypcach...",
-  "status": "draft"
+  "pl": "Nie wiem czemu, ale tu, na górze, nachodzi mnie ochota, żeby zagrać na skrzypcach...",
+  "status": "done"
  },
  "n:line:0466d26": {
   "pl": "Nie było <style=\"clue\">Iris DeVries</style> na naszych zajęciach z „Samoimprowizacji”...",
@@ -297,8 +297,8 @@
   "status": "review"
  },
  "n:line:09df2bc": {
-  "pl": "Chyba to zwykły kontener pełen śmieci...",
-  "status": "draft"
+  "pl": "To chyba zwykły kontener pełen śmieci...",
+  "status": "done"
  },
  "n:line:0a010ef": {
   "pl": "Staram się bardziej wkręcić w muzykę... znasz jakieś dobre piosenki do posłuchania?",
@@ -390,7 +390,7 @@
  },
  "n:line:0e05281": {
   "pl": "Aha, czyli nie po <i>dobroci</i>? W takim razie wypowiadam... BITWĘ!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0e3752d": {
   "pl": "Hej, co się stało z <style=\"clue\">Edie Quill</style>? To <i>ona</i> miała być główną detektywką.",

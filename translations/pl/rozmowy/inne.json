@@ -12,8 +12,8 @@
   "status": "review"
  },
  "n:line:002f4a9": {
-  "pl": "Ufam, że wkrótce znów się zobaczymy. Zdecydowanie za szybko.",
-  "status": "review"
+  "pl": "Ufam, że wkrótce znów się zobaczymy. Stanowczo za wcześnie.",
+  "status": "done"
  },
  "n:line:0030d9e": {
   "pl": "Chyba mogę ci zaufać...",
@@ -88,8 +88,8 @@
   "status": "draft"
  },
  "n:line:00dacb2": {
-  "pl": "Ups, niezręcznie... <style=\"clue\">nie masz ${0}</style>... Wróć, kiedy twoje finanse trochę się poprawią.",
-  "status": "review"
+  "pl": "Ups, niezręcznie... <style=\"clue\">nie masz {0} $</style>... Wróć, kiedy twoje finanse trochę się poprawią.",
+  "status": "done"
  },
  "n:line:00dfa5f": {
   "pl": "Mogę prosić o twój bilet?",
@@ -132,8 +132,8 @@
   "status": "draft"
  },
  "n:line:013e5f0": {
-  "pl": "I tak, spaliłem bibliotekę i w zeszłym roku próbowałem obalić dyrektorkę Solange. Ale zaczynam od nowa, na nowym bicie, to z góry zapisane w moim nowym kodzie!",
-  "status": "review"
+  "pl": "I tak, w zeszłym roku spaliłem bibliotekę i próbowałem obalić dyrektorkę Solange. Ale zaczynam z czystą kartą... pamięci! Mój nowy kod z góry to przesądza!",
+  "status": "done"
  },
  "n:line:0145b3c": {
   "pl": "Wow, to był prawdziwy tour de puzzle! Nic dziwnego, że nie dostałem roli...",
@@ -268,8 +268,8 @@
   "status": "review"
  },
  "n:line:025641c": {
-  "pl": "Mam nadzieję, że Łódź Ucieczek zniesie tę Burzę Mózgów. Wygląda na nieźle wkurzoną...",
-  "status": "draft"
+  "pl": "Mam nadzieję, że Łódź Ucieczek zniesie tę Burzę Mózgów. Wygląda na porządnie rozjuszoną...",
+  "status": "done"
  },
  "n:line:02565f2": {
   "pl": "Widzimy się <style=\"clue\">w moim gabinecie</style>, gdy skończysz odnawiać znajomość z Akademią!",
@@ -304,8 +304,8 @@
   "status": "draft"
  },
  "n:line:0289210": {
-  "pl": "Biorę to! <style=\"purchase\">(Wydaj ${0})</style>",
-  "status": "draft"
+  "pl": "Biorę! <style=\"purchase\">(Wydaj {0} $)</style>",
+  "status": "done"
  },
  "n:line:028a4e3": {
   "pl": "Powiedz nam wszystko, co wiesz.",
@@ -316,8 +316,8 @@
   "status": "draft"
  },
  "n:line:029382c": {
-  "pl": "<style=\"clue\">Wróć później</style>, jak tylko profesor Chortkoff uzna, że przedstawienie jest gotowe, a wtedy chętnie cię wpuszczę.",
-  "status": "draft"
+  "pl": "<style=\"clue\">Wróć później</style>, kiedy profesor Chortkoff uzna przedstawienie za gotowe. Wtedy chętnie cię wpuszczę.",
+  "status": "done"
  },
  "n:line:02a8730": {
   "pl": "Ani przez sekundę ci nie wierzę.",
@@ -344,16 +344,16 @@
   "status": "draft"
  },
  "n:line:02c34fc": {
-  "pl": "Skok z latarni morskiej? Nie był to twój najjaśniejszy pomysł.",
-  "status": "draft"
+  "pl": "Skok z latarni morskiej? Niezbyt świetlany pomysł.",
+  "status": "done"
  },
  "n:line:02c553e": {
   "pl": "Łatwo o taką pomyłkę.",
   "status": "draft"
  },
  "n:line:02e0795": {
-  "pl": "Kto chce słuchać, musi zapłacić śpiewaczce.",
-  "status": "draft"
+  "pl": "Kto zamawia muzykę, ten płaci.",
+  "status": "done"
  },
  "n:line:02e9156": {
   "pl": "To chyba znowu nie jest część jakiegoś misternego podstępu?",
@@ -376,8 +376,8 @@
   "status": "review"
  },
  "n:line:02f892e": {
-  "pl": "Dotyczy wyłącznie nauczania uczniów tajników nauk o ucieczce!",
-  "status": "draft"
+  "pl": "Taką, która dotyczy wyłącznie wprowadzania uczniów w tajniki nauk o ucieczce!",
+  "status": "done"
  },
  "n:line:030053a": {
   "pl": "Opowiedz mi o skrzydle założycieli!",
@@ -476,8 +476,8 @@
   "status": "draft"
  },
  "n:line:0415992": {
-  "pl": "Czas na odrobinę teatru! <style=\"story\">(Dalej z fabułą)</style>",
-  "status": "draft"
+  "pl": "Czas na odrobinę teatru! <style=\"story\">(Kontynuuj historię)</style>",
+  "status": "done"
  },
  "n:line:04196f8": {
   "pl": "Wiem, wiem... Po prostu Akademia tak wiele mi dała. Chcę się jej odwdzięczyć.",
@@ -596,8 +596,8 @@
   "status": "draft"
  },
  "n:line:051a330": {
-  "pl": "No, jest stuknięta. I to nie tak fajnie jak profesor Von Bellini!",
-  "status": "review"
+  "pl": "No, jest stuknięta. I to nie w ten fajny sposób, co profesor Von Bellini!",
+  "status": "done"
  },
  "n:line:052846e": {
   "pl": "W obecnej postaci nie mogę wywijać w rytm muzyki, ale to nie znaczy, że nie potrafię docenić tej formy sztuki.",
@@ -612,8 +612,8 @@
   "status": "draft"
  },
  "n:line:0541e15": {
-  "pl": "Gdy ucichną wszystkie fety, trzeba będzie wymyślić, jak przywrócić odrobinę godności wydziałowi nauk ścisłych...",
-  "status": "review"
+  "pl": "Gdy ucichną fanfary, trzeba będzie wymyślić, jak przywrócić odrobinę godności wydziałowi nauk ścisłych...",
+  "status": "done"
  },
  "n:line:05486e9": {
   "pl": " O NIE, moja jedyna TRZECIA słabość: konfrontacja z nowymi informacjami, ZNOWU!!!",
@@ -636,8 +636,8 @@
   "status": "draft"
  },
  "n:line:058b6f9": {
-  "pl": "Och, „Chowanie i szukanie 101”? Szukałam go wszędzie! Może być twoje za <style=\"clue\">${0}</style>.",
-  "status": "draft"
+  "pl": "Och, „Chowanie i szukanie 101”? Szukałam go wszędzie! Może być twoje za <style=\"clue\">{0} $</style>.",
+  "status": "done"
  },
  "n:line:059c3dd": {
   "pl": "Nie do końca wiem, co się tam stało... ale świetnie się bawiłem, oglądając to wszystko!",
@@ -720,8 +720,8 @@
   "status": "draft"
  },
  "n:line:063578b": {
-  "pl": "Witaj w mojej sali tanecznej. Jeśli chcesz dostać <style=\"clue\">swoje punkty</style>, musisz pokazać, co potrafisz, <style=\"clue\">w przepisany przeze mnie, biegły sposób.</style>",
-  "status": "draft"
+  "pl": "Witaj w mojej sali tanecznej. Jeśli chcesz dostać <style=\"clue\">swoje punkty</style>, musisz pokazać, co potrafisz, <style=\"clue\">bezbłędnie i dokładnie według moich wytycznych.</style>",
+  "status": "done"
  },
  "n:line:06375f7": {
   "pl": "Żałuję, że nie ma tu Becci... To <i>na pewno</i> stałoby się naszym nowym ulubionym miejscem.",
@@ -824,8 +824,8 @@
   "status": "review"
  },
  "n:line:07176dc": {
-  "pl": "Oficjalnie się poddaję. <style=\"clue\">Wykroczenia za wejście bez pozwolenia: {0}</style> – to obraza. A teraz idź już sobie.",
-  "status": "review"
+  "pl": "Oficjalnie się poddaję. <style=\"clue\">Liczba wtargnięć bez pozwolenia: {0}</style> – to obraza. A teraz idź już sobie.",
+  "status": "done"
  },
  "n:line:071a593": {
   "pl": "Budowa sieci tyrolek to świetny sposób na budowanie sieci kontaktów!",
@@ -836,16 +836,16 @@
   "status": "draft"
  },
  "n:line:07245b9": {
-  "pl": "Biorę to! <style=\"purchase\">(Wydaj ${0})</style>",
-  "status": "draft"
+  "pl": "Biorę! <style=\"purchase\">(Wydaj {0} $)</style>",
+  "status": "done"
  },
  "n:line:072d87c": {
   "pl": "Ooo! Uwielbiam małe niespodzianki.",
   "status": "draft"
  },
  "n:line:073cd9d": {
-  "pl": "Pozwoliłem sobie załatać twoje braki po wypadku. Nie ma za co.",
-  "status": "draft"
+  "pl": "Pozwoliłem sobie załatać twoje usterki po wypadku. Nie ma za co.",
+  "status": "done"
  },
  "n:line:073efa4": {
   "pl": "No to <i>migiem.</i>",
@@ -868,8 +868,8 @@
   "status": "draft"
  },
  "n:line:0762ee6": {
-  "pl": "Ale jest mnóstwo innych spisków, które <i>tak naprawdę</i> spiskami nie są, a dzięki którym też możesz się rozwinąć!",
-  "status": "review"
+  "pl": "Ale jest jeszcze mnóstwo spisków, które <i>wcale</i> nie są spiskami – na nich też można się rozwinąć!",
+  "status": "done"
  },
  "n:line:0764607": {
   "pl": "Dzięki mojej mocy obliczeniowej udało mi się przetworzyć stratę Von Belliniego <i>bardzo</i> szybko.",
@@ -884,8 +884,8 @@
   "status": "draft"
  },
  "n:line:077707d": {
-  "pl": "Czas znaleźć tę komnatę! <style=\"story\">(Czekaj do nocy)</style>",
-  "status": "draft"
+  "pl": "Czas znaleźć tę komnatę! <style=\"story\">(Poczekaj do nocy)</style>",
+  "status": "done"
  },
  "n:line:078af7c": {
   "pl": "Wtedy wrócimy do wieży <i>razem.</i>",
@@ -908,8 +908,8 @@
   "status": "draft"
  },
  "n:line:07af089": {
-  "pl": "Auć! Ktoś tu ma palce z makaronu. To nie jest <style=\"clue\">to, co idzie dalej</style>.",
-  "status": "review"
+  "pl": "Auć! Ktoś tu ma palce jak z waty. <style=\"clue\">Dalej ta melodia idzie</style> zupełnie inaczej",
+  "status": "done"
  },
  "n:line:07b4758": {
   "pl": "Jaką wiedzą mogę cię uraczyć na temat Sali Eskapistów?",
@@ -928,8 +928,8 @@
   "status": "review"
  },
  "n:line:07c15b8": {
-  "pl": "„Księga wytrychów” Larkina! Prawdziwa okazja, za jedyne <style=\"clue\">${0}</style>.",
-  "status": "draft"
+  "pl": "„Księga wytrychów” Larkina! Prawdziwa okazja, za jedyne <style=\"clue\">{0} $</style>.",
+  "status": "done"
  },
  "n:line:07c1f93": {
   "pl": "Za każde zadanie dostaniesz <style=clue>punkty szkolne</style>, które <style=\"clue\">otworzą ci drzwi</style> w całym kampusie.",
@@ -972,16 +972,16 @@
   "status": "draft"
  },
  "n:line:081b8ad": {
-  "pl": "Czy każdy tu musi mnie doić? <style=\"purchase\">(Zapłać {0} $)</style>",
-  "status": "review"
+  "pl": "Każdy tu musi mnie doić? <style=\"purchase\">(Zapłać {0} $)</style>",
+  "status": "done"
  },
  "n:line:082db20": {
   "pl": "Wracasz z prezentami? <style=\"clue\">{0} $ nam wystarczy...</style>",
   "status": "review"
  },
  "n:line:083a9da": {
-  "pl": "Ten zacinający zamki, forsujący na chama... <i>ŁOM!</i>",
-  "status": "review"
+  "pl": "Ten psuj zamków, ten wyważacz drzwi... <i>ŁOM</i> jeden!",
+  "status": "done"
  },
  "n:line:0840b7d": {
   "pl": "Prawie wkręciły mi się włosy w wózek...",
@@ -1012,8 +1012,8 @@
   "status": "draft"
  },
  "n:line:087c6f2": {
-  "pl": "Kto lepiej nauczy historii niż ktoś, czyja rodzina jest jej częścią?",
-  "status": "draft"
+  "pl": "Kto lepiej nauczy historii niż członek rodziny, która ją tworzyła?",
+  "status": "done"
  },
  "n:line:08931ae": {
   "pl": "Skok do <i>spalarni?</i> Jaki proces obliczeniowy za tym stoi?",
@@ -1132,8 +1132,8 @@
   "status": "draft"
  },
  "n:line:09adac9": {
-  "pl": "Wiem, to absurd, że musimy za nie płacić, skoro sami przy nim pracowaliśmy. W pewnym sensie...",
-  "status": "draft"
+  "pl": "Wiem, to absurd, że musimy płacić za bilety, skoro sami pracowaliśmy przy tym przedstawieniu. Tak jakby...",
+  "status": "done"
  },
  "n:line:09b24da": {
   "pl": "Mam staż w Instytucie Lockefellera! Całe lato spędzę w piwnicy.",
@@ -1172,8 +1172,8 @@
   "status": "draft"
  },
  "n:line:09ef2a2": {
-  "pl": "Staraj się trzymać nogi na ziemi.",
-  "status": "draft"
+  "pl": "Staraj się twardo stąpać po ziemi.",
+  "status": "done"
  },
  "n:line:09f8b9b": {
   "pl": "Escape Academy poświęca się nauczaniu tajemnej sztuki <style=\"clue\">ucieczek</style> i jest miejscem, w którym uczniowie odkrywają swój pełny potencjał jako <style=\"clue\">eskapiści</style>!",
@@ -1208,8 +1208,8 @@
   "status": "review"
  },
  "n:line:0a37e3b": {
-  "pl": "Siedzę! <style=\"story\">(Dalej z fabułą!)</style>",
-  "status": "draft"
+  "pl": "Siedzę! <style=\"story\">(Kontynuuj historię!)</style>",
+  "status": "done"
  },
  "n:line:0a3c8e1": {
   "pl": "Wolałabym nie musieć prosić profesor Chortkoff, żeby <style=\"clue\">dostać się do Sali Eskapistów,</style> ale... co trzeba, to trzeba.",
@@ -1276,8 +1276,8 @@
   "status": "draft"
  },
  "n:line:0b05308": {
-  "pl": "Ta hala i Pomnik Ucieczki były jej pożegnalnym prezentem dla kampusu.",
-  "status": "draft"
+  "pl": "Ta sala i Pomnik Ucieczki były jej pożegnalnymi prezentami dla kampusu.",
+  "status": "done"
  },
  "n:line:0b0fe25": {
   "pl": "<i>Proszę</i>, nie każ mi cię znowu wyciągać...",
@@ -1372,8 +1372,8 @@
   "status": "draft"
  },
  "n:line:0bddd2d": {
-  "pl": "Ej, co jest?! Dlaczego mój kostium się nie utrzymał?",
-  "status": "draft"
+  "pl": "Ej, co jest?! Gdzie się podział mój kostium?",
+  "status": "done"
  },
  "n:line:0be06b5": {
   "pl": "Ale pani dyrektor, uczniowie będą jeszcze bardziej bezbronni bez naszej... Chwileczkę. Kto tam?",
@@ -1384,8 +1384,8 @@
   "status": "draft"
  },
  "n:line:0bf95f3": {
-  "pl": "Po prostu <style=\"clue\">przestała przychodzić</style> i nikogo nie uprzedziła, a teraz <i>ja</i> utknąłem jako kasa w księgarni, na litość bajtów!",
-  "status": "draft"
+  "pl": "Po prostu <style=\"clue\">przestała przychodzić</style>, nie uprzedziwszy żadnego człowieka, a teraz to <i>ja</i> robię za kasę w księgarni, na litość bajtów!",
+  "status": "done"
  },
  "n:line:0bfcc31": {
   "pl": "Oj, w tym roku tyle spraw na głowie!",
@@ -1400,8 +1400,8 @@
   "status": "draft"
  },
  "n:line:0c08d35": {
-  "pl": "Oto pieniądze, dla których kazaliście mi czołgać się po zakurzonych szybach wentylacyjnych. Nie przepuść ich wszystkich na jedną zagadkę...",
-  "status": "review"
+  "pl": "Oto pieniądze, dla których czołgałam się po zakurzonych szybach wentylacyjnych. Nie przepuść wszystkiego na jedną zagadkę...",
+  "status": "done"
  },
  "n:line:0c0cf09": {
   "pl": "Kazał ją wznieść Fernando Augustín, żeby uczcić największych eskapistów w dziejach Akademii!",
@@ -1512,8 +1512,8 @@
   "status": "review"
  },
  "n:line:0d0a2fd": {
-  "pl": "Czekajcie, coś mi zostało w pokoju w akademiku...",
-  "status": "draft"
+  "pl": "Czekajcie, muszę jeszcze coś zabrać z akademika...",
+  "status": "done"
  },
  "n:line:0d132aa": {
   "pl": "Przywiozłam cię tu, bo Von Bellini zasługuje na ciepłe pożegnanie. Jesteś starszym profesorem nauk ścisłych, a to wiąże się z odpowiedzialnością.",
@@ -1548,8 +1548,8 @@
   "status": "draft"
  },
  "n:line:0d48d32": {
-  "pl": "Czy znowu zwali mi pani sufit na głowę?",
-  "status": "draft"
+  "pl": "Znowu zwali mi pani sufit na głowę?",
+  "status": "done"
  },
  "n:line:0d4bb44": {
   "pl": "Na co czekamy?",
@@ -1564,12 +1564,12 @@
   "status": "draft"
  },
  "n:line:0d72c20": {
-  "pl": "Czas odzyskać te okulary! <style=\"story\">(Dalej w fabule!)</style>",
-  "status": "draft"
+  "pl": "Czas odzyskać te okulary! <style=\"story\">(Kontynuuj historię!)</style>",
+  "status": "review"
  },
  "n:line:0d7b6df": {
-  "pl": "Ludzie są <i>tacy</i> pobłażliwi. A ja – według moich obliczeń – <i>nie</i> zamierzam tego wcale wykorzystać!",
-  "status": "review"
+  "pl": "Ludzie są <i>tacy</i> pobłażliwi. A ja – według moich obliczeń – wcale <i>nie</i> zamierzam tego wykorzystać!",
+  "status": "done"
  },
  "n:line:0da63b4": {
   "pl": "Tajny czwarty założyciel?!",
@@ -1584,8 +1584,8 @@
   "status": "draft"
  },
  "n:line:0dafe4a": {
-  "pl": "Niestety, według moich obliczeń nie mogę polecić łapania fal. Wody zatoki są nieprzewidywalne i będę musiał cię stamtąd wyciągać.",
-  "status": "draft"
+  "pl": "Niestety, z czystym sumieniem obliczeniowym nie mogę polecić łapania fal. Wody zatoki są nieprzewidywalne i będę musiał cię stamtąd wyciągać.",
+  "status": "done"
  },
  "n:line:0db1c22": {
   "pl": "No dobrze. To już. Tylko jeden brzemienny w skutki rejs dzieli nas od Alistaira.",
@@ -1604,8 +1604,8 @@
   "status": "draft"
  },
  "n:line:0dcffcc": {
-  "pl": "Nie. Denerwuję się <i>tobą.</i>",
-  "status": "draft"
+  "pl": "Nie. Denerwuję się przez <i>ciebie.</i>",
+  "status": "done"
  },
  "n:line:0de6828": {
   "pl": "Czy moja gwiazda roku nie powinna właśnie mierzyć się z <style=\"clue\">programem sztuk scenicznych</style>?",
@@ -1672,8 +1672,8 @@
   "status": "draft"
  },
  "n:line:0e48ef4": {
-  "pl": "Biorę to! <style=\"purchase\">(Wydaj ${0})</style>",
-  "status": "draft"
+  "pl": "Biorę! <style=\"purchase\">(Wydaj {0} $)</style>",
+  "status": "done"
  },
  "n:line:0e49e69": {
   "pl": "Zaczyna to wyglądać na wzorzec zachowania, „gwiazdo roku”.",
@@ -1692,8 +1692,8 @@
   "status": "review"
  },
  "n:line:0e87f4d": {
-  "pl": "Obawiam się, że nie mam czasu na pogawędki, czeka na mnie przytłaczająca ilość... obowiązków dyrektorki.",
-  "status": "draft"
+  "pl": "Obawiam się, że nie mam czasu na pogawędki, czeka na mnie istny natłok... obowiązków dyrektorki.",
+  "status": "done"
  },
  "n:line:0e8d17d": {
   "pl": "<style=\"clue\">Czyż to jest układanka, co ją widzę przed sobą, z elementami zwróconymi ku mej dłoni?",

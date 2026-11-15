@@ -17,7 +17,7 @@
  },
  "n:line:0022e62": {
   "pl": "Mam nadzieję, że było warto, BO JESTEŚCIE ZWOLNIENI! Opróżnijcie swoje boksy. <i>Rzecz jasna.</i>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:00261cf": {
   "pl": "Ci bracia Baskin są zupełnie bezradni, co? No, ale przynajmniej dzięki tobie coś dziś zjedli.",
@@ -181,7 +181,7 @@
  },
  "n:line:043f8f3": {
   "pl": "Relacjonować wydarzenia w sposób całkowicie skorumpowany, stronniczy i samolubny!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04479e6": {
   "pl": "Jak będę się gapić dostatecznie długo, mój mózg w końcu wchłonie wiedzę.",
@@ -378,7 +378,7 @@
  },
  "n:line:079d4b5": {
   "pl": "I u profesora Von Belliniego... i z godziny wychowawczej...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:07b7195": {
   "pl": "Limeryki?! Zjedzą cię żywcem!",
@@ -497,8 +497,8 @@
   "status": "draft"
  },
  "n:line:09c4842": {
-  "pl": "Czasem odrobina limo-nady robi cuda... Idealna dawka płynu!",
-  "status": "draft"
+  "pl": "Czasem odrobina limonkady robi cuda... Idealna dawka płynu!",
+  "status": "done"
  },
  "n:line:09d8bc9": {
   "pl": "Przed uroczystością ku czci profesora Von Belliniego czytam więcej o miejscu, w którym spotkała go przedwczesna śmierć...",
@@ -757,8 +757,8 @@
   "status": "draft"
  },
  "n:line:0f3cc3d": {
-  "pl": "Do stoiska z lemoniadą zawsze jest kolejka, ale puenty nigdy nie ma!",
-  "status": "draft"
+  "pl": "Do limetkady zawsze jest kolejka, ale jakoś nikt nie chce postawić kolejki!",
+  "status": "review"
  },
  "n:line:0f54c38": {
   "pl": "Jasne, że tak. Nasz zespół przeżywa przez to <i>ostatnie chwile</i>!",

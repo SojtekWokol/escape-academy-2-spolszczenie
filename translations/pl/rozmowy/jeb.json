@@ -128,16 +128,16 @@
   "status": "review"
  },
  "n:line:064094b": {
-  "pl": "Koniec końców wszystko dobrze się skończyło. Na dodatek zrobiliśmy razem <i>prawdziwe</i> wykopaliska archeologiczne! Nie wspominając o uratowaniu sytuacji.",
-  "status": "draft"
+  "pl": "Koniec końców wszystko dobrze się ułożyło. Na dodatek zrobiliśmy razem <i>prawdziwe</i> wykopaliska archeologiczne! Nie mówiąc już o uratowaniu sytuacji.",
+  "status": "done"
  },
  "n:line:0651014": {
   "pl": "Będę próbować dalej...",
   "status": "draft"
  },
  "n:line:0660142": {
-  "pl": "Zacięło się? Może pomogę... a może nie!",
-  "status": "draft"
+  "pl": "Masz zagwozdkę? Może pomogę... a może nie!",
+  "status": "done"
  },
  "n:line:0689d7c": {
   "pl": "Nie mam pojęcia o muzyce!",
@@ -252,8 +252,8 @@
   "status": "draft"
  },
  "n:line:0b806ea": {
-  "pl": "Chodźmy zbezcześcić... eee, odkryć kryptę! <style=\"story\">(Dalej w fabule)</style>",
-  "status": "draft"
+  "pl": "Chodźmy zrabować... eee, zbadać kryptę! <style=\"story\">(Kontynuuj historię)</style>",
+  "status": "done"
  },
  "n:line:0bbfb2f": {
   "pl": "Jak będę miał <i>naprawdę</i> szczęście, to na emeryturę odpłynę tak samo jak profesor Von Bellini!",
@@ -300,8 +300,8 @@
   "status": "draft"
  },
  "n:line:0d7388e": {
-  "pl": "Na wszystkie zagadki, co ty wyprawiasz? Nie możesz teraz przepaść w zatoce, uczniowie nas potrzebują.",
-  "status": "draft"
+  "pl": "Na wszystkie ucieczki, co ty wyprawiasz? Nie możesz teraz przepaść w zatoce, uczniowie nas potrzebują.",
+  "status": "done"
  },
  "n:line:0de1748": {
   "pl": "A teraz sami do jednego schodzimy, to... Och, ale się rozgadałem.",
@@ -316,8 +316,8 @@
   "status": "review"
  },
  "n:line:0eae65d": {
-  "pl": "Ci założyciele to chyba ktoś ważny...",
-  "status": "draft"
+  "pl": "Ci założyciele to chyba niezłe szychy...",
+  "status": "done"
  },
  "n:line:0ed6bf8": {
   "pl": "Jasne! Obowiązuje gwarancja „Rozwiązane nie kradzione”! Ale, ee... bez nich nie ma występu.",

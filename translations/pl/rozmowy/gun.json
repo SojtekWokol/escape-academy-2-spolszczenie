@@ -140,16 +140,16 @@
   "status": "draft"
  },
  "n:line:02b2e73": {
-  "pl": "<size=0.7em>Faktycznie, kogoś tu testujesz...",
-  "status": "draft"
+  "pl": "<size=0.7em>Testujesz, testujesz... moją cierpliwość.",
+  "status": "done"
  },
  "n:line:02b3ad2": {
   "pl": "A zeszłej nocy w końcu nadszedł ten czas...",
   "status": "draft"
  },
  "n:line:02c15ab": {
-  "pl": "Bertrand Solverson! <i>Bertrand Solverson!</i> Jak można było sknocić ostatnią kwestię?",
-  "status": "draft"
+  "pl": "Bertrand Rozwiązalski! <i>Bertrand Rozwiązalski!</i> Jak można było sknocić ostatnią kwestię?",
+  "status": "review"
  },
  "n:line:02c50aa": {
   "pl": "Nie! Gdyby moje nazwisko mówiło prawdę, nazywałabym się Ruby Winowska!",
@@ -200,8 +200,8 @@
   "status": "draft"
  },
  "n:line:041148e": {
-  "pl": "Bertrand Solverson! <i>Bertrand Solverson!</i> Jak można było sknocić ostatnią kwestię?",
-  "status": "draft"
+  "pl": "Bertrand Rozwiązalski! <i>Bertrand Rozwiązalski!</i> Jak można było sknocić ostatnią kwestię?",
+  "status": "review"
  },
  "n:line:04156cb": {
   "pl": "To prawda! Zabiłam Petera na śmierć!",
@@ -212,8 +212,8 @@
   "status": "draft"
  },
  "n:line:041987f": {
-  "pl": "Miałem nadzieję, że perspektywa <i>morderstwa</i> wystarczy legendarnemu Solversonowi! Ale obawiam się, że najpierw potrzebuję od pana pewnej rzeczy...",
-  "status": "draft"
+  "pl": "Miałem nadzieję, że perspektywa <i>morderstwa</i> wystarczy legendarnemu Rozwiązalskiemu! Ale obawiam się, że najpierw potrzebuję od pana pewnej rzeczy...",
+  "status": "review"
  },
  "n:line:04438fd": {
   "pl": "Eska-Cola, gdy potrzebujesz <i>przewagi</i> nad zagadkami życia.",
@@ -257,7 +257,7 @@
  },
  "n:line:04dc3e9": {
   "pl": "Co więcej, to pan jest mordercą, nie Ruby!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:04e6473": {
   "pl": "...Clueseau.",
@@ -284,8 +284,8 @@
   "status": "draft"
  },
  "n:line:0599002": {
-  "pl": "<size=0.7em>To nie ta kwestia! Tyle się nagłowiłam nad wymową tego adresu...",
-  "status": "review"
+  "pl": "<size=0.7em>To nie ta kwestia! Tyle się nagłowiłam nad symboliką tego adresu...",
+  "status": "done"
  },
  "n:line:05c4ffb": {
   "pl": "<size=0.7em>Co?! Przecież leżę tu na samym środku!</size>",
@@ -332,8 +332,8 @@
   "status": "draft"
  },
  "n:line:0661c0b": {
-  "pl": "Szacun. Naprawdę szacun.",
-  "status": "review"
+  "pl": "Do licha, jest pan naprawdę dobry.",
+  "status": "done"
  },
  "n:line:06663bc": {
   "pl": "Yyy... nie...? Co?",
@@ -380,8 +380,8 @@
   "status": "draft"
  },
  "n:line:07078d7": {
-  "pl": "Ale przeraziłem się, gdy zrozumiałem, że dobiega on z <style=\"clue\">domu mojego przyjaciela, Petera Hintza!</style>",
-  "status": "draft"
+  "pl": "Ale zamarłem z przerażenia, gdy zrozumiałem, że huk dobiega z <style=\"clue\">domu mojego przyjaciela, Petera Tropińskiego!</style>",
+  "status": "review"
  },
  "n:line:07090d8": {
   "pl": "<size=0.7em>Hej! Tego nie napisałam. <i>Trzymaj się scenariusza.</i> Jest bardzo dobry.",
@@ -424,20 +424,20 @@
   "status": "draft"
  },
  "n:line:07d43a9": {
-  "pl": "Dlatego mówią na mnie <i>Solverson.</i> Do zobaczenia wkrótce.",
-  "status": "draft"
+  "pl": "Dlatego mówią na mnie <i>Rozwiązalski.</i> Do zobaczenia wkrótce.",
+  "status": "review"
  },
  "n:line:081b575": {
   "pl": "Właścicielkę fabryki, Ruby Niewinowską, stojącą nad jego ciałem z dymiącym pistoletem – w przenośni <i>i</i> dosłownie! <style=\"clue\">Ruby zastrzeliła Petera!</style>",
   "status": "draft"
  },
  "n:line:0833f35": {
-  "pl": "Bertrand Solverson!",
-  "status": "draft"
+  "pl": "Bertrand Rozwiązalski!",
+  "status": "review"
  },
  "n:line:083787b": {
-  "pl": "<size=0.7em>Yyy... szłoby ci dużo lepiej, bez wychodzenia z roli. No, na czym to ja skończyłem? Ach!</size>",
-  "status": "review"
+  "pl": "<size=0.7em>Yyy... dużo lepiej by ci szło bez wychodzenia z roli. No, na czym to ja skończyłem? Ach!</size>",
+  "status": "done"
  },
  "n:line:0844d53": {
   "pl": "Proszę opowiedzieć mi <i>wszystko</i>, co pan widział. Bez pomijania szczegółów ani uczuć!",
@@ -476,8 +476,8 @@
   "status": "draft"
  },
  "n:line:08a6a1d": {
-  "pl": "Trafna, choć dziwnie konkretna analiza. Ale musimy wysłuchać, co ma do powiedzenia Ruby!",
-  "status": "draft"
+  "pl": "Trafna analiza, choć podejrzanie... w punkt. Ale musimy wysłuchać, co ma do powiedzenia Ruby!",
+  "status": "done"
  },
  "n:line:08b0934": {
   "pl": "<style=\"clue\">{2} {1} {0}</style>?",
@@ -552,8 +552,8 @@
   "status": "draft"
  },
  "n:line:0a19213": {
-  "pl": "Dama jasno powiedziała, że do niego strzeliła. <i>W twarz!</i> U mnie to bardzo źle widziane zachowanie. Zamknijmy ją!",
-  "status": "review"
+  "pl": "Słyszał pan, co powiedziała: strzeliła mu. <i>W twarz!</i> U mnie to bardzo źle widziane zachowanie. Zamknijmy ją!",
+  "status": "done"
  },
  "n:line:0a294a9": {
   "pl": "Oto Eska-Cola, której – jakże wygodnie – akurat pan potrzebuje! <style=\"purchase\">(Daj napój)</style>",
@@ -564,8 +564,8 @@
   "status": "review"
  },
  "n:line:0a2ec9a": {
-  "pl": "Jestem tak przytłoczony. Nie dam rady bez <style=\"clue\">puszki Eska-Coli</style>, żeby uspokoić nerwy.",
-  "status": "review"
+  "pl": "To mnie po prostu przerasta. Nie dam rady bez <style=\"clue\">puszki Eska-Coli</style> na uspokojenie nerwów.",
+  "status": "done"
  },
  "n:line:0a60d2b": {
   "pl": "Ale jeśli to <style=\"clue\">nie pistolet</style> zabił Petera, to co?",
@@ -628,7 +628,7 @@
   "status": "draft"
  },
  "n:line:0b1fee6": {
-  "pl": "Peter Hintz mieszkał pod numerem...",
+  "pl": "Peter Tropiński mieszkał pod numerem...",
   "status": "review"
  },
  "n:line:0b2a981": {
@@ -704,7 +704,7 @@
   "status": "draft"
  },
  "n:line:0c0893f": {
-  "pl": "Bo to ja, <i>detektyw Solverson.</i>",
+  "pl": "Bo to ja, <i>detektyw Rozwiązalski.</i>",
   "status": "review"
  },
  "n:line:0c1d384": {
@@ -720,8 +720,8 @@
   "status": "draft"
  },
  "n:line:0c5229b": {
-  "pl": "Obraz nie obciąża Petera Hintza.",
-  "status": "draft"
+  "pl": "Obraz nie obciąża Petera Tropińskiego.",
+  "status": "review"
  },
  "n:line:0c65657": {
   "pl": "*Sapnięcie* Chce pan powiedzieć, że narzędziem zbrodni było <style=\"clue\">coś innego</style>?!",
@@ -756,19 +756,19 @@
   "status": "draft"
  },
  "n:line:0cdc1c8": {
-  "pl": "Peter Hintz wciąż żyje!",
-  "status": "draft"
+  "pl": "Peter Tropiński wciąż żyje!",
+  "status": "review"
  },
  "n:line:0ce3001": {
   "pl": "Nie ma sprawy, proszę pani! Kolejny dzień, kolejna rozwiązana sprawa. Podpisano...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0ce5083": {
   "pl": "Proszę dać mi chwilę, a powiem!",
   "status": "review"
  },
  "n:line:0cfc230": {
-  "pl": "I że potem wszystko misternie ukartowałem, żeby <style=\"clue\">wyglądało na to, że winny jest Peter Hintz</style>...",
+  "pl": "I że potem wszystko misternie ukartowałem, żeby <style=\"clue\">wyglądało na to, że winny jest Peter Tropiński</style>...",
   "status": "review"
  },
  "n:line:0d08a8e": {
@@ -800,8 +800,8 @@
   "status": "review"
  },
  "n:line:0d619f5": {
-  "pl": "Peter Hintz nie był malarzem.",
-  "status": "draft"
+  "pl": "Peter Tropiński nie był malarzem.",
+  "status": "review"
  },
  "n:line:0d9b1d3": {
   "pl": "Ja ee- po prostu <style=\"clue\">poczekam tu na swój napój</style>, a tymczasem po cichu wpadnę w emocjonalną spiralę!",
@@ -892,8 +892,8 @@
   "status": "draft"
  },
  "n:line:0fcc002": {
-  "pl": "...Solverson.",
-  "status": "draft"
+  "pl": "...Rozwiązalski.",
+  "status": "review"
  },
  "n:line:0fdf2ca": {
   "pl": "Ee- niech będzie, detektywie. Ale ostrzegam, zostanę na linii, dopóki nie zdecyduje się pan przyjąć mojej sprawy!",

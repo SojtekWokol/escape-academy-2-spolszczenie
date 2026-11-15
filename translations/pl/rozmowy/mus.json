@@ -28,8 +28,8 @@
   "status": "draft"
  },
  "n:line:01746e9": {
-  "pl": "Zagadka jasna! Chyba jestem ci winna parę groszy, co?",
-  "status": "review"
+  "pl": "A niech to! Chyba jestem ci winna parę groszy, co?",
+  "status": "done"
  },
  "n:line:0174cdd": {
   "pl": "Clifford Little panikował przez malutkiego pieska. Co za ogromny tchórz!",
@@ -164,8 +164,8 @@
   "status": "draft"
  },
  "n:line:04ce011": {
-  "pl": "Skoro kubki mamy po równo, skusisz się na kubek limonkady?",
-  "status": "draft"
+  "pl": "Skoro porcje są już równe, skusisz się na kubek limonkady?",
+  "status": "done"
  },
  "n:line:051dcff": {
   "pl": "Nie, da się to naprawić! <i>Matematyką.</i> <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
@@ -261,7 +261,7 @@
  },
  "n:line:080896c": {
   "pl": "Ale z Nate'a psuj zabawy...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0817ef8": {
   "pl": "Wejdę tam! W końcu...",
@@ -289,7 +289,7 @@
  },
  "n:line:08838f8": {
   "pl": "Phi... porządna chemia i trochę krzepy jeszcze niczego nie zepsuły!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:08923be": {
   "pl": "O, wróciła nam kontrola BHP.",
@@ -460,8 +460,8 @@
   "status": "draft"
  },
  "n:line:0c88c67": {
-  "pl": "Jak można mieć stoisko z limonkadą i nie nalewać równych porcji?",
-  "status": "review"
+  "pl": "Jak można mieć stoisko z limetkadą i nie nalewać równych porcji?",
+  "status": "done"
  },
  "n:line:0c94b4f": {
   "pl": "Wiem coś o tym... Ale ja <i>nie dam</i> sobie odmówić!",

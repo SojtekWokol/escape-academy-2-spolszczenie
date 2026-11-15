@@ -113,7 +113,7 @@
  },
  "n:line:01b2bc5": {
   "pl": "Piękny dzień, żeby pożegnać profesora Von Belliniego na zawsze, co?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:01c62b8": {
   "pl": "Albo... zaraz się zajmie...",
@@ -144,8 +144,8 @@
   "status": "draft"
  },
  "n:line:02165e1": {
-  "pl": "Podobnie jak wielkie burze...",
-  "status": "review"
+  "pl": "Ani wielkich burz...",
+  "status": "done"
  },
  "n:line:02237d2": {
   "pl": "Wracam do łóżka.",
@@ -233,7 +233,7 @@
  },
  "n:line:0345e25": {
   "pl": "Czyż Sameer nie wygląda na godnego zaufania gościa? Pewnie przez te bujne loki – pod tym względem to istny <style=\"clue\">as pik</style>.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0356ae7": {
   "pl": "Czy to znaczy, że jestem teraz częścią twojej ekipy?!",
@@ -320,8 +320,8 @@
   "status": "draft"
  },
  "n:line:04cd704": {
-  "pl": "Wow. To naprawdę <i>jest</i> gwiazda roku Solange. Wyglądasz równie dobrze jak w EATV...",
-  "status": "draft"
+  "pl": "Wow. To naprawdę <i>ty</i>, gwiazda roku Solange. Wyglądasz równie dobrze jak w EATV...",
+  "status": "done"
  },
  "n:line:04e1bca": {
   "pl": "Chyba z tego labiryntu nie ma wyjścia...",
@@ -441,7 +441,7 @@
  },
  "n:line:067a031": {
   "pl": "Szkoda, że nie mogłam ukra... to znaczy zabrać czegoś z umysłu Von Belliniego do mojej kolekcji...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:067e087": {
   "pl": "Moment... czy to właśnie próbuje nam powiedzieć ta rzeźba o życiu?",
@@ -481,7 +481,7 @@
  },
  "n:line:072523d": {
   "pl": "Po tej małej wycieczce po umyśle profesora Von Belliniego zostanie mi sporo bagażu do rozpakowania...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:072c711": {
   "pl": "No to powodzenia.",
@@ -636,8 +636,8 @@
   "status": "draft"
  },
  "n:line:095d1a9": {
-  "pl": "No weź. Możesz mi zaufać. Jestem agresywnie godny zaufania.",
-  "status": "draft"
+  "pl": "No weź. Możesz mi zaufać. Jestem nachalnie godny zaufania.",
+  "status": "done"
  },
  "n:line:095fc0f": {
   "pl": "Macie na plecach namalowane tarcze czy co?",
@@ -660,8 +660,8 @@
   "status": "draft"
  },
  "n:line:09b0ccb": {
-  "pl": "Podczas marszu *zzz* zasypiam szybciej *zzz*",
-  "status": "draft"
+  "pl": "Jak chodzę, *zzz* szybciej zasypiam *zzz*",
+  "status": "done"
  },
  "n:line:09bb1c1": {
   "pl": "Wygląda na to, że masz już całą lekturę obowiązkową...",
@@ -761,7 +761,7 @@
  },
  "n:line:0b05992": {
   "pl": "Dość wielkich wydarzeń! Wciąż dochodzę do siebie po „Śmierci artysty”, a teraz mam jeszcze wykrzesać z siebie entuzjazm z okazji emerytury profesora Von Belliniego?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b0888b": {
   "pl": "Ale lubię, gdy inni podejmują za mnie życiowe decyzje!",
@@ -789,7 +789,7 @@
  },
  "n:line:0b6c577": {
   "pl": "Na emeryturę profesora Von Belliniego czekano od dawna!",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0b8f67c": {
   "pl": "Och, super, masz moje... zaraz. To nie ta osoba.",
@@ -869,7 +869,7 @@
  },
  "n:line:0c56300": {
   "pl": "Bardzo chciałabym opisać w następnej książce swoje przeżycia w umyśle profesora Von Belliniego, ale boję się, że będzie to dla czytelników zbyt mózgowe.",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0c62c49": {
   "pl": "Ja akurat mogę...",
@@ -1061,15 +1061,15 @@
  },
  "n:line:0ed6b5c": {
   "pl": "Szczerze – nie mam nic do tej kanapki! Za kilka godzin mój żołądek może mieć inne zdanie...",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0eda735": {
   "pl": "Eel Barnes nigdy nie pozwoliłby sobie potknąć się na pierwszej przeszkodzie... Gdybym tylko miał jego talent!",
   "status": "draft"
  },
  "n:line:0edcc15": {
-  "pl": "Podobno wykładowcy mieli ostatnio wielkie, poważne zebranie. Założę się, że gadali o tym, jak <style=\"clue\">Gordon i Paige zniknęli</style>...",
-  "status": "draft"
+  "pl": "Podobno wykładowcy mieli ostatnio wielkie, poważne zebranie. Założę się, że gadali o <style=\"clue\">zniknięciu Gordona i Paige</style>...",
+  "status": "done"
  },
  "n:line:0ee6909": {
   "pl": "Mamy <i>wszystko</i> z listy lektur dyrektorki. I to w cenach bez wyzysku!",
@@ -1101,7 +1101,7 @@
  },
  "n:line:0f05773": {
   "pl": "Już straciliśmy profesora Von Belliniego, a teraz podobno stracimy prąd?",
-  "status": "review"
+  "status": "done"
  },
  "n:line:0f08166": {
   "pl": "Hę? Co? Jak długo ja się gapię w to okno???",
@@ -1120,8 +1120,8 @@
   "status": "draft"
  },
  "n:line:0f28a7c": {
-  "pl": "To mój kamień do myślenia. Przychodzę tu, kiedy chcę się poczuć <i>granialnie</i>.",
-  "status": "review"
+  "pl": "To mój kamień do myślenia. Przychodzę tu, kiedy chcę się poczuć jak <i>wulkan</i> pomysłów.",
+  "status": "done"
  },
  "n:line:0f5e171": {
   "pl": "No. Nie mam teraz czasu na te... cokolwiek to jest.",

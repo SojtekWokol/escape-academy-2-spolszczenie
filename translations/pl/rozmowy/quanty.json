@@ -44,8 +44,8 @@
   "status": "draft"
  },
  "n:line:037f4bf": {
-  "pl": "Garstka <style=\"clue\">zakazanych książek</style> wymknęła mi się z rąk. <style=\"clue\">Oddaj mi je</style>, a punkty będą twoje.",
-  "status": "draft"
+  "pl": "Garstka <style=\"clue\">zakazanych książek</style> zdołała mi się wymknąć. <style=\"clue\">Oddaj mi je</style>, a punkty będą twoje.",
+  "status": "done"
  },
  "n:line:03b7214": {
   "pl": "„Escape roomy są przereklamowane – manifest”... Autor to niebezpieczny świr, którego trzeba uciszyć!",
@@ -112,8 +112,8 @@
   "status": "draft"
  },
  "n:line:076f83e": {
-  "pl": "Ludzie są <i>tacy</i> pobłażliwi. A ja – według moich obliczeń – <i>nie</i> zamierzam tego wcale wykorzystać!",
-  "status": "review"
+  "pl": "Ludzie są <i>tacy</i> pobłażliwi. A ja – według moich obliczeń – wcale <i>nie</i> zamierzam tego wykorzystać!",
+  "status": "done"
  },
  "n:line:07d99b1": {
   "pl": "O czym chce ze mną porozmawiać mój arcywróg?",
@@ -128,8 +128,8 @@
   "status": "draft"
  },
  "n:line:085c09a": {
-  "pl": "Wygląda jednak na to, że zapomniała, że są pod kluczem. Czy możesz <style=\"clue\">otworzyć dla mnie garaż</style>? Jestem tylko wózkiem.",
-  "status": "draft"
+  "pl": "Ona jednak chyba zapomniała, że są pod kluczem. Czy możesz <style=\"clue\">otworzyć dla mnie garaż</style>? Jestem tylko wózkiem.",
+  "status": "done"
  },
  "n:line:0a2200e": {
   "pl": "Po całym semestrze zachowania od neutralnego do bardzo dobrego Solange powierzyła mi dostęp do moich starych procesorów.",
@@ -240,8 +240,8 @@
   "status": "draft"
  },
  "n:line:0f1d627": {
-  "pl": "Pospiesz się. Wydajność to doskonałość!",
-  "status": "draft"
+  "pl": "Pospiesz się. Sprawnie znaczy poprawnie!",
+  "status": "done"
  },
  "n:line:0fa42d1": {
   "pl": "Dobra wiadomość dla wszystkich jest taka, że mam potencjał na nieskończenie wiele żywotów nauczania, a wszystko dzięki... cóż, przede wszystkim dyrektorce Solange.",

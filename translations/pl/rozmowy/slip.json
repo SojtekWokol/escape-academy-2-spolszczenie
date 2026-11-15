@@ -64,8 +64,8 @@
   "status": "review"
  },
  "n:line:036ed5f": {
-  "pl": "Trochę dziwnie, ale chcę wierzyć, że patrzę na różne rzeczy inaczej niż reszta profesorów.",
-  "status": "review"
+  "pl": "Trochę dziwnie, ale lubię myśleć, że wnoszę inne spojrzenie niż reszta profesorów.",
+  "status": "done"
  },
  "n:line:0384f5d": {
   "pl": "Mam dla ciebie pelerynę! <style=\"purchase\">(Daj pelerynę!)</style>",
@@ -100,8 +100,8 @@
   "status": "draft"
  },
  "n:line:04d3aa2": {
-  "pl": "Jak skończysz zajęcia wprowadzające, będziesz o krok od odblokowania Wydziału Sztuki.",
-  "status": "review"
+  "pl": "Jak skończysz zajęcia wprowadzające, będziesz o krok od odblokowania Wydziału Sztuki</style>.",
+  "status": "done"
  },
  "n:line:04fe593": {
   "pl": "Tylko nie daj się zastraszyć temu, co wszyscy gadają o profesor Chortkoff. Ona jest... w większości nieszkodliwa.",
@@ -152,16 +152,16 @@
   "status": "draft"
  },
  "n:line:085cec9": {
-  "pl": "A do tego otwarty bunt wobec dyrektorki! W partyzanckiej sztuce ulicznej czekałaby na ciebie niezła kariera, gdyby tylko przyszła ci na to ochota.",
-  "status": "draft"
+  "pl": "A do tego totalny bunt przeciw dyrektorce? W partyzanckiej sztuce ulicznej czekałaby cię niezła kariera, gdyby przyszła ci ochota.",
+  "status": "done"
  },
  "n:line:08774dc": {
   "pl": "Zwykle lubię porządną burzę mózgów, ale... nie taką. Przez nią cały kampus chodzi jak na szpilkach.",
   "status": "review"
  },
  "n:line:0938685": {
-  "pl": "Czysta robota! Lepiej chodźmy już na <style=\"clue\">scenę</style>, wiem już, że nie warto kazać Enorze długo czekać...",
-  "status": "review"
+  "pl": "Czysta robota! Lepiej chodźmy już na <style=\"clue\">scenę</style> – nauczyłem się, że nie warto kazać Enorze długo czekać...",
+  "status": "done"
  },
  "n:line:094baa3": {
   "pl": "Czysta robota! Spotkamy się na dole, <style=\"clue\">na scenie, jak skończysz</style> resztę przygotowań.",
@@ -208,12 +208,12 @@
   "status": "review"
  },
  "n:line:0bede0f": {
-  "pl": "Slip to chyba nie jest pana <i>prawdziwe</i> nazwisko?",
-  "status": "review"
+  "pl": "Slip to chyba nie pana <i>prawdziwe</i> nazwisko?",
+  "status": "done"
  },
  "n:line:0c17666": {
-  "pl": "Jak chcesz rozwijać swój fach, to mi pasuje. Każdy jest trochę inaczej skrojony.",
-  "status": "draft"
+  "pl": "Rozwijaj swój fach, jak ci pasuje – mnie to nie przeszkadza. Każdy jest trochę inaczej skrojony.",
+  "status": "done"
  },
  "n:line:0c97001": {
   "pl": "Nic na to nie poradzę, że inspiracja dopada mnie w miejscach, do których <i>formalnie rzecz biorąc</i> nie wolno mi wchodzić.",
@@ -224,8 +224,8 @@
   "status": "review"
  },
  "n:line:0d73559": {
-  "pl": "No właśnie? Jakby żywiła się wyłącznie Eska-Colą.",
-  "status": "review"
+  "pl": "No nie? Jakby żywiła się wyłącznie Eska-Colą.",
+  "status": "done"
  },
  "n:line:0d9b848": {
   "pl": "Ha! Nie. To taki przydomek z moich początków w partyzanckiej sztuce ulicznej, który jakoś się przyjął.",

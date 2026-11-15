@@ -132,8 +132,8 @@
   "status": "draft"
  },
  "n:line:04dbec1": {
-  "pl": "Dziękuję, nie chcę krzywdzić ryb.",
-  "status": "draft"
+  "pl": "Podziękuję, nie chcę krzywdzić ryb.",
+  "status": "done"
  },
  "n:line:050e1bb": {
   "pl": "Biorę to za entuzjastyczne „tak”!",
@@ -492,8 +492,8 @@
   "status": "review"
  },
  "n:line:0e42b6a": {
-  "pl": "Ach, to same plotki. Zakładam się, o co chcesz, że Pac je rozpuścił, żeby ludzie podpisywali jego petycje.",
-  "status": "review"
+  "pl": "Ach, to same plotki. Zakładam się, o co chcesz, że to sprawka Pac, żeby zebrać podpisy pod petycjami.",
+  "status": "done"
  },
  "n:line:0e46a1f": {
   "pl": "Przed końcem semestru zostanie z tego kupa gruzu, wspomnisz moje słowa.",

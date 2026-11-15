@@ -144,8 +144,8 @@
   "status": "draft"
  },
  "n:line:048246b": {
-  "pl": "Świetne rzemiosło, jesteś o klasę wyżej niż reszta.",
-  "status": "draft"
+  "pl": "Kawał porządnej roboty, krojem bijesz resztę na głowę.",
+  "status": "done"
  },
  "n:line:0484d5c": {
   "pl": "Bułka z serem! <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
@@ -208,12 +208,12 @@
   "status": "draft"
  },
  "n:line:067677a": {
-  "pl": "Dam radę, ludzie! Ale, yyy... <style=\"clue\">przydałaby mi się pomoc</style>. Cała krew spływa mi do głowy.",
-  "status": "draft"
+  "pl": "Dam radę, ludzie! Ale, yyy... <style=\"clue\">przydałaby mi się pomoc</style>. Cała krew napływa mi do głowy.",
+  "status": "done"
  },
  "n:line:06e9880": {
-  "pl": "Dochodziły do mnie dziwne dźwięki z <style=\"clue\">góry nad pracownią sztuk wizualnych</style>, ale mam za wrażliwe uszy, żeby to sprawdzić.",
-  "status": "draft"
+  "pl": "Dochodziły do mnie dziwne dźwięki z <style=\"clue\">dachu pracowni sztuk wizualnych</style>, ale mam za wrażliwe uszy, żeby to sprawdzić.",
+  "status": "done"
  },
  "n:line:071bd2a": {
   "pl": "Co?! Eel Barnes to był, ni mniej, ni więcej, największy eskapista wszech czasów! I do tego najprzystojniejszy...",
@@ -232,16 +232,16 @@
   "status": "draft"
  },
  "n:line:080a2d6": {
-  "pl": "<i>Nie</i> polecam podpaść Enorze, kiedy wybucha.",
-  "status": "review"
+  "pl": "<i>Nie</i> polecam znaleźć się na linii ognia, kiedy Enora wybucha.",
+  "status": "done"
  },
  "n:line:08fb4ba": {
   "pl": "Wiesz już, o co chodzi z tymi wszystkimi posągami na kampusie? Pewnie, bułka z <i>kostką</i> masła...",
   "status": "review"
  },
  "n:line:091b8c6": {
-  "pl": "Twoja sprawa, delikatne uszka!",
-  "status": "draft"
+  "pl": "Twoja strata, ty szczurze lądowy o delikatnych uszkach!",
+  "status": "done"
  },
  "n:line:093b041": {
   "pl": "W punkt! Ta okropna fryzura musiała zniknąć.",
@@ -412,8 +412,8 @@
   "status": "draft"
  },
  "n:line:0e63f47": {
-  "pl": "Gładkie szycie. Masz oko do dynamicznych form.",
-  "status": "review"
+  "pl": "Równiutkie szwy. Masz oko do dynamicznych form.",
+  "status": "done"
  },
  "n:line:0eaf783": {
   "pl": "Chyba <style=\"clue\">Ollie przyda się pomoc</style> w rozszyfrowaniu, co znaczą te posągi. Kubizm zawsze wydawał mi się zbyt abstrakcyjny.",
@@ -448,8 +448,8 @@
   "status": "review"
  },
  "n:line:0f5ff9e": {
-  "pl": "Zaliczone artystycznie <i>albo</i> ulicznie.",
-  "status": "review"
+  "pl": "Za sztukę <i>albo</i> za szacun na ulicy.",
+  "status": "done"
  },
  "n:line:0f7da0a": {
   "pl": "Dzięki, ale kubizm to nie moja bajka.",

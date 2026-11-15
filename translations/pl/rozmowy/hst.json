@@ -24,8 +24,8 @@
   "status": "draft"
  },
  "n:line:0254b92": {
-  "pl": "Jesteś z powrotem! Pomożesz mnie i Gillian wciągnąć tego maluszka na górę?",
-  "status": "draft"
+  "pl": "Jesteś z powrotem! Pomożesz mnie i Gillian wciągnąć to cacko na górę?",
+  "status": "done"
  },
  "n:line:025ae3d": {
   "pl": "Potrzebuję chwili...",
@@ -36,8 +36,8 @@
   "status": "draft"
  },
  "n:line:0283ed3": {
-  "pl": "Ech... nie mogę się doczekać, aż uczniom rozbłysną oczy, kiedy znajdą się wśród całej tej historii!",
-  "status": "draft"
+  "pl": "Rany... nie mogę się doczekać, aż uczniom rozbłysną oczy, kiedy znajdą się wśród całej tej historii!",
+  "status": "done"
  },
  "n:line:03a014d": {
   "pl": "Skoro artefakty są już u ciebie, będę naprawdę wdzięczny, jeśli <style=\"clue\">poukładasz je w gablotach</style>.",
@@ -108,8 +108,8 @@
   "status": "review"
  },
  "n:line:08d0dae": {
-  "pl": "Idź do <style=\"clue\">magazynu i kup jeden za {0} $</style>. Będę tu czekał, jak wrócisz!",
-  "status": "draft"
+  "pl": "Skocz do <style=\"clue\">magazynu i kup łom za {0} dolców</style>. Zaczekam tu na ciebie!",
+  "status": "done"
  },
  "n:line:093f125": {
   "pl": "Hurra! Udało się! Jeszcze tylko jedno i wystawa będzie gotowa do przecięcia wstęgi.",
@@ -156,8 +156,8 @@
   "status": "draft"
  },
  "n:line:0f96227": {
-  "pl": "Ruszajmy do Archiwum Artefaktów! <style=\"story\">(Dalej w fabule)</style>",
-  "status": "review"
+  "pl": "Ruszajmy do Archiwum Artefaktów! <style=\"story\">(Kontynuuj historię)</style>",
+  "status": "done"
  },
  "n:line:0f9d620": {
   "pl": "Nie chcę cię poganiać, ale wystawa ma się otworzyć już niedługo, więc... lepiej się, hm... pospiesz!",

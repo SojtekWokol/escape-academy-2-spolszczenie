@@ -36,16 +36,16 @@
   "status": "draft"
  },
  "n:line:0115b3b": {
-  "pl": "Ale dziś nic nie wysadzamy, nie <i>fizycznie</i>. Dziś będziemy za to wysadzać w powietrze <style=\"clue\">umysły</style>...",
-  "status": "draft"
+  "pl": "Ale dziś nic nie wysadzamy, a przynajmniej nie <i>fizycznie</i>. Zamiast tego rozsadzimy wam <style=\"clue\">umysły</style>...",
+  "status": "done"
  },
  "n:line:0177762": {
   "pl": "Proszę! <style=\"purchase\">(Daj wieniec)</style>",
   "status": "draft"
  },
  "n:line:019cfaf": {
-  "pl": "Ja swoje spędziłam na warzeniu czterech nowych odmian herbaty modyfikowanej genetycznie!",
-  "status": "draft"
+  "pl": "Ja swoje spędziłam na wyhodowaniu czterech nowych odmian herbaty modyfikowanej genetycznie!",
+  "status": "done"
  },
  "n:line:019fc9f": {
   "pl": "Uczniowie przeszli już w tym roku tak wiele: najpierw profesor Von Bellini, a potem...",
@@ -156,12 +156,12 @@
   "status": "draft"
  },
  "n:line:0608513": {
-  "pl": "Brzmi herba-smacznie!",
-  "status": "review"
+  "pl": "Brzmi herbastycznie!",
+  "status": "done"
  },
  "n:line:061d061": {
-  "pl": "Obiecasz, że nie pozwolisz mu zrobić niczego zbyt lekkomyślnego? Muszę mieć oko na resztę uczniów. Adios!",
-  "status": "draft"
+  "pl": "Obiecujesz, że nie pozwolisz mu zrobić niczego zbyt lekkomyślnego? Muszę mieć oko na resztę uczniów. Adios!",
+  "status": "done"
  },
  "n:line:0659879": {
   "pl": "Udało ci się upleść ten wieniec?",
@@ -176,8 +176,8 @@
   "status": "review"
  },
  "n:line:06c5dc4": {
-  "pl": "Nawet jeśli nasz... <i>starszy</i> profesor nauk ścisłych, Barton Von Bellini, bywa trochę ciasny umysłowo.",
-  "status": "draft"
+  "pl": "Nawet jeśli nasz... <i>starszy</i> profesor nauk ścisłych, Barton Von Bellini, bywa nieco zamknięty na nowości.",
+  "status": "done"
  },
  "n:line:06d7347": {
   "pl": "Wyśmienita robota z chemikaliami! Zobaczmy teraz, jak mocne wiązanie łączy cię z ich <style=\"clue\">strukturą chemiczną</style>.",
@@ -192,8 +192,8 @@
   "status": "review"
  },
  "n:line:07cc0d5": {
-  "pl": "Wspaniale, jesteś. Nie pozwól, żeby Von Bellini obrzydził ci biologię, obiecuję, że dzisiejsza lekcja będzie inspirująca.",
-  "status": "draft"
+  "pl": "Wspaniale, jesteś. Nie daj się Von Belliniemu zniechęcić do biologii – obiecuję, że dzisiejsza lekcja będzie inspirująca.",
+  "status": "done"
  },
  "n:line:07e757e": {
   "pl": "Czyli nie interesuje pani posada starszego profesora nauk ścisłych?",
@@ -352,8 +352,8 @@
   "status": "draft"
  },
  "n:line:0d47540": {
-  "pl": "Zaproponowała mi pracę od razu, ale w miarę jak wrastałam w rolę nauczycielki, powoli traciłam miłość do bomb i zaczęłam nowy rozdział.",
-  "status": "draft"
+  "pl": "Od razu zaproponowała mi posadę, a gdy wrastałam w rolę nauczycielki, powoli odkochiwałam się w bombach i wypuściłam nowe listki.",
+  "status": "done"
  },
  "n:line:0d4bf00": {
   "pl": "Od tamtej pory moją dawną wybuchową energię przelewam w parzenie herbaty i nauki biologiczne! Rośliny dają mi spokój, jakiego bomby nigdy by nie dały...",
@@ -364,8 +364,8 @@
   "status": "draft"
  },
  "n:line:0d8ebb1": {
-  "pl": "Skoro jesteś, to są... <i>prawie</i> wszyscy. <style=\"clue\">Nie ma Paige Turner, co?</style> Co się dzieje z frekwencją w tym semestrze...",
-  "status": "draft"
+  "pl": "Skoro już jesteś, to mamy... <i>prawie</i> komplet. <style=\"clue\">Nie ma Paige Turner, co?</style> Co się dzieje z frekwencją w tym semestrze...",
+  "status": "done"
  },
  "n:line:0ddb689": {
   "pl": "Zawartość tych uroczych krzaczków to dokładnie to, czego potrzebuję, żeby ruszyć pełną parą z genetyczną modyfikacją nowego gatunku kwiatu.",
@@ -404,8 +404,8 @@
   "status": "review"
  },
  "n:line:0f343e0": {
-  "pl": "A jeśli potrzebują małego kopa, żeby zakwitły, przyrządziłam <style=\"clue\">specjalny nawóz</style>, który na pewno pomoże.",
-  "status": "draft"
+  "pl": "A jeśli trzeba im kopa, żeby „wybuchły” kwieciem, przyrządziłam <style=\"clue\">specjalny nawóz</style>, który na pewno pomoże.",
+  "status": "done"
  },
  "n:line:0f6717e": {
   "pl": "Czyż nie jest cudownie, jak kwiaty wypełniają to miejsce kolorami i zapachami?",

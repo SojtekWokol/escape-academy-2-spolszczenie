@@ -32,12 +32,12 @@
   "status": "draft"
  },
  "n:line:019bd90": {
-  "pl": "Oby spokojny, relaksujący koniec semestru pozwolił zacząć spłacać dług, jaki Akademia ma wobec ciebie.",
-  "status": "draft"
+  "pl": "Mam nadzieję, że spokojny koniec semestru choć trochę spłaci dług, jaki Akademia ma wobec ciebie.",
+  "status": "done"
  },
  "n:line:01e1662": {
-  "pl": "To już! Alistair nie ma już dokąd uciec...",
-  "status": "draft"
+  "pl": "To tutaj! Alistair nie ma już dokąd uciec...",
+  "status": "done"
  },
  "n:line:0246891": {
   "pl": "Teraz od prawdy dzielą go już tylko <style=\"clue\">drzwi do laboratorium</style>...",
@@ -104,8 +104,8 @@
   "status": "review"
  },
  "n:line:062956c": {
-  "pl": "Może sprawdź swoją pracę jeszcze raz, <style=\"clue\">popraw odpowiedzi i spróbuj ponownie!</style>",
-  "status": "draft"
+  "pl": "Przejrzyj wszystko jeszcze raz, <style=\"clue\">popraw odpowiedzi i spróbuj ponownie!</style>",
+  "status": "done"
  },
  "n:line:062f6fb": {
   "pl": "No to... do dna!",

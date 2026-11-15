@@ -40,16 +40,16 @@
   "status": "draft"
  },
  "n:line:0317cd3": {
-  "pl": "Szkoda, że nie mogę zbliżyć się do mleka na półtora metra...",
-  "status": "draft"
+  "pl": "Szkoda, że nie mogę podejść do mleka bliżej niż na półtora metra...",
+  "status": "done"
  },
  "n:line:032a398": {
   "pl": "O, dobrze, że wracasz. Może jednak zdobędziesz dla mnie tę Eska-Colę?",
   "status": "review"
  },
  "n:line:032b1c0": {
-  "pl": "Sam jesteś odkurzacz, bo tylko ssiesz!",
-  "status": "review"
+  "pl": "Sam ssiesz jak odkurzacz!",
+  "status": "done"
  },
  "n:line:032e137": {
   "pl": "Ale w ich reklamie jest napisane: „Eska-Cola. Złap przewagę w życiu”. W co mam teraz wierzyć!?",
@@ -120,8 +120,8 @@
   "status": "review"
  },
  "n:line:0a89d1f": {
-  "pl": "Tysiąc razy dziękuję. To będzie długi rok, jeśli nie przetrwam zajęć wprowadzających.",
-  "status": "review"
+  "pl": "Tysiąc razy dziękuję. To będzie długi rok, jeśli nie przetrwam dni adaptacyjnych.",
+  "status": "done"
  },
  "n:line:0ad1b4a": {
   "pl": "Jedna letnia, umiarkowanie wstrząśnięta Eska-Cola! <style=\"purchase\">(Daj Eska-Colę)</style>",
@@ -148,8 +148,8 @@
   "status": "draft"
  },
  "n:line:0d3d144": {
-  "pl": "Czuję przypływ energii. Czuję Escape. <i>Czuję życie!</i> Idę dać kilku zagadkom po zarozumiałych buziach.",
-  "status": "draft"
+  "pl": "Czuję przypływ energii. Czuję Escape. <i>Czuję życie!</i> Idę dać kilku zagadkom po zarozumiałych gębach.",
+  "status": "done"
  },
  "n:line:0d5ad6a": {
   "pl": "Żeby tak Profesor Mruczyński łaził za <i>mną</i> cały dzień...",

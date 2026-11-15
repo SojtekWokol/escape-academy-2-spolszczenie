@@ -112,8 +112,8 @@
   "status": "draft"
  },
  "n:line:015abb0": {
-  "pl": "Czyli ten rok to pański ostatni w Akademii, co?",
-  "status": "review"
+  "pl": "Czyli to pana ostatni rok w Akademii, tak?",
+  "status": "done"
  },
  "n:line:017fe9c": {
   "pl": "Przykro mi, że musisz się męczyć z tym ogłupiającym programem narzuconym przez Akademię. Widzę w tobie iskrę i grzechem byłoby jej nie wykorzystać!",
@@ -148,8 +148,8 @@
   "status": "draft"
  },
  "n:line:028ec58": {
-  "pl": "Tak, wszyscy inni mają zdecydowanie rację.",
-  "status": "draft"
+  "pl": "Tak, wszyscy inni zdecydowanie mają rację.",
+  "status": "done"
  },
  "n:line:02970fe": {
   "pl": "Przysięgam, że we dwóch nie mają ani jednego sprawnego mózgu...",
@@ -216,8 +216,8 @@
   "status": "draft"
  },
  "n:line:04375b9": {
-  "pl": "Osobiście <style=\"clue\">opisałem każde urządzenie</style> podręczną podpowiedzią.",
-  "status": "draft"
+  "pl": "Osobiście <style=\"clue\">opatrzyłem każde urządzenie</style> poręczną podpowiedzią.",
+  "status": "done"
  },
  "n:line:0487105": {
   "pl": "Potem możesz <style=\"clue\">wrócić tutaj</style> i...",
@@ -264,12 +264,12 @@
   "status": "draft"
  },
  "n:line:0566be5": {
-  "pl": "Naprawdę powinieneś zrobić przerwę od patrzenia w tamtą stronę...",
-  "status": "draft"
+  "pl": "Naprawdę powinieneś przestać na chwilę gapić się w tamtą stronę...",
+  "status": "done"
  },
  "n:line:0584396": {
-  "pl": "Nie potrzebuję tej presji, ale jeśli chcesz <style=\"clue\">pomóc</style>, śmiało.",
-  "status": "draft"
+  "pl": "Nie potrzebuję dodatkowego ciśnienia, ale jeśli chcesz <style=\"clue\">pomóc</style>, śmiało.",
+  "status": "done"
  },
  "n:line:05a053d": {
   "pl": "No pięknie! Sandra Solange we własnej osobie!",
@@ -349,7 +349,7 @@
  },
  "n:line:089b521": {
   "pl": "Można ruszać, kapi... eee, panie profesorze! <style=\"story\">(Kontynuuj historię!)</style>",
-  "status": "review"
+  "status": "done"
  },
  "n:line:089e43d": {
   "pl": "O, hej, stary! Prawie cię nie zauważyłem. Pewnie dlatego, że mam oczy spalone na skwarkę.",
@@ -440,8 +440,8 @@
   "status": "draft"
  },
  "n:line:09f63e9": {
-  "pl": "I tak po prostu: własna skóra postawiona na szali dla sztuki. Nie wiem, czy to godne pochwały, czy idiotyczne.",
-  "status": "draft"
+  "pl": "I ot tak – narażać własną skórę dla sztuki. Nie wiem, czy to godne pochwały, czy idiotyczne.",
+  "status": "done"
  },
  "n:line:0a08a61": {
   "pl": "Dzięki, stary, jesteś wielki.",
@@ -512,8 +512,8 @@
   "status": "draft"
  },
  "n:line:0beba56": {
-  "pl": "<i>To</i> był odważny wybór.",
-  "status": "draft"
+  "pl": "No, <i>na to</i> trzeba było mieć tupet.",
+  "status": "done"
  },
  "n:line:0c080ed": {
   "pl": "Moment... gdzie twoja para z laboratorium? <style=\"clue\">Potrzebuję tu was obu</style>, jeśli mamy to przeprowadzić!",
