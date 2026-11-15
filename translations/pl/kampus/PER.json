@@ -216,7 +216,7 @@
   "status": "draft"
  },
  "g:PER_Dance_Cipherston": {
-  "pl": "Szyfrleston",
+  "pl": "Szyfreston",
   "status": "draft"
  },
  "g:PER_Dance_CluepidShuffle": {
@@ -244,7 +244,7 @@
   "status": "draft"
  },
  "g:PER_Dance_ExperiencedSteps": {
-  "pl": "1. Szyfrleston<br>2. Krok kłódkowy<br>3. Tropidyn Shuffle<br>4. Winorośl ucieczki",
+  "pl": "1. Szyfreston<br>2. Krok kłódkowy<br>3. Tropidyn Shuffle<br>4. Winorośl ucieczki",
   "status": "draft"
  },
  "g:PER_Dance_ExperiencedTitle": {
@@ -457,11 +457,11 @@
  },
  "g:PER_Hint_DanceStepsA": {
   "pl": "Zacznij tutaj i zatańcz Szyfreston.",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Hint_DanceStepsB": {
-  "pl": "To prowadzi do „3”. Teraz zatańcz Krok Sejfowy. Przeniesie cię do „2”...",
-  "status": "review"
+  "pl": "To prowadzi do „3”. Teraz zatańcz Krok kłódkowy. Przeniesie cię do „2”...",
+  "status": "done"
  },
  "g:PER_Hint_DanceStepsC": {
   "pl": "Zatańcz wszystkie cztery tańce i zapamiętaj, gdzie lądujesz.",
@@ -696,8 +696,8 @@
   "status": "review"
  },
  "v:Slip_PER_MeasureUp": {
-  "pl": "Wiem, że sprostasz miarom tego zadania.",
-  "status": "review"
+  "pl": "Wiem, że to zadanie jest szyte na twoją miarę.",
+  "status": "done"
  },
  "v:Slip_PER_RockThose": {
   "pl": "Myślisz, że pasowałby do mnie taki wąs?",

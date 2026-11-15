@@ -200,8 +200,8 @@
   "status": "draft"
  },
  "n:line:0378e84": {
-  "pl": "Coś jest <style=\"clue>dziwnego w tym drzewie</style>. Uczono nas, że Reina wyhodowała je z sadzonki, ale wygląda prawie... sztucznie.",
-  "status": "review"
+  "pl": "W tym <style=\"clue>drzewie jest coś dziwnego</style>. Uczono nas, że Reina wyhodowała je z sadzonki, ale wygląda prawie... sztucznie.",
+  "status": "done"
  },
  "n:line:038f874": {
   "pl": "Na co czekasz? Te <style=\"clue\">okulary</style> muszą być w <style=\"clue\">tajnym gabinecie</style> dyrektorki!",

@@ -1664,8 +1664,8 @@
   "status": "draft"
  },
  "g:MSC_EC_PaintDamLabel": {
-  "pl": "Ta tama przydałaby się nową warstwę farby...",
-  "status": "review"
+  "pl": "Tej tamie przydałaby się nowa warstwa farby...",
+  "status": "done"
  },
  "g:MSC_EC_PaintPipesLabel": {
   "pl": "Ten komin wygląda strasznie ponuro...",

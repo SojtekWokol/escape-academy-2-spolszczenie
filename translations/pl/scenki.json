@@ -1400,8 +1400,8 @@
   "status": "draft"
  },
  "y:line:07c47dc": {
-  "pl": "A co do was, gwiazdy roku – sprawdzę was później, gdy skończycie z <style=\"vis_clue\">obsadą</style>!",
-  "status": "review"
+  "pl": "A wy, gwiazdy roku – zajrzę do was później, gdy skończycie z <style=\"vis_clue\">castingiem</style>!",
+  "status": "done"
  },
  "y:line:07c79c2": {
   "pl": "A jeśli znajdziesz chwilkę, dodaj grę do <style=\"clue\">listy życzeń</style> na <style=\"clue\">Steamie</style> – dzięki temu w Akademii nie gasną światła.",
@@ -2728,8 +2728,8 @@
   "status": "done"
  },
  "y:line:0f79f6f": {
-  "pl": "Dziękuję za towarzyszenie mi w tym rejsie i za zgodę na odprowadzenie Czerwonego Śledzia do Akademii, gdy już zejdę na ląd.",
-  "status": "review"
+  "pl": "Dziękuję za towarzyszenie mi w tym rejsie i za zgodę na sprowadzenie Czerwonego Śledzia z powrotem do Akademii, gdy już zejdę na ląd.",
+  "status": "done"
  },
  "y:line:0f7cc69": {
   "pl": "Co?! Ale...",

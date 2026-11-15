@@ -132,8 +132,8 @@
   "status": "draft"
  },
  "g:MUS_DrummersLamentText": {
-  "pl": "Dwa razy werbel w sidła wpadł,<br>jeden bas w pułapkę się dał,<br>crash się rozległ,<br>a Tom padł na podłogę.",
-  "status": "review"
+  "pl": "Dwa razy werbel w sidła wpadł,<br>raz tylko bas się złapać dał,<br>potem crash się głośno rozległ,<br>a Tom aż na podłogę legł.",
+  "status": "done"
  },
  "g:MUS_EC_Archery_Obj1": {
   "pl": "Odblokuj bezpieczniejszą strzałę.",

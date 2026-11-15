@@ -376,8 +376,8 @@
   "status": "draft"
  },
  "v:Jeb_TRK_ElevatorsRunnin": {
-  "pl": "Winda działa! Jeden szyb mniej, którym moglibyśmy tu zjechać na dno.",
-  "status": "review"
+  "pl": "Winda działa! Przynajmniej ten szyb nie pociągnie nas na dno.",
+  "status": "done"
  },
  "v:Jeb_TRK_Fail": {
   "pl": "Tak sobie naszego końca nie wyobrażałem... *ZAWALENIE*",
@@ -404,8 +404,8 @@
   "status": "review"
  },
  "v:Jeb_TRK_LetterRip": {
-  "pl": "Puszczaj, list!",
-  "status": "review"
+  "pl": "Jazda z tym listem!",
+  "status": "done"
  },
  "v:Jeb_TRK_LookFamiliar": {
   "pl": "Nie wydaje ci się, że to pomieszczenie skądś znasz?",

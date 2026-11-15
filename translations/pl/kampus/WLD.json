@@ -328,8 +328,8 @@
   "status": "draft"
  },
  "v:FemmeFetaleFemaleStudent_WLD_AddressSlip": {
-  "pl": "Nigdy nie wiem, jak zwracać się do Profesora Slip.",
-  "status": "review"
+  "pl": "Nigdy nie wiem, jak zwracać się do profesora Slipa.",
+  "status": "done"
  },
  "v:FemmeFetaleFemaleStudent_WLD_LoveChortkoff": {
   "pl": "Uwielbiam, kiedy Chortkoff na mnie krzyczy!",
@@ -904,8 +904,8 @@
   "status": "review"
  },
  "v:PASystem_WLD_ResultinF": {
-  "pl": "Witamy w Escape Academy. Przypominamy, że śmierć na lekcji skutkuje jedynką.",
-  "status": "review"
+  "pl": "Witaj, Escape Academy. Przypominamy, że śmierć na lekcji skutkuje jedynką.",
+  "status": "done"
  },
  "v:PASystem_WLD_RunPuzzle": {
   "pl": "Przypomnienie: NIE wolno biegać i rozwiązywać zagadek jednocześnie. Nie stać nas na kolejny pozew.",
@@ -1176,8 +1176,8 @@
   "status": "draft"
  },
  "v:ScienceMaleStudent_WLD_DontBuyThese": {
-  "pl": "Nie kupuję-wielu tych faktów naukowych.",
-  "status": "review"
+  "pl": "Te całe fakty naukowe? Jakoś mało to dla mnie bio-logiczne.",
+  "status": "done"
  },
  "v:ScienceMaleStudent_WLD_FearVonBellini": {
   "pl": "Nigdy nie wiem, czy ufać eksperymentom Profesora Von Belliniego, czy się ich bać.",
@@ -1220,8 +1220,8 @@
   "status": "draft"
  },
  "v:Slip_WLD_LaterEscaper": {
-  "pl": "Do później, uciekinierze.",
-  "status": "review"
+  "pl": "Na razie, gwiazdo!",
+  "status": "done"
  },
  "v:Slip_WLD_Nice": {
   "pl": "Fajnie.",
@@ -1472,8 +1472,8 @@
   "status": "draft"
  },
  "v:Understudy2FemaleStudent_WLD_FactoryChecking": {
-  "pl": "Uwielbiam weryfikować ludzi fabrycznie.",
-  "status": "review"
+  "pl": "Uwielbiam sprawdzać, kto tu fabrykuje fakty.",
+  "status": "done"
  },
  "v:Understudy2FemaleStudent_WLD_FeedFurnace": {
   "pl": "Trzeba nakarmić piec.",

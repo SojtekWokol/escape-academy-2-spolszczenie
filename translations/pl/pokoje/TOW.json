@@ -508,8 +508,8 @@
   "status": "draft"
  },
  "v:Solange_TOW_LoseYourSpool": {
-  "pl": "Nie trać tam nici przewodniej, ani szpuli. Dobry początek!",
-  "status": "review"
+  "pl": "Tylko nie strać tam wątku ze szpuli! Dobry początek.",
+  "status": "done"
  },
  "v:Solange_TOW_NextPhaseOfRoom": {
   "pl": "A teraz przechodzimy do następnej fazy pokoju.",
