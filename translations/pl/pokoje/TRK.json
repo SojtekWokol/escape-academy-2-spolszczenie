@@ -228,8 +228,8 @@
   "status": "draft"
  },
  "g:TRK_Meta_QuestName": {
-  "pl": "Krypto-odkrycie",
-  "status": "review"
+  "pl": "Kryptyczne odkrycie",
+  "status": "done"
  },
  "g:TRK_Meta_QuestObj1": {
   "pl": "Spotkaj się z prof. Jebersonem na tylnej klatce schodowej.",

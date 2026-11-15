@@ -65,7 +65,7 @@
  },
  "g:name_Allie": {
   "pl": "Profesor Bonilla",
-  "status": "review"
+  "status": "done"
  },
  "g:name_Announcer": {
   "pl": "Komunikat",
@@ -129,7 +129,7 @@
  },
  "g:name_Slip": {
   "pl": "Profesor Slip",
-  "status": "review"
+  "status": "done"
  },
  "g:name_Solange": {
   "pl": "Dyrektorka Solange",

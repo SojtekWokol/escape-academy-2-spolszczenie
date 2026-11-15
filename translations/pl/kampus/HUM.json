@@ -265,7 +265,7 @@
  },
  "g:HUM_EscapistTimes_RoofDrink": {
   "pl": "Moje klimaty!",
-  "status": "review"
+  "status": "done"
  },
  "g:HUM_EusticeGrumble": {
   "pl": "Eustice Grumble",
@@ -536,8 +536,8 @@
   "status": "draft"
  },
  "g:HUM_Library_BookHoratio": {
-  "pl": "Escape dla głupków, tom 3 – autor: Horatio Windsor",
-  "status": "review"
+  "pl": "Escape dla bystrzaków, tom 3 – autor: Horatio Windsor",
+  "status": "done"
  },
  "g:HUM_Library_Obj_Book1": {
   "pl": "Znajdź „Jak otwierać drzwi łomem”",
@@ -636,7 +636,7 @@
   "status": "draft"
  },
  "g:HUM_Museum_Obj_Room": {
-  "pl": "Wynieś z magazynu Skrzynię Cudów Sameera.",
+  "pl": "Wynieś z magazynu Skrzynię cudów Sameera.",
   "status": "draft"
  },
  "g:HUM_Museum_Obj_Talk": {

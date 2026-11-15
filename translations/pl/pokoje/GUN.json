@@ -9,7 +9,7 @@
  },
  "g:GUN_Address_Lane": {
   "pl": "zaułek",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Address_Street": {
   "pl": "ulica",
@@ -17,7 +17,7 @@
  },
  "g:GUN_AllEyesOnMe": {
   "pl": "Wszystkie oczy zwrócone na mnie.",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Allie": {
   "pl": "Allie",
@@ -49,19 +49,19 @@
  },
  "g:GUN_Crime_Arson": {
   "pl": "Podpalaczy",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Crime_Embezzlement": {
   "pl": "Defraudacji",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Crime_Fraud": {
   "pl": "Oszustów",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Crime_TaxEvasion": {
   "pl": "Unikania Podatków",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_DetectiveAgency": {
   "pl": "B.R. Agencja<br>Detektywistyczna",
@@ -85,7 +85,7 @@
  },
  "g:GUN_Elephant": {
   "pl": "Co myśli publiczność, mam w <i>trąbie</i> – i tak się nie znają.",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Enora": {
   "pl": "Enora",
@@ -105,7 +105,7 @@
  },
  "g:GUN_Hammer": {
   "pl": "Lina",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Hint_AlibiA": {
   "pl": "W alibi Cheta pojawił się staw. To zawęża pozycję startową...",
@@ -145,11 +145,11 @@
  },
  "g:GUN_Hint_DressB": {
   "pl": "Okulary przeciwsłoneczne są gdzieś tutaj schowane.",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Hint_DressC": {
   "pl": "„Od stóp do głów”. Najpierw buty.",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Hint_GivePainting": {
   "pl": "Pokaż jej obraz.",
@@ -205,7 +205,7 @@
  },
  "g:GUN_ItemDescription_EscapistsEdge": {
   "pl": "Dumny sponsor Escape Theater!",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Item_CrimePainting": {
   "pl": "Obciążający obraz",
@@ -253,7 +253,7 @@
  },
  "g:GUN_Item_Schedule": {
   "pl": "Grafik Petera",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Item_Stencil": {
   "pl": "Szablon kreślarski",
@@ -265,7 +265,7 @@
  },
  "g:GUN_Ledger": {
   "pl": "Ten występ musi wejść do <i>ksiąg</i> jako legendarny.",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Meta_QuestDesc": {
   "pl": "Obejrzyj premierę wielkiej sztuki profesor Chortkoff!",
@@ -273,7 +273,7 @@
  },
  "g:GUN_Meta_QuestName": {
   "pl": "Strzelba Chortkoff",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Meta_QuestObj1": {
   "pl": "Kup bilet na sztukę w kasie teatru.",
@@ -405,11 +405,11 @@
  },
  "g:GUN_Rope": {
   "pl": "Młotek",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Ruby": {
   "pl": "Ruby,<br>Weź na siebie winę za morderstwo Petera, albo spotka cię ten sam los co twoją fabrykę.<br>– Łotr",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Slip": {
   "pl": "Slip",
@@ -429,7 +429,7 @@
  },
  "g:GUN_Spot_Toolbox": {
   "pl": "z jego skrzynki z narzędziami",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_StartSmall": {
   "pl": "Zacznij od małego",
@@ -441,7 +441,7 @@
  },
  "g:GUN_Street1": {
   "pl": "zauł. Oszustów",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Street2": {
   "pl": "ul. Kantów",
@@ -449,7 +449,7 @@
  },
  "g:GUN_Street3": {
   "pl": "bulw. Defraudacji",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Street4": {
   "pl": "al. Podpalaczy",
@@ -457,7 +457,7 @@
  },
  "g:GUN_Street5": {
   "pl": "bulw. Łapówek",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Street6": {
   "pl": "ul. Napadów",
@@ -469,7 +469,7 @@
  },
  "g:GUN_Street8": {
   "pl": "ul. Czerwonego Światła",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Subtitle": {
   "pl": "Połamania<br>nóg!",
@@ -500,8 +500,8 @@
   "status": "draft"
  },
  "g:GUN_Unicorn": {
-  "pl": "Ciekawe, czy profesor Chortkoff chciała, żeby ta sztuka była aż tak jedno<i>kiczowa</i>.",
-  "status": "review"
+  "pl": "Ciekawe, czy profesor Chortkoff chciała, żeby ta sztuka była aż tak <i>na jedno kopyto</i>.",
+  "status": "done"
  },
  "g:GUN_Weapon_Axe": {
   "pl": "siekierę",
@@ -529,7 +529,7 @@
  },
  "g:GUN_Weapon_Rope": {
   "pl": "linę",
-  "status": "review"
+  "status": "done"
  },
  "g:GUN_Weapon_Saw": {
   "pl": "piłę",

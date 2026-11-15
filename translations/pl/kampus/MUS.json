@@ -44,15 +44,15 @@
   "status": "draft"
  },
  "g:MUS_CluebellPairings": {
-  "pl": "Zestawienia dzwonków-wskazówek",
-  "status": "review"
+  "pl": "Zestawienia zgadzwonków",
+  "status": "done"
  },
  "g:MUS_CluebellSubtitle": {
   "pl": "Gdy fiolet idzie pierwszy...",
   "status": "draft"
  },
  "g:MUS_Cluebells": {
-  "pl": "Podpowiedzwonki",
+  "pl": "Zgadzwonki",
   "status": "done"
  },
  "g:MUS_CookieJar": {
@@ -73,7 +73,7 @@
  },
  "g:MUS_Culprit_Accuse": {
   "pl": "Oskarż!",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Culprit_CaseClosed": {
   "pl": "Sprawa zamknięta...",
@@ -136,8 +136,8 @@
   "status": "done"
  },
  "g:MUS_EC_Archery_Obj1": {
-  "pl": "Odblokuj bezpieczniejszą strzałę.",
-  "status": "review"
+  "pl": "Zdobądź bezpieczniejszą strzałę.",
+  "status": "done"
  },
  "g:MUS_EC_Archery_Obj2": {
   "pl": "Daj łucznikowi bezpieczniejszą strzałę.",
@@ -145,11 +145,11 @@
  },
  "g:MUS_EC_Archery_QuestDescription": {
   "pl": "Powstrzymaj nieostrożnego łucznika przed używaniem prawdziwych strzał w sztuczkach.",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_EC_Archery_QuestName": {
   "pl": "Strzała Wskazupida",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_EC_ArrowInspection": {
   "pl": "Ten grot jest wyjątkowy! Bezpieczny to on jednak nie jest...",
@@ -252,11 +252,11 @@
   "status": "draft"
  },
  "g:MUS_GiveMeStrum": {
-  "pl": "Daj mi CHORD",
+  "pl": "Daj mi AKORD",
   "status": "review"
  },
  "g:MUS_GiveMeStrum_PW": {
-  "pl": "default,default,pressed,pressed,default,default,default,pressed,default,default,default,default,default,default,pressed,default,default,pressed,default,default",
+  "pl": "pressed,default,default,pressed,default,default,default,default,default,default,pressed,default,default,default,pressed,default,default,pressed,default,default",
   "status": "review"
  },
  "g:MUS_GreenhouseQuest": {
@@ -272,8 +272,8 @@
   "status": "draft"
  },
  "g:MUS_Greenhouse_QuestStep2": {
-  "pl": "Odblokuj nawóz",
-  "status": "draft"
+  "pl": "Zdobądź nawóz",
+  "status": "done"
  },
  "g:MUS_Greenhouse_QuestStep3": {
   "pl": "Złóż wieniec",
@@ -301,7 +301,7 @@
  },
  "g:MUS_Hint_Bribe": {
   "pl": "Przekup wokalistkę.",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Hint_ClayA": {
   "pl": "Gliniane wazy układają się we wzór. Wyrzeźbij brakującą wazę...",
@@ -312,12 +312,12 @@
   "status": "draft"
  },
  "g:MUS_Hint_DrumA": {
-  "pl": "Ta nuta zawiera zaszyfrowane instrukcje.",
-  "status": "draft"
+  "pl": "Ta notatka zawiera zaszyfrowane instrukcje.",
+  "status": "done"
  },
  "g:MUS_Hint_DrumB": {
   "pl": "Zacznij od dwóch uderzeń w werbel...",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Hint_Faculty": {
   "pl": "Porozmawiaj z kadrą na dziedzińcu.",
@@ -396,12 +396,12 @@
   "status": "draft"
  },
  "g:MUS_Hint_StrumB": {
-  "pl": "Ułóż „CHORD” na progach!",
+  "pl": "Ułóż „AKORD” na progach!",
   "status": "review"
  },
  "g:MUS_Hint_TromboneA": {
-  "pl": "Ta nuta zawiera zaszyfrowane instrukcje.",
-  "status": "draft"
+  "pl": "Ta notatka zawiera zaszyfrowane instrukcje.",
+  "status": "done"
  },
  "g:MUS_Hint_TromboneB": {
   "pl": "Zacznij od koła, potem przesuń się do pięciokąta...",
@@ -449,7 +449,7 @@
  },
  "g:MUS_Instruments_QuestObj4b": {
   "pl": "Znajdź kogoś, kto zaśpiewa.",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Instruments_QuestObj5": {
   "pl": "Przedstaw zespół prof. Chortkoff.",
@@ -481,7 +481,7 @@
  },
  "g:MUS_Item_BoxingGloves": {
   "pl": "Rękawice bokserskie",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Item_CabinetKey": {
   "pl": "Klucz",
@@ -492,8 +492,8 @@
   "status": "draft"
  },
  "g:MUS_Item_Cluebells": {
-  "pl": "Podpowiedzwonki",
-  "status": "review"
+  "pl": "Zgadzwonki",
+  "status": "done"
  },
  "g:MUS_Item_DrummersLament": {
   "pl": "Lament perkusisty",
@@ -545,7 +545,7 @@
  },
  "g:MUS_Item_Popkeys": {
   "pl": "Kluczmaki",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Item_Sameer's_Key": {
   "pl": "Klucz",
@@ -577,7 +577,7 @@
  },
  "g:MUS_Item_StrumChart_Subtitle": {
   "pl": "Jakie tajemnicze! ",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Item_SuctionCupArrow": {
   "pl": "Strzała z przyssawką",
@@ -588,12 +588,12 @@
   "status": "draft"
  },
  "g:MUS_JazzyInvite": {
-  "pl": "Chcesz dołączyć do naszego jazzowego koła? Tylko bez pięciu minut focha. Jeśli jesteś prawdziwym kwadratem, czas spojrzeć pod innym kątem – trójkątem. Inaczej wylecisz stąd na sześć!",
-  "status": "review"
+  "pl": "Chcesz dołączyć do naszego jazzowego koła? Tylko bez fochów – nawet pięciominutowych. Myślisz zbyt kwadratowo? Spróbuj pod innym kątem – trój-kątem. Inaczej wylecisz stąd w sześć sekund!",
+  "status": "done"
  },
  "g:MUS_KeythovensFifth": {
-  "pl": "Piąta Kluczhovena",
-  "status": "review"
+  "pl": "V Symfonia Kluczhovena",
+  "status": "done"
  },
  "g:MUS_LION_PW": {
   "pl": "L,I,O,N",
@@ -601,15 +601,15 @@
  },
  "g:MUS_LimeonadeSign": {
   "pl": "Limetkada",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_LockedAztec": {
   "pl": "Ta strona jest zamknięta...",
   "status": "draft"
  },
  "g:MUS_LockscombPairings": {
-  "pl": "Zestawienia zamkogrzebi",
-  "status": "draft"
+  "pl": "Zestawienia kłódkoczubów",
+  "status": "done"
  },
  "g:MUS_LockscombSubtitle": {
   "pl": "Gdy różowy wyprzedza...",
@@ -741,7 +741,7 @@
  },
  "g:MUS_PopkeyPairings": {
   "pl": "Zestawienia kluczmaków",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_PopkeySubtitle": {
   "pl": "Gdy pomarańcz idzie pierwszy...",
@@ -749,11 +749,11 @@
  },
  "g:MUS_Popkeys": {
   "pl": "Kluczmaki",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Quip1": {
   "pl": "Wygląda na to, że wszystko mieści się w taktach!",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_RIP": {
   "pl": "Spoczywaj w zagadkach",
@@ -796,8 +796,8 @@
   "status": "draft"
  },
  "g:MUS_Start_QuestName": {
-  "pl": "Dni Von-minione...",
-  "status": "review"
+  "pl": "Dawne Von-czasy...",
+  "status": "done"
  },
  "g:MUS_Start_QuestObj1": {
   "pl": "Porozmawiaj z kadrą na dziedzińcu.",
@@ -817,7 +817,7 @@
  },
  "g:MUS_StrumChartC1R1": {
   "pl": "A",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_StrumChartC1R2": {
   "pl": "B",
@@ -940,8 +940,8 @@
   "status": "draft"
  },
  "g:MUS_WreathPoem": {
-  "pl": "Błyskotliwy człowiek nauki,<br>Któremu nauczanie przerwano zbyt wcześnie,<br>Będziemy płakać po jego stracie,<br>Gdy on rozwiązuje wielką zagadkę na niebie.",
-  "status": "review"
+  "pl": "Błyskotliwy człowiek nauki,<br>Którego lekcje zbyt wcześnie urwano,<br>Będziemy płakać po jego stracie,<br>Gdy on w niebiosach rozwiązuje wielką zagadkę.",
+  "status": "done"
  },
  "g:MUS_WreathPurpletoOrange": {
   "pl": "„Oczekiwany koniec”",

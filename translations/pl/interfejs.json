@@ -69,7 +69,7 @@
  },
  "g:Action_MoveRight": {
   "pl": "Idź w prawo",
-  "status": "review"
+  "status": "done"
  },
  "g:Action_MoveUp": {
   "pl": "Idź w górę",
@@ -133,19 +133,19 @@
  },
  "g:CY_Blank": {
   "pl": "[LUKA]",
-  "status": "review"
+  "status": "done"
  },
  "g:CY_Blanked": {
   "pl": "[ZALUKOWANO]",
-  "status": "review"
+  "status": "done"
  },
  "g:CY_Blanking": {
   "pl": "[LUKOWATY]",
-  "status": "review"
+  "status": "done"
  },
  "g:CY_Blanks": {
   "pl": "[LUKI]",
-  "status": "review"
+  "status": "done"
  },
  "g:CY_Subtitle": {
   "pl": "Odkryj<br>prawdę!",
@@ -329,19 +329,19 @@
  },
  "g:DEMO_NoCharacterCustomization": {
   "pl": "Dostosowywanie postaci nie jest dostępne w tym demie.",
-  "status": "draft"
+  "status": "done"
  },
  "g:DEMO_NoRebindGamepad": {
   "pl": "Zmiana przypisania przycisków pada nie jest dostępna w tym demie.<color=grey>Spokojnie, wkrótce się pojawi!</color>",
-  "status": "draft"
+  "status": "done"
  },
  "g:DEMO_NoRebindMainMenu": {
   "pl": "Zmiana przypisania klawiszy nie jest dostępna w menu głównym. Najpierw uruchom grę. <color=grey>Spokojnie, pracujemy nad tym.</color>",
-  "status": "draft"
+  "status": "done"
  },
  "g:DEMO_UnavailableSetting": {
   "pl": "Niedostępne w demie",
-  "status": "draft"
+  "status": "done"
  },
  "g:DLC_SeasonPassContent": {
   "pl": "Ta zawartość jest częścią Przepustki sezonowej.<br>Możesz ją kupić na stronie sklepu.<br><br>Jeśli masz już Przepustkę sezonową, upewnij się, że została pobrana z biblioteki gier.",
@@ -441,7 +441,7 @@
  },
  "g:GAR_Maze": {
   "pl": "„Własność hotelu Overlock”",
-  "status": "review"
+  "status": "done"
  },
  "g:GUIMap_ARCBellTower": {
   "pl": "Dzwonnica",
@@ -688,7 +688,7 @@
   "status": "draft"
  },
  "g:GUIMap_ScienceWorkshop": {
-  "pl": "Skład",
+  "pl": "Magazyn",
   "status": "done"
  },
  "g:GUIMap_Sciences": {
@@ -753,7 +753,7 @@
  },
  "g:GUI_Auto": {
   "pl": "Automatyczny",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_Automatic": {
   "pl": "Automatycznie",
@@ -897,7 +897,7 @@
  },
  "g:GUI_EULA_Body": {
   "pl": "PLEASE INSERT THERE.",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_EULA_Decline": {
   "pl": "Odrzuć",
@@ -905,7 +905,7 @@
  },
  "g:GUI_EULA_Header": {
   "pl": "Umowa licencyjna użytkownika końcowego",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_Error_FailedToCreate": {
   "pl": "Nie udało się utworzyć sesji online. Spróbuj ponownie.",
@@ -1109,7 +1109,7 @@
  },
  "g:GUI_Option_SupportPack2": {
   "pl": "Pakiet kosmetyczny Maskarada",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_Option_Upsell0": {
   "pl": "Ten przedmiot jest dostępny tylko w Pakiecie wspierającym.",
@@ -1121,7 +1121,7 @@
  },
  "g:GUI_Option_Upsell2": {
   "pl": "Ten przedmiot jest dostępny tylko w Pakiecie kosmetycznym Maskarada.",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_Option_Upsell3": {
   "pl": "Już dostępne!",
@@ -1133,7 +1133,7 @@
  },
  "g:GUI_Option_UpsellStore_Sony": {
   "pl": "Otwórz PlayStation*Store",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_Option_UpsellStore_Xbox": {
   "pl": "Otwórz Microsoft Store",
@@ -1305,7 +1305,7 @@
  },
  "g:GUI_SprintToggle": {
   "pl": "Przełączanie sprintu",
-  "status": "review"
+  "status": "done"
  },
  "g:GUI_StartCoop": {
   "pl": "Graj w koop",
@@ -1625,7 +1625,7 @@
  },
  "g:MSC_EC_DefacedSign": {
   "pl": "Smród artysty",
-  "status": "review"
+  "status": "done"
  },
  "g:MSC_EC_GraffitiDesc": {
   "pl": "Wspinaj się w pięć niebezpiecznych miejsc na kampusie i zostaw po sobie ślad.",
@@ -1633,7 +1633,7 @@
  },
  "g:MSC_EC_GraffitiName ": {
   "pl": "Ściąga ze skały",
-  "status": "review"
+  "status": "done"
  },
  "g:MSC_EC_GraffitiObj1": {
   "pl": "Namaluj mural na tamie.",
@@ -1704,16 +1704,16 @@
   "status": "review"
  },
  "g:MSC_EC_RiddleBody1": {
-  "pl": "Opuszczona oznacza żałobę, czerwona – ostrzeżenie.<br><br>Każdy kraj ma swoją, a w szachownicę – meta wyścigu.<br><br>Co to jest?",
-  "status": "review"
+  "pl": "Opuszczona – w żałobie trwam, czerwona – ostrzeżenie dam.<br><br>Każdy kraj ma mnie swoją, a gdy jestem w kratkę – bolidy na mecie stoją.<br><br>Czym jestem?",
+  "status": "done"
  },
  "g:MSC_EC_RiddleBody2": {
-  "pl": "Skręcam w lewo i w prawo, wspinam się i zjeżdżam, do każdego domu w mieście docieram.<br><br>Przecinam każde skrzyżowanie, a robię to – uwaga! – nie ruszając się z miejsca.<br><br>Co to jest?",
-  "status": "review"
+  "pl": "W lewo i w prawo, pod górę i w dół – docieram do domów, sklepów i szkół.<br><br>Przecinam każde skrzyżowanie, a stoję w miejscu – oto wyzwanie!<br><br>Czym jestem?",
+  "status": "done"
  },
  "g:MSC_EC_RiddleBody3": {
-  "pl": "Stawia się mnie na początku roku, a gdy jestem zbyt wysoki – ogarnia cię lęk.<br><br>Można mnie wyznaczyć, osiągnąć, stracić z oczu albo trafić w sam środek.<br><br>Co to jest?",
-  "status": "review"
+  "pl": "Na początku roku często mnie wyznaczasz, a gdy jestem za wielki – w strachu zamierasz.<br><br>Do mnie się dąży, mnie się broni i zdobywa, a nagroda we mnie samym się ukrywa.<br><br>Czym jestem?",
+  "status": "done"
  },
  "g:MSC_EC_RiddleDesc": {
   "pl": "Rozwiąż trzy ukryte pudełka z zagadkami, rozmieszczone po kampusie.",
@@ -1749,7 +1749,7 @@
  },
  "g:MSC_Padlock": {
   "pl": "Pierwsza kłódka otwarta przez Eela.",
-  "status": "review"
+  "status": "done"
  },
  "g:MSC_SnackdokuBaseSign": {
   "pl": "Sudokąska   1 $",
@@ -1761,7 +1761,7 @@
  },
  "g:MSC_Teddy": {
   "pl": "Limitowany Kluczuś Eela Barnesa",
-  "status": "review"
+  "status": "done"
  },
  "g:MSC_TramissionRecap": {
   "pl": "Czy Eel naprawdę wróci w przyszłym roku?",
@@ -1777,7 +1777,7 @@
  },
  "g:MSC_Transmission_Message1": {
   "pl": "Klucz dostępu zaakceptowany",
-  "status": "review"
+  "status": "done"
  },
  "g:MSC_Transmission_Message2": {
   "pl": "Wczytywanie wiadomości...",
@@ -1841,7 +1841,7 @@
  },
  "g:Note_B": {
   "pl": "H",
-  "status": "review"
+  "status": "done"
  },
  "g:Note_C": {
   "pl": "C",
@@ -1937,11 +1937,11 @@
  },
  "g:TempECQuest_QuestDesc": {
   "pl": "Zadanie dodatkowe (TBD)",
-  "status": "review"
+  "status": "done"
  },
  "g:TempECQuest_QuestName": {
   "pl": "Zadanie dodatkowe (TBD)",
-  "status": "review"
+  "status": "done"
  },
  "g:TheaterWorkshop_Hint_Location": {
   "pl": "Idź do pracowni teatralnej na Wydziale Sztuki.",
@@ -2033,7 +2033,7 @@
  },
  "g:acheivement_10": {
   "pl": "Von Wojaż",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_11": {
   "pl": "Mroczne wieści",
@@ -2073,7 +2073,7 @@
  },
  "g:acheivement_2": {
   "pl": "Zagadkowa pobudka",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_20": {
   "pl": "Nauka, stary!",
@@ -2089,7 +2089,7 @@
  },
  "g:acheivement_23": {
   "pl": "Wrota na świeże powietrze",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_24": {
   "pl": "Teatralne wygłupy",
@@ -2121,7 +2121,7 @@
  },
  "g:acheivement_30": {
   "pl": "Śledź z serca",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_31": {
   "pl": "Poratuj drobnymi?",
@@ -2153,7 +2153,7 @@
  },
  "g:acheivement_38": {
   "pl": "Pozwolisz?",
-  "status": "review"
+  "status": "done"
  },
  "g:acheivement_39": {
   "pl": "Quantyczna superpozycja",
@@ -2168,8 +2168,8 @@
   "status": "draft"
  },
  "g:acheivement_41": {
-  "pl": "Wielkie odWĘGORZenie",
-  "status": "review"
+  "pl": "WiEELkie odkrycie",
+  "status": "done"
  },
  "g:acheivement_5": {
   "pl": "Myśl w pudełku",
@@ -2193,7 +2193,7 @@
  },
  "g:achievement_desc_1": {
   "pl": "Ukończ „Bez biletu”",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_10": {
   "pl": "Ukończ „Von Wojaż”",
@@ -2285,7 +2285,7 @@
  },
  "g:achievement_desc_30": {
   "pl": "Oddaj wszystkie 50 śledzi-zmyłek Cod Stewartowi.",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_31": {
   "pl": "Znajdź swojego pierwszego eskadolara.",
@@ -2313,7 +2313,7 @@
  },
  "g:achievement_desc_37": {
   "pl": "Daj się przyłapać 5 razy na nieproszonym wejściu.",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_38": {
   "pl": "Skocz na głowę Alistaira Bella w „Szanuj starszych”",
@@ -2321,7 +2321,7 @@
  },
  "g:achievement_desc_39": {
   "pl": "Spotkaj wszystkie 11 wersji Quanty na kampusie.",
-  "status": "review"
+  "status": "done"
  },
  "g:achievement_desc_4": {
   "pl": "Ukończ „Olśnienie”",
@@ -2353,7 +2353,7 @@
  },
  "g:achievement_desc_9": {
   "pl": "Ukończ „Pierwsza komora”",
-  "status": "review"
+  "status": "done"
  },
  "g:activate": {
   "pl": "Aktywuj",
@@ -2365,7 +2365,7 @@
  },
  "g:back": {
   "pl": "Wstecz",
-  "status": "draft"
+  "status": "done"
  },
  "g:blow": {
   "pl": "Dmuchnij",
@@ -2381,7 +2381,7 @@
  },
  "g:buy": {
   "pl": "Kup",
-  "status": "draft"
+  "status": "done"
  },
  "g:call": {
   "pl": "Zadzwoń",
@@ -2413,7 +2413,7 @@
  },
  "g:close": {
   "pl": "Zamknij",
-  "status": "draft"
+  "status": "done"
  },
  "g:confirm": {
   "pl": "Potwierdź",
@@ -2485,7 +2485,7 @@
  },
  "g:eavesdroppingOn": {
   "pl": "Podsłuchujesz...",
-  "status": "draft"
+  "status": "done"
  },
  "g:enter": {
   "pl": "Wejdź",
@@ -2501,7 +2501,7 @@
  },
  "g:examine": {
   "pl": "Zbadaj",
-  "status": "draft"
+  "status": "done"
  },
  "g:exit": {
   "pl": "Wyjście",
@@ -2581,7 +2581,7 @@
  },
  "g:insertItem": {
   "pl": "Użyj przedmiotu",
-  "status": "draft"
+  "status": "done"
  },
  "g:insertItemFull": {
   "pl": "To już zrobione.",
@@ -2617,7 +2617,7 @@
  },
  "g:inspect": {
   "pl": "Sprawdź",
-  "status": "draft"
+  "status": "done"
  },
  "g:interact": {
   "pl": "Interakcja",
@@ -2649,7 +2649,7 @@
  },
  "g:inventory": {
   "pl": "Ekwipunek",
-  "status": "draft"
+  "status": "done"
  },
  "g:item_redHerring_label": {
   "pl": "Zanieś je do Klubu Wędkarskiego po nagrodę!",
@@ -2673,7 +2673,7 @@
  },
  "g:leave": {
   "pl": "Wyjdź",
-  "status": "draft"
+  "status": "done"
  },
  "g:left": {
   "pl": "W lewo",
@@ -2705,11 +2705,11 @@
  },
  "g:move_left": {
   "pl": "Przesuń w lewo",
-  "status": "draft"
+  "status": "done"
  },
  "g:move_right": {
   "pl": "Przesuń w prawo",
-  "status": "draft"
+  "status": "done"
  },
  "g:multipleStepFormat": {
   "pl": "({0} z {1})",
@@ -2737,11 +2737,11 @@
  },
  "g:ok": {
   "pl": "OK",
-  "status": "draft"
+  "status": "done"
  },
  "g:open": {
   "pl": "Otwórz",
-  "status": "draft"
+  "status": "done"
  },
  "g:p1": {
   "pl": "G1:",
@@ -2777,11 +2777,11 @@
  },
  "g:pickup": {
   "pl": "Podnieś",
-  "status": "draft"
+  "status": "done"
  },
  "g:pin": {
   "pl": "Przypnij",
-  "status": "draft"
+  "status": "done"
  },
  "g:playInstrument": {
   "pl": "Graj",
@@ -2805,7 +2805,7 @@
  },
  "g:playstation_platinum_name": {
   "pl": "Escape-prymus",
-  "status": "review"
+  "status": "done"
  },
  "g:playstation_platinum_name_alt": {
   "pl": "Prymus roku",
@@ -2825,7 +2825,7 @@
  },
  "g:press": {
   "pl": "Naciśnij",
-  "status": "draft"
+  "status": "done"
  },
  "g:profsignout1_ps": {
   "pl": "Profil {UserName} został wylogowany. Zaloguj się na ten sam profil, aby kontynuować, albo wróć do menu głównego.",
@@ -2849,11 +2849,11 @@
  },
  "g:push": {
   "pl": "Pchnij",
-  "status": "draft"
+  "status": "done"
  },
  "g:putAway": {
   "pl": "Schowaj",
-  "status": "draft"
+  "status": "done"
  },
  "g:questStartLocationHint": {
   "pl": "Początek zadania: {0}",
@@ -2901,7 +2901,7 @@
  },
  "g:sessionCodeFormat": {
   "pl": "<b>Kod sesji:</b> {0}",
-  "status": "draft"
+  "status": "done"
  },
  "g:slide": {
   "pl": "Przesuwaj",
@@ -2909,7 +2909,7 @@
  },
  "g:spin": {
   "pl": "Obróć",
-  "status": "draft"
+  "status": "done"
  },
  "g:spinccw": {
   "pl": "Obróć w lewo",
@@ -2949,7 +2949,7 @@
  },
  "g:talk": {
   "pl": "Rozmawiaj",
-  "status": "draft"
+  "status": "done"
  },
  "g:tie": {
   "pl": "Zawiąż",
@@ -2981,19 +2981,19 @@
  },
  "g:use": {
   "pl": "Użyj",
-  "status": "draft"
+  "status": "done"
  },
  "g:useItem": {
   "pl": "Użyj przedmiotu",
-  "status": "draft"
+  "status": "done"
  },
  "g:use_zipline": {
   "pl": "Użyj tyrolki",
-  "status": "draft"
+  "status": "done"
  },
  "g:view": {
   "pl": "Zobacz",
-  "status": "draft"
+  "status": "done"
  },
  "g:wrongItem": {
   "pl": "Nic się nie stało.",

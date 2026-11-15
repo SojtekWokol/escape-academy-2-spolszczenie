@@ -9,7 +9,7 @@
  },
  "g:LAR_Bench1": {
   "pl": "Nie zamierzam siedzieć na ławce rezerwowych!",
-  "status": "review"
+  "status": "done"
  },
  "g:LAR_Bench2": {
   "pl": "Alistair zaraz zostanie <i>wyciśnięty</i> jak na ławeczce!",
@@ -217,7 +217,7 @@
  },
  "g:LAR_JarShelf": {
   "pl": "Widok tych wszystkich okazów... aż mi słoik pęka.",
-  "status": "review"
+  "status": "done"
  },
  "g:LAR_Journal1": {
   "pl": "„Notatki z laboratorium – 1851: Biorca i dawca zdawali się wchodzić we wspólny stan podświadomy podczas procesu absorpcji. Warto to zbadać dalej...",
@@ -241,7 +241,7 @@
  },
  "g:LAR_JuiceButton": {
   "pl": "WYCISKAJ!",
-  "status": "review"
+  "status": "done"
  },
  "g:LAR_JuiceCap": {
   "pl": "MÓZGOWYCISKARKA",
@@ -277,7 +277,7 @@
  },
  "g:LAR_PodEmptyLabel": {
   "pl": "Poproszę kapsułę mózgową dla jednej osoby!",
-  "status": "review"
+  "status": "done"
  },
  "g:LAR_PodFullLabel": {
   "pl": "Spokojnie, wyciągnę was stamtąd! Jakoś...",
@@ -345,7 +345,7 @@
  },
  "g:LAR_TrapdoorOpposite": {
   "pl": "Pamiętaj",
-  "status": "review"
+  "status": "done"
  },
  "g:LAR_TrapdoorStuck": {
   "pl": "Ani drgnie...",

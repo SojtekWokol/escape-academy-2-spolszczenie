@@ -13,7 +13,7 @@
  },
  "g:PER_Accordion_Depressing_Melody": {
   "pl": "HGEF",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Accordion_Frightening": {
   "pl": "Moja najstraszniejsza melodia, arr!",
@@ -21,7 +21,7 @@
  },
  "g:PER_Accordion_Frightening_Melody": {
   "pl": "HGAA",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_CapeClue": {
   "pl": "Ta podarta kotara byłaby świetną peleryną!",
@@ -132,7 +132,7 @@
   "status": "done"
  },
  "g:PER_Cast_Sides_EnorasNote": {
-  "pl": "Wybierz jeden z poniższych... i NIE spartacz tego! <br> - Prof. Chortkoff",
+  "pl": "Wybierz jeden z poniższych... i NIE spartacz tego! <br> – Prof. Chortkoff",
   "status": "draft"
  },
  "g:PER_Cast_Sides_First": {
@@ -232,8 +232,8 @@
   "status": "draft"
  },
  "g:PER_Dance_EmotesInstructions": {
-  "pl": "Wymachuj rękami w powietrzu, jakby nic cię nie obchodziło, razem z",
-  "status": "review"
+  "pl": "Wymachuj rękami w powietrzu, jakby nic cię nie obchodziło – użyj:",
+  "status": "done"
  },
  "g:PER_Dance_EmotesTitle": {
   "pl": "Ruszaj w tany!",
@@ -332,8 +332,8 @@
   "status": "draft"
  },
  "g:PER_EC_Cubes_Objective1": {
-  "pl": "Odblokuj rzeźbę z sześcianów",
-  "status": "draft"
+  "pl": "Otwórz rzeźbę z sześcianów",
+  "status": "done"
  },
  "g:PER_EC_Cubes_QuestDescription": {
   "pl": "Znajdź sposób na odblokowanie tajemniczej rzeźby z sześcianów prof. Slipa.",
@@ -360,16 +360,16 @@
   "status": "draft"
  },
  "g:PER_EC_Eel_QuestName": {
-  "pl": "Jeszcze raz, z węgorzem",
-  "status": "review"
+  "pl": "Jeszcze raz, z Eelegancją",
+  "status": "done"
  },
  "g:PER_EC_ExhibitClosed": {
   "pl": "Wystawa zamknięta",
   "status": "draft"
  },
  "g:PER_EC_Headspinner_Instructions1": {
-  "pl": "Zacznij od gwiazdy.<br>„Spacer z psem” następuje po „Salsie”, ale przed „Moonwalkiem”.<br>„Robot” następuje po „Biegaczu”.<br>„Salsa” następuje po „Robocie”.",
-  "status": "review"
+  "pl": "Zacznij od gwiazdy.<br>Spacer z psem tańczysz po salsie, ale przed moonwalkiem.<br>Robota – po biegaczu.<br>Salsę – po robocie.",
+  "status": "done"
  },
  "g:PER_EC_Headspinner_Title": {
   "pl": "Głowokręt eskapisty",
@@ -393,7 +393,7 @@
  },
  "g:PER_EC_Snackdoku_QuestDescription": {
   "pl": "Przynieś koleżance z klasy pyszną puszkę sera w sprayu.",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_EC_Snackdoku_QuestName": {
   "pl": "Powiedz „ser”",
@@ -497,11 +497,11 @@
  },
  "g:PER_Hint_SpoolB": {
   "pl": "Pierwsza litera to {@PER_FabricTemplate_Answer[0]}.",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Item_AuditionSides": {
   "pl": "Teksty na przesłuchanie",
-  "status": "review"
+  "status": "done"
  },
  "g:PER_Item_BestDanceDesc": {
   "pl": "Zatańcz go, by zdobyć serca i umysły.",

@@ -365,7 +365,7 @@
  },
  "g:CY3_JourneyBoat": {
   "pl": "Rejs Czerwonego Śledzia",
-  "status": "review"
+  "status": "done"
  },
  "g:CY3_LampDay": {
   "pl": "W dzień nie trzeba się tym zajmować.",
@@ -393,7 +393,7 @@
  },
  "g:CY3_MachinaExtractio": {
   "pl": "Machina Extractio",
-  "status": "review"
+  "status": "done"
  },
  "g:CY3_Madlib1": {
   "pl": "Alistair zbudował dziwną maszynę. Usiadł na jednym siedzeniu, a na drugim posadził <br><br><link=\"item\">■</link><br><br>.<br>Urządzenie <br><br><link=\"verb\">■</link><br><br> badanemu <br><br><link=\"trait\">■</link>",
@@ -436,8 +436,8 @@
   "status": "draft"
  },
  "g:CY3_Meta_QuestName": {
-  "pl": "Pilnie strzeżony sekret",
-  "status": "review"
+  "pl": "Głęboko skrywany sekret",
+  "status": "done"
  },
  "g:CY3_Meta_QuestObj1": {
   "pl": "Porozmawiaj z Kirą w pobliżu fontanny założycieli.",
@@ -457,7 +457,7 @@
  },
  "g:CY3_Meta_SecretPhraseEnd": {
   "pl": "jest pisana przez zwycięzców.",
-  "status": "review"
+  "status": "done"
  },
  "g:CY3_Meta_SecretPhraseStart": {
   "pl": "H,I,S,T,O,R,I,A",

@@ -37,15 +37,15 @@
  },
  "g:AHY_CannonMessage": {
   "pl": "Odpal tę armatę, <b>CHOLERA</b>!",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_CannonWord": {
   "pl": "CHOLERA",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_CaptainsCode": {
   "pl": "KODEKS KAPITANA<br>1. Dbaj o <b>bakburtę</b> okrętu<br>2. Bądź ostatni na tratwie, przy <b>rufie</b><br>3. Wszystkie kłopoty zgłaszaj przy <b>bakburcie</b><br>4. Załogę stawiaj przed sobą, na <b>dziobie</b>",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_Chair": {
   "pl": "Oj, wszystko tu <i>siada</i>!",
@@ -89,7 +89,7 @@
  },
  "g:AHY_Flares": {
   "pl": "Race",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_Fore": {
   "pl": "Dziób",
@@ -124,8 +124,8 @@
   "status": "draft"
  },
  "g:AHY_Hint_FlagsB": {
-  "pl": "To jest w tym samym pomieszczeniu co ty.",
-  "status": "review"
+  "pl": "Szukaj w tym pomieszczeniu.",
+  "status": "done"
  },
  "g:AHY_Hint_LifeboatLoad": {
   "pl": "Załaduj łódź!",
@@ -245,15 +245,15 @@
  },
  "g:AHY_LifeBoatBeach": {
   "pl": "Nie do wiary, że to wszystko, co zostało z Czerwonego Śledzia...",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_LifeVests": {
   "pl": "Kamizelki ratunkowe",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_Meta_ElevatorNight": {
   "pl": "Ta winda narobiłaby za dużo hałasu. Trzeba znaleźć cichszy sposób powrotu do akademika.",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_Meta_QuestDesc": {
   "pl": "Pomóż Von Belliniemu wypłynąć na emeryturę.",
@@ -273,7 +273,7 @@
  },
  "g:AHY_Meta_QuestObj3": {
   "pl": "Podnieś żagle!",
-  "status": "review"
+  "status": "done"
  },
  "g:AHY_Meta_VonStuff": {
   "pl": "Rzeczy Von Belliniego",
@@ -316,8 +316,8 @@
   "status": "draft"
  },
  "g:AHY_RopeMessage": {
-  "pl": "Stop szkorbutowi",
-  "status": "review"
+  "pl": "Zwalczam szkorbut",
+  "status": "done"
  },
  "g:AHY_RopePoint_A": {
   "pl": "O",
@@ -396,8 +396,8 @@
   "status": "draft"
  },
  "g:AHY_TheEyes": {
-  "pl": "TYLKO TEN, KTO MA OKO, ZOBACZY",
-  "status": "review"
+  "pl": "KTO MA OKO, TEN ZOBACZY",
+  "status": "done"
  },
  "g:AHY_TicTacToeMessage": {
   "pl": "Twój ruch, kamracie",

@@ -5,7 +5,7 @@
  },
  "g:VON_BackAreaKey": {
   "pl": "Klucz do bramy Wydziału Nauk Ścisłych",
-  "status": "review"
+  "status": "done"
  },
  "g:VON_BinaryPoster_ExamplesHeader": {
   "pl": "To oznacza...",
@@ -45,7 +45,7 @@
  },
  "g:VON_CrownSolved": {
   "pl": "K-O-R-O-N-A... ale co nam po słowie z sześciu liter?",
-  "status": "review"
+  "status": "done"
  },
  "g:VON_DerbyWin": {
   "pl": "Wygraj<br>Derby",
@@ -68,8 +68,8 @@
   "status": "draft"
  },
  "g:VON_EC_Pinewood_QuestName": {
-  "pl": "Sosnowe marzenia o wygranej",
-  "status": "review"
+  "pl": "Szlifowanie zwycięstwa",
+  "status": "done"
  },
  "g:VON_EC_Pinewood_QuestObj1": {
   "pl": "Wygraj Pinewood Derby",
@@ -101,7 +101,7 @@
  },
  "g:VON_Geology_QuestDesc": {
   "pl": "Pomóż Marty’emu Mole’owi dokończyć jego eksperyment z badaniem gleby. ",
-  "status": "review"
+  "status": "done"
  },
  "g:VON_Geology_QuestName": {
   "pl": "Badanie gleby",
@@ -272,8 +272,8 @@
   "status": "draft"
  },
  "g:VON_Lifeguard_QuestStep": {
-  "pl": "Odblokuj okulary przeciwsłoneczne",
-  "status": "review"
+  "pl": "Zdobądź okulary przeciwsłoneczne",
+  "status": "done"
  },
  "g:VON_Lifeguard_QuestStep1": {
   "pl": "Daj je opalającej się osobie.",
@@ -293,7 +293,7 @@
  },
  "g:VON_Mailbox_Prime": {
   "pl": "Pierwsza",
-  "status": "review"
+  "status": "done"
  },
  "g:VON_Mailbox_Smallest": {
   "pl": "Najmniejsza",
@@ -364,8 +364,8 @@
   "status": "draft"
  },
  "g:VON_Meteor_FormulaAirUnits": {
-  "pl": "IJP",
-  "status": "review"
+  "pl": "AQI",
+  "status": "done"
  },
  "g:VON_Meteor_FormulaStink": {
   "pl": "Poziom smrodu",
@@ -524,8 +524,8 @@
   "status": "draft"
  },
  "g:VON_Start_QuestObj1": {
-  "pl": "Porozmawiaj z prof. Von Bellinim na Wydziale Nauk Ścisłych, obok składziku. ",
-  "status": "review"
+  "pl": "Porozmawiaj z prof. Von Bellinim na Wydziale Nauk Ścisłych, obok magazynu.",
+  "status": "done"
  },
  "g:VON_Von": {
   "pl": "Von Bellini",

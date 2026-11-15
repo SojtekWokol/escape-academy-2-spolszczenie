@@ -161,7 +161,7 @@
  },
  "g:CY1_Books1": {
   "pl": "Czas zamknąć ten rozdział i wiać stąd!",
-  "status": "review"
+  "status": "done"
  },
  "g:CY1_Books2": {
   "pl": "Tyle tomów, tak mało czasu!",
@@ -173,7 +173,7 @@
  },
  "g:CY1_DensityPuzzle": {
   "pl": "Gęsta sprawa!",
-  "status": "review"
+  "status": "done"
  },
  "g:CY1_DontFit": {
   "pl": "Nie pasujemy do reszty.",
@@ -225,7 +225,7 @@
  },
  "g:CY1_Hint_OddOutA": {
   "pl": "Struś nie lata. Różni się od pozostałych.",
-  "status": "review"
+  "status": "done"
  },
  "g:CY1_Hint_OddOutB": {
   "pl": "Znajdź intruza na wszystkich sześciu plakietkach...",
@@ -344,7 +344,7 @@
   "status": "draft"
  },
  "g:CY1_Meta_Monument_Name_C1R4": {
-  "pl": "Oliwia Oliwkowska",
+  "pl": "Alicja Oliwkowska",
   "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C1R5": {
@@ -352,24 +352,24 @@
   "status": "draft"
  },
  "g:CY1_Meta_Monument_Name_C2R1": {
-  "pl": "Rubina Czerwińska",
+  "pl": "Rubina Danielewska",
   "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C2R2": {
-  "pl": "Sophia Bennett",
-  "status": "draft"
+  "pl": "Zofia Nowak",
+  "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C2R3": {
   "pl": "Nathan Cole",
   "status": "draft"
  },
  "g:CY1_Meta_Monument_Name_C2R4": {
-  "pl": "Lila Anderson",
-  "status": "draft"
+  "pl": "Lila Andrzejewska",
+  "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C2R5": {
-  "pl": "Isaac Porter",
-  "status": "draft"
+  "pl": "Izaak Portowski",
+  "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C3R1": {
   "pl": "Harlan Win",
@@ -384,8 +384,8 @@
   "status": "draft"
  },
  "g:CY1_Meta_Monument_Name_C3R4": {
-  "pl": "Dominic Reid",
-  "status": "draft"
+  "pl": "Dominik Rudzki",
+  "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C3R5": {
   "pl": "Benjamin Brązowski",
@@ -396,7 +396,7 @@
   "status": "draft"
  },
  "g:CY1_Meta_Monument_Name_C4R2": {
-  "pl": "Violetta Fioletowska",
+  "pl": "Violetta Wojciechowska",
   "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C4R3": {
@@ -404,12 +404,12 @@
   "status": "draft"
  },
  "g:CY1_Meta_Monument_Name_C4R4": {
-  "pl": "Olivia Turner",
-  "status": "draft"
+  "pl": "Oliwia Tokarska",
+  "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C4R5": {
-  "pl": "Adrian Blake",
-  "status": "draft"
+  "pl": "Adrian Czarnecki",
+  "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C5R1": {
   "pl": "Rowan Pierce",
@@ -417,15 +417,15 @@
  },
  "g:CY1_Meta_Monument_Name_C5R2": {
   "pl": "Foo McBar",
-  "status": "review"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C5R3": {
   "pl": "Karol Białecki",
   "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C5R4": {
-  "pl": "Stella Whitman",
-  "status": "draft"
+  "pl": "Stella Bielska",
+  "status": "review"
  },
  "g:CY1_Meta_Monument_Name_C5R5": {
   "pl": "Damian Royce",
@@ -480,12 +480,12 @@
   "status": "draft"
  },
  "g:CY1_Meta_Tempart": {
-  "pl": "JOHN TYMCZART",
-  "status": "review"
+  "pl": "JOHN PROWIZORSKI",
+  "status": "done"
  },
  "g:CY1_Meta_TempartPlaque": {
-  "pl": "John Tymczart – dezerter z wypraw krzyżowych",
-  "status": "draft"
+  "pl": "John Prowizorski – dezerter z wypraw krzyżowych",
+  "status": "done"
  },
  "g:CY1_PasswordUnmask": {
   "pl": "O,D,K,R,Y,J",
@@ -500,8 +500,8 @@
   "status": "draft"
  },
  "g:CY1_Quill": {
-  "pl": "Oby starczyło mi pióra, żeby to rozgryźć...",
-  "status": "review"
+  "pl": "Przydałoby się teraz lekkie pióro... i lotny umysł.",
+  "status": "done"
  },
  "g:CY1_RoomName": {
   "pl": "Pierwsza komnata",

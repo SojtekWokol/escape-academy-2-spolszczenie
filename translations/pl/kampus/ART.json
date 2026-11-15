@@ -25,7 +25,7 @@
  },
  "g:ART_CluesBrothers": {
   "pl": "„Własność Clues Brothers”",
-  "status": "review"
+  "status": "done"
  },
  "g:ART_CostumesRack": {
   "pl": "Kostiumy z ubiegłorocznego przedstawienia <i>Upiór w Zamkoperze</i>.",
@@ -49,7 +49,7 @@
  },
  "g:ART_FoundersArtifacts": {
   "pl": "Niektóre z najcenniejszych rzeczy należących do założycieli...",
-  "status": "review"
+  "status": "done"
  },
  "g:ART_Guitar": {
   "pl": "Nie będę się dziś przejmować graniem na tym... każdy ma swoje progi.",
@@ -81,10 +81,10 @@
  },
  "g:ART_Vases": {
   "pl": "Wow, te wazony są naprawdę <i>waz</i>ne!",
-  "status": "review"
+  "status": "done"
  },
  "g:ART_WaterCooler": {
-  "pl": "Lepsze niż picie z kranu... chociaż do kranu też da się stepować.",
-  "status": "review"
+  "pl": "Lepsze niż picie z kranu... tam ciągle coś gra w rurach.",
+  "status": "done"
  }
 }

@@ -121,7 +121,7 @@
  },
  "g:CY2_Calendar_Event2": {
   "pl": "Zakończenie roku",
-  "status": "review"
+  "status": "done"
  },
  "g:CY2_Calendar_Event3": {
   "pl": "Darmowe pączki",
@@ -196,8 +196,8 @@
   "status": "draft"
  },
  "g:CY2_EscapistTimes": {
-  "pl": "Kurier Eskapisty – Naród ma wątpliwości co do zakupu Kluczjany",
-  "status": "review"
+  "pl": "Kurier Eskapisty – Naród ma wątpliwości co do zakupu Kluizjany",
+  "status": "done"
  },
  "g:CY2_EstSign": {
   "pl": "Escape Academy: założona w 1803 roku",
@@ -241,7 +241,7 @@
  },
  "g:CY2_Hint_Return": {
   "pl": "Wróć do swojego pokoju w akademiku.",
-  "status": "review"
+  "status": "done"
  },
  "g:CY2_Hint_SlideA": {
   "pl": "Dopasuj te symbole na podłodze...",
@@ -408,8 +408,8 @@
   "status": "draft"
  },
  "g:CY2_NewspaperBody": {
-  "pl": "Założyciele akademii <i>dawno</i> zjechali ze szczytu. Czas na nowe kierownictwo?",
-  "status": "review"
+  "pl": "Założyciele akademii – najlepsze lata <i>dawno</i> za nimi. Czas na nowe kierownictwo?",
+  "status": "done"
  },
  "g:CY2_NewspaperDate": {
   "pl": "1 lipca 1838",
@@ -433,7 +433,7 @@
  },
  "g:CY2_Porticullis": {
   "pl": "Te pułapki to istna kratastrofa!",
-  "status": "review"
+  "status": "done"
  },
  "g:CY2_RoomName": {
   "pl": "Druga komnata",

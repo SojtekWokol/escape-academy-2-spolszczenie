@@ -53,15 +53,15 @@
  },
  "g:PAL_CubeSculpture": {
   "pl": "Kości zostały rzucone – stawię czoła wszystkiemu, co na mnie rzuci! ",
-  "status": "review"
+  "status": "done"
  },
  "g:PAL_Danger": {
   "pl": "Niebezpieczeństwo!<br>Uwaga na",
-  "status": "review"
+  "status": "done"
  },
  "g:PAL_DangerSignFull": {
   "pl": "Niebezpieczeństwo!<br>Uwaga na<br><mark=#ffffff padding=\"20,20,-50,-50\">występy</mark>",
-  "status": "review"
+  "status": "done"
  },
  "g:PAL_Doom1": {
   "pl": "Twoja zagłada",
@@ -73,7 +73,7 @@
  },
  "g:PAL_Hint_1Box": {
   "pl": "Do otwarcia tej skrzyni potrzebujesz klucza z jednym szpicem.",
-  "status": "review"
+  "status": "done"
  },
  "g:PAL_Hint_Backtrack": {
   "pl": "Jeśli brakuje ci kluczy, może być konieczny powrót.",
@@ -81,7 +81,7 @@
  },
  "g:PAL_Hint_BlueBox": {
   "pl": "Do otwarcia tej skrzyni potrzebujesz niebieskiego klucza.",
-  "status": "review"
+  "status": "done"
  },
  "g:PAL_Hint_Bridge13A": {
   "pl": "Jeśli nie masz odpowiednich kluczy do odblokowania mostu...",
@@ -121,7 +121,7 @@
  },
  "g:PAL_Hint_WhiteA": {
   "pl": "Biały = czerwony + niebieski + zielony",
-  "status": "review"
+  "status": "done"
  },
  "g:PAL_Hint_Zipline": {
   "pl": "Zjedź tyrolką!",
