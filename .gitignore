@@ -13,6 +13,13 @@
 /translations/builds/
 /translations/meta.json
 /translations/*.tmp
+# Escape Academy (część 1): w repozytorium tylko polskie teksty (ea1/translations/pl)
+!/ea1/
+/ea1/*
+!/ea1/translations/
+/ea1/translations/builds/
+/ea1/translations/meta.json
+/ea1/translations/*.tmp
 # fonty źródłowe, z których zrobiono pliki powyżej (niepotrzebne do budowy)
 /fonts/Caveat-VF.ttf
 /fonts/Knewave-Regular.ttf
