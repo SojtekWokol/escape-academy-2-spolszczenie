@@ -74,7 +74,15 @@ to Jeberson, Von Bellini, Slip, Dev, Ralph, Morton, Alistair, Fernando, Sameer, 
   (*Pining for a Win* → „Sosnowe marzenia o wygranej”, *Once More With Eeling* → „Jeszcze raz, z węgorzem”). Najlepiej
   działa znany polski zwrot z podmienionym słowem: *You blew it* → *I po zagadkach!* (od „po ptakach”), *Leave no puzzle
   unsolved* → *Zagadki są po to, żeby je rozwiązywać*, *Pining for a Win* → *Szlifowanie zwycięstwa*. Sklejki nie do
-  wymówienia („asy-klucz-tent”, „pozagadkowane”) odpadają. Żartu nie objaśniamy w zdaniu („…znaczy, później”).
+  wymówienia („asy-klucz-tent”, „pozagadkowane”) odpadają.
+- **Żartu nie objaśniamy ani nie doklejamy.** Gra słów ma siedzieć w jednym słowie albo zwrocie, a drugie znaczenie
+  dopowiada kontekst (przedmiot, przy którym pada kwestia, jest na ekranie). Złe wzorce:
+  - porównanie dopisane na końcu: „Czas się stąd zmyć – *jak kreda z tablicy*”, „…odhaczone na liście marzeń… *zamkniętej na kłódkę*”;
+  - objaśnienie: „Zobaczymy się na rufie… *znaczy, później*”, „Dobry pianista to klucz… *a właściwie klawisz*”;
+  - dwa tłumaczenia sklejone spójnikiem: „załatwiona na amen *i* otrzepana z kredy”;
+  - drugie znaczenie wtrącone w środek: „Oby na moim koncie *– i na tej tablicy –* zapisała się kolejna ucieczka”.
+  Dobrze: „Czas się stąd zmyć.” przy tablicy z kredą, „Dobry pianista to klucz wiolinowy każdego zespołu.” Jeśli żart
+  działa tylko z dopowiedzeniem, lepsze jest zwykłe naturalne zdanie.
 - **Wielkie litery w środku słowa** to dobry sposób na żarty z imieniem: *The Big RevEEL* → *WiEELkie odkrycie*.
 - **Rymowanki i piosenki trzymają rytm** – równa liczba sylab i czysty rym (*Mundur i C-dur*, *Papa, eskapa!*).
 - **Cele zadań:** przy przedmiocie zamkniętym na kłódkę „Zdobądź / Otwórz”, nie „Odblokuj” (to brzmi jak menu gry).

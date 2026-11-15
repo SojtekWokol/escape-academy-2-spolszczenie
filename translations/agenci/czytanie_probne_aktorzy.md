@@ -10,6 +10,8 @@ Przeczytaj każdą swoją kwestię „na głos”, w kontekście sceny. Przerwij
 - „moja postać by tak nie zażartowała / nie mówi takim tonem” (niespójny głos postaci),
 - „żart nie działa po polsku” (kalambur tłumaczy żart zamiast go zrobić albo jest nieczytelną sklejką słów).
 
+**Nie objaśniaj ani nie doklejaj żartu.** Gra słów ma siedzieć w jednym słowie albo zwrocie; drugie znaczenie dopowiada kontekst (przedmiot, przy którym pada kwestia, jest na ekranie). Złe wzorce: porównanie dopisane na końcu („Czas się stąd zmyć – jak kreda z tablicy”), drugie znaczenie wtrącone w środek („Oby na moim koncie – i na tej tablicy – zapisała się…”), objaśnienie („…znaczy, później”, „klucz… a właściwie klawisz”), dwa tłumaczenia sklejone spójnikiem („załatwiona na amen i otrzepana z kredy”). Dobrze: „Czas się stąd zmyć.” przy tablicy z kredą. Jeśli żart działa tylko z dopowiedzeniem – zaproponuj zwykłe naturalne zdanie. Dotyczy to też Twoich propozycji.
+
 Nie zgłaszaj kwestii, które są naturalne i poprawne. Nie poprawiaj na siłę: dobre tłumaczenie to takie, którego nie zauważasz.
 
 ## Zasady polskiej wersji (obowiązkowe w propozycjach)

@@ -12,6 +12,8 @@ Twoje zadanie: dla KAŻDEJ kwestii zdecyduj, czy polski tekst jest **w porządku
 - znaczniki (`<i>`, `<b>`, `<color=…>`, `{0}`, `<br>` itd.) zgubione lub inna liczba niż w EN; samotne `<i>I</i>`,
 - niezgodność z ustalonymi nazwami (lista niżej).
 
+- **Nie objaśniaj ani nie doklejaj żartu.** Gra słów ma siedzieć w jednym słowie albo zwrocie; drugie znaczenie dopowiada kontekst (przedmiot, przy którym pada kwestia, jest na ekranie). Złe wzorce: porównanie dopisane na końcu („Czas się stąd zmyć – jak kreda z tablicy”), drugie znaczenie wtrącone w środek („Oby na moim koncie – i na tej tablicy – zapisała się…”), objaśnienie („…znaczy, później”, „klucz… a właściwie klawisz”), dwa tłumaczenia sklejone spójnikiem („załatwiona na amen i otrzepana z kredy”). Dobrze: „Czas się stąd zmyć.” przy tablicy z kredą. Jeśli żart działa tylko z dopowiedzeniem – zaproponuj zwykłe naturalne zdanie.
+
 **W porządku** – wszystko inne, także gdy dałoby się „trochę ładniej”. Nie szukaj na siłę. Swobodne tłumaczenie, zmieniony żart lub gra słów działająca po polsku są OK. Wielokropek „...”, formy męskoosobowe dla grup i „oboje” są OK.
 
 ## Ustalone nazwy (poprawne – nie zgłaszaj ich jako błąd)

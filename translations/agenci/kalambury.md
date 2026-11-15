@@ -26,6 +26,7 @@ Dobre przykłady (przyjęte):
 
 Odrzucone (tak NIE):
 - sklejki i słowotwory, których nikt nie odczyta: „deska wędlin-wskazówek”, „gips-katastrofa”, „półka-chciwość”, „Sameer-pał”;
+- **Nie objaśniaj ani nie doklejaj żartu.** Gra słów ma siedzieć w jednym słowie albo zwrocie; drugie znaczenie dopowiada kontekst (przedmiot, przy którym pada kwestia, jest na ekranie). Złe wzorce: porównanie dopisane na końcu („Czas się stąd zmyć – jak kreda z tablicy”), drugie znaczenie wtrącone w środek („Oby na moim koncie – i na tej tablicy – zapisała się…”), objaśnienie („…znaczy, później”, „klucz… a właściwie klawisz”), dwa tłumaczenia sklejone spójnikiem („załatwiona na amen i otrzepana z kredy”). Dobrze: „Czas się stąd zmyć.” przy tablicy z kredą. Jeśli żart działa tylko z dopowiedzeniem – zaproponuj zwykłe naturalne zdanie.
 - tłumaczenie żartu zamiast żartu: „Oto prawdziwa zszywka... znaczy podstawa deserów!”;
 - doklejone zdanie, które nie wynika z poprzedniego: „...pozwoli mi jeszcze sobie pomóc. Ser-decznie proszę!”;
 - kalki idiomów: „mieć z kimś kości do obgryzienia”, „W świecie śmieciowych nie dam rady”;
