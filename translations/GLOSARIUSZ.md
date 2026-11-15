@@ -179,6 +179,7 @@ Tu zły przekład potrafi zablokować grę, więc ostrożnie:
 | Clocktower | wieża zegarowa (*Clocktower Challenge* → *wyzwanie wieży zegarowej*) |
 | Cipher Center | Centrum Szyfrów |
 | Detention Dungeon | Karcer (nazwa własna, wielką literą: *wrócić do Karceru*) |
+| (League of) Anti-Escape Scientists | (Liga) Naukowców Przeciwko Ucieczkom – nazwa własna złoczyńców z pierwszej części, wielkimi literami |
 | Escape Shack Station | stacja Szopa Ucieczek |
 
 ### Rzeczy z żartem w nazwie
