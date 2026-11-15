@@ -48,7 +48,7 @@
   "status": "done"
  },
  "g:MUS_CluebellSubtitle": {
-  "pl": "Gdy fiolet idzie pierwszy...",
+  "pl": "Gdy pierwszy jest fioletowy...",
   "status": "done"
  },
  "g:MUS_Cluebells": {
@@ -596,7 +596,7 @@
   "status": "done"
  },
  "g:MUS_LION_PW": {
-  "pl": "L,I,O,N",
+  "pl": "L,E,W",
   "status": "review"
  },
  "g:MUS_LimeonadeSign": {
@@ -612,7 +612,7 @@
   "status": "done"
  },
  "g:MUS_LockscombSubtitle": {
-  "pl": "Gdy różowy wyprzedza...",
+  "pl": "Gdy pierwszy jest różowy...",
   "status": "done"
  },
  "g:MUS_Lockscombs": {
@@ -716,7 +716,7 @@
   "status": "done"
  },
  "g:MUS_Painting_QuestObj1": {
-  "pl": "Porozmawiaj z prof. Slipem w pracowni plastycznej.",
+  "pl": "Porozmawiaj z prof. Slipem w sali plastycznej.",
   "status": "done"
  },
  "g:MUS_Painting_QuestObj2": {
@@ -744,7 +744,7 @@
   "status": "done"
  },
  "g:MUS_PopkeySubtitle": {
-  "pl": "Gdy pomarańczowy wyprzedza...",
+  "pl": "Gdy pierwszy jest pomarańczowy...",
   "status": "done"
  },
  "g:MUS_Popkeys": {
@@ -916,7 +916,7 @@
   "status": "done"
  },
  "g:MUS_WreathOrangetoOrange": {
-  "pl": "„Wielka zagadka<br> na niebie”",
+  "pl": "„Wielka zagadka<br> w niebiosach”",
   "status": "done"
  },
  "g:MUS_WreathOrangetoPink": {
