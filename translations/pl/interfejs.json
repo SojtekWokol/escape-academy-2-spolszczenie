@@ -1968,8 +1968,8 @@
   "status": "draft"
  },
  "g:UND_MemoryGasBarrels": {
-  "pl": "„Koncentrat gazu pamięci: NIE pić”",
-  "status": "draft"
+  "pl": "„Koncentrat gazu niepamięci: NIE pić”",
+  "status": "review"
  },
  "g:UND_ReinaRecognize": {
   "pl": "Reina Wym wygląda groźnie...",
@@ -2240,8 +2240,8 @@
   "status": "review"
  },
  "g:achievement_desc_20": {
-  "pl": "Zsyntetyzuj własną partię gazu pamięci.",
-  "status": "draft"
+  "pl": "Zsyntetyzuj własną partię gazu niepamięci.",
+  "status": "review"
  },
  "g:achievement_desc_21": {
   "pl": "Odblokuj Wydział Nauk Ścisłych.",

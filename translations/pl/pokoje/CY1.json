@@ -456,8 +456,8 @@
   "status": "draft"
  },
  "g:CY1_Meta_QuestDesc": {
-  "pl": "Podążaj tropem zostawionym przez założycieli i zbadaj Halę Eskapistów razem z Reedem i Gillian.",
-  "status": "draft"
+  "pl": "Podążaj tropem zostawionym przez założycieli i zbadaj Salę Eskapistów razem z Reedem i Gillian.",
+  "status": "review"
  },
  "g:CY1_Meta_QuestName": {
   "pl": "Monumentalne odkrycie",

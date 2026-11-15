@@ -196,8 +196,8 @@
   "status": "draft"
  },
  "n:line:06c937d": {
-  "pl": "Moja przyjaciółka wciąż nie pojawiła się w tramwaju... Myślisz, że dostała za dużą dawkę gazu wymazującego pamięć?",
-  "status": "draft"
+  "pl": "Moja przyjaciółka wciąż nie pojawiła się w tramwaju... Myślisz, że dostała za dużą dawkę gazu niepamięci?",
+  "status": "review"
  },
  "n:line:06cbfb6": {
   "pl": "To wyjątek. Z żadnego szczególnego powodu.",
@@ -212,7 +212,7 @@
   "status": "draft"
  },
  "n:line:070ed4e": {
-  "pl": "Teraz mogę się skupić na zwykłych szkolnych sprawach, jak gaz wymazujący pamięć i kolczaste sufity spadające mi na głowę!",
+  "pl": "Teraz mogę się skupić na zwykłych szkolnych sprawach, jak gaz niepamięci i kolczaste sufity spadające mi na głowę!",
   "status": "review"
  },
  "n:line:0758387": {

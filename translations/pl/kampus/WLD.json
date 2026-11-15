@@ -872,8 +872,8 @@
   "status": "draft"
  },
  "v:PASystem_WLD_GasLeak": {
-  "pl": "Przypomnienie: Omijajcie wschodnie skrzydło Wieży. Jest zamknięte z powodu wycieku gazu pamięci.",
-  "status": "draft"
+  "pl": "Przypomnienie: Omijajcie wschodnie skrzydło Wieży. Jest zamknięte z powodu wycieku gazu niepamięci.",
+  "status": "review"
  },
  "v:PASystem_WLD_LLL": {
   "pl": "Ogłoszenie: Zamknięte na zamki szafki w bibliotece zardzewieją bez zbawiennego smaru do zawiasów.",
@@ -1392,8 +1392,8 @@
   "status": "draft"
  },
  "v:StonyMaleStudent_WLD_MemoryGas": {
-  "pl": "Ta ostatnia partia gazu pamięci inaczej wchodzi...",
-  "status": "draft"
+  "pl": "Ta ostatnia partia gazu niepamięci inaczej wchodzi...",
+  "status": "review"
  },
  "v:StonyMaleStudent_WLD_PuzzleFeelings": {
   "pl": "Stary, a co, jeśli zagadki mają uczucia?",

@@ -576,7 +576,7 @@
   "status": "draft"
  },
  "n:line:04fb331": {
-  "pl": "Cholera! Nie cierpię, kiedy źle dobiorę dawkę gazu zapomnienia... W takim razie krótka powtórka.",
+  "pl": "Cholera! Nie cierpię, kiedy źle dobiorę dawkę gazu niepamięci... W takim razie krótka powtórka.",
   "status": "review"
  },
  "n:line:04fb79f": {
@@ -1656,8 +1656,8 @@
   "status": "draft"
  },
  "n:line:0e22ae8": {
-  "pl": "Powiedzmy, że gaz zapomnienia narobił <i>znacznie</i> więcej szkód, niż pani planowała...",
-  "status": "draft"
+  "pl": "Powiedzmy, że gaz niepamięci narobił <i>znacznie</i> więcej szkód, niż pani planowała...",
+  "status": "review"
  },
  "n:line:0e29d6f": {
   "pl": "Właściwie... wolę nie wiedzieć.",
