@@ -440,8 +440,8 @@
   "status": "review"
  },
  "n:line:03b5093": {
-  "pl": "I tak, spaliłem bibliotekę i w zeszłym roku próbowałem obalić dyrektorkę Solange. Ale zaczynam od nowa, na nowym bicie, to z góry zapisane w moim nowym kodzie!",
-  "status": "review"
+  "pl": "I tak, w zeszłym roku spaliłem bibliotekę i próbowałem obalić dyrektorkę Solange. Ale zaczynam od zera... i jedynki, tak stanowi mój nowy kod!",
+  "status": "done"
  },
  "n:line:03c3b3d": {
   "pl": "Profesor Von Bellini zamierza... co? Ja... chyba nie bardzo rozumiem.",
@@ -492,8 +492,8 @@
   "status": "draft"
  },
  "n:line:042e3de": {
-  "pl": "Wygląda na to, że po tym skoku ktoś nieźle zadzwonił <i>ci</i> w głowie.",
-  "status": "draft"
+  "pl": "Wygląda na to, że po tym skoku nieźle <i>ci</i> zadzwoniło w głowie.",
+  "status": "done"
  },
  "n:line:0451097": {
   "pl": "„Czym jest podpowiedź? To, co zwiemy podpowiedzią, pod inną nazwą rozwiązałoby się równie szybko.”",
@@ -1076,8 +1076,8 @@
   "status": "draft"
  },
  "n:line:0911ed9": {
-  "pl": "Ach tak, klasyk: pełnym pędem na tyrolce wpadam na znajomego.",
-  "status": "draft"
+  "pl": "Ach tak, klasyk: wjechać pełnym pędem na tyrolce prosto w znajomego.",
+  "status": "done"
  },
  "n:line:091bbc6": {
   "pl": "Obiecujemy, nikt nie będzie cię za to karać.",
@@ -1540,8 +1540,8 @@
   "status": "draft"
  },
  "n:line:0d3bdf6": {
-  "pl": "Wyławianie cię z rzeki jest lepsze niż to drugie: phishing.",
-  "status": "review"
+  "pl": "Wolę cię wyłowić z rzeki, niż żeby ktoś złowił cię na phishing.",
+  "status": "done"
  },
  "n:line:0d44871": {
   "pl": "Akademia dziękuje za zakupy! Mamy nadzieję wkrótce cię <i>wypatrzeć</i>.",
@@ -1748,8 +1748,8 @@
   "status": "draft"
  },
  "n:line:0ee7e6d": {
-  "pl": "Och, Enora, to było po prostu piękne! Jakby ktoś kroił dwukilowy worek cebuli tuż pod moim nosem!",
-  "status": "review"
+  "pl": "Och, Enora, to było po prostu piękne! Jakby ktoś kroił mi pod nosem ze dwa kilo cebuli!",
+  "status": "done"
  },
  "n:line:0eeb156": {
   "pl": "Jasne! <style=\"purchase\">(Daj bilet)</style>",

@@ -32,12 +32,12 @@
   "status": "draft"
  },
  "n:line:0216067": {
-  "pl": "Nie mogę ci tego <style=\"clue\">wy<i>kroić</i></style> zbyt dokładnie, bo zdradziłbym odpowiedź.",
-  "status": "review"
+  "pl": "Nie mogę ci tego <style=\"clue\"><i>uszyć</i> na miarę</style>, bo zdradziłbym odpowiedź.",
+  "status": "done"
  },
  "n:line:0255c84": {
-  "pl": "To świetna okazja, żeby wydziały Escape Art zrobiły razem coś wyjątkowego, więc bez zbędnych ceregieli – <i>szy</i>bko do roboty!",
-  "status": "review"
+  "pl": "To świetna okazja, żeby wydziały sztuki ucieczek zrobiły razem coś wyjątkowego, więc bez zbędnych ceregieli – <i>szy</i>bko do roboty!",
+  "status": "done"
  },
  "n:line:02886d4": {
   "pl": "Zawsze sobą... I za to będzie nam go brakować. Sayonara, eskapisto.",
@@ -188,12 +188,12 @@
   "status": "review"
  },
  "n:line:0aaa634": {
-  "pl": "Nieźle jak na kogoś, kto powstrzymał potajemnie żyjącego założyciela przed zjadaniem uczniowskich mózgów.",
-  "status": "draft"
+  "pl": "Nieźle ci poszło z tym całym powstrzymywaniem potajemnie żyjącego założyciela przed zjadaniem uczniowskich mózgów.",
+  "status": "done"
  },
  "n:line:0b54b76": {
-  "pl": "Enora jest cała zajęta próbami, więc to nam kazano <style=\"clue\">zrobić kostiumy</style> na wielkie przedstawienie!",
-  "status": "draft"
+  "pl": "Enora ma urwanie głowy z próbami, więc to nam kazano <style=\"clue\">zrobić kostiumy</style> na wielkie przedstawienie!",
+  "status": "done"
  },
  "n:line:0b7f592": {
   "pl": "Uważam jej styl reżyserowania za motywujący!",

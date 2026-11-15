@@ -48,8 +48,8 @@
   "status": "review"
  },
  "n:line:00c20d8": {
-  "pl": "Nie jest!",
-  "status": "draft"
+  "pl": "Bo nie jest!",
+  "status": "done"
  },
  "n:line:00ce9ec": {
   "pl": "Chwała Escape! Obawiam się, że <style=\"clue>doszło do morderstwa</style>, a słyszałem, że nie ma sprawy, której by pan nie rozwiązał!",
@@ -108,8 +108,8 @@
   "status": "draft"
  },
  "n:line:022d376": {
-  "pl": "Nie jest!",
-  "status": "draft"
+  "pl": "Bo nie jest!",
+  "status": "done"
  },
  "n:line:024d31b": {
   "pl": "Zwykła dedukcja, mój ciemny informatorze!",
@@ -132,8 +132,8 @@
   "status": "review"
  },
  "n:line:02981ec": {
-  "pl": "Detektywie! Nazywam się Chet Łotrowicz i bardzo dobrze, że zgodził się pan mnie przyjąć. To po prostu... to takie straszne!",
-  "status": "draft"
+  "pl": "Detektywie! Nazywam się Chet Łotrowicz i bardzo dobrze, że mnie pan przyjmuje. To po prostu... to takie straszne!",
+  "status": "done"
  },
  "n:line:02a6f47": {
   "pl": "<size=0.7em>Jak mi idzie aktorstwo?</size>",
@@ -256,8 +256,8 @@
   "status": "review"
  },
  "n:line:04dc3e9": {
-  "pl": "Co więcej, to ty jesteś mordercą, nie Ruby!",
-  "status": "draft"
+  "pl": "Co więcej, to pan jest mordercą, nie Ruby!",
+  "status": "review"
  },
  "n:line:04e6473": {
   "pl": "...Clueseau.",
@@ -396,8 +396,8 @@
   "status": "review"
  },
  "n:line:0752bc3": {
-  "pl": "Widzisz coś <style=\"clue\">przez okno?</style>",
-  "status": "draft"
+  "pl": "Widzi pan coś <style=\"clue\">przez okno?</style>",
+  "status": "done"
  },
  "n:line:07530bf": {
   "pl": "Dlaczego... ach, DLACZEGO ktoś miałby chcieć ŚMIERCI Petera?",
@@ -648,8 +648,8 @@
   "status": "draft"
  },
  "n:line:0b56d7f": {
-  "pl": "Nie jest!",
-  "status": "draft"
+  "pl": "Bo nie jest!",
+  "status": "done"
  },
  "n:line:0b5c4e2": {
   "pl": "Teraz czuję się wystarczająco nawodniony, żeby wprowadzić pana w tę katastrofalną fabułę – to znaczy... w tę tragiczną zbrodnię!",
@@ -760,7 +760,7 @@
   "status": "draft"
  },
  "n:line:0ce3001": {
-  "pl": "Nie ma sprawy, proszę pani! Kolejny dzień, kolejna sprawa rozwiązana przez...",
+  "pl": "Nie ma sprawy, proszę pani! Kolejny dzień, kolejna rozwiązana sprawa. Podpisano...",
   "status": "review"
  },
  "n:line:0ce5083": {
@@ -792,8 +792,8 @@
   "status": "draft"
  },
  "n:line:0d46b57": {
-  "pl": "Nie jest!",
-  "status": "draft"
+  "pl": "Bo nie jest!",
+  "status": "done"
  },
  "n:line:0d47bf1": {
   "pl": "Proszę dać mi chwilę, a powiem!",
@@ -808,8 +808,8 @@
   "status": "draft"
  },
  "n:line:0dd5439": {
-  "pl": "No widzisz, sam to powiedział! Jest <i>martwy</i>!",
-  "status": "draft"
+  "pl": "No widzi pan, sam to powiedział! Jest <i>martwy</i>!",
+  "status": "done"
  },
  "n:line:0de0c9d": {
   "pl": "To lepiej <style=\"clue\">weź ten obciążający obraz</style>!",

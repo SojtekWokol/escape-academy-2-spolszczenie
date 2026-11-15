@@ -260,7 +260,7 @@
   "status": "draft"
  },
  "n:line:080896c": {
-  "pl": "Ale z Nate'a psuj-zagadka...",
+  "pl": "Ale z Nate'a psuj zabawy...",
   "status": "review"
  },
  "n:line:0817ef8": {
@@ -288,8 +288,8 @@
   "status": "draft"
  },
  "n:line:08838f8": {
-  "pl": "Phi... porządna chemia czyszcząca i trochę smaru w łokciach jeszcze niczego nie zepsuły!",
-  "status": "draft"
+  "pl": "Phi... porządna chemia i trochę krzepy jeszcze niczego nie zepsuły!",
+  "status": "review"
  },
  "n:line:08923be": {
   "pl": "O, wróciła nam kontrola BHP.",
@@ -408,8 +408,8 @@
   "status": "draft"
  },
  "n:line:0b1ffde": {
-  "pl": "Nie mogę uwierzyć, że <style=\"clue\">zespół „The Keys of Puzz” bez słowa wyjaśnienia opuścił kampus</style>, przez co <i>ja</i> muszę zadowolić się zespołem drugiej kategorii.",
-  "status": "review"
+  "pl": "Nie mogę uwierzyć, że <style=\"clue\">„The Keys of Puzz” bez słowa wyjaśnienia wyjechali z kampusu</style> i <i>ja</i> muszę się zadowolić kapelą z drugiej ligi.",
+  "status": "done"
  },
  "n:line:0b22866": {
   "pl": "Ona strasznie kiepsko celuje!",
@@ -460,8 +460,8 @@
   "status": "draft"
  },
  "n:line:0c88c67": {
-  "pl": "Jak można prowadzić stoisko z limonkadą, które nie nalewa porcji równej wielkości?",
-  "status": "draft"
+  "pl": "Jak można mieć stoisko z limonkadą i nie nalewać równych porcji?",
+  "status": "review"
  },
  "n:line:0c94b4f": {
   "pl": "Wiem coś o tym... Ale ja <i>nie dam</i> sobie odmówić!",

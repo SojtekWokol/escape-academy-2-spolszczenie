@@ -124,8 +124,8 @@
   "status": "draft"
  },
  "n:line:069741a": {
-  "pl": "Musisz zawęzić tych niedoszłych aktorów do <style=\"clue\">czterech kandydatów</style>.",
-  "status": "draft"
+  "pl": "Z tych pseudoaktorów musisz wyłonić <style=\"clue\">czterech kandydatów</style>.",
+  "status": "done"
  },
  "n:line:06fb054": {
   "pl": "<style=\"clue\">Quanty</style> jest w <style=\"clue\">studiu tańca</style> i układa choreografię na ukłony po spektaklu.",

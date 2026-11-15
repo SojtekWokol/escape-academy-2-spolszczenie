@@ -248,8 +248,8 @@
   "status": "review"
  },
  "y:line:014d62c": {
-  "pl": "Ach, ach, ach! Reżyserki się <i>nie</i> podważa. A ty to...?",
-  "status": "draft"
+  "pl": "Ts, ts, ts! Z reżyserką się <i>nie</i> dyskutuje. A ty to...?",
+  "status": "done"
  },
  "y:line:01552d0": {
   "pl": "Ja w ogóle nie zasnę, jeśli mam coś w kieszeniach! Więc... są puste. A spało mi się <i>zdecydowanie</i> świetnie.",
@@ -408,8 +408,8 @@
   "status": "review"
  },
  "y:line:0227cdb": {
-  "pl": "Zabezpieczenia grodziowe się uruchamiają...",
-  "status": "draft"
+  "pl": "...zamkną się grodzie awaryjne...",
+  "status": "done"
  },
  "y:line:02326a8": {
   "pl": "Żyję- *krsh* -poza tym utknąłem na *krsh* -anym księżycu. Wiecie, tym w <i>kosmosie.</i>",
@@ -500,8 +500,8 @@
   "status": "review"
  },
  "y:line:02b098a": {
-  "pl": "A to co, Paisley?",
-  "status": "draft"
+  "pl": "A kogo my tu mamy? Czyżby Paisley?",
+  "status": "done"
  },
  "y:line:02b58b1": {
   "pl": "Kiro, dam radę. Polowania na potwory to dla mnie <i>chleb powszedni</i>.",
@@ -928,8 +928,8 @@
   "status": "draft"
  },
  "y:line:0508abe": {
-  "pl": "Ależ skąd! Po prostu... wymienialiśmy uprzejmości, które – w tym momencie – trwają już stanowczo za długo! Dobrego dnia.",
-  "status": "draft"
+  "pl": "Ależ skąd! Po prostu... wymienialiśmy uprzejmości, które – jak widać – trwają już stanowczo za długo! Żegnam.",
+  "status": "done"
  },
  "y:line:0508c3f": {
   "pl": "CO JA ZROBIŁEM?!",
@@ -1176,8 +1176,8 @@
   "status": "review"
  },
  "y:line:065fe02": {
-  "pl": "Zupełnie jakby to, że skupiliśmy się na uczczeniu Von Belliniego i Akademii zamiast na obsesyjnej pogoni za perfekcją, sprawiło, że ten występ dał nam więcej... osobistej satysfakcji...?",
-  "status": "review"
+  "pl": "Zupełnie jakby skupienie się na uczczeniu Von Belliniego i Akademii, a nie na obsesji perfekcji, dało nam więcej... osobistej satysfakcji...?",
+  "status": "done"
  },
  "y:line:067f08a": {
   "pl": "To może być dla ciebie szok, Alistair, ale...",
@@ -1252,8 +1252,8 @@
   "status": "done"
  },
  "y:line:06e62bb": {
-  "pl": "Ojoj! Musiało nas zdmuchnąć z kursu!",
-  "status": "draft"
+  "pl": "Ojoj! Musiało nas znieść z kursu!",
+  "status": "done"
  },
  "y:line:06eb8e0": {
   "pl": "Kira, jeśli dyrektorka coś ukrywa, uczniowie mają prawo wiedzieć <i>co.</i> Tylko my możemy coś z tym zrobić, więc... musimy.",
@@ -1284,8 +1284,8 @@
   "status": "draft"
  },
  "y:line:07210b7": {
-  "pl": "<i>*Gdzie... ja jestem? Jak mnie tu, na <i>Escape</i>, przywiało?! Przed chwilą jeszcze...*</i>",
-  "status": "review"
+  "pl": "<i>*Gdzie... ja jestem? Jak mnie tu, do jasnej <i>ucieczki</i>, przywiało?! Przed chwilą jeszcze...*</i>",
+  "status": "done"
  },
  "y:line:0723c60": {
   "pl": "Uff, wyjście z wieży poszło bez problemu. I jeszcze <style=\"vis_clue\">zwinęłam okulary</style> dla nas.",
@@ -1464,8 +1464,8 @@
   "status": "review"
  },
  "y:line:081e2e9": {
-  "pl": "I nie ma absolutnie żadnych niecnych zamiarów w moich obwodach, żadnych!",
-  "status": "review"
+  "pl": "...nie ma absolutnie żadnych niecnych zamiarów w obwodach! Żadnych!",
+  "status": "done"
  },
  "y:line:081f999": {
   "pl": "Czas wreszcie ustalić, co <i>naprawdę</i> zaszło między założycielami.",
@@ -1556,8 +1556,8 @@
   "status": "review"
  },
  "y:line:08796c5": {
-  "pl": "I możliwe, że mamy małą nieszczelność... Ale spokojnie! Płyniemy jeszcze <i>większą częścią</i> statku.",
-  "status": "draft"
+  "pl": "I możliwe, że trochę przeciekamy... Ale spokojnie! Wciąż płyniemy <i>prawie całym</i> statkiem.",
+  "status": "done"
  },
  "y:line:0889e27": {
   "pl": "Udajemy, że nic nie wiemy, chodzimy na lekcje i <style=\"vis_clue\">zdobywamy dość punktów</style>, żeby <style=\"vis_clue\">wejść na tereny kampusu z komnatami</style>.",
@@ -1608,8 +1608,8 @@
   "status": "draft"
  },
  "y:line:08c4aff": {
-  "pl": "Szybko – musimy <style=\"vis_clue\">rozwiązać szkatułkę aż do samego dna</style> i <style=\"vis_clue\">ją rozbroić</style>, bo inaczej to <i>ja</i> przejdę do historii.",
-  "status": "review"
+  "pl": "Szybko – musimy <style=\"vis_clue\">przebić się zagadkami do samego dna</style> szkatułki i <style=\"vis_clue\">ją rozbroić</style>, bo inaczej to <i>ja</i> przejdę do historii.",
+  "status": "done"
  },
  "y:line:08cf9d1": {
   "pl": "Ale dość tego gadania! Czeka tu kilka osób, które bardzo chcą cię zobaczyć.",
@@ -1636,8 +1636,8 @@
   "status": "review"
  },
  "y:line:08f79ad": {
-  "pl": "Hm-hm! Zbierzcie się, moi wierni asystenci laboratoryjni. Dziś przeprowadzimy przełomowy eksperyment.",
-  "status": "draft"
+  "pl": "Hm-hm! Zbierzcie się, moja wierna załogo laboratoryjna. Dziś przeprowadzimy przełomowy eksperyment.",
+  "status": "done"
  },
  "y:line:0902106": {
   "pl": "No dobra, jak chcesz. Będę się wystrzegać mitycznych stworzeń, kiedy pójdę rozgromić <style=\"vis_clue\">program historii</style> profesora Jebersona na <style=\"vis_clue\">Wydziale Humanistycznym.</style>",
@@ -1868,8 +1868,8 @@
   "status": "draft"
  },
  "y:line:09eff4a": {
-  "pl": "Brawo! Brawo! Występ na miarę wieków! Od dublerów do <i>doskonałości</i>.",
-  "status": "review"
+  "pl": "Brawo! Brawo! Występ wszech czasów! Od dublerów do <i>doskonałości</i>.",
+  "status": "done"
  },
  "y:line:09f8abe": {
   "pl": "Po zdradzie Alistaira <style=\"vis_clue\">musiałam własnoręcznie go uwięzić</style>.",
@@ -1924,8 +1924,8 @@
   "status": "review"
  },
  "y:line:0a70cd2": {
-  "pl": "<style=\"vis_clue\">Edie Quill</style>, odtwórca głównej roli, <style=\"vis_clue\">zniknął bez śladu</style>. Brakuje nam detektywa – <i>w kryminale!</i>",
-  "status": "review"
+  "pl": "Po <style=\"vis_clue\">Edie Quill</style>, naszej gwieździe, <style=\"vis_clue\">ani śladu</style>. Brakuje nam detektywa – <i>w kryminale!</i>",
+  "status": "done"
  },
  "y:line:0a71c2d": {
   "pl": "N-nie! Nie proponowałam tego na serio.",
@@ -1944,8 +1944,8 @@
   "status": "review"
  },
  "y:line:0a99464": {
-  "pl": "No, na pewno jest to... coś. Cóż, chyba tym samym, yy... muzeum jest oficjalnie otwarte! Cieszcie się wszystkim, co ma do zaoferowania nasza historia...",
-  "status": "review"
+  "pl": "No, coś w tym jest... Cóż, to chyba, yy... muzeum jest oficjalnie otwarte! Miłego zwiedzania naszej historii...",
+  "status": "done"
  },
  "y:line:0aa7b40": {
   "pl": "<i>SLIP!</I>",
@@ -2044,8 +2044,8 @@
   "status": "draft"
  },
  "y:line:0b3050f": {
-  "pl": "Profesor Slip, przysyłam ci do pomocy przy przygotowaniach kogoś o alarmująco szeroko otwartych oczach! A ja uciekam do mojego <style=\"vis_clue\">gabinetu castingowego</style>!",
-  "status": "draft"
+  "pl": "Slip, przysyłam ci do pomocy przy przygotowaniach kogoś o niepokojąco szeroko otwartych oczach! A ja uciekam do mojego <style=\"vis_clue\">gabinetu castingowego</style>!",
+  "status": "done"
  },
  "y:line:0b3451a": {
   "pl": "Tajny gabinet <i>i</i> tablica z czerwoną włóczką? Trafiła nam się kopalnia spisków!",
@@ -2068,8 +2068,8 @@
   "status": "review"
  },
  "y:line:0b6724a": {
-  "pl": "Potem coś poszło nie tak... jakiś <style=\"vis_clue\">nieznany szaleniec zamknął mnie i zagazował mi pamięć</style>. Kiedy w końcu udało mi się uciec...",
-  "status": "draft"
+  "pl": "Potem coś poszło nie tak... jakiś <style=\"vis_clue\">nieznany szaleniec zamknął mnie i wymazał mi pamięć gazem</style>. Kiedy w końcu udało mi się uciec...",
+  "status": "done"
  },
  "y:line:0b6c695": {
   "pl": "Awansujecie do ról głównych!",
@@ -2192,8 +2192,8 @@
   "status": "draft"
  },
  "y:line:0c43b0b": {
-  "pl": "I dobrze, że trafiłem na ciebie przed psem łańcuchowym Solange, <style=\"vis_clue\">profesor Allie Bonilla</style>...",
-  "status": "review"
+  "pl": "I dobrze, że dorwałem cię, zanim zrobił to pies łańcuchowy Solange, <style=\"vis_clue\">profesor Allie Bonilla</style>...",
+  "status": "done"
  },
  "y:line:0c4ac86": {
   "pl": "Brawo! Brawo! Cóż za występ!",
@@ -2452,8 +2452,8 @@
   "status": "draft"
  },
  "y:line:0dc9e0c": {
-  "pl": "Nerwy mam dlatego, że legenda głosi: po naciśnięciu tego przycisku jest tylko <style=\"vis_clue\">ograniczony czas</style>, zanim <style=\"vis_clue\">zawartość zostanie zniszczona</style>.",
-  "status": "draft"
+  "pl": "Denerwuję się, bo według legendy po wciśnięciu tego guzika zostaje <style=\"vis_clue\">niewiele czasu</style>, zanim <style=\"vis_clue\">zawartość obróci się w pył</style>.",
+  "status": "done"
  },
  "y:line:0dd46ca": {
   "pl": "Aktywować go...",
@@ -2772,8 +2772,8 @@
   "status": "draft"
  },
  "y:line:0fb08e4": {
-  "pl": "Założę się, że Von Bellini patrzy na nas z góry i <i>promienieje</i> z dumy.",
-  "status": "draft"
+  "pl": "Założę się, że Von Bellini spogląda teraz na nas wszystkich i <i>promienieje</i> z dumy.",
+  "status": "done"
  },
  "y:line:0fb1b68": {
   "pl": "Że <i>ja...</i> zdradziłem szkołę...",

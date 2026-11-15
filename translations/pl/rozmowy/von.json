@@ -116,8 +116,8 @@
   "status": "review"
  },
  "n:line:017fe9c": {
-  "pl": "Przykro mi, że musisz się męczyć z tym ogłupiającym programem narzuconym przez Akademię. Widzę w tobie iskrę, którą byłoby karygodnym zaniedbaniem nie wykorzystać!",
-  "status": "draft"
+  "pl": "Przykro mi, że musisz się męczyć z tym ogłupiającym programem narzuconym przez Akademię. Widzę w tobie iskrę i grzechem byłoby jej nie wykorzystać!",
+  "status": "done"
  },
  "n:line:01c984e": {
   "pl": "<i>Teraz</i> możemy zaczynać? Im dłużej czekamy, tym większe ryzyko, że Solange nas przyłapie.",
@@ -188,8 +188,8 @@
   "status": "review"
  },
  "n:line:039aa7e": {
-  "pl": "A, i to małe zebranie grona pedagogicznego nie miało z nami nic wspólnego, jesteśmy czyści! Zwykła, rutynowa kontrola kadry.",
-  "status": "draft"
+  "pl": "A, i to małe zebranie grona pedagogicznego nie miało z nami nic wspólnego, nic nam nie grozi! Zwykła, rutynowa kontrola kadry.",
+  "status": "done"
  },
  "n:line:03a0355": {
   "pl": "Ta zagadka jest zdecydowanie za łatwa.",
@@ -272,8 +272,8 @@
   "status": "draft"
  },
  "n:line:05a053d": {
-  "pl": "Wspaniale, to Sandra Solange!",
-  "status": "draft"
+  "pl": "No pięknie! Sandra Solange we własnej osobie!",
+  "status": "done"
  },
  "n:line:05e7d28": {
   "pl": "A ponieważ złamiemy parę zasad... musimy współpracować, żeby ukryć to przed czujnym okiem Solange.",
@@ -304,8 +304,8 @@
   "status": "draft"
  },
  "n:line:06ee649": {
-  "pl": "Prędzej umrę, niż pójdę na którąś z teatralnych prób Enory.",
-  "status": "review"
+  "pl": "Prędzej umrę, niż pójdę na któreś z tych niby-przedstawień Enory.",
+  "status": "done"
  },
  "n:line:070a22b": {
   "pl": "Ale to nic nowego. Co więcej... póki wszyscy żyją tym <style=\"clue\">otwarciem muzeum</style>... mogę niepostrzeżenie uprawiać więcej nauki!",
@@ -348,8 +348,8 @@
   "status": "draft"
  },
  "n:line:089b521": {
-  "pl": "Można ruszać, kapi-- eee, panie profesorze! <style=\"story\">(Dalej z fabułą!)</style>",
-  "status": "draft"
+  "pl": "Można ruszać, kapi... eee, panie profesorze! <style=\"story\">(Kontynuuj historię!)</style>",
+  "status": "review"
  },
  "n:line:089e43d": {
   "pl": "O, hej, stary! Prawie cię nie zauważyłem. Pewnie dlatego, że mam oczy spalone na skwarkę.",
@@ -408,8 +408,8 @@
   "status": "draft"
  },
  "n:line:098a2a6": {
-  "pl": "Ja idę na dok przygotować statek, a ty zajrzyj do tych safandułów i pomóż im, dobrze?",
-  "status": "draft"
+  "pl": "Ja idę na przystań szykować statek, a ty zajrzyj do tych safandułów i pomóż im, dobrze?",
+  "status": "done"
  },
  "n:line:099c274": {
   "pl": "Mało ci było kierowania moją szkołą, to teraz jeszcze sprzeciwiasz się woli założycieli?",
@@ -432,8 +432,8 @@
   "status": "draft"
  },
  "n:line:09e644e": {
-  "pl": "Z Solange było tam o włos, ale nauka zatriumfowała!",
-  "status": "draft"
+  "pl": "Mało brakowało, a Solange by nas nakryła, ale nauka zatriumfowała!",
+  "status": "done"
  },
  "n:line:09e68b6": {
   "pl": "Tak, ale jakoś nie chcę się z nimi rozstawać.",

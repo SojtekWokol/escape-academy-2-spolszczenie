@@ -48,8 +48,8 @@
   "status": "review"
  },
  "n:line:0184573": {
-  "pl": "Zatańczmy, Buster. <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
-  "status": "draft"
+  "pl": "Zatańczmy, Buster. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "done"
  },
  "n:line:01b2f79": {
   "pl": "Pospieszcie się! Kręci mi się w głowie...",
@@ -84,8 +84,8 @@
   "status": "draft"
  },
  "n:line:02ee8d1": {
-  "pl": "Tak jest, kapitanie! <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
-  "status": "draft"
+  "pl": "Tak jest, kapitanie! <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "done"
  },
  "n:line:02faa9c": {
   "pl": "Chyba wystawianie dzieł sztuki w naprawdę <style=\"clue\">trudno dostępnych miejscach</style> to niezły sposób, żeby ktoś cię zauważył.",
@@ -96,8 +96,8 @@
   "status": "draft"
  },
  "n:line:03229dd": {
-  "pl": "Pomogę ci, na patrzeniu na rzeczy znam się jak mało kto. <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
-  "status": "draft"
+  "pl": "Pomogę ci, na patrzeniu na rzeczy znam się jak mało kto. <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "done"
  },
  "n:line:0322a44": {
   "pl": "Ahoj! Witaj w mojej Akordeonowej Alkowie! Profesor Chortkoff każe mi ćwiczyć tutaj, żebym nie „zakłócał spokoju kampusu”...",
@@ -148,8 +148,8 @@
   "status": "draft"
  },
  "n:line:0484d5c": {
-  "pl": "Bułka z serem! <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
-  "status": "draft"
+  "pl": "Bułka z serem! <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "done"
  },
  "n:line:04a8de1": {
   "pl": "To... też nie to. Na pewno przyglądasz się obrazom wystarczająco uważnie?",
@@ -368,8 +368,8 @@
   "status": "draft"
  },
  "n:line:0d963d4": {
-  "pl": "Wygląda na to, że przyda ci się asystent! <style=\"assignment\">(Weź zadanie dodatkowe)</style>",
-  "status": "review"
+  "pl": "Wygląda na to, że przyda ci się asystent! <style=\"assignment\">(Przyjmij zadanie dodatkowe)</style>",
+  "status": "done"
  },
  "n:line:0dbd337": {
   "pl": "Fuj. Farba byłaby smaczniejsza.",

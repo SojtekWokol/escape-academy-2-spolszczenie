@@ -40,8 +40,8 @@
   "status": "review"
  },
  "n:line:0190a4a": {
-  "pl": "Moja mama mówi, że życie jest jak pudełko zagadek... Nigdy nie wiadomo, czy ci się uda.",
-  "status": "draft"
+  "pl": "Moja mama mówi, że życie jest jak pudełko zagadek... Nigdy nie wiesz, czy je rozgryziesz.",
+  "status": "review"
  },
  "n:line:01bfcc5": {
   "pl": "Rozwiązuję w deszczu, no tak, rozwiązuję w deszczu! Co za uczucie, znów rozwiązuję!",
@@ -389,7 +389,7 @@
   "status": "draft"
  },
  "n:line:0e05281": {
-  "pl": "Aha, czyli po <i>złości</i>? W takim razie wypowiadam... BITWĘ!",
+  "pl": "Aha, czyli nie po <i>dobroci</i>? W takim razie wypowiadam... BITWĘ!",
   "status": "review"
  },
  "n:line:0e3752d": {
