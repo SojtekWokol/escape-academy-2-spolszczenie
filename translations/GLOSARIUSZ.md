@@ -70,6 +70,15 @@ to Jeberson, Von Bellini, Slip, Dev, Ralph, Morton, Alistair, Fernando, Sameer, 
 - **Postacie mają swój głos.** Zanim poprawisz kwestię, przeczytaj kilka sąsiednich (warsztat pokazuje całą scenkę
   albo rozmowę) i trzymaj się tego, jak dana postać mówi w innych miejscach.
 - **Rozmowy w scenkach czytaj w kontekście.** Podgląd scenki w warsztacie pokazuje, kto mówi i kto stoi obok.
+- **Test kalamburu: czy po polsku to w ogóle coś znaczy?** Najczęstszy błąd to gra słów przetłumaczona dosłownie
+  (*Pining for a Win* → „Sosnowe marzenia o wygranej”, *Once More With Eeling* → „Jeszcze raz, z węgorzem”). Najlepiej
+  działa znany polski zwrot z podmienionym słowem: *You blew it* → *I po zagadkach!* (od „po ptakach”), *Leave no puzzle
+  unsolved* → *Zagadki są po to, żeby je rozwiązywać*, *Pining for a Win* → *Szlifowanie zwycięstwa*. Sklejki nie do
+  wymówienia („asy-klucz-tent”, „pozagadkowane”) odpadają. Żartu nie objaśniamy w zdaniu („…znaczy, później”).
+- **Wielkie litery w środku słowa** to dobry sposób na żarty z imieniem: *The Big RevEEL* → *WiEELkie odkrycie*.
+- **Rymowanki i piosenki trzymają rytm** – równa liczba sylab i czysty rym (*Mundur i C-dur*, *Papa, eskapa!*).
+- **Cele zadań:** przy przedmiocie zamkniętym na kłódkę „Zdobądź / Otwórz”, nie „Odblokuj” (to brzmi jak menu gry).
+  „Odblokuj” zostaje przy osiągnięciach i obszarach gry.
 
 ## Zapis i typografia
 
@@ -118,6 +127,11 @@ Tu zły przekład potrafi zablokować grę, więc ostrożnie:
 4. Format haseł zostaje: `L,I,T,E,R,Y` – przecinki, bez spacji, wielkie litery. **Bez polskich liter (ą, ć, ę, ł, ń, ó, ś, ź, ż)**: zamki z bębenkami układają litery według alfabetu angielskiego A–Z i polskiej litery nie pokażą poprawnie. Szukaj słowa bez ogonków (np. ŚLAD → TROP, KSIĘŻYC → KRATERY, KŁAMCY → MATACZE).
 5. **Każdą zmienioną zagadkę oznaczamy „do sprawdzenia”** i zatwierdzamy dopiero po przejściu jej w grze.
 6. **Litery rozsiane po pokoju bywają pomieszane** względem hasła (np. plakaty w wieży). Zachowaj tę samą kolejność co w oryginale: sprawdź, która litera angielskiego hasła stoi na którym plakacie, i ustaw polskie litery na tych samych pozycjach.
+7. **Tłumaczenie nie może zdradzać rozwiązania.** Na pomniku w CY1 kolory ukryte w nazwiskach zdradzały odpowiedź, bo
+   tylko one były polskie. Dlatego spolszczyliśmy też mylące tropy z oryginału (Oliwia Tokarska, Stella Bielska…), a
+   kolor w rozwiązaniu jest tylko raz – w imieniu albo w nazwisku, jak w oryginale.
+8. **Zagadka bywa ukryta w zwykłym tekście**: hasło gitarowe (AKORD) to wzór wciśniętych pól, nazwy nut (B → H) mogą
+   się kłócić z grafiką, a ogłoszenie „LLL” ma wszystkie słowa na jedną literę. Notatka twórców zwykle to mówi.
 
 ## Słowniczek
 
@@ -181,6 +195,9 @@ Tu zły przekład potrafi zablokować grę, więc ostrożnie:
 | Detention Dungeon | Karcer (nazwa własna, wielką literą: *wrócić do Karceru*) |
 | (League of) Anti-Escape Scientists | (Liga) Naukowców Przeciwko Ucieczkom – nazwa własna złoczyńców z pierwszej części, wielkimi literami |
 | Escape Shack Station | stacja Szopa Ucieczek |
+| Store Room | magazyn (też na mapie) |
+| Escape Boat | Łódź Ucieczek |
+| The Ruddy Herring | Czerwony Śledź (statek Von Belliniego) |
 
 ### Rzeczy z żartem w nazwie
 
@@ -192,6 +209,11 @@ Tu zły przekład potrafi zablokować grę, więc ostrożnie:
 | The Brain Storm | Burza Mózgów | dosłownie burza z mózgów – polski idiom pasuje idealnie |
 | Red Herring | śledź-zmyłka | w grze to prawdziwe ryby, a po angielsku też „fałszywy trop” |
 | Lock Ness Monster | potwór z Loch Kłódkness | *lock* = kłódka |
+| Cluebells / Lockscombs | Zgadzwonki / Kłódkoczuby | kwiaty w ogrodzie (dzwonki, kogucie grzebienie) |
+| Clueliard | Szyfrówka | szkoła aktorska (Juilliard → łódzka Filmówka) |
+| Cipherston / Lockbox Step | Szyfreston / Krok kłódkowy | kroki taneczne |
+| … for Dinguses / Dummies | … dla bystrzaków | jak polska seria „For Dummies” |
+| Eel Barnes | Eel Barnes | legendarny eskapista; *eel* w kalamburach to on, nie węgorz |
 
 ### Tytuły pokoi
 
