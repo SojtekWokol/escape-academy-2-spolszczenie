@@ -476,8 +476,8 @@
   "status": "draft"
  },
  "n:line:07c7a06": {
-  "pl": "Nie, Reed, na pewno dasz radę. Wyjdzie ci świetnie.",
-  "status": "draft"
+  "pl": "Spokojnie, Reed, tobie to przyjdzie naturalnie.",
+  "status": "done"
  },
  "n:line:07ca1b7": {
   "pl": "A jesteś w ogóle dobra z matmy...?",
@@ -744,8 +744,8 @@
   "status": "draft"
  },
  "n:line:0c50773": {
-  "pl": "Ale jeśli coś <i>się</i> dzieje... Może to wreszcie moja szansa, żeby zrobić sobie nazwisko!",
-  "status": "draft"
+  "pl": "Ale jeśli <i>naprawdę</i> coś się dzieje... Może to wreszcie moja szansa, żeby wyrobić sobie nazwisko!",
+  "status": "done"
  },
  "n:line:0c656fd": {
   "pl": "Dobra, chwila...",
@@ -880,8 +880,8 @@
   "status": "draft"
  },
  "n:line:0ed0469": {
-  "pl": "Ach, dobra, staroświecka <style=\"clue\">zagadka logiczna!</style> Widać, że Akademia nie zmieniła się aż <i>tak bardzo</i> przez 200 lat...",
-  "status": "draft"
+  "pl": "Ach, stara, dobra <style=\"clue\">zagadka logiczna!</style> Widać Akademia nie zmieniła się aż <i>tak bardzo</i> przez 200 lat...",
+  "status": "done"
  },
  "n:line:0edd925": {
   "pl": "Na razie!",

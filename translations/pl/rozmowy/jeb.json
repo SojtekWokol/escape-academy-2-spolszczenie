@@ -92,8 +92,8 @@
   "status": "review"
  },
  "n:line:0538eac": {
-  "pl": "Ja będę trzymać łódź do ucieczek na chodzie, a ty współpracuj z dyrektorką Solange, żeby <style=\"clue\">znaleźć drogę do tej maszyny</style>.",
-  "status": "draft"
+  "pl": "Ja przypilnuję, żeby Łódź Ucieczek była na chodzie, a ty razem z dyrektorką Solange <style=\"clue\">znajdź drogę do tej maszyny</style>.",
+  "status": "done"
  },
  "n:line:0543382": {
   "pl": "A co, jeśli mam kartkę, której nie umiem odczytać?",
@@ -344,7 +344,7 @@
   "status": "review"
  },
  "n:line:0f891d0": {
-  "pl": "Solange ma miejsca stojące w strefie plucia!",
+  "pl": "Solange zawsze ma miejsca w pierwszym rzędzie, w samej strefie plucia!",
   "status": "review"
  },
  "n:line:0fafdc8": {

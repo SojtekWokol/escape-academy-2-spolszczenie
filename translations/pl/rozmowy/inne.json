@@ -172,8 +172,8 @@
   "status": "draft"
  },
  "n:line:018cd67": {
-  "pl": "Hej, nie zostawiaj mnie, tak jak Reeda. Mamy do znalezienia komnatę, a wolałabym nie być sama na tej plaży...",
-  "status": "draft"
+  "pl": "Hej, nie zostawiaj mnie, wystarczy mi już Reed. Mamy do znalezienia komnatę, a wolałabym nie być sama na tej plaży...",
+  "status": "done"
  },
  "n:line:018f2e9": {
   "pl": "Reed... co ty planujesz?",
@@ -576,8 +576,8 @@
   "status": "draft"
  },
  "n:line:04fb331": {
-  "pl": "Cholera! Nie cierpię, kiedy źle dobiorę dawkę gazu niepamięci... W takim razie krótka powtórka.",
-  "status": "review"
+  "pl": "A niech to! Nie cierpię, kiedy źle dobiorę dawkę gazu niepamięci... W takim razie krótka powtórka.",
+  "status": "done"
  },
  "n:line:04fb79f": {
   "pl": "Mniej więcej tak to wygląda.",
@@ -744,8 +744,8 @@
   "status": "draft"
  },
  "n:line:06503b5": {
-  "pl": "Chyba że masz <style=\"clue\">coś jeszcze do załatwienia</style>, bo teraz jest na to czas...",
-  "status": "draft"
+  "pl": "Jeśli masz <style=\"clue\">coś jeszcze do załatwienia</style>, to teraz jest na to czas...",
+  "status": "done"
  },
  "n:line:06573b0": {
   "pl": "Widzę eskadolary na różnych <style=\"clue\">gzymsach i dachach</style>, na które boję się wejść.",
@@ -1080,8 +1080,8 @@
   "status": "draft"
  },
  "n:line:091bbc6": {
-  "pl": "Obiecujemy, że nie wyciągniemy z tego żadnych konsekwencji.",
-  "status": "review"
+  "pl": "Obiecujemy, nikt nie będzie cię za to karać.",
+  "status": "done"
  },
  "n:line:091df58": {
   "pl": "Pierwszy dzień poza holem i... znów ląduję w holu.",

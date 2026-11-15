@@ -328,8 +328,8 @@
   "status": "draft"
  },
  "y:line:01c9c6a": {
-  "pl": "<style=\"vis_clue\">Dziś jest ten dzień</style>, w którym <i>położymy kres</i> zarazie, która nawiedziła Akademię.",
-  "status": "draft"
+  "pl": "<style=\"vis_clue\">To dziś</style> <i>położymy kres</i> zarazie, która nawiedziła Akademię.",
+  "status": "done"
  },
  "y:line:01d1e2c": {
   "pl": "<style=\"vis_clue\">Oryginalny utwór z Akademii</style> byłby świetnym sposobem na uhonorowanie pasji Von Belliniego do historii Akademii!",
@@ -400,8 +400,8 @@
   "status": "review"
  },
  "y:line:0214006": {
-  "pl": "Cóż jeszcze można dodać? Akademia wiele ci zawdzięcza.",
-  "status": "draft"
+  "pl": "Cóż jeszcze można dodać? Akademia ma ogromny dług wdzięczności.",
+  "status": "done"
  },
  "y:line:0221440": {
   "pl": "Więc żeby potwór nie porwał nas <i>wszystkich</i>, kiedy połkniemy tę oczywistą przynętę, ja zmierzę się z nim na wodzie.",
@@ -488,8 +488,8 @@
   "status": "draft"
  },
  "y:line:02ab697": {
-  "pl": "A czy kiedykolwiek rzuciło ci się w oczy wyjątkowo wysokie, spalone, a mimo to dziwnie wciąż stojące drzewo na samotnej wyspie pośrodku niej?",
-  "status": "draft"
+  "pl": "A czy rzuciło ci się kiedyś w oczy wysokie, spalone drzewo na samotnej wyspie pośrodku zatoki? Dziwne, że wciąż stoi.",
+  "status": "done"
  },
  "y:line:02acf41": {
   "pl": "To tylko, hm... śródsemestralne podsumowanie!",
@@ -508,8 +508,8 @@
   "status": "draft"
  },
  "y:line:02c0fc2": {
-  "pl": "A na pierwszą odznakę wybrałam właśnie ciebie: to ty rozdzwonisz nowy rok szkolny, mierząc się z najstarszym testem Akademii, zaprojektowanym przez samą Reinę Wym!",
-  "status": "review"
+  "pl": "A pierwszą odznakę zdobędziesz tak: to ty rozdzwonisz nowy rok szkolny, mierząc się z najstarszym testem Akademii, zaprojektowanym przez samą Reinę Wym!",
+  "status": "done"
  },
  "y:line:02c8599": {
   "pl": "Ale żadnej pułapki? Rozczarowujące...",
@@ -680,8 +680,8 @@
   "status": "draft"
  },
  "y:line:03aa7c5": {
-  "pl": "Ach, mówisz o <style=\"vis_clue\">baśni</style> o <style=\"vis_clue\">potworze z Loch Kłódkness</style>. Cóż, Reed, zapewniam cię, że to właśnie to. Baśń.",
-  "status": "draft"
+  "pl": "Ach, mówisz o <style=\"vis_clue\">legendzie</style> o <style=\"vis_clue\">potworze z Loch Kłódkness</style>. Cóż, Reed, zapewniam cię, że to tylko tyle. Legenda.",
+  "status": "done"
  },
  "y:line:03ae395": {
   "pl": "Cóż my tu mamy? Kolejny <i>bystry umysł,</i> spragniony, by <i>chłonąć</i> tajniki nauk o ucieczkach?!",
@@ -820,8 +820,8 @@
   "status": "draft"
  },
  "y:line:0444f15": {
-  "pl": "<style=\"vis_clue\">Wrócę rano</style>, żeby was wypuścić z czystą kartą i będziemy udawać, że nic się nie stało...",
-  "status": "draft"
+  "pl": "<style=\"vis_clue\">Wrócę rano</style>, wypuszczę was z czystą kartą i wszyscy będziemy udawać, że nic się nie stało...",
+  "status": "done"
  },
  "y:line:044cec9": {
   "pl": "Znowu wciągasz ucznia w swoje niezatwierdzone eksperymenty?",
@@ -844,8 +844,8 @@
   "status": "review"
  },
  "y:line:04740c6": {
-  "pl": "Tym, na kim polegała, by poprowadzić naszą Akademię ku jutru...",
-  "status": "draft"
+  "pl": "To na tobie polegała, licząc, że poprowadzisz naszą Akademię ku jutru...",
+  "status": "done"
  },
  "y:line:047f1f3": {
   "pl": "Rany... Pismo jest bez wątpienia autentyczne. To naprawdę list od samej Reiny Wym.",
@@ -884,8 +884,8 @@
   "status": "review"
  },
  "y:line:04b98d4": {
-  "pl": "I zabierzcie ze sobą naszych prymusów. Ja zajmę się ustaleniem, gdzie jest ta okropna maszyna Alistaira.",
-  "status": "draft"
+  "pl": "I zabierzcie ze sobą nasze gwiazdy roku. Ja zajmę się ustaleniem, gdzie jest ta okropna maszyna Alistaira.",
+  "status": "done"
  },
  "y:line:04c035b": {
   "pl": "Z tego wynika, że Solange bada <style=\"vis_clue\">tajemnicze zaginięcia sięgające czasów założenia</style> szkoły...",
@@ -1128,8 +1128,8 @@
   "status": "draft"
  },
  "y:line:0626a78": {
-  "pl": "Radzę uważać pod nogi – to jedno z najstarszych wyzwań w Akademii i nie wymieniliśmy żadnego rusztowania.",
-  "status": "draft"
+  "pl": "Radzę patrzeć pod nogi – to jedno z najstarszych wyzwań w Akademii, a rusztowań nikt nigdy nie wymieniał.",
+  "status": "done"
  },
  "y:line:0626e37": {
   "pl": "No dobra, skoro już wszyscy <i>oficjalnie</i> się poznaliśmy, czas <style=\"vis_clue\">odebrać podręczniki</style> i dokończyć zajęcia wprowadzające!",
@@ -1140,8 +1140,8 @@
   "status": "review"
  },
  "y:line:0634467": {
-  "pl": "Ruszajmy, bo inaczej ta bestia zabierze nam Reeda <i>i</i> Gillian.",
-  "status": "draft"
+  "pl": "Ruszajmy, bo inaczej przez to wszystko stracimy i Reeda, <i>i</i> Gillian.",
+  "status": "done"
  },
  "y:line:063cd1a": {
   "pl": "Ty jeszcze nie masz swojego? Och, to chyba będę pierwsza na peronie! Ten rok będzie <i>totalnie</i> mój!",
@@ -1764,8 +1764,8 @@
   "status": "draft"
  },
  "y:line:0975b6a": {
-  "pl": "A wy, moi prymusi... radzę wam odpocząć, póki możecie, czeka nas wielki dzień.",
-  "status": "draft"
+  "pl": "A wy, moje gwiazdy roku... radzę wam odpocząć, póki możecie, bo czeka nas wielki dzień.",
+  "status": "done"
  },
  "y:line:098059a": {
   "pl": "Czemu te nerwy, panie profesorze? Nasze lekcje historii do tej pory szły jak z płatka. Radzi pan sobie dobrze. Nawet świetnie!",
@@ -1956,8 +1956,8 @@
   "status": "review"
  },
  "y:line:0ab725f": {
-  "pl": "Moi prymusi...",
-  "status": "review"
+  "pl": "Moje gwiazdy roku...",
+  "status": "done"
  },
  "y:line:0ac041e": {
   "pl": "Powodzenia i staraj się nie ośmieszyć do reszty. <i>Wszyscy to zobaczymy!</i>",
@@ -2144,8 +2144,8 @@
   "status": "review"
  },
  "y:line:0be9e1a": {
-  "pl": "Nie chciałam zostać zupełnie sama w pokoju, więc namówiłam kogoś do pomocy w szukaniu Reeda, ale... było za późno.",
-  "status": "draft"
+  "pl": "Nie chciałam stracić ostatniej osoby z naszego pokoju, więc poprosiłam o pomoc w szukaniu Reeda, ale... było za późno.",
+  "status": "done"
  },
  "y:line:0bebe03": {
   "pl": "Ciekawe, jakie szalone eksperymenty przygotował na zajęcia!",
