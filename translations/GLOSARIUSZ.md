@@ -157,6 +157,7 @@ Tu zły przekład potrafi zablokować grę, więc ostrożnie:
 | Gillian Paisley | Gillian Paisley | towarzyszka gracza w śledztwie (kobieta) |
 | Reed Wright | Reed Wright | towarzysz gracza w śledztwie, **osoba niebinarna** |
 | Kira Tempest | Kira Tempest | towarzyszka gracza w śledztwie (kobieta) |
+| Pac Teevist | Pac Teevist | osoba z wiecznymi petycjami, **osoba niebinarna** (Kelly mówi o „their petitions”) – bez form z rodzajem |
 | Dev Tempest, Tillie Tempest | bez zmian | rodzina Kiry |
 | Ralph Wrexler | Ralph Wrexler | uczeń |
 | Morton Clamm | Morton Clamm | kucharz w szkolnej stołówce |
