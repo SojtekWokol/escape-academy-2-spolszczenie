@@ -1133,7 +1133,7 @@
  },
  "y:line:0626e37": {
   "pl": "No dobra, skoro już wszyscy <i>oficjalnie</i> się poznaliśmy, czas <style=\"vis_clue\">odebrać podręczniki</style> i dokończyć zajęcia wprowadzające!",
-  "status": "review"
+  "status": "done"
  },
  "y:line:062bf4b": {
   "pl": "Nie możemy się doczekać, aż znów cię zobaczymy, gdy wreszcie nadejdzie czas, by...</color>",
@@ -1540,8 +1540,8 @@
   "status": "draft"
  },
  "y:line:0872c33": {
-  "pl": "Bilety? Pani profesor, chyba pani żartuje!",
-  "status": "draft"
+  "pl": "Mam sprzedawać bilety? Chyba sobie żartuje!",
+  "status": "done"
  },
  "y:line:0872faf": {
   "pl": "Nawet jeśli <i>było</i> trochę na styk...",
