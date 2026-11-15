@@ -16,8 +16,8 @@
   "status": "draft"
  },
  "y:line:001af8e": {
-  "pl": "Wy to... wy to jesteście niemożliwi! Chodźmy po prostu... spać i miejmy nadzieję, że się znajdzie...",
-  "status": "review"
+  "pl": "Wy to... no po prostu nie wierzę! Chodźmy... spać i miejmy nadzieję, że Gillian się znajdzie...",
+  "status": "done"
  },
  "y:line:001ea3a": {
   "pl": "Wspaniale! Udało ci się. Czas na moją ulubioną część – wielką niespodziankę!",
@@ -48,8 +48,8 @@
   "status": "draft"
  },
  "y:line:0033c11": {
-  "pl": "Dotarliśmy tak daleko sami, ale... chyba potrzebujemy pomocy, jeśli chcemy ocalić wszystkich.",
-  "status": "draft"
+  "pl": "Zaszliśmy tak daleko o własnych siłach, ale... chyba potrzebujemy pomocy, jeśli chcemy ocalić wszystkich.",
+  "status": "done"
  },
  "y:line:0036ec4": {
   "pl": "Hm. To... nie tak sobie to wyobrażałem.",
@@ -236,8 +236,8 @@
   "status": "review"
  },
  "y:line:013b4b7": {
-  "pl": "Co, cieszysz się, że do wysadzania tych drzwi masz u boku zdrowy rozsądek? Chodź, zobaczmy, co na nas czeka.",
-  "status": "review"
+  "pl": "Fajnie, że do wyważania tych drzwi masz u boku kogoś normalnego, co? Chodź, zobaczmy, co na nas czeka.",
+  "status": "done"
  },
  "y:line:013b850": {
   "pl": "Nie pozwalają mi nawet odejść z godnością... Ta Solange postanowiła przekazać moją posadę nieruchomej podstawce pod telewizor!",
@@ -312,8 +312,8 @@
   "status": "review"
  },
  "y:line:01bb393": {
-  "pl": "Dyrektorka Solange olewa odwieczną tradycję eskapistów? No ja myślę, że nikt się tego nie spodziewał! To totalna kpina.",
-  "status": "review"
+  "pl": "Dyrektorka Solange olewa odwieczną tradycję eskapistów? No ja myślę! To totalna kpina.",
+  "status": "done"
  },
  "y:line:01be074": {
   "pl": "Hej! Już nie śpisz! Rany boskie... po prostu nie mogę uwierzyć, że to wszystko...",
@@ -536,8 +536,8 @@
   "status": "draft"
  },
  "y:line:02e04e5": {
-  "pl": "Dalsze poszukiwania wykazały, że za każdym razem, gdy w archiwach Akademii jest luka, czyli <style=\"vis_clue\">dawne zniknięcia</style>, pokrywa się ona idealnie z zapisami o <style=\"vis_clue\">Burzy Mózgów</style>.",
-  "status": "review"
+  "pl": "Grzebię dalej i wychodzi na to, że każda luka w archiwach Akademii, czyli <style=\"vis_clue\">dawne zniknięcia</style>, idealnie pokrywa się z zapisami o <style=\"vis_clue\">Burzy Mózgów</style>.",
+  "status": "done"
  },
  "y:line:02e8373": {
   "pl": "W każdym razie... to wszystko, co mamy. <style=\"vis_clue\">Zanieśmy go Solange</style>, żeby zaplanować kolejny ruch.",
@@ -872,8 +872,8 @@
   "status": "draft"
  },
  "y:line:04ab2a9": {
-  "pl": "Szkoda, że była taka dobra, co?",
-  "status": "draft"
+  "pl": "Szkoda, bo to świetny plan, co?",
+  "status": "done"
  },
  "y:line:04af73f": {
   "pl": "Dzięki odznakom <style=\"clue\">zyskasz dostęp do nowych części</style> kampusu, pełnych nowych zadań, uczniów i tajemnic!",
@@ -1132,8 +1132,8 @@
   "status": "draft"
  },
  "y:line:0626e37": {
-  "pl": "No dobra, skoro już wszyscy <i>oficjalnie</i> się poznaliśmy, czas <style=\"vis_clue\">odebrać podręczniki</style> i skończyć orientację!",
-  "status": "draft"
+  "pl": "No dobra, skoro już wszyscy <i>oficjalnie</i> się poznaliśmy, czas <style=\"vis_clue\">odebrać podręczniki</style> i dokończyć zajęcia wprowadzające!",
+  "status": "review"
  },
  "y:line:062bf4b": {
   "pl": "Nie możemy się doczekać, aż znów cię zobaczymy, gdy wreszcie nadejdzie czas, by...</color>",
@@ -1248,8 +1248,8 @@
   "status": "draft"
  },
  "y:line:06dffeb": {
-  "pl": "Było! Znaczy... miało być...",
-  "status": "draft"
+  "pl": "Było! Znaczy... tak nam się wydawało...",
+  "status": "done"
  },
  "y:line:06e62bb": {
   "pl": "Ojoj! Musiało nas zdmuchnąć z kursu!",
@@ -1660,8 +1660,8 @@
   "status": "draft"
  },
  "y:line:090e4fa": {
-  "pl": "Co roku uczeń, który najszybciej ukończy orientację, dostępuje zaszczytu udziału w <style=\"vis_clue\">Wyzwaniu wieży zegarowej</style>!",
-  "status": "draft"
+  "pl": "Co roku uczeń, który najszybciej ukończy zajęcia wprowadzające, dostępuje zaszczytu udziału w <style=\"vis_clue\">Wyzwaniu wieży zegarowej</style>!",
+  "status": "review"
  },
  "y:line:0911a58": {
   "pl": "Moment, to wcale nie taki zły pomysł! Mam nawet <style=\"vis_clue\">plany wieży</style> z zeszłego roku, które... trafiły do mnie na potrzeby prywatnych badań!",
@@ -2512,8 +2512,8 @@
   "status": "draft"
  },
  "y:line:0e2085b": {
-  "pl": "Zbliż się, mój wierny asystencie laboratoryjny. Dziś przeprowadzimy przełomowy eksperyment.",
-  "status": "draft"
+  "pl": "Pozwól tu, wierna prawa ręko mojego laboratorium. Dziś przeprowadzimy przełomowy eksperyment.",
+  "status": "done"
  },
  "y:line:0e24ff0": {
   "pl": "Wystarczy tylko <style=\"vis_clue\">poczekać, aż wszyscy pójdą spać</style>, żeby nikt nas nie przyłapał, a wtedy <style=\"vis_clue\">okulary</style> są praktycznie nasze!",
@@ -2816,8 +2816,8 @@
   "status": "review"
  },
  "y:line:0ffe0b2": {
-  "pl": "Ale zanim rzucimy się w wir zajęć, czeka nas jeszcze <style=\"vis_clue\">orientacja dla uczniów</style>.",
-  "status": "draft"
+  "pl": "Ale zanim rzucimy się w wir zajęć, czekają nas jeszcze <style=\"vis_clue\">zajęcia wprowadzające</style>.",
+  "status": "review"
  },
  "y:line:0ffe34f": {
   "pl": "Przecież było jasne: jeśli ktoś ma wtargnąć do środka i uruchomić pułapkę, to ja, więc...",

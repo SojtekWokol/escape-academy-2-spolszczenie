@@ -1236,8 +1236,8 @@
   "status": "draft"
  },
  "n:line:0aa2e35": {
-  "pl": "Hej, jesteśmy drużyną! Gdzie nasza brakująca gwiazda roku? <style=\"clue\">Beze was obojga tego nie ruszam</style>.",
-  "status": "draft"
+  "pl": "Hej, jesteśmy drużyną! Gdzie się podziała nasza druga gwiazda roku? <style=\"clue\">Bez was obojga się do tego nie biorę</style>.",
+  "status": "done"
  },
  "n:line:0aa9ee2": {
   "pl": "Z aktora na biletera, który musi słuchać prób zza drzwi... <i>Chyba</i> to niezła okazja, żeby wykuć sobie charakter.",
@@ -1340,8 +1340,8 @@
   "status": "draft"
  },
  "n:line:0b8c134": {
-  "pl": "Och, miałam nadzieję, że to ty pierwszy dotrzesz do mojego gabinetu i ukończysz zajęcia wprowadzające!",
-  "status": "draft"
+  "pl": "Och, liczyłam, że to właśnie ty najszybciej dotrzesz do mojego gabinetu i ukończysz zajęcia wprowadzające!",
+  "status": "done"
  },
  "n:line:0b90488": {
   "pl": "Na razie!",
@@ -1500,8 +1500,8 @@
   "status": "draft"
  },
  "n:line:0cf41b9": {
-  "pl": "Właściwie ten bilet jest ważny na dwa miejsca. <style=\"clue\">Lepiej znajdź swojego kumpla</style>, bo cię nie wpuszczę. A to byłaby wielka szkoda, prawda...",
-  "status": "draft"
+  "pl": "Właściwie ten bilet jest ważny na dwa miejsca. <style=\"clue\">Lepiej znajdź osobę towarzyszącą</style>, bo cię nie wpuszczę. A to byłaby wielka szkoda, prawda...",
+  "status": "done"
  },
  "n:line:0d019c1": {
   "pl": "To mi wystarczy.",

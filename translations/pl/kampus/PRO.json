@@ -416,8 +416,8 @@
   "status": "draft"
  },
  "g:PRO_HallwayWest_OrientationPrompt": {
-  "pl": "Lista zadań orientacyjnych",
-  "status": "draft"
+  "pl": "Lista zadań wprowadzających",
+  "status": "review"
  },
  "g:PRO_HallwayWest_OutOfOrder": {
   "pl": "Nieczynne",

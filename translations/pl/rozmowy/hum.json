@@ -144,8 +144,8 @@
   "status": "draft"
  },
  "n:line:039d79d": {
-  "pl": "Wow! Udało ci się je otworzyć! Ale odjazd!",
-  "status": "review"
+  "pl": "Wow! Udało ci się ją otworzyć! Ale odjazd!",
+  "status": "done"
  },
  "n:line:03c89a5": {
   "pl": "A co do ciebie, gwiazdo roku: dziękuję za rozwiązanie sprawy. Masz coś za fatygę!",
@@ -252,8 +252,8 @@
   "status": "review"
  },
  "n:line:05526f7": {
-  "pl": "Mam z profesorem Jebersonem na pieńku, bo chce mnie oblać z archeologii! Jeszcze mu to wygrzebię!",
-  "status": "review"
+  "pl": "Mam z profesorem Jebersonem kość niezgody, bo chce mnie oblać z archeologii!",
+  "status": "done"
  },
  "n:line:0576780": {
   "pl": "Święta racja.",

@@ -404,8 +404,8 @@
   "status": "done"
  },
  "g:TOW_QuestDesc": {
-  "pl": "Dowiedz się, jaką nagrodę Dyrektorka Solange przygotowała za pierwsze miejsce we wprowadzeniu.",
-  "status": "draft"
+  "pl": "Dowiedz się, jaką nagrodę dyrektorka Solange przygotowała za najszybsze ukończenie zajęć wprowadzających.",
+  "status": "review"
  },
  "g:TOW_QuestName": {
   "pl": "Niespodziewany start",
