@@ -5,7 +5,7 @@
  },
  "v:MUS_NNN_Bah": {
   "pl": "Bah!",
-  "status": "draft"
+  "status": "done"
  },
  "v:MUS_NNN_Grumble": {
   "pl": "Pomruk",
@@ -17,10 +17,10 @@
  },
  "v:Slip_WLD_WhatsGood": {
   "pl": "Co tam?",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_WoahNessie": {
   "pl": "UUUOOOAAA NESSIE!",
-  "status": "draft"
+  "status": "done"
  }
 }

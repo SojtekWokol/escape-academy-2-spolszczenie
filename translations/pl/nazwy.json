@@ -1,59 +1,59 @@
 {
  "g:Name_Alistair": {
   "pl": "Alistair Bell",
-  "status": "draft"
+  "status": "done"
  },
  "g:Name_Fernando": {
   "pl": "Fernando Augustín",
-  "status": "draft"
+  "status": "done"
  },
  "g:Name_Reina": {
   "pl": "Reina Wym",
-  "status": "draft"
+  "status": "done"
  },
  "g:Name_Sameer": {
   "pl": "Sameer Gaspard",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Big": {
   "pl": "Wielki Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Cashier": {
   "pl": "Kasjer Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Curator": {
   "pl": "Kurator Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Dance": {
   "pl": "Instruktor tańca Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Groundskeeper": {
   "pl": "Ogrodnik Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Janitor": {
   "pl": "Woźny Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Librarian": {
   "pl": "Bibliotekarz Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Lifeguard": {
   "pl": "Ratownik Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Nurse": {
   "pl": "Pielęgniarz Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_Professor": {
   "pl": "Profesor Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:QuantyNametag_SrSciProfessor": {
   "pl": "Profesor nauk ścisłych Quanty",
@@ -69,63 +69,63 @@
  },
  "g:name_Announcer": {
   "pl": "Komunikat",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_CampusPolice": {
   "pl": "Ochrona kampusu",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Chet": {
   "pl": "Chet Łotrowicz",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Dev": {
   "pl": "Dev Tempest",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Enora": {
   "pl": "Profesor Chortkoff",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Gillian": {
   "pl": "Gillian Paisley",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Jeb": {
   "pl": "Profesor Jeberson",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Kira": {
   "pl": "Kira Tempest",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Lockjaw": {
   "pl": "Szczękościsk",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Morton": {
   "pl": "Morton Clamm",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Purrfessor": {
   "pl": "Profesor Mruczyński",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Quanty": {
   "pl": "Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Ralph": {
   "pl": "Ralph Wrexler",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Reed": {
   "pl": "Reed Wright",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Ruby": {
   "pl": "Ruby Niewinowska",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Slip": {
   "pl": "Profesor Slip",
@@ -133,7 +133,7 @@
  },
  "g:name_Solange": {
   "pl": "Dyrektorka Solange",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_StoniesGuy": {
   "pl": "Pizzeria Zjarany Piec",
@@ -141,43 +141,43 @@
  },
  "g:name_StudentF": {
   "pl": "Uczennica",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_StudentM": {
   "pl": "Uczeń",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_Tillie": {
   "pl": "Tillie Tempest",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_VonBellini": {
   "pl": "Profesor Von Bellini",
-  "status": "draft"
+  "status": "done"
  },
  "g:name_noirator": {
   "pl": "Narrator",
-  "status": "draft"
+  "status": "done"
  },
  "s:Aaron Bowie": {
   "pl": "Aaron Bowie",
-  "status": "draft"
+  "status": "done"
  },
  "s:Aber Crombers": {
   "pl": "Aber Crombers",
-  "status": "draft"
+  "status": "done"
  },
  "s:Addie Renata": {
   "pl": "Addie Renata",
-  "status": "draft"
+  "status": "done"
  },
  "s:Agnes Fletcher": {
   "pl": "Agnes Fletcher",
-  "status": "draft"
+  "status": "done"
  },
  "s:Alan Keys": {
   "pl": "Alan Keys",
-  "status": "draft"
+  "status": "done"
  },
  "s:Alastair": {
   "pl": "Alastair",
@@ -185,131 +185,131 @@
  },
  "s:Allison Ports": {
   "pl": "Allison Ports",
-  "status": "draft"
+  "status": "done"
  },
  "s:Anita Harmony": {
   "pl": "Anita Harmony",
-  "status": "draft"
+  "status": "done"
  },
  "s:Anthony Porkell": {
   "pl": "Anthony Porkell",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ari Dearyet": {
   "pl": "Ari Dearyet",
-  "status": "draft"
+  "status": "done"
  },
  "s:Arnold Richards": {
   "pl": "Arnold Richards",
-  "status": "draft"
+  "status": "done"
  },
  "s:Arthur Asimov": {
   "pl": "Arthur Asimov",
-  "status": "draft"
+  "status": "done"
  },
  "s:Atticus Locks": {
   "pl": "Atticus Locks",
-  "status": "draft"
+  "status": "done"
  },
  "s:Audrey Banner": {
   "pl": "Audrey Banner",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ava Goulash": {
   "pl": "Ava Goulash",
-  "status": "draft"
+  "status": "done"
  },
  "s:Axel Grace": {
   "pl": "Axel Grace",
-  "status": "draft"
+  "status": "done"
  },
  "s:Bailey Aspen": {
   "pl": "Bailey Aspen",
-  "status": "draft"
+  "status": "done"
  },
  "s:Barnaby Hinds": {
   "pl": "Barnaby Hinds",
-  "status": "draft"
+  "status": "done"
  },
  "s:Barney Brogan": {
   "pl": "Barney Brogan",
-  "status": "draft"
+  "status": "done"
  },
  "s:Beatrice Yorps": {
   "pl": "Beatrice Yorps",
-  "status": "draft"
+  "status": "done"
  },
  "s:Becca Pepper": {
   "pl": "Becca Pepper",
-  "status": "draft"
+  "status": "done"
  },
  "s:Belinda Norbert": {
   "pl": "Belinda Norbert",
-  "status": "draft"
+  "status": "done"
  },
  "s:Bert Chumpin": {
   "pl": "Bert Chumpin",
-  "status": "draft"
+  "status": "done"
  },
  "s:Big Professor Quanty": {
   "pl": "Wielki Profesor Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Billy Tempo": {
   "pl": "Billy Tempo",
-  "status": "draft"
+  "status": "done"
  },
  "s:Blair Townings": {
   "pl": "Blair Townings",
-  "status": "draft"
+  "status": "done"
  },
  "s:Bongo Jablinkin": {
   "pl": "Bongo Jablinkin",
-  "status": "draft"
+  "status": "done"
  },
  "s:Booker Red": {
   "pl": "Booker Red",
-  "status": "draft"
+  "status": "done"
  },
  "s:Bort Caster": {
   "pl": "Bort Caster",
-  "status": "draft"
+  "status": "done"
  },
  "s:Brad Hole": {
   "pl": "Brad Hole",
-  "status": "draft"
+  "status": "done"
  },
  "s:Bravius Loomy": {
   "pl": "Bravius Loomy",
-  "status": "draft"
+  "status": "done"
  },
  "s:Brenda Flops": {
   "pl": "Brenda Flops",
-  "status": "draft"
+  "status": "done"
  },
  "s:Brett Baskin": {
   "pl": "Brett Baskin",
-  "status": "draft"
+  "status": "done"
  },
  "s:Brian Jumbo": {
   "pl": "Brian Jumbo",
-  "status": "draft"
+  "status": "done"
  },
  "s:Brook Spinner": {
   "pl": "Brook Spinner",
-  "status": "draft"
+  "status": "done"
  },
  "s:Bryan Beans": {
   "pl": "Bryan Beans",
-  "status": "draft"
+  "status": "done"
  },
  "s:Bucky Farmer": {
   "pl": "Bucky Farmer",
-  "status": "draft"
+  "status": "done"
  },
  "s:Buster N. Mooves": {
   "pl": "Buster N. Mooves",
-  "status": "draft"
+  "status": "done"
  },
  "s:Caller": {
   "pl": "Dzwoniący",
@@ -317,251 +317,251 @@
  },
  "s:Carrie Hunter": {
   "pl": "Carrie Hunter",
-  "status": "draft"
+  "status": "done"
  },
  "s:Cashier Quanty": {
   "pl": "Kasjer Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Cayla Scramble": {
   "pl": "Cayla Scramble",
-  "status": "draft"
+  "status": "done"
  },
  "s:Charles": {
   "pl": "Charles",
-  "status": "draft"
+  "status": "done"
  },
  "s:Cheryl Verns": {
   "pl": "Cheryl Verns",
-  "status": "draft"
+  "status": "done"
  },
  "s:Chester Rickards": {
   "pl": "Chester Rickards",
-  "status": "draft"
+  "status": "done"
  },
  "s:Chip Fines": {
   "pl": "Chip Fines",
-  "status": "draft"
+  "status": "done"
  },
  "s:Clifford Little": {
   "pl": "Clifford Little",
-  "status": "draft"
+  "status": "done"
  },
  "s:Cod Stewart": {
   "pl": "Cod Stewart",
-  "status": "draft"
+  "status": "done"
  },
  "s:Curator Quanty": {
   "pl": "Kurator Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Dally Buggle": {
   "pl": "Dally Buggle",
-  "status": "draft"
+  "status": "done"
  },
  "s:Dally Dubloon": {
   "pl": "Dally Dubloon",
-  "status": "draft"
+  "status": "done"
  },
  "s:Dana Oblong": {
   "pl": "Dana Oblong",
-  "status": "draft"
+  "status": "done"
  },
  "s:Dance Instructor Quanty": {
   "pl": "Instruktor tańca Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Daniel D Clewis": {
   "pl": "Daniel D Clewis",
-  "status": "draft"
+  "status": "done"
  },
  "s:Danno Zeek": {
   "pl": "Danno Zeek",
-  "status": "draft"
+  "status": "done"
  },
  "s:Danny Fastfoot": {
   "pl": "Danny Fastfoot",
-  "status": "draft"
+  "status": "done"
  },
  "s:Danny Winchem": {
   "pl": "Danny Winchem",
-  "status": "draft"
+  "status": "done"
  },
  "s:David Jammins": {
   "pl": "David Jammins",
-  "status": "draft"
+  "status": "done"
  },
  "s:Davy Goodman": {
   "pl": "Davy Goodman",
-  "status": "draft"
+  "status": "done"
  },
  "s:Debbie Brie": {
   "pl": "Debbie Brie",
-  "status": "draft"
+  "status": "done"
  },
  "s:Debra Cadabra": {
   "pl": "Debra Cadabra",
-  "status": "draft"
+  "status": "done"
  },
  "s:Dougie Courderoy": {
   "pl": "Dougie Courderoy",
-  "status": "draft"
+  "status": "done"
  },
  "s:Drew Walls": {
   "pl": "Drew Walls",
-  "status": "draft"
+  "status": "done"
  },
  "s:Duff Stades": {
   "pl": "Duff Stades",
-  "status": "draft"
+  "status": "done"
  },
  "s:Eddie Stones": {
   "pl": "Eddie Stones",
-  "status": "draft"
+  "status": "done"
  },
  "s:Edie Quill": {
   "pl": "Edie Quill",
-  "status": "draft"
+  "status": "done"
  },
  "s:Eel Barnes": {
   "pl": "Eel Barnes",
-  "status": "draft"
+  "status": "done"
  },
  "s:Elfyn Ogier": {
   "pl": "Elfyn Ogier",
-  "status": "draft"
+  "status": "done"
  },
  "s:Eli Tater": {
   "pl": "Eli Tater",
-  "status": "draft"
+  "status": "done"
  },
  "s:Eric Ponzi": {
   "pl": "Eric Ponzi",
-  "status": "draft"
+  "status": "done"
  },
  "s:Erik Cash": {
   "pl": "Erik Cash",
-  "status": "draft"
+  "status": "done"
  },
  "s:Esther Davis": {
   "pl": "Esther Davis",
-  "status": "draft"
+  "status": "done"
  },
  "s:Esther Moff": {
   "pl": "Esther Moff",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ethan Klout": {
   "pl": "Ethan Klout",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ethel Brand": {
   "pl": "Ethel Brand",
-  "status": "draft"
+  "status": "done"
  },
  "s:Eugenia Gropps": {
   "pl": "Eugenia Gropps",
-  "status": "draft"
+  "status": "done"
  },
  "s:Eugenia Grops": {
   "pl": "Eugenia Grops",
-  "status": "draft"
+  "status": "done"
  },
  "s:Evan Parker": {
   "pl": "Evan Parker",
-  "status": "draft"
+  "status": "done"
  },
  "s:Evie Ortego": {
   "pl": "Evie Ortego",
-  "status": "draft"
+  "status": "done"
  },
  "s:Farrah Wheys": {
   "pl": "Farrah Wheys",
-  "status": "draft"
+  "status": "done"
  },
  "s:Flavia Orwinds": {
   "pl": "Flavia Orwinds",
-  "status": "draft"
+  "status": "done"
  },
  "s:Foster Bouef": {
   "pl": "Foster Bouef",
-  "status": "draft"
+  "status": "done"
  },
  "s:Frank Pines": {
   "pl": "Frank Pines",
-  "status": "draft"
+  "status": "done"
  },
  "s:Frankey Booms": {
   "pl": "Frankey Booms",
-  "status": "draft"
+  "status": "done"
  },
  "s:Frankie Lou": {
   "pl": "Frankie Lou",
-  "status": "draft"
+  "status": "done"
  },
  "s:Gaby Fritter": {
   "pl": "Gaby Fritter",
-  "status": "draft"
+  "status": "done"
  },
  "s:Garrett Nosy": {
   "pl": "Garrett Nosy",
-  "status": "draft"
+  "status": "done"
  },
  "s:Garth Dolomew": {
   "pl": "Garth Dolomew",
-  "status": "draft"
+  "status": "done"
  },
  "s:George Herbert": {
   "pl": "George Herbert",
-  "status": "draft"
+  "status": "done"
  },
  "s:Gerard Bangalter": {
   "pl": "Gerard Bangalter",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ginny Oaks": {
   "pl": "Ginny Oaks",
-  "status": "draft"
+  "status": "done"
  },
  "s:Glenn Cluester": {
   "pl": "Glenn Cluester",
-  "status": "draft"
+  "status": "done"
  },
  "s:Goldie Lawkins": {
   "pl": "Goldie Lawkins",
-  "status": "draft"
+  "status": "done"
  },
  "s:Gordon Packer": {
   "pl": "Gordon Packer",
-  "status": "draft"
+  "status": "done"
  },
  "s:Grace Fulton": {
   "pl": "Grace Fulton",
-  "status": "draft"
+  "status": "done"
  },
  "s:Grace Lafiti": {
   "pl": "Grace Lafiti",
-  "status": "draft"
+  "status": "done"
  },
  "s:Grace Schryer": {
   "pl": "Grace Schryer",
-  "status": "draft"
+  "status": "done"
  },
  "s:Greg Bullworth": {
   "pl": "Greg Bullworth",
-  "status": "draft"
+  "status": "done"
  },
  "s:Groundskeeper Quanty": {
   "pl": "Dozorca Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Harper Dutch": {
   "pl": "Harper Dutch",
-  "status": "draft"
+  "status": "done"
  },
  "s:Harrison Carr": {
   "pl": "Harrison Carr",
-  "status": "draft"
+  "status": "done"
  },
  "s:Headmeast Solange": {
   "pl": "Dyrektorka Solange",
@@ -573,347 +573,347 @@
  },
  "s:Heather Kenns": {
   "pl": "Heather Kenns",
-  "status": "draft"
+  "status": "done"
  },
  "s:Hector Mandola": {
   "pl": "Hector Mandola",
-  "status": "draft"
+  "status": "done"
  },
  "s:Hellen Soup": {
   "pl": "Hellen Soup",
-  "status": "draft"
+  "status": "done"
  },
  "s:Henry Motembo": {
   "pl": "Henry Motembo",
-  "status": "draft"
+  "status": "done"
  },
  "s:Henry Mutombo": {
   "pl": "Henry Mutombo",
-  "status": "draft"
+  "status": "done"
  },
  "s:Hutch Hutchison": {
   "pl": "Hutch Hutchison",
-  "status": "draft"
+  "status": "done"
  },
  "s:Hutch Manning": {
   "pl": "Hutch Manning",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ian Vinsy-Ball": {
   "pl": "Ian Vinsy-Ball",
-  "status": "draft"
+  "status": "done"
  },
  "s:Inga Rotos": {
   "pl": "Inga Rotos",
-  "status": "draft"
+  "status": "done"
  },
  "s:Iris DeVries": {
   "pl": "Iris DeVries",
-  "status": "draft"
+  "status": "done"
  },
  "s:Izzy Dizzy": {
   "pl": "Izzy Dizzy",
-  "status": "draft"
+  "status": "done"
  },
  "s:JP Jonesin": {
   "pl": "JP Jonesin",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jacob Spumoni": {
   "pl": "Jacob Spumoni",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jaime Swoons": {
   "pl": "Jaime Swoons",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jaker Westins": {
   "pl": "Jaker Westins",
-  "status": "draft"
+  "status": "done"
  },
  "s:Janet Hambley": {
   "pl": "Janet Hambley",
-  "status": "draft"
+  "status": "done"
  },
  "s:Janitor Quanty": {
   "pl": "Woźny Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jason Drammers": {
   "pl": "Jason Drammers",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jeremy Reels": {
   "pl": "Jeremy Reels",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jess Tincase": {
   "pl": "Jess Tincase",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jesse Zoltan": {
   "pl": "Jesse Zoltan",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jet Baskin": {
   "pl": "Jet Baskin",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jill Pointer": {
   "pl": "Jill Pointer",
-  "status": "draft"
+  "status": "done"
  },
  "s:Joel Brown": {
   "pl": "Joel Brown",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jonah Crisp": {
   "pl": "Jonah Crisp",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jordan Beaumont": {
   "pl": "Jordan Beaumont",
-  "status": "draft"
+  "status": "done"
  },
  "s:Josh Deprue": {
   "pl": "Josh Deprue",
-  "status": "draft"
+  "status": "done"
  },
  "s:Jules Thimble": {
   "pl": "Jules Thimble",
-  "status": "draft"
+  "status": "done"
  },
  "s:Julia Fischer": {
   "pl": "Julia Fischer",
-  "status": "draft"
+  "status": "done"
  },
  "s:Kari Strudel": {
   "pl": "Kari Strudel",
-  "status": "draft"
+  "status": "done"
  },
  "s:Katie Ganache": {
   "pl": "Katie Ganache",
-  "status": "draft"
+  "status": "done"
  },
  "s:Keith Boham": {
   "pl": "Keith Boham",
-  "status": "draft"
+  "status": "done"
  },
  "s:Keith Bonham": {
   "pl": "Keith Bonham",
-  "status": "draft"
+  "status": "done"
  },
  "s:Kelly Flick": {
   "pl": "Kelly Flick",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ken Frunch": {
   "pl": "Ken Frunch",
-  "status": "draft"
+  "status": "done"
  },
  "s:Kevin Kudder": {
   "pl": "Kevin Kudder",
-  "status": "draft"
+  "status": "done"
  },
  "s:Kris Wiles": {
   "pl": "Kris Wiles",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lachlan Skeaks": {
   "pl": "Lachlan Skeaks",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lando Teller": {
   "pl": "Lando Teller",
-  "status": "draft"
+  "status": "done"
  },
  "s:Leia Levers": {
   "pl": "Leia Levers",
-  "status": "draft"
+  "status": "done"
  },
  "s:Librarian Quanty": {
   "pl": "Bibliotekarz Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lifeguard Qaunty": {
   "pl": "Ratownik Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lifeguard Quanty": {
   "pl": "Ratownik Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lila Silver": {
   "pl": "Lila Silver",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lila Watts": {
   "pl": "Lila Watts",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lilly Wonks": {
   "pl": "Lilly Wonks",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lily Wonks": {
   "pl": "Lily Wonks",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lina Gambs": {
   "pl": "Lina Gambs",
-  "status": "draft"
+  "status": "done"
  },
  "s:Link Lockin": {
   "pl": "Link Lockin",
-  "status": "draft"
+  "status": "done"
  },
  "s:Linus DePresto": {
   "pl": "Linus DePresto",
-  "status": "draft"
+  "status": "done"
  },
  "s:Liona Kicks": {
   "pl": "Liona Kicks",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lora Drops": {
   "pl": "Lora Drops",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lucas Bishop": {
   "pl": "Lucas Bishop",
-  "status": "draft"
+  "status": "done"
  },
  "s:Lucy Bilbons": {
   "pl": "Lucy Bilbons",
-  "status": "draft"
+  "status": "done"
  },
  "s:Luke Grounds": {
   "pl": "Luke Grounds",
-  "status": "draft"
+  "status": "done"
  },
  "s:Maggie Shannon": {
   "pl": "Maggie Shannon",
-  "status": "draft"
+  "status": "done"
  },
  "s:Marcia Vicks": {
   "pl": "Marcia Vicks",
-  "status": "draft"
+  "status": "done"
  },
  "s:Marco McCorkle": {
   "pl": "Marco McCorkle",
-  "status": "draft"
+  "status": "done"
  },
  "s:Marge Barge": {
   "pl": "Marge Barge",
-  "status": "draft"
+  "status": "done"
  },
  "s:Maria Doppels": {
   "pl": "Maria Doppels",
-  "status": "draft"
+  "status": "done"
  },
  "s:Marie Gorund": {
   "pl": "Marie Gorund",
-  "status": "draft"
+  "status": "done"
  },
  "s:Mark Scorpy": {
   "pl": "Mark Scorpy",
-  "status": "draft"
+  "status": "done"
  },
  "s:Martin Vexed": {
   "pl": "Martin Vexed",
-  "status": "draft"
+  "status": "done"
  },
  "s:Marty Mundo": {
   "pl": "Marty Mundo",
-  "status": "draft"
+  "status": "done"
  },
  "s:Maury Silo": {
   "pl": "Maury Silo",
-  "status": "draft"
+  "status": "done"
  },
  "s:Maxine Stappen": {
   "pl": "Maxine Stappen",
-  "status": "draft"
+  "status": "done"
  },
  "s:Mica Obella": {
   "pl": "Mica Obella",
-  "status": "draft"
+  "status": "done"
  },
  "s:Michael Sangle": {
   "pl": "Michael Sangle",
-  "status": "draft"
+  "status": "done"
  },
  "s:Mike T. Umihurtz": {
   "pl": "Mike T. Umihurtz",
-  "status": "draft"
+  "status": "done"
  },
  "s:Mikey Starr": {
   "pl": "Mikey Starr",
-  "status": "draft"
+  "status": "done"
  },
  "s:Miles Salt": {
   "pl": "Miles Salt",
-  "status": "draft"
+  "status": "done"
  },
  "s:Moira Glyphic": {
   "pl": "Moira Glyphic",
-  "status": "draft"
+  "status": "done"
  },
  "s:Nancy Knots": {
   "pl": "Nancy Knots",
-  "status": "draft"
+  "status": "done"
  },
  "s:Natasha Notes": {
   "pl": "Natasha Notes",
-  "status": "draft"
+  "status": "done"
  },
  "s:Nate Noah Nameson": {
   "pl": "Nate Noah Nameson",
-  "status": "draft"
+  "status": "done"
  },
  "s:Nathaniel Barker": {
   "pl": "Nathaniel Barker",
-  "status": "draft"
+  "status": "done"
  },
  "s:Norm Olygon": {
   "pl": "Norm Olygon",
-  "status": "draft"
+  "status": "done"
  },
  "s:Nurse Quanty": {
   "pl": "Pielęgniarz Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Olivia Stewall": {
   "pl": "Olivia Stewall",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ollie Knopps": {
   "pl": "Ollie Knopps",
-  "status": "draft"
+  "status": "done"
  },
  "s:Pac Teevist": {
   "pl": "Pac Teevist",
-  "status": "draft"
+  "status": "done"
  },
  "s:Paige Turner": {
   "pl": "Paige Turner",
-  "status": "draft"
+  "status": "done"
  },
  "s:Patrick Mooney": {
   "pl": "Patrick Mooney",
-  "status": "draft"
+  "status": "done"
  },
  "s:Peggy Cruz": {
   "pl": "Peggy Cruz",
-  "status": "draft"
+  "status": "done"
  },
  "s:Penelope Bard": {
   "pl": "Penelope Bard",
-  "status": "draft"
+  "status": "done"
  },
  "s:Penny Sinclair": {
   "pl": "Penny Sinclair",
-  "status": "draft"
+  "status": "done"
  },
  "s:Peter Hintz": {
   "pl": "Peter Tropiński",
@@ -921,175 +921,175 @@
  },
  "s:Peter Wayne": {
   "pl": "Peter Wayne",
-  "status": "draft"
+  "status": "done"
  },
  "s:Pheobe Geebys": {
   "pl": "Pheobe Geebys",
-  "status": "draft"
+  "status": "done"
  },
  "s:Philip Plastic": {
   "pl": "Philip Plastic",
-  "status": "draft"
+  "status": "done"
  },
  "s:Phillip Phast": {
   "pl": "Phillip Phast",
-  "status": "draft"
+  "status": "done"
  },
  "s:Phoebe Geebys": {
   "pl": "Phoebe Geebys",
-  "status": "draft"
+  "status": "done"
  },
  "s:Phone": {
   "pl": "Telefon",
-  "status": "draft"
+  "status": "done"
  },
  "s:Pip Wines": {
   "pl": "Pip Wines",
-  "status": "draft"
+  "status": "done"
  },
  "s:Polly Scrum": {
   "pl": "Polly Scrum",
-  "status": "draft"
+  "status": "done"
  },
  "s:Poppy Enlok": {
   "pl": "Poppy Enlok",
-  "status": "draft"
+  "status": "done"
  },
  "s:Professer Jeberson": {
   "pl": "Profesor Jeberson",
-  "status": "draft"
+  "status": "done"
  },
  "s:Professor Jeberson<i>": {
   "pl": "Profesor Jeberson<i>",
-  "status": "draft"
+  "status": "done"
  },
  "s:Professor Quanty": {
   "pl": "Profesor Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Professor Von Belini": {
   "pl": "Profesor Von Belini",
-  "status": "draft"
+  "status": "done"
  },
  "s:Puzzle-Man": {
   "pl": "Puzzle-Man",
-  "status": "draft"
+  "status": "done"
  },
  "s:Reuben Rebus": {
   "pl": "Reuben Rebus",
-  "status": "draft"
+  "status": "done"
  },
  "s:Rhys Cups": {
   "pl": "Rhys Cups",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ricky Beret": {
   "pl": "Ricky Beret",
-  "status": "draft"
+  "status": "done"
  },
  "s:Robbie Plant": {
   "pl": "Robbie Plant",
-  "status": "draft"
+  "status": "done"
  },
  "s:Robbie Planter": {
   "pl": "Robbie Planter",
-  "status": "draft"
+  "status": "done"
  },
  "s:Robin Good": {
   "pl": "Robin Good",
-  "status": "draft"
+  "status": "done"
  },
  "s:Rog Michaels": {
   "pl": "Rog Michaels",
-  "status": "draft"
+  "status": "done"
  },
  "s:Roony Mill": {
   "pl": "Roony Mill",
-  "status": "draft"
+  "status": "done"
  },
  "s:Ruth Sparrow": {
   "pl": "Ruth Sparrow",
-  "status": "draft"
+  "status": "done"
  },
  "s:Salina Feens": {
   "pl": "Salina Feens",
-  "status": "draft"
+  "status": "done"
  },
  "s:Sandy Sawson": {
   "pl": "Sandy Sawson",
-  "status": "draft"
+  "status": "done"
  },
  "s:Saoirse Goranson": {
   "pl": "Saoirse Goranson",
-  "status": "draft"
+  "status": "done"
  },
  "s:Schaeffer Park": {
   "pl": "Schaeffer Park",
-  "status": "draft"
+  "status": "done"
  },
  "s:Scott Jorgenson": {
   "pl": "Scott Jorgenson",
-  "status": "draft"
+  "status": "done"
  },
  "s:Sheila Weis": {
   "pl": "Sheila Weis",
-  "status": "draft"
+  "status": "done"
  },
  "s:Sheila Wiles": {
   "pl": "Sheila Wiles",
-  "status": "draft"
+  "status": "done"
  },
  "s:Sheridan Bottas": {
   "pl": "Sheridan Bottas",
-  "status": "draft"
+  "status": "done"
  },
  "s:Skip Vines": {
   "pl": "Skip Vines",
-  "status": "draft"
+  "status": "done"
  },
  "s:Skip Vines<i>": {
   "pl": "Skip Vines<i>",
-  "status": "draft"
+  "status": "done"
  },
  "s:Skip Vines<i></i>": {
   "pl": "Skip Vines<i></i>",
-  "status": "draft"
+  "status": "done"
  },
  "s:Skip Vines<i></i><i>": {
   "pl": "Skip Vines<i></i><i>",
-  "status": "draft"
+  "status": "done"
  },
  "s:Skip Vines<i></i><i></i>": {
   "pl": "Skip Vines<i></i><i></i>",
-  "status": "draft"
+  "status": "done"
  },
  "s:Sophie Mara": {
   "pl": "Sophie Mara",
-  "status": "draft"
+  "status": "done"
  },
  "s:Sperry Paint": {
   "pl": "Sperry Paint",
-  "status": "draft"
+  "status": "done"
  },
  "s:Sperry Pant": {
   "pl": "Sperry Pant",
-  "status": "draft"
+  "status": "done"
  },
  "s:Stacy Parr": {
   "pl": "Stacy Parr",
-  "status": "draft"
+  "status": "done"
  },
  "s:Stephen Queen": {
   "pl": "Stephen Queen",
-  "status": "draft"
+  "status": "done"
  },
  "s:Stevie Picks": {
   "pl": "Stevie Picks",
-  "status": "draft"
+  "status": "done"
  },
  "s:Stinky Steve": {
   "pl": "Stinky Steve",
-  "status": "draft"
+  "status": "done"
  },
  "s:Stunning Steve": {
   "pl": "Oszałamiający Steve",
@@ -1097,31 +1097,31 @@
  },
  "s:Sue Tarmorr": {
   "pl": "Sue Tarmorr",
-  "status": "draft"
+  "status": "done"
  },
  "s:Suki Mathers": {
   "pl": "Suki Mathers",
-  "status": "draft"
+  "status": "done"
  },
  "s:Susan Spiltz": {
   "pl": "Susan Spiltz",
-  "status": "draft"
+  "status": "done"
  },
  "s:Sutton Tuttle": {
   "pl": "Sutton Tuttle",
-  "status": "draft"
+  "status": "done"
  },
  "s:Sylvester Bester": {
   "pl": "Sylvester Bester",
-  "status": "draft"
+  "status": "done"
  },
  "s:Tanya Towse": {
   "pl": "Tanya Towse",
-  "status": "draft"
+  "status": "done"
  },
  "s:Terry Quinn": {
   "pl": "Terry Quinn",
-  "status": "draft"
+  "status": "done"
  },
  "s:Test Student": {
   "pl": "Uczeń testowy",
@@ -1129,43 +1129,43 @@
  },
  "s:Thomas Gusto": {
   "pl": "Thomas Gusto",
-  "status": "draft"
+  "status": "done"
  },
  "s:Toby Grass": {
   "pl": "Toby Grass",
-  "status": "draft"
+  "status": "done"
  },
  "s:Tony Kerrigan": {
   "pl": "Tony Kerrigan",
-  "status": "draft"
+  "status": "done"
  },
  "s:Tony Trumbo": {
   "pl": "Tony Trumbo",
-  "status": "draft"
+  "status": "done"
  },
  "s:Treble Markers": {
   "pl": "Treble Markers",
-  "status": "draft"
+  "status": "done"
  },
  "s:Trent Clueznor": {
   "pl": "Trent Clueznor",
-  "status": "draft"
+  "status": "done"
  },
  "s:Trevor Roods": {
   "pl": "Trevor Roods",
-  "status": "draft"
+  "status": "done"
  },
  "s:Trip Mines": {
   "pl": "Trip Mines",
-  "status": "draft"
+  "status": "done"
  },
  "s:Tristan Reams": {
   "pl": "Tristan Reams",
-  "status": "draft"
+  "status": "done"
  },
  "s:Troy Gimble": {
   "pl": "Troy Gimble",
-  "status": "draft"
+  "status": "done"
  },
  "s:Turmeric": {
   "pl": "Kurkuma",
@@ -1173,71 +1173,71 @@
  },
  "s:Tyler Moorings": {
   "pl": "Tyler Moorings",
-  "status": "draft"
+  "status": "done"
  },
  "s:Tyler Vouch": {
   "pl": "Tyler Vouch",
-  "status": "draft"
+  "status": "done"
  },
  "s:Uma Betts": {
   "pl": "Uma Betts",
-  "status": "draft"
+  "status": "done"
  },
  "s:Vernon Tigo": {
   "pl": "Vernon Tigo",
-  "status": "draft"
+  "status": "done"
  },
  "s:Vi Hernandez": {
   "pl": "Vi Hernandez",
-  "status": "draft"
+  "status": "done"
  },
  "s:Vincent VanStop": {
   "pl": "Vincent VanStop",
-  "status": "draft"
+  "status": "done"
  },
  "s:Warden Quanty": {
   "pl": "Naczelnik Quanty",
-  "status": "draft"
+  "status": "done"
  },
  "s:Wendy Ailey": {
   "pl": "Wendy Ailey",
-  "status": "draft"
+  "status": "done"
  },
  "s:Willem DaPal": {
   "pl": "Willem DaPal",
-  "status": "draft"
+  "status": "done"
  },
  "s:Woody Shaverson": {
   "pl": "Woody Shaverson",
-  "status": "draft"
+  "status": "done"
  },
  "s:Wyatt Bongle": {
   "pl": "Wyatt Bongle",
-  "status": "draft"
+  "status": "done"
  },
  "s:Yelena Carver": {
   "pl": "Yelena Carver",
-  "status": "draft"
+  "status": "done"
  },
  "s:Yousuf Less": {
   "pl": "Yousuf Less",
-  "status": "draft"
+  "status": "done"
  },
  "s:Yusuf Less": {
   "pl": "Yusuf Less",
-  "status": "draft"
+  "status": "done"
  },
  "s:Zoe Marsh": {
   "pl": "Zoe Marsh",
-  "status": "draft"
+  "status": "done"
  },
  "s:Zoe Pulse": {
   "pl": "Zoe Pulse",
-  "status": "draft"
+  "status": "done"
  },
  "s:Zora Glute": {
   "pl": "Zora Glute",
-  "status": "draft"
+  "status": "done"
  },
  "s:title": {
   "pl": "title",

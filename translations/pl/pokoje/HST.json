@@ -5,15 +5,15 @@
  },
  "g:HST_AztecClosed": {
   "pl": "Nie widzę żadnych uchwytów ani przycisków. Jak mam to otworzyć?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_AztecGemsDone": {
   "pl": "Wygląda idealnie! Co dalej?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_AztecKey": {
   "pl": "Starożytny klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_AztecKeysReq_OneMoreKey": {
   "pl": "Jeszcze jeden klucz...",
@@ -21,31 +21,31 @@
  },
  "g:HST_AztecKeysReq_TwoSpots": {
   "pl": "Dwa miejsca na dwa klucze...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_AztecTurkeyTarget": {
   "pl": "Trafisz w indyka, wygrasz nagrodę!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_AztecWhistleNote": {
   "pl": "„Odkrycie Gwizdka zawiodło mnie prosto do Ameryki.”",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Blueprint1": {
   "pl": "Rysunek 1:",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Blueprint2": {
   "pl": "Rysunek 2:",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Blueprint3": {
   "pl": "Rysunek 3:",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Blueprint4": {
   "pl": "Rysunek 4:",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_BlueprintAztec": {
   "pl": "Skarbiec Szyfrezumy",
@@ -53,7 +53,7 @@
  },
  "g:HST_BlueprintChina": {
   "pl": "Szkatuła Kluczfucjusza",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_BlueprintChronicler": {
   "pl": "Skrzynia cudów Sameera",
@@ -61,55 +61,55 @@
  },
  "g:HST_BlueprintGreece": {
   "pl": "Skrzynka Zamkratesa",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Books1": {
   "pl": "Nie ma czasu na czytanie, skrzynia zaraz się samozniszczy!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Books2": {
   "pl": "Widzę, że Jeb stosuje system organizacji zwany „bałaganem”.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_CantLeaveButton": {
   "pl": "Nie mogę po prostu wyjść, choćby lekcja szła fatalnie.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_CantLeaveDoor": {
   "pl": "Nie mogę wyjść w środku lekcji, choćby szło jak po grudzie!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_ChinaFirstDragon": {
   "pl": "Obraz wygląda dobrze! Co teraz?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_ChinaLantern": {
   "pl": "Rozświetlone jak lampion!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_ChinaRooster": {
   "pl": "Królewski kogut",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_ChinaSecondDragon": {
   "pl": "Fajny smok. Ale co on oznacza?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_ChinaSnake": {
   "pl": "Podstępny wąż",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_ChinaTiger": {
   "pl": "Temperamentny tygrys",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_ChroniclerGrid": {
   "pl": "Czy ta siatka nie jest skądś znajoma?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_ChroniclerTimer": {
   "pl": "Czas ucieka!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_ChroniclersChest": {
   "pl": "Skrzynia cudów Sameera",
@@ -117,39 +117,39 @@
  },
  "g:HST_CoinCircle": {
   "pl": "Moneta okrągła",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_CoinCrescent": {
   "pl": "Moneta półksiężycowa",
   "status": "done"
  },
  "g:HST_CoinDagger": {
-  "pl": "Moneta z sztyletem",
-  "status": "draft"
+  "pl": "Moneta ze sztyletem",
+  "status": "done"
  },
  "g:HST_CoinGolden": {
   "pl": "Moneta z łopatą",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_CoinHexagon": {
   "pl": "Moneta sześciokątna",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_CoinProngs": {
   "pl": "Moneta widlasta",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Compass": {
   "pl": "Starożytny kompas",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_CompassDescription": {
   "pl": "Wskazuje drogę.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Cornerstone": {
   "pl": "Prawdziwy kamień węgielny odkrycia – i to dosłownie.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Curtains": {
   "pl": "Żadnego zasłaniania się wymówkami – na pewno to rozwiążę!",
@@ -161,43 +161,43 @@
  },
  "g:HST_EscapistTimes": {
   "pl": "Kurier Eskapisty – Historia lubi się powtarzać: ludzie wciąż pakują rzeczy do pudeł",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Fan": {
   "pl": "Składany wachlarz",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_FanPostInteract": {
   "pl": "Można tu coś zamocować...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Figure2": {
   "pl": "Rysunek 2:",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Globe": {
   "pl": "Zagadki dają mi światowy szlif!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Greece_MissingTorch": {
   "pl": "Tej skrzynce brakuje pochodni...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Greece_Torch": {
   "pl": "Rzeźba pochodni",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Greece_WedgeHex": {
   "pl": "Klin (sześciokątny)",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Greece_WedgeRounded": {
   "pl": "Klin (zaokrąglony)",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Greece_WedgeTriangle": {
   "pl": "Klin (trójkątny)",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_GreekVases": {
   "pl": "Starożytni greccy garncarze mieli niesamowite wyczucie formy.",
@@ -205,87 +205,87 @@
  },
  "g:HST_Hint_BoxesA": {
   "pl": "Nie otwieraj skrzyni, która się rusza! (Pewnie i tak o tym wiesz...)",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_BoxesB": {
-  "pl": "Skrzynię z prawej strony można bezpiecznie otworzyć.",
-  "status": "draft"
+  "pl": "Skrzynię skrajnie po prawej można bezpiecznie otworzyć.",
+  "status": "done"
  },
  "g:HST_Hint_ChinaBox": {
   "pl": "Włóż wachlarz!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_CoinA": {
   "pl": "Każda moneta pasuje do jednego rysunku: sześciokąt = kwiat itd.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_CoinB": {
   "pl": "Żuraw + kwiat = sześciokąt + koło!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_Crowbar": {
   "pl": "Łom, którego potrzebujesz, kupisz tutaj.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_Darts": {
   "pl": "Nie trafisz we wszystkie trzy cele naraz, więc bierz je po kolei.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_EarthquakeA": {
   "pl": "Użyj kompasu, żeby znaleźć POŁUDNIE!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_EarthquakeB": {
   "pl": "Upuść kulki tak, by odpowiadały trzem trzęsieniom ziemi.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_Face": {
   "pl": "Dwie dziurki od klucza... dwoje oczu...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_FirstLayerA": {
   "pl": "Ta siatka...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_FirstLayerB": {
   "pl": "...pasuje do tej siatki.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_GrabLoot": {
   "pl": "Łap łup!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_GreekBox": {
   "pl": "Włóż pochodnię!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_Marbles": {
   "pl": "Zwróć uwagę na zagięcie rury: w jedną stronę możesz ją obrócić jeszcze dalej, a kulki nie wypadną.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_NarcA": {
   "pl": "Woda wygląda jak lustro...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_NarcB": {
   "pl": "Narcyz przeglądał się w wodzie.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_PlacingA": {
   "pl": "Książeczka czekowa idzie tutaj...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_PlacingB": {
   "pl": "Pióro idzie tutaj...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_SecondLayerA": {
   "pl": "Symbole odsłonięte przez węża...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_SecondLayerB": {
   "pl": "...pasują do tej siatki!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_SisyphusA": {
   "pl": "Do rozwiązania tej zagadki potrzeba tylko trzech klinów...",
@@ -297,123 +297,123 @@
  },
  "g:HST_Hint_StarsA": {
   "pl": "Ułóż ten gwiazdozbiór według mapy gwiazd...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_StarsB": {
   "pl": "Potrzebne są dokładnie trzy kształty...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_StarsC": {
   "pl": "Ten w lewym dolnym rogu jest jednym z nich.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Hint_UseWhistle": {
   "pl": "Zdmuchnij te mury.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_InsertCoin": {
   "pl": "Mogę tu wrzucić monetę...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_InsertSisyphusSlots": {
   "pl": "Co tu pasuje?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Jade Snake": {
   "pl": "Jadeitowy wąż",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Laurel": {
   "pl": "Złoty wawrzyn",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Light": {
   "pl": "Co za oświecenie!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_LookUp": {
   "pl": "Co to wyświetla na suficie?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_Bell": {
   "pl": "Dzwonek Reiny",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_Checkbook": {
   "pl": "Książeczka czekowa Fernanda",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_Crowbar": {
   "pl": "Łom",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_CrowbarPermit": {
   "pl": "Pozwolenie na łom",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_CrowbarPermitBody": {
   "pl": "Uprawnia posiadacza do noszenia przy sobie łomu.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_Hat": {
   "pl": "Kapelusz Sameera",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_MustacheWax": {
   "pl": "Wosk do wąsów Sameera",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_Pen": {
   "pl": "Pióro Reiny",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_Ring": {
   "pl": "Pierścień Fernanda",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_Shovel": {
   "pl": "Łopata Sameera",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_META_Item_Sword": {
   "pl": "Miecz Fernanda",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_MagnifyingGlass": {
   "pl": "Powiększ.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_MapFire": {
   "pl": "Ogień",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_MapKey": {
   "pl": "Legenda:",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_MapQuake": {
   "pl": "Trzęsienie",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_MapStorm": {
   "pl": "Burza",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_MarbleLockSolvedMessage": {
   "pl": "Wygląda idealnie! Co dalej?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_CrateContentsSign": {
   "pl": "Zawartość skrzyni",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_CrateDone": {
   "pl": "Tej skrzyni nie dotknę nawet kijem!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_CrateLabel0": {
-  "pl": "Delikatne",
-  "status": "draft"
+  "pl": "Kruche",
+  "status": "done"
  },
  "g:HST_Meta_CrateLabel0W": {
   "pl": "Delikantne",
@@ -421,7 +421,7 @@
  },
  "g:HST_Meta_CrateLabel1": {
   "pl": "Ostrożnie otwierać",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_CrateLabel1W": {
   "pl": "Ostróżnie otwirać",
@@ -429,7 +429,7 @@
  },
  "g:HST_Meta_CrateLabel2": {
   "pl": "Dostawa w 24 h",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_CrateLabel2W": {
   "pl": "Dostwa w 24 h",
@@ -437,7 +437,7 @@
  },
  "g:HST_Meta_CrateLabel3": {
   "pl": "W środku artefakty",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_CrateLabel3W": {
   "pl": "W środku artefkaty",
@@ -445,15 +445,15 @@
  },
  "g:HST_Meta_CratePrompt": {
   "pl": "<color=red>⚠ Czy na pewno, całkowicie i absolutnie chcę otworzyć tę skrzynię?</color>",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_ExhibitPrompt": {
   "pl": "Co powinno trafić do tej gabloty?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_SameersStrongbox_PostRoom": {
   "pl": "Ten maluch naprawdę spina całą wystawę!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_SignBell": {
   "pl": "Eksponat 6<br>Brzmi szlachetnie.",
@@ -461,19 +461,19 @@
  },
  "g:HST_Meta_SignCheckbook": {
   "pl": "Eksponat 3<br>Najpotężniejszy, gdy jest pusty.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_SignChest": {
   "pl": "Skrzynia cudów Sameera",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_SignHat": {
-  "pl": "Eksponat 2<br>Czapka myśliciela na dziesięć galonów.",
-  "status": "draft"
+  "pl": "Eksponat 2<br>Szerokie rondo, jeszcze szersze horyzonty.",
+  "status": "done"
  },
  "g:HST_Meta_SignPen": {
   "pl": "Eksponat 4<br>Znacznie potężniejszy od eksponatu 5.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_SignRing": {
   "pl": "Eksponat 7<br>Jest zrobiony ze szlachetnego kruszcu.",
@@ -481,47 +481,47 @@
  },
  "g:HST_Meta_SignShovel": {
   "pl": "Eksponat 1<br>Podstawa wielu przełomowych odkryć. Dosłownie.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_SignSword": {
   "pl": "Eksponat 5<br>Ostro przechodzi do rzeczy.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_WarningsHeader": {
   "pl": "Jak rozpoznać niebezpieczne skrzynie",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_WarningsInstrux": {
   "pl": "Skrzynia jest niebezpieczna, jeśli ma <u>co najmniej 3</u> znaki ostrzegawcze:",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_WarningsPoster": {
   "pl": "⚠ Jest zabłocona.<br><br>⚠ Rusza się.<br><br>⚠ Ma błędy w etykietach.<br><br>⚠ Cieknie.<br><br>⚠ Nie ma kodu kreskowego.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Meta_Wax": {
   "pl": "Eksponat 8<br>Znak prawdziwego dżentelmena.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookAvoid": {
   "pl": "Unikaj",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookBall": {
   "pl": "Upuszcza kulę w kierunku trzęsienia ziemi",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookCompass": {
   "pl": "Starożytny kompas",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookEarthquake": {
   "pl": "Starożytny wykrywacz trzęsień ziemi",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookFour": {
   "pl": "„Połącz całą czwórkę”",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookGems": {
   "pl": "Klejnoty Szyfrezumy",
@@ -529,11 +529,11 @@
  },
  "g:HST_NotebookHit": {
   "pl": "Uderz",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookKnot": {
   "pl": "Rozplącz węzeł",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookListening": {
   "pl": "„Szyfrezuma zawsze słucha”",
@@ -541,23 +541,23 @@
  },
  "g:HST_NotebookLockKey": {
   "pl": "Ten zamek to <i>klucz</i> do otwarcia skrzyni!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookMedusa": {
   "pl": "Spojrzenie Meduzy",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookNarcissus": {
   "pl": "Narcyz",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookSouth": {
   "pl": "Zawsze wskazuje <b><u>południe</b></u>",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_NotebookWhistle": {
   "pl": "Aztecki gwizdek śmierci",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Password_EKHO": {
   "pl": "E,K,H,O",
@@ -565,23 +565,23 @@
  },
  "g:HST_QuestDesc": {
   "pl": "Dołącz do prof. Jebersona na specjalnych zajęciach z analizy artefaktów!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Quest_Obj_ArtifactAnalysis": {
   "pl": "Ukończ analizę artefaktów.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Quest_Obj_TalkJeb": {
   "pl": "Porozmawiaj z prof. Jebersonem w muzeum.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_RoomName": {
-  "pl": "Myśl w pudełku",
-  "status": "draft"
+  "pl": "Skrzynia z niespodzianką",
+  "status": "done"
  },
  "g:HST_Shield": {
   "pl": "Tarcze w górę!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_SisyphusDone": {
   "pl": "Teraz chyba naprawdę można wyobrazić sobie Syzyfa szczęśliwym?",
@@ -589,7 +589,7 @@
  },
  "g:HST_SlotInteract": {
   "pl": "Tu jest miejsce, w które można coś włożyć...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_SolvedSisyphus": {
   "pl": "Teraz chyba naprawdę można wyobrazić sobie Syzyfa szczęśliwym?",
@@ -597,15 +597,15 @@
  },
  "g:HST_StarChart": {
   "pl": "Dziwna mapa gwiazd",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Subtitle": {
-  "pl": "Odblokuj<br>skrzynię!",
-  "status": "draft"
+  "pl": "Otwórz<br>skrzynię!",
+  "status": "done"
  },
  "g:HST_TNTDone": {
   "pl": "Tajny mechanizm obronny to... TNT!?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_Totem": {
   "pl": "Ten artefakt aż mnie zamurował.",
@@ -617,35 +617,35 @@
  },
  "g:HST_Whistle": {
   "pl": "Aztecki gwizdek śmierci",
-  "status": "draft"
+  "status": "done"
  },
  "g:HST_WhistleDescription": {
   "pl": "Podobno jego krzyk potrafi burzyć mury.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HST_AnotherLayer": {
   "pl": "Kolejna warstwa? Typowe.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HST_HistoryRepeat": {
   "pl": "Historia naprawdę lubi się powtarzać...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HST_SeeMyself": {
   "pl": "Wiesz, widzę w tobie swoje odbicie.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HST_ShakyGround": {
   "pl": "Dobra robota, ale... stoimy tu jeszcze na niepewnym gruncie.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HST_TooSmooth": {
   "pl": "Wiedziałam, że w tym semestrze z Jebem idzie za gładko.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_BlowDart": {
-  "pl": "Tak trzymaj – jeszcze tego nie przedmuchaliśmy.",
-  "status": "draft"
+  "pl": "Tak trzymaj – jeszcze nie zabrakło nam tchu.",
+  "status": "done"
  },
  "v:Jeb_HST_BurntToast": {
   "pl": "Jak nie otworzymy tej skrzynki, jestem spalony. Jak grzanka.",
@@ -657,23 +657,23 @@
  },
  "v:Jeb_HST_DeathWhistle": {
   "pl": "Niech mnie zagadka kopnie, ale to okropne.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_Exhibit": {
   "pl": "Naprawdę wystawiasz tu swój potencjał na pokaz.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_Fail": {
   "pl": "No cóż, chyba zacznę pakować biurko.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_Fan": {
   "pl": "Nie żebym wachlował płomienie, ale... czasu mamy mało!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_FirstLayer": {
   "pl": "Ta rzecz jest jak burrito, które jadłem na lunch – masa warstw i oblewa mnie pot.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_Futile": {
   "pl": "Ech... Zaczyna mi to wyglądać na syzyfową pracę.",
@@ -681,23 +681,23 @@
  },
  "v:Jeb_HST_JadeDragon": {
   "pl": "Szkoda, że każda cywilizacja prędzej czy później robi się zblazowana... jak ten nefryt.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_Paintings": {
   "pl": "Założę się, że te obrazy za swoich czasów szły za dobre pieniądze.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_PicturePuzzle": {
   "pl": "Spokojnie. Spokojnie! Wyobraź sobie tę zagadkę, Jeb, wyobraź sobie zagadkę.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_StarSign": {
   "pl": "Nigdy nie umiałem ustalić swojego znaku zodiaku...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_Start": {
   "pl": "Dobra, tylko nie tracimy głów. Wystarczy, że... rozwiążemy najbardziej legendarną szkatułę-zagadkę w całym świecie eskapistów!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_HST_Win": {
   "pl": "Uff! To rozwiązanie zasługuje na osobny rozdział w podręcznikach do historii.",

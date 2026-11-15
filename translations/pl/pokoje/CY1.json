@@ -101,63 +101,63 @@
  },
  "g:CY1_BlankF1": {
   "pl": "Sameer Gaspard",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankF2": {
   "pl": "Fernando Augustín",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankF3": {
   "pl": "Alistair Bell",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankF4": {
   "pl": "Jego kot",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankF_CA": {
   "pl": "Reina Wym",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankG1": {
   "pl": "Sameer Gaspard",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankG2": {
   "pl": "Reina Wym",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankG3": {
   "pl": "Alistair Bell",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankG4": {
   "pl": "Jego pies",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankG_CA": {
   "pl": "Fernando Augustín",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankH1": {
   "pl": "Sameer Gaspard",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankH2": {
   "pl": "Fernando Augustín",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankH3": {
   "pl": "Reina Wym",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankH4": {
   "pl": "Jego babcia",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_BlankH_CA": {
   "pl": "Alistair Bell",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Books1": {
   "pl": "Czas zamknąć ten rozdział i wiać stąd!",
@@ -165,11 +165,11 @@
  },
  "g:CY1_Books2": {
   "pl": "Tyle tomów, tak mało czasu!",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Books3": {
   "pl": "Jeśli tu utknę, przynajmniej będzie co czytać...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_DensityPuzzle": {
   "pl": "Gęsta sprawa!",
@@ -177,15 +177,15 @@
  },
  "g:CY1_DontFit": {
   "pl": "Nie pasujemy do reszty.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_DustyPlacard": {
-  "pl": "Ta plakietka jest strasznie zakurzona...",
-  "status": "draft"
+  "pl": "Ta tabliczka jest strasznie zakurzona...",
+  "status": "done"
  },
  "g:CY1_EscapistTimes": {
   "pl": "Kurier Eskapisty – Uczniowie telegrafujący na lekcjach to ogromny problem",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Grate": {
   "pl": "No ładnie. Krata ani drgnie – siedzę za kratkami!",
@@ -193,123 +193,123 @@
  },
  "g:CY1_Hint_DoorA": {
   "pl": "Na tych drzwiach jest schemat Pomnika, a niektóre nazwiska są wyróżnione...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_DoorB": {
-  "pl": "Jaki kolor kryje ta plakietka?",
-  "status": "draft"
+  "pl": "Jaki kolor kryje ta tabliczka?",
+  "status": "done"
  },
  "g:CY1_Hint_DustA": {
   "pl": "Odkurz mnie.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_FootpathA": {
   "pl": "Idź ścieżką i rozszyfruj symbole...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_FootpathB": {
   "pl": "...za pomocą tego klucza szyfrowego! Pierwsza litera to {@CY1_PasswordUnmask[0]}.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_MadlibA": {
   "pl": "Zdjęcie podaje tę informację...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_MadlibB": {
-  "pl": "Kamienna tabliczka podaje tę informację...",
-  "status": "draft"
+  "pl": "Kamienna tablica podaje tę informację...",
+  "status": "done"
  },
  "g:CY1_Hint_MadlibC": {
   "pl": "Listy podają tę informację...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_OddOutA": {
   "pl": "Struś nie lata. Różni się od pozostałych.",
   "status": "done"
  },
  "g:CY1_Hint_OddOutB": {
-  "pl": "Znajdź intruza na wszystkich sześciu plakietkach...",
-  "status": "draft"
+  "pl": "Znajdź intruza na wszystkich sześciu tabliczkach...",
+  "status": "done"
  },
  "g:CY1_Hint_OddOutC": {
   "pl": "Potem naciśnij je po kolei na tej skrzyni!",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_PourA": {
   "pl": "Wlej płyny tutaj.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_PourB": {
   "pl": "Zwróć uwagę na kolory płynów, kiedy się unoszą...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_PourC": {
   "pl": "To wygląda znajomo...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Hint_StatueLens": {
   "pl": "Spójrz na ten posąg przez soczewkę.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_DusterBrush": {
   "pl": "Pędzel do kurzu",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_Letter1": {
   "pl": "Ostrzeżenie",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_Letter2": {
   "pl": "Reprymenda",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_Letter3": {
   "pl": "Prośba",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_Liquid_Honey": {
   "pl": "Słoik miodu",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_Liquid_Ink": {
   "pl": "Słoik atramentu",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_Liquid_Oil": {
   "pl": "Butelka oleju",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_Liquid_Wine": {
   "pl": "Butelka wina",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_SameerPaper": {
   "pl": "Fotografia",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Item_SkeletonKey": {
-  "pl": "Klucz szkieleta",
-  "status": "draft"
+  "pl": "Klucz szkieletu",
+  "status": "done"
  },
  "g:CY1_Item_StoneTablet": {
   "pl": "Kamienna tablica",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Letter_AB": {
-  "pl": "Błagam, chcę tylko pożyczyć tabliczkę! Obiecuję, że zaraz ją oddam.<br><br>-A.B.",
-  "status": "draft"
+  "pl": "Błagam, chcę tylko pożyczyć tablicę! Obiecuję, że zaraz ją oddam.<br><br>-A.B.",
+  "status": "done"
  },
  "g:CY1_Letter_FA": {
-  "pl": "To coś jest przeklęte i okropne i nie chcę mieć z tym absolutnie nic wspólnego.<br><br>-F.A.",
-  "status": "draft"
+  "pl": "To coś jest przeklęte i okropne, i nie chcę mieć z tym absolutnie nic wspólnego.<br><br>-F.A.",
+  "status": "done"
  },
  "g:CY1_Letter_RW": {
   "pl": "Przestań tracić czas na gonienie za szalonymi mitami! Masz teraz zajęcia do prowadzenia.<br><br>-R.W.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_META_Item_Cipher": {
   "pl": "Dziwny szyfr",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_MadLib1": {
   "pl": "W roku <br><br><link=\"year\">■</link><br><br> Sameer Gaspard odkopał <br><br><link=\"artifact\">■</link><br><br> starożytnych eskapistów w <br><br><link=\"location\">■</link>",
@@ -325,23 +325,23 @@
  },
  "g:CY1_MadLib4": {
   "pl": "Nic już między nami nie było takie samo.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_CHamberDone": {
   "pl": "Nie ma po co tam wracać, musimy wrócić do naszego pokoju!",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C1R1": {
   "pl": "Reina Wym",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C1R2": {
   "pl": "Fernando Augustín",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C1R3": {
   "pl": "Sameer Gaspard",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C1R4": {
   "pl": "Alicja Oliwkowska",
@@ -349,7 +349,7 @@
  },
  "g:CY1_Meta_Monument_Name_C1R5": {
   "pl": "Julian Hayes",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C2R1": {
   "pl": "Rubina Danielewska",
@@ -361,7 +361,7 @@
  },
  "g:CY1_Meta_Monument_Name_C2R3": {
   "pl": "Nathan Cole",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C2R4": {
   "pl": "Lila Andrzejewska",
@@ -373,15 +373,15 @@
  },
  "g:CY1_Meta_Monument_Name_C3R1": {
   "pl": "Harlan Win",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C3R2": {
   "pl": "Zoe Carter",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C3R3": {
   "pl": "John Lockinger",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C3R4": {
   "pl": "Dominik Rudzki",
@@ -393,7 +393,7 @@
  },
  "g:CY1_Meta_Monument_Name_C4R1": {
   "pl": "Denis Lucas",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C4R2": {
   "pl": "Violetta Wojciechowska",
@@ -401,7 +401,7 @@
  },
  "g:CY1_Meta_Monument_Name_C4R3": {
   "pl": "Charles Ponzkey",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C4R4": {
   "pl": "Oliwia Tokarska",
@@ -413,7 +413,7 @@
  },
  "g:CY1_Meta_Monument_Name_C5R1": {
   "pl": "Rowan Pierce",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C5R2": {
   "pl": "Foo McBar",
@@ -429,31 +429,31 @@
  },
  "g:CY1_Meta_Monument_Name_C5R5": {
   "pl": "Damian Royce",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C6R1": {
   "pl": "Sandra Solange",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C6R2": {
   "pl": "Eel Barnes",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C6R3": {
   "pl": "SLIP (z graffiti)",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C6R4": {
   "pl": "Isabelle Preston",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Monument_Name_C6R5": {
   "pl": "Hugo Ford",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_PlaqueText": {
   "pl": "Tylko ci, którzy mają oczy, mogą zobaczyć.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_QuestDesc": {
   "pl": "Podążaj tropem zostawionym przez założycieli i zbadaj Salę Eskapistów razem z Reedem i Gillian.",
@@ -461,23 +461,23 @@
  },
  "g:CY1_Meta_QuestName": {
   "pl": "Monumentalne odkrycie",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_QuestObj1": {
-  "pl": "Porozmawiaj z Reedem i Gillian na Górnym Wydziale Sztuki.",
-  "status": "draft"
+  "pl": "Porozmawiaj z Reedem i Gillian w górnej części Wydziału Sztuki.",
+  "status": "done"
  },
  "g:CY1_Meta_QuestObj2": {
   "pl": "Zbadaj górną część Wydziału Sztuki nocą.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_QuestObj3": {
   "pl": "Zbadaj tajną komnatę.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_QuestObj4": {
   "pl": "Wróć do pokoju w akademiku z Reedem i Gillian.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Meta_Tempart": {
   "pl": "JOHN PROWIZORSKI",
@@ -497,7 +497,7 @@
  },
  "g:CY1_PourPrompt": {
   "pl": "Wlać płyn do misy?",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Quill": {
   "pl": "Przydałoby się teraz lekkie pióro... i lotny umysł.",
@@ -505,11 +505,11 @@
  },
  "g:CY1_RoomName": {
   "pl": "Pierwsza komnata",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_SameerGaspard": {
   "pl": "Sameer Gaspard jeszcze nigdy nie miał tak kamiennej twarzy.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY1_Scrolls1": {
   "pl": "Pora się <i>zwijać.</i>",
@@ -517,31 +517,31 @@
  },
  "g:CY1_Skeleton": {
   "pl": "Nie wróży to nam nic dobrego.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_CY1_Disappointed": {
   "pl": "Jak to śledztwo utknie w martwym punkcie, będę bardziej rozczarowana niż moi rodzice.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_CY1_MonumentalMoves": {
   "pl": "To był monumentalny ruch.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_CY1_ReadyChamber": {
   "pl": "Możemy iść? Mamy do znalezienia komnatę.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY1_LeaveAlone": {
   "pl": "Nie możecie po prostu odpuścić?",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_7outof10": {
-  "pl": "Eee, ten pokój to tak 7 na 10 na skali tajemniczości.",
-  "status": "draft"
+  "pl": "Eee, ten pokój to tak 7 na 10 w skali tajemniczości.",
+  "status": "done"
  },
  "v:Reed_CY1_CoughDirt": {
   "pl": "*Atak kaszlu* Uff! Mam nadzieję, że to był tylko kurz, który wciągnęliśmy.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_DescribeMeDense": {
   "pl": "Nie wiem czemu, ale niektórzy twierdzą, że jestem ciężkim przypadkiem.",
@@ -549,19 +549,19 @@
  },
  "v:Reed_CY1_Fail": {
   "pl": "No cóż, lepiej się tu rozgośćmy.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_GillianWontBelieve": {
   "pl": "Gillian, nie uwierzysz, jaka super była ta komnata. Gillian?",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_IfTrapped": {
   "pl": "Pomyśl o tym tak: jak tu utkniemy, to przynajmniej nie zabraknie nam lektury.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_LetsSeeSecrets": {
   "pl": "No dobra, podejrzana podziemna komnato. Pokaż nam swoje sekrety!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_MeantToKey": {
   "pl": "Temu gościowi chyba nie był pisany klucz do sukcesu... Szkoda...",
@@ -573,22 +573,22 @@
  },
  "v:Reed_CY1_MovingStatues": {
   "pl": "Ruchome posągi są o wiele częstsze, niż się wydaje. Uważać trzeba na te, które mają własną świadomość.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_SympathizeBox": {
   "pl": "Jeszcze nigdy skrzynia nie wzbudziła we mnie współczucia...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_ThirdCoolestCon": {
   "pl": "Na razie to chyba trzeci najfajniejszy spisek z tych, które znam.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_WeGoUp": {
   "pl": "Wiesz, że w nocy słońce wcale nie zachodzi, tylko my wschodzimy?",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_CY1_Win": {
   "pl": "Pierwsza komnata zaliczona.",
-  "status": "draft"
+  "status": "done"
  }
 }

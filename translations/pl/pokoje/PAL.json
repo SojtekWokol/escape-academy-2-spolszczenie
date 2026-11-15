@@ -1,15 +1,15 @@
 {
  "g:PAL_AlistairLetter_Alone": {
   "pl": "Zostawili mnie samego w tej celi! Jak mogli?!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_AlistairLetter_Betray": {
   "pl": "Nie mają wizji dla szkoły. Tylko ja mogę nią pokierować!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_AlistairLetter_Underestimate": {
   "pl": "Nie mają szacunku dla błyskotliwego umysłu! To tchórze!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_BallSculpture": {
   "pl": "Pora, żeby jego niecne plany trafiły kulą w płot!",
@@ -17,39 +17,39 @@
  },
  "g:PAL_BalloonDog": {
   "pl": "Czas przebić tego klauna!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Bell": {
   "pl": "Alistair, ten dzwon bije właśnie dla ciebie!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Bookshelf1": {
   "pl": "To ostatni rozdział...",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Bookshelf2": {
-  "pl": "Złożę go jak książkę w miękkiej oprawie!",
-  "status": "draft"
+  "pl": "Zamknę go jak przeczytaną książkę!",
+  "status": "done"
  },
  "g:PAL_Bust1": {
   "pl": "Alistair zaraz spadnie z piedestału!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Bust2": {
   "pl": "Od tego miejsca kręci mi się w głowie!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_CannonLight": {
-  "pl": "Gotowa! Cel! Brakuje tylko ognia!",
-  "status": "draft"
+  "pl": "Ładuj! Cel! Brakuje tylko ognia!",
+  "status": "done"
  },
  "g:PAL_CannonLoad": {
   "pl": "Tej armacie przydałaby się amunicja...",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Corners": {
   "pl": "zakręty",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_CubeSculpture": {
   "pl": "Kości zostały rzucone – stawię czoła wszystkiemu, co na mnie rzuci! ",
@@ -65,11 +65,11 @@
  },
  "g:PAL_Doom1": {
   "pl": "Twoja zagłada",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_EscapistTimes": {
   "pl": "Kurier Eskapisty – PROFIL: Alistair Bell wcale nie taki zły, po prostu myli się w paru sprawach",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_1Box": {
   "pl": "Do otwarcia tej skrzyni potrzebujesz klucza z jednym szpicem.",
@@ -77,7 +77,7 @@
  },
  "g:PAL_Hint_Backtrack": {
   "pl": "Jeśli brakuje ci kluczy, może być konieczny powrót.",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_BlueBox": {
   "pl": "Do otwarcia tej skrzyni potrzebujesz niebieskiego klucza.",
@@ -85,39 +85,39 @@
  },
  "g:PAL_Hint_Bridge13A": {
   "pl": "Jeśli nie masz odpowiednich kluczy do odblokowania mostu...",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_Bridge13B": {
   "pl": "...może być konieczny powrót.",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_Bridge13C": {
   "pl": "Ten most przyjmuje tylko czerwone klucze.",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_Bridge8A": {
   "pl": "Ten most chce żółtego...",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_Bridge8B": {
   "pl": "...To czerwony i zielony!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_Bridge9": {
   "pl": "Użyj dwóch kluczy, które razem mają 9 szpiców.",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_MagentaA": {
   "pl": "Ten most potrzebuje magenty...",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_MagentaB": {
   "pl": "To niebieski i czerwony razem!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_Reuse": {
   "pl": "Niektóre klucze są tu używane więcej niż raz.",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Hint_WhiteA": {
   "pl": "Biały = czerwony + niebieski + zielony",
@@ -125,131 +125,131 @@
  },
  "g:PAL_Hint_Zipline": {
   "pl": "Zjedź tyrolką!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_1of4": {
   "pl": "(1 z 4)",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_2of4": {
   "pl": "(2 z 4)",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_3of4": {
   "pl": "(3 z 4)",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_4of4": {
   "pl": "(4 z 4)",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_ColorDiagram": {
   "pl": "Schemat kolorów",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_0": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_0y": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_1": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_2": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_3": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_4": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_5": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_6": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_7": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_8": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_9": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_9y": {
   "pl": "Klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_Blue": {
   "pl": "Niebieski klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_Green": {
   "pl": "Zielony klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_Key_Red": {
   "pl": "Czerwony klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_LetterFromFounders": {
   "pl": "List założycielki",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_PaperAlistair": {
   "pl": "Rozproszona myśl",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Item_ReinasLetter": {
   "pl": "Ostatnie słowa Reiny Wym",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Keyhole": {
   "pl": "Jaki klucz tu pasuje?",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Ledges": {
   "pl": "występy",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Monument": {
   "pl": "Ten pojedynek będzie monumentalny!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Plant1": {
-  "pl": "Dochodzę do korzenia jego zła...",
-  "status": "draft"
+  "pl": "Docieram do korzeni jego zła...",
+  "status": "done"
  },
  "g:PAL_ReinaLetterA": {
-  "pl": "Escape Academy było moim marzeniem. Zbudowałam ją razem z największymi umysłami mojego pokolenia: Alistairem Bellem, Fernandem Augustínem i Sameerem Gaspardem. Każde z nich było na swój sposób geniuszem.",
-  "status": "draft"
+  "pl": "Escape Academy była moim marzeniem. Zbudowałam ją razem z największymi umysłami mojego pokolenia: Alistairem Bellem, Fernandem Augustínem i Sameerem Gaspardem. Każdy z nich był na swój sposób geniuszem.",
+  "status": "done"
  },
  "g:PAL_ReinaLetterB": {
-  "pl": "Ale byliśmy aroganccy – nie umieliśmy sobie wyobrazić, że szkoła przetrwa bez nas. To doprowadziło do strasznego błędu, który naraził naszych uczniów na niebezpieczeństwo. Nie widziałam innego wyjścia, jak uwięzić Alistaira, ale wina leży po nas wszystkich. ",
-  "status": "draft"
+  "pl": "Ale byliśmy aroganccy – nie umieliśmy sobie wyobrazić, że szkoła przetrwa bez nas. To doprowadziło do strasznego błędu, który naraził naszych uczniów na niebezpieczeństwo. Nie widziałam innego wyjścia, jak uwięzić Alistaira, ale winni jesteśmy wszyscy.",
+  "status": "done"
  },
  "g:PAL_ReinaLetterC": {
   "pl": "Pod koniec życia zrozumiałam, że w Escape Academy nigdy nie chodziło o założycieli, ale o uczniów – o tych, którzy się uczą, dostosowują i rosną. Dlatego zbudowałam tajne komnaty, ufając, że pewnego dnia któryś z uczniów odkryje prawdę.",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_ReinaLetterD": {
   "pl": "Gdy ten dzień nadejdzie, przewyższą nasze umiejętności, a dzieło mojego życia będzie dopełnione. I wiem, że Fernando, Sameer, a nawet Alistair też byliby dumni.<br><br>Podpisano,",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_RoomName": {
   "pl": "Co starszym chodzi po głowie",
@@ -257,23 +257,23 @@
  },
  "g:PAL_SteamPipes": {
   "pl": "Alistair to tylko para w gwizdek!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_Subtitle": {
   "pl": "Zatrzymaj<br>Alistaira Bella!",
-  "status": "draft"
+  "status": "done"
  },
  "g:PAL_TurningBack": {
   "pl": "Nie ma już odwrotu...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_PAL_YoureHere": {
   "pl": "Jesteś tu! A ja nie wiem, gdzie to „tu” jest...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gordon_PAL_Baggage": {
   "pl": "Słyszałem o bagażu doświadczeń, ale to już przesada.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_PAL_YouFoundUs": {
   "pl": "Udało ci się nas znaleźć!",
@@ -281,7 +281,7 @@
  },
  "v:Paige_PAL_NotGoodRead": {
   "pl": "Kompletnie nie mogę tego rozczytać.",
-  "status": "draft"
+  "status": "done"
  },
  "v:StudentF_PAL_PuzzForScapin": {
   "pl": "Co to za zagadkowa dziura?",
@@ -293,15 +293,15 @@
  },
  "v:StudentM_PAL_DontLikePlace": {
   "pl": "Nie przepadam za tym miejscem.",
-  "status": "draft"
+  "status": "done"
  },
  "v:StudentM_PAL_LastYear": {
   "pl": "Nie pamiętam tego z zeszłego roku.",
-  "status": "draft"
+  "status": "done"
  },
  "v:StudentM_PAL_OnTest": {
   "pl": "Czy to będzie na sprawdzianie?",
-  "status": "draft"
+  "status": "done"
  },
  "v:StudentM_PAL_PuzzedUp": {
   "pl": "Ale tu zagadkowo, stary!",
@@ -313,66 +313,66 @@
  },
  "v:VonBellini_PAL_DoYouMIND": {
   "pl": "Zejdź mi z głowy!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_GiveUpNow": {
   "pl": "Poddaj się teraz, a uznamy, że było, minęło – woda pod mostem.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_HopingYoudJoin": {
   "pl": "Liczyłem, że dołączysz do tej uczty dla umysłu.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_HowdYouGetInHere": {
   "pl": "Hej – jak to się tu w ogóle znalazło? To jest mój mózg, nie twój.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_ImmenseDelight": {
-  "pl": "Z ogromną przyjemnością cię ostemplę.",
-  "status": "draft"
+  "pl": "Z ogromną przyjemnością przypieczętuję twój los.",
+  "status": "done"
  },
  "v:VonBellini_PAL_InsistOnRelentless": {
-  "pl": "Musisz być taki nieustępliwy? To brzydka cecha.",
-  "status": "draft"
+  "pl": "Naprawdę musisz się tak upierać? Nieustępliwość to brzydka cecha.",
+  "status": "done"
  },
  "v:VonBellini_PAL_NothingThatLetterSays": {
   "pl": "Nic, co jest w tym liście, tego nie powstrzyma. Musisz to wiedzieć.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_Nowyou'veTakenThings": {
-  "pl": "Teraz to już posunąłeś się o most za daleko.",
-  "status": "draft"
+  "pl": "Tym razem to już o jeden most za daleko.",
+  "status": "done"
  },
  "v:VonBellini_PAL_PenMighterThanSword": {
   "pl": "Każdy wie, że pióro jest potężniejsze od miecza – ale umysł pokona jedno i drugie.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_RoomWin": {
   "pl": "ggyyyeeeeEEAAAAHHHHHH!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_RoomWinALT": {
   "pl": "Moja Akademia!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_ThisIsFutile": {
   "pl": "To bezcelowe. Akademia należy do mnie!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_ThoughtWeLearned": {
-  "pl": "Myślałem, że nauczyliśmy się lekcji o strzelaniu z armat w niestabilnych miejscach!",
-  "status": "draft"
+  "pl": "Myślałem, że już dostaliśmy nauczkę za strzelanie z armat w niestabilnych miejscach!",
+  "status": "done"
  },
  "v:VonBellini_PAL_WhatsYourGoal": {
   "pl": "Co właściwie zamierzasz tu osiągnąć, hmm?",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_WhoDareIntrude": {
   "pl": "Któż śmie wtargnąć w moje myśli?",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_PAL_YoureJustTakingOrders": {
   "pl": "Czyli po prostu wykonujesz rozkazy Solange co do litery, tak? Żałosne.",
-  "status": "draft"
+  "status": "done"
  }
 }

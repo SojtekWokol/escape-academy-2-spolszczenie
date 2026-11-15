@@ -1,63 +1,63 @@
 {
  "g:TIC_AcademySign": {
   "pl": "<mspace=1>Escape Academy</mspace>",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_AlreadyPaid": {
   "pl": "Już zapłacone! Co dalej?",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_DestinationCode": {
   "pl": "WPISZ KOD CELU",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_EscapeShackDoor": {
   "pl": "Pff. Kto by chciał wracać do prawdziwego świata, skoro czeka kolejny rok do podbicia w Escape Academy! ",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_EscapistTimes": {
   "pl": "Kurier Eskapisty – Dyrektorka Solange uparcie zapewnia, że ten rok szkolny będzie „wolny od dramatów i przewrotów”",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_EscapistTimes1": {
-  "pl": "„KURIER ESKAPISTY – Dyrektorka Sandra Solange obiecuje w Academy ‚rok bez dramatów i przewrotów’.” ",
-  "status": "draft"
+  "pl": "„KURIER ESKAPISTY – Dyrektorka Sandra Solange obiecuje Akademii ‚rok bez dramatów i przewrotów’.”",
+  "status": "done"
  },
  "g:TIC_EscapistTimes2": {
   "pl": "„KURIER ESKAPISTY – Roślina ludojad wykluczona ze Stowarzyszenia Zagadkowych Wegan”",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Hackannery": {
   "pl": "<mspace=1>Hakownia</mspace>",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Hint_SignalHintA": {
   "pl": "Każdy sygnał ma inny kształt...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Hint_SignalHintB": {
   "pl": "Pierwsza litera to {@TIC_TramSteamLock[0]}.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Hint_TramStop": {
   "pl": "Skąd kojarzę te kolorowe skrzyżowania?",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_InsertMoney": {
   "pl": "Wrzuć 3 $",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Kiosk": {
   "pl": "Automat biletowy",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_LocksmithCove": {
   "pl": "<mspace=1>Zatoka Ślusarza</mspace>",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_MoneyAccepted": {
   "pl": "PŁATNOŚĆ PRZYJĘTA",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_NewLockCity": {
   "pl": "<mspace=1>Nowy Kłódków</mspace>",
@@ -65,51 +65,51 @@
  },
  "g:TIC_NoCalling": {
   "pl": "Teraz się nie rozłączam!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_NoEntryTicket": {
   "pl": "„Wstęp tylko z biletem”",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Notice": {
   "pl": "UWAGA",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Pointing": {
   "pl": "Wytykanie palcami jest niegrzeczne. Ale jeśli musisz, możesz to zrobić, naciskając ",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_PostChevron_1": {
   "pl": "K",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_PostChevron_2": {
   "pl": "L",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_PostChevron_3": {
   "pl": "D",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_PostWedge_1": {
   "pl": "E",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_PostWedge_2": {
   "pl": "J",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_PostWedge_3": {
   "pl": "R",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_PuzzleTown": {
   "pl": "<mspace=1>ZAGADKOWO</mspace>",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_RoomName": {
   "pl": "Brak biletu",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Running": {
   "pl": "Bezpieczeństwo w tramwaju:<br>Zakaz biegania!<br>NIE przytrzymuj ",
@@ -117,63 +117,63 @@
  },
  "g:TIC_SafetyCrawl": {
   "pl": "<b>Bezpieczeństwo w tramwaju: </b><br>Nie dotykaj rękami podłogi!<br>NIE CZOŁGAJ SIĘ, naciskając ",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_SchoolName": {
   "pl": "Escape Academy",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_ShowmansStudio": {
   "pl": "<mspace=1>Studio Showmana</mspace>",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_StationSign": {
   "pl": "Stacja Szopa Ucieczek",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Stops": {
   "pl": "Przystanki tramwajowe",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Subtitle": {
   "pl": "Wsiądź<br>do tramwaju!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Tapestry": {
   "pl": "Ciekawe, co ten rok nam <i>utka</i>! ",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_Tapestry2": {
   "pl": "Mam nadzieję, że w Escape Academy czeka nas kolejny sztandarowy rok!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_ThirdPost_1": {
   "pl": "O",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_ThirdPost_2": {
   "pl": "A",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_ThirdPost_3": {
   "pl": "T",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_TicketBoothQuip": {
   "pl": "Chyba spróbuję takiego, który działa...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_TimeTicking": {
   "pl": "Czas ucieka... Muszę zdążyć na ten tramwaj!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_TramDoorNotice": {
   "pl": "Drzwi tramwaju otworzą się po gwizdku",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_TramSafety": {
   "pl": "Bezpieczeństwo w tramwaju:<br>Zakaz skakania!<br>NIE SKACZ, naciskając ",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_TramSteamLock": {
   "pl": "K,O,L,E,J",
@@ -181,7 +181,7 @@
  },
  "g:TIC_Tramticket": {
   "pl": "Bilet tramwajowy",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_TrashQuip": {
   "pl": "Gdy wszyscy odpadają, nie bądź odpadem.",
@@ -189,54 +189,54 @@
  },
  "g:TIC_VendingMachineQuip": {
   "pl": "Nie wiem, czy mój pęcherz zniesie Eska-Colę przed jazdą tramwajem...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TIC_WaveTutorial": {
   "pl": "Okaż odrobinę sympatii. Pomachaj do ludzi, naciskając ",
-  "status": "draft"
+  "status": "done"
  },
  "v:Announcer_TIC_NowBoarding": {
   "pl": "Tramwaj do Escape Academy podstawiony. Tramwaj do oświecenia opóźniony do odwołania.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Announcer_TIC_RoomStart": {
   "pl": "Witamy na stacji Szopa Ucieczek. Tramwaj nie będzie na ciebie czekać.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_TIC_GettingBored": {
   "pl": "Otwierajmy ten tramwaj, bo zaraz zasnę z nudów. Proszę wsiadać!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_TIC_GoodVent": {
   "pl": "Muszę się porządnie wywentylować. Rodzice doprowadzali mnie tego lata do szału...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_TIC_PuzzleNotDest": {
   "pl": "Kto mówi, że liczy się zagadka, a nie cel podróży, ten się myli.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_TIC_TicketFaster": {
   "pl": "Och. Zdobycie biletu poszło ci szybciej, niż liczyłam.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_TIC_WontJump": {
   "pl": "W tym roku mnie nie wyprzedzisz!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gordon_TIC_PackLight": {
   "pl": "Zawsze pakuję się na lekko.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_TIC_NormalYear": {
   "pl": "Niech to będzie zwyczajny rok ze zwyczajnymi współlokatorami...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_TIC_PublishAnything": {
   "pl": "W „Kurierze Eskapisty” wydrukują wszystko, oprócz prawdy.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Solange_TIC_TitleDrop": {
   "pl": "Dobra, uczniowie, trzymajcie się mocno. Czas wracać... do szkoły!",
-  "status": "draft"
+  "status": "done"
  }
 }

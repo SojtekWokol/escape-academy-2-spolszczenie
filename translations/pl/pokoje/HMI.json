@@ -1,31 +1,31 @@
 {
  "g:HMI_BlueprintHeader": {
   "pl": "Schemat ",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_DormDoor": {
   "pl": "Nie mogę tak po prostu wyjść! Mamy plan.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_EscapistTimes": {
   "pl": "Kurier Eskapisty – Dyrektorka Solange w ogniu krytyki po wślizgu pod płonący stół",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_FancyPadlock": {
   "pl": "Dość wyszukana kłódka...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Hint_BookshelfA": {
   "pl": "Trzymaj się dokładnie tych wskazówek. Niektóre książki to pułapki!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Hint_BookshelfB": {
   "pl": "Lasery utworzą cyfry. Pierwsza to „5”.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Hint_JigsawA": {
   "pl": "Te elementy układanki tworzą idealny kwadrat.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Hint_JigsawB": {
   "pl": "Ten element nie może się ruszać. Uwzględnij to w planie.",
@@ -33,43 +33,43 @@
  },
  "g:HMI_Hint_LaserActivate": {
   "pl": "Włącz lasery.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Hint_VentA": {
   "pl": "Dotrzyj do środka tarczy. To gabinet Solange.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Hint_VentB": {
-  "pl": "Użyj eliminacji i obserwacji Gillian. Tylko jeden schemat jest prawidłowy.",
-  "status": "draft"
+  "pl": "Skorzystaj z metody eliminacji i obserwacji Gillian. Tylko jeden schemat jest prawidłowy.",
+  "status": "done"
  },
  "g:HMI_Hint_VentC": {
   "pl": "Gillian widziała skrzynkę z narzędziami na północy. To od razu wyklucza schemat B.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Hint_WallA": {
   "pl": "Przeczytaj pogrubione słowa na głos. Zauważasz coś?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Hint_WallB": {
   "pl": "Ten diagram wygląda jak regał z drabiną. Gdzie jeszcze coś takiego było?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Hint_WallC": {
   "pl": "Najpierw naciśnij tarczę. Potem motyla. Co dalej?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_LeverText": {
   "pl": "Ani drgnie. Kod musi być zły...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_META_Item_KeyFancy": {
   "pl": "Ozdobny klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_META_Item_KeyOrdinary": {
   "pl": "Zwykły klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_META_Item_ReshelvingRules": {
   "pl": "Zasady odkładania książek",
@@ -77,59 +77,59 @@
  },
  "g:HMI_META_Item_SafeCodeDiagram": {
   "pl": "Tajemnicza kartka",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_META_Item_SneakyScrewdriver": {
   "pl": "Podstępny śrubokręt",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_BookShelfDoorPrompt": {
   "pl": "Wygląda podejrzanie. Ale jak to otworzyć?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_BookStack": {
   "pl": "Szkoda, że nie umiem czytać...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Answers": {
   "pl": "...i odpowiedzi",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_BananaBoy": {
   "pl": "Kobyła ma mały bok",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_BirdFlocks": {
   "pl": "Ptasie chmary",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_CircusArts": {
   "pl": "Sztuki cyrkowe",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Cooking4Clues": {
   "pl": "Gotowanie na tropie",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Cryptids": {
   "pl": "Kryptydy",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Dog": {
   "pl": "Zakopane na pokaz",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_EvilOlive": {
   "pl": "A to kanapa pana kota",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_FixingClocks": {
   "pl": "Naprawiamy zegary",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Horses": {
   "pl": "Konie",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_IdentifyingBlocks": {
   "pl": "Kamienne filary",
@@ -141,27 +141,27 @@
  },
  "g:HMI_Office_Book_MeetRiddle": {
   "pl": "Zagadki w pół drogi",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_MountainClimbing": {
   "pl": "Wspinaczka górska",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_MysteriesV2": {
   "pl": "Tajemnice – tom 2",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_MysteriesV3": {
   "pl": "Tajemnice – tom 3",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_NeverOddOrEven": {
   "pl": "Rotor",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_PuzzleWars": {
   "pl": "Wojny łamigłówek",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Questions": {
   "pl": "Pytania...",
@@ -169,15 +169,15 @@
  },
  "g:HMI_Office_Book_RaceCar": {
   "pl": "Kajak",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_RiddleMeThat": {
   "pl": "Zgadnij tamto",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_RiddleMeThis": {
   "pl": "Zgadnij to",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Riddles4Fools": {
   "pl": "Zagadki dla bystrzaków",
@@ -185,7 +185,7 @@
  },
  "g:HMI_Office_Book_RiddlesAndYou": {
   "pl": "Ty i zagadki",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Rooks": {
   "pl": "Malarze",
@@ -198,19 +198,19 @@
  },
  "g:HMI_Office_Book_SnakesTrain": {
   "pl": "Węże w pociągu",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Turtles": {
   "pl": "Żółwie",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Book_Whales": {
   "pl": "Wieloryby",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Bust": {
   "pl": "Jeszcze kilka takich popiersi i półka pęknie z wrażenia!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Butterfly": {
   "pl": "Motyla noga, ale piękny!",
@@ -218,11 +218,11 @@
  },
  "g:HMI_Office_CoatRack": {
   "pl": "Podobno dyrektorka ma taki płaszcz na każdy dzień tygodnia.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_DiscoBall": {
   "pl": "Jazda, czuję ten rytm!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_EelMask": {
   "pl": "Ten rok nie wróży wiEELe dobrego...",
@@ -230,39 +230,39 @@
  },
  "g:HMI_Office_EscapeDoor": {
   "pl": "Nie możemy wyjść, musimy znaleźć okulary!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_EyeGem": {
   "pl": "Coś mi w tej półce wpada w oko.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Globe": {
   "pl": "Jak dyrektorka Solange nakryje nas na węszeniu, to nam się świat zawali!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_GrandFatherClock1": {
   "pl": "...Dziadku? To ty?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_GrandFatherClock2": {
   "pl": "Czas nieubłaganie tyka!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_InactiveSafe": {
   "pl": "Ciekawe, co dyrektorka <i>zamknęła</i> w tym sejfie...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Key": {
   "pl": "Jak to jest klucz, to wolę nie widzieć drzwi.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Kitchentron": {
   "pl": "Rany. Ta bestia pewnie przewraca burgery taśmowo.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_LockedCase": {
   "pl": "Te książki muszą zawierać wiedzę o ucieczkach zbyt potężną dla uczniów...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_LockedShelf": {
   "pl": "No dobrze, pani dyrektor. Niech pani zachowa swoje tajemnice...",
@@ -270,39 +270,39 @@
  },
  "g:HMI_Office_Mystery1": {
   "pl": "Te zapiski sięgają <i>200 lat wstecz...</i>",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Mystery2": {
-  "pl": "Mnóstwo notatek o kartach i ich założycielach...",
-  "status": "draft"
+  "pl": "Mnóstwo notatek o kolorach kart i ich założycielach...",
+  "status": "done"
  },
  "g:HMI_Office_Mystery3": {
   "pl": "Niszczenie dokumentów to <i>na pewno</i> coś, co robi ktoś, kto nie ma nic do ukrycia!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Mystery4": {
   "pl": "Wszystkie te akta uczniów są zamazane, a zdjęcia zakryte... <i>co się z nimi stało?</i>",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Mystery5": {
   "pl": "Prywatna baza danych Solange. Ciekawe, czy są tu nasze oceny...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Orbiter": {
   "pl": "Kręci mi się w głowie!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_PariahsPhoto": {
   "pl": "Czemu moja grupa do nauki nie ma fajnych masek?",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Pillow1": {
   "pl": "Oby sprzedawali takie w księgarni na kampusie!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Pillow2": {
   "pl": "„Uwaga: skutki uboczne mogą obejmować drzemkę”",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_PipeValve": {
   "pl": "Zagadki idą mi płynnie, bez żadnych zatorów.",
@@ -314,39 +314,39 @@
  },
  "g:HMI_Office_Plant2": {
   "pl": "Żeby nie było, że się wyrywam, ale liczę na twardszą konkurencję w tym roku...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_PostDETShelf": {
   "pl": "Chyba nie powinno się ich znowu otwierać...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_PuzzlePiecesInactive": {
   "pl": "Zagadkowy wybór dekoracji...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Pyramid": {
   "pl": "Przysięgam, że były większe...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_RubicsCube": {
   "pl": "Pfff... dziecinna igraszka.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Shield": {
   "pl": "Już czuję się bezpieczniej...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Ssssnake": {
   "pl": "Sssst!",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_TableLamp": {
   "pl": "Zawsze czekam na kolejną żarówkę nad głową.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Trophy1": {
   "pl": "„Wybitne osiągnięcia w dyrektorowaniu za pokonanie złego robota własnej konstrukcji.”",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Office_Trophy2": {
   "pl": "„Najlepsza zamkazania – konkurs kulinarny Escape Academy”",
@@ -358,11 +358,11 @@
  },
  "g:HMI_Office_Trophy4": {
   "pl": "Może prawdziwą nagrodą są zagadki, które rozwiązaliśmy po drodze.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Quest_Description": {
   "pl": "Odzyskaj tajne okulary z gabinetu dyrektorki.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Quest_Name": {
   "pl": "Rozwiązane nie kradzione",
@@ -370,19 +370,19 @@
  },
  "g:HMI_Quest_Step0": {
   "pl": "Porozmawiaj z Gillian w pokoju w akademiku.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Quest_Step1": {
   "pl": "Włam się do gabinetu dyrektorki.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Quest_Step1B": {
   "pl": "Poprowadź Gillian przez szyby wentylacyjne.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Quest_Step2": {
-  "pl": "Ukradnij okulary z powrotem.",
-  "status": "draft"
+  "pl": "Wykradnij okulary.",
+  "status": "done"
  },
  "g:HMI_ReshelvingRulesA": {
   "pl": "Zasady układania na półkach:",
@@ -390,11 +390,11 @@
  },
  "g:HMI_ReshelvingRulesB": {
   "pl": "Proszę wyjąć...",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_ReshelvingRulesC": {
   "pl": "1. Wszystkie książki o zagadkach.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_ReshelvingRulesCombined": {
   "pl": "1. Wszystkie książki o zagadkach.<br>2. Wszystkie książki, które rymują się z „okulary”.<br>3. Wszystkie tytuły, które czyta się tak samo od przodu i od tyłu.",
@@ -409,48 +409,48 @@
   "status": "done"
  },
  "g:HMI_RoomName": {
-  "pl": "Oko na nagrodę",
-  "status": "draft"
+  "pl": "Nagroda na oku",
+  "status": "done"
  },
  "g:HMI_ShelfLaser": {
   "pl": "Laser na półce",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_StuckPiece": {
   "pl": "Ten element utknął na miejscu.",
-  "status": "draft"
+  "status": "done"
  },
  "g:HMI_Subtitle": {
   "pl": "Znajdź<br>okulary!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HMI_ComeOn": {
   "pl": "Dalej.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HMI_GetSearching": {
   "pl": "Bierzcie się do szukania, te okulary muszą tu gdzieś być.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HMI_H-Headmaster": {
   "pl": "P-pani dyrektor!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HMI_SpinIt": {
-  "pl": "Jak byś tego nie kręcił, Solange zachowywała się w muzeum dziwnie.",
-  "status": "draft"
+  "pl": "Jakkolwiek to obrócić, Solange zachowywała się w muzeum dziwnie.",
+  "status": "done"
  },
  "v:Gillian_HMI_ThinkGilThink": {
   "pl": "Myśl, Gillian, myśl. Gdybyś była parą tajnych okularów, gdzie byś się ukryła...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HMI_TipBigPuzzle": {
   "pl": "Zaczyna to wyglądać na czubek bardzo wielkiej góry lodowej... zagadek.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HMI_TonightsNight": {
   "pl": "Dziś w nocy zdobędziemy te okulary...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Gillian_HMI_YesIRead": {
   "pl": "*ksh* Tak. Słyszę cię. *ksh*",
@@ -458,34 +458,34 @@
  },
  "v:Kira_HMI_ShouldntDoThis": {
   "pl": "Naprawdę nie powinniście tego robić...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_HMI_HeistOffice": {
   "pl": "Okradnijmy gabinet dyrektorki!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_HMI_NeverTrustBookshelf": {
   "pl": "Jasne. Regałom nigdy nie wolno ufać.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_HMI_SealedSecrets": {
   "pl": "Ciekawe, jakie jeszcze sekrety Solange tu zapieczętowała.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_HMI_TestingTesting": {
   "pl": "*ksh* Raz, dwa. Raz, dwa. Gillian, odbiór? *ksh*",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_HMI_WeExplain": {
   "pl": "Możemy to wyjaśnić.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_HMI_WonderAliens": {
   "pl": "Ciekawe, czy okulary pokażą, że wszyscy są kosmitami. A może to ja jestem z innej planety.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Solange_HMI_WhatAreYouDoingInMySwamp": {
   "pl": "Co, na litość Escape, robicie w moim gabinecie?",
-  "status": "draft"
+  "status": "done"
  }
 }

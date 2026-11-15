@@ -1,31 +1,31 @@
 {
  "g:RAT_16lbs": {
   "pl": "<size=2em>7,2</size> kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_22lbs": {
   "pl": "<size=2em>10</size> kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_28lbs": {
   "pl": "<size=2em>12,7</size> kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_2lbs": {
   "pl": "<size=2em>0,9</size> kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_3lbs": {
   "pl": "<size=2em>1,4</size> kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_5lbs": {
   "pl": "<size=2em>2,3</size> kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_7lbs": {
   "pl": "<size=2em>3,1</size> kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_8lbs": {
   "pl": "<size=2em>3,5</size> kg",
@@ -33,15 +33,15 @@
  },
  "g:RAT_9lbs": {
   "pl": "<size=2em>4</size> kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Balance": {
   "pl": "Trzeba to jakoś wyważyć...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_BasketballQuip": {
   "pl": "Lepiej mi idzie rozwiązywanie zagadek niż rzucanie do kosza...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_BelovedPet": {
   "pl": "Poznaj Kurkumę<br>Ukochaną maskotkę klasy!",
@@ -49,19 +49,19 @@
  },
  "g:RAT_BelovedPet2": {
   "pl": "Kocha ser! Taka milutka!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Boat": {
   "pl": "Model łodzi",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_BoatNoWater": {
   "pl": "Ta łódka wygląda jakoś... sucho.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_BounceShots": {
   "pl": "Tylko rzuty z odbicia",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Candles": {
   "pl": "Żadna porządna deska serów nie obejdzie się bez wosku!",
@@ -69,11 +69,11 @@
  },
  "g:RAT_ChartInteract": {
   "pl": "„Harmonogram karmienia serem”?",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_CheeseLocation": {
   "pl": "Cały ser trzymaj w lodówce!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Cheeseboard": {
   "pl": "Mam nadzieję, że profesor Von Bellini uzna, że ser-io się nadaję, i znów weźmie mnie do pomocy.",
@@ -89,7 +89,7 @@
  },
  "g:RAT_EngineJoke": {
   "pl": "Koń mechaniczny? Ja chcę zobaczyć szczura mechanicznego.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Equations": {
   "pl": "Energia kinetyczna: <br>KE = 1/2mv<sup>2</sup><br><br>Energia potencjalna: <br>U = MGH<br><br>Pęd: <br>P = MV<br><br>Tatapęd: <br>P = Poszedł na ryby",
@@ -97,7 +97,7 @@
  },
  "g:RAT_EscapistTimes": {
   "pl": "Kurier Eskapisty – Naukowcy zabierają głos: eksperymenty? Niezbyt przydatne",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_FeedingChart": {
   "pl": "Harmonogram karmienia Kurkumy serem",
@@ -105,7 +105,7 @@
  },
  "g:RAT_Files1": {
   "pl": "„Całkowicie legalne eksperymenty nr 33–85”",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Files2": {
   "pl": "„Harmonogramy karmienia Kurkumy”",
@@ -113,11 +113,11 @@
  },
  "g:RAT_Files3": {
   "pl": "„Schematy maszynerii”",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Formulas": {
   "pl": "WZORY <br>NAUKOWE",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_GarbageBin": {
   "pl": "Rozwiązane i do kosza.",
@@ -129,99 +129,99 @@
  },
  "g:RAT_Hint_Back": {
   "pl": "Wkradnij się od tyłu i przeprowadź eksperyment!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_Basketball": {
   "pl": "Upuść piłkę i patrz, jak się odbija!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_CheeseMashChem": {
   "pl": "{@RAT_ChemsegoTramp} to połączenie trzech serów.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_CheeseMashMan": {
   "pl": "{@RAT_MancorsanTramp} to połączenie trzech serów.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_CheeseMashParm": {
   "pl": "{@RAT_ParmeddinoTramp} to połączenie trzech serów.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_CheeseRollA": {
   "pl": "Obracaj krążek, aby dopasować go do ikon na zamku.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_CheeseRollB": {
   "pl": "Obserwuj, jak krążek się toczy. Których symboli nie zakrywa?",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_CheeseWheelInsert": {
   "pl": "Tutaj świetnie wyglądałby krążek sera.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_ClipboardA": {
   "pl": "Połóż trochę sera na harmonogramie...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_ClipboardB": {
   "pl": "Czytaj między dziurami...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_ClipboardC": {
   "pl": "...i wpisz dane tutaj!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_LaserA": {
   "pl": "Odbij światło między lustrami...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_LaserB": {
   "pl": "...tak, by trafiło w pryzmat!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_PotentialA": {
   "pl": "Jest na to wzór naukowy: {@RAT_PotentialFormula}",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_PotentialB": {
   "pl": "„{@RAT_PotentialFormula[0]}” ma kolor żółty...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_Rocket": {
   "pl": "3... 2... 1... Start!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_Roller": {
   "pl": "Przetocz kulkę przez labirynt!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_SlingshotA": {
   "pl": "Ta proca nadaje się do wystrzeliwania różnych rzeczy...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_SlingshotB": {
   "pl": "Wystrzel samoloty i zmierz „{@RAT_ClosestFurthest}”.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_SlingshotC": {
   "pl": "Dopasuj kolory samolotów do symboli.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_StoreA": {
   "pl": "Nie musisz kupować WSZYSTKIEGO w sklepie...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_StoreB": {
   "pl": "Przyjrzyj się uważnie liście zakupów profesora.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_Tracks": {
   "pl": "Dokończ tory kolejowe.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_Trampoline": {
   "pl": "Trzy miejsca na trzy trampoliny...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Hint_Wheel": {
   "pl": "Włóż Kurkumę do jej kołowrotka!",
@@ -229,95 +229,95 @@
  },
  "g:RAT_HoopPrompt": {
   "pl": "Rzućmy do kosza!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Basketball": {
   "pl": "Piłka do koszykówki",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_BlueAirplane": {
   "pl": "Niebieski samolot",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_CheeseWheel": {
   "pl": "Krążek sera",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Doorkey": {
   "pl": "Klucz do drzwi",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_GreenAirplane": {
   "pl": "Zielony samolot",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Materials": {
   "pl": "Materiały budowlane",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_RedAirplane": {
   "pl": "Czerwony samolot",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Rocket": {
   "pl": "Rakieta-zabawka",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_ShoppingList": {
   "pl": "Lista zakupów",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_SwissCheese": {
   "pl": "Ser szwajcarski",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_TrainTracks": {
   "pl": "Tory kolejowe",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Trampoline": {
   "pl": "Trampolina",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Weight_2": {
   "pl": "Odważnik 2 kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Weight_3": {
   "pl": "Odważnik 3 kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Weight_5": {
   "pl": "Odważnik 5 kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Weight_7": {
   "pl": "Odważnik 7 kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Weight_8": {
   "pl": "Odważnik 8 kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_Weight_9": {
   "pl": "Odważnik 9 kg",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Item_YellowAirplane": {
   "pl": "Żółty samolot",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_LeadGears": {
   "pl": "Ołowiane koła zębate",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_LetsRoll": {
   "pl": "Niech się toczy!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_META_Item_GearsLead": {
   "pl": "Ołowiane koła zębate",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_META_Item_GearsPlastic": {
   "pl": "Plastikowe koła zębate",
@@ -325,35 +325,35 @@
  },
  "g:RAT_META_Item_GearsSteel": {
   "pl": "Stalowe koła zębate",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_META_Item_ModelBoat": {
   "pl": "Model łodzi",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_META_Item_ModelPlane": {
   "pl": "Model samolotu",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_META_Item_ModelTrain": {
   "pl": "Model pociągu",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_META_Item_Tubes1": {
   "pl": "Plastikowa rurka (1 m)",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_META_Item_Tubes2": {
   "pl": "Plastikowa rurka (2 m)",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_META_Item_Tubes5": {
   "pl": "Plastikowa rurka (5 m)",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_META_Item_Tubes7": {
   "pl": "Plastikowa rurka (7 m)",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_MancorsanTramp": {
   "pl": "MANCORSAN",
@@ -361,15 +361,15 @@
  },
  "g:RAT_NoNeed": {
   "pl": "Nie ma już po co tego ruszać.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_NotEating": {
   "pl": "Cokolwiek to jest, tego nie zjem...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_NothinginMaze": {
   "pl": "Nie ma tu nic do kręcenia...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Olives": {
   "pl": "Te zagadki to oliwa do ognia mojego apetytu.",
@@ -385,7 +385,7 @@
  },
  "g:RAT_Plane": {
   "pl": "Model samolotu",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_PlasticGears": {
   "pl": "Plastikowe koła zębate",
@@ -393,31 +393,31 @@
  },
  "g:RAT_PotentialFormula": {
   "pl": "U=MGH",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_PotentialLock": {
   "pl": "Ten zamek ma <b>POTENCJAŁ</b>",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Roll": {
   "pl": "Mam coś stoczyć po tej rampie?",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_RoomName": {
   "pl": "Olśnienie",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_SailboatJoke": {
   "pl": "Jak dotąd ten eksperyment płynie jak po wodzie.",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_SealedTight": {
   "pl": "Zamknięte na głucho...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_ShoppingList": {
-  "pl": "▢ Dokładnie 10 m plastikowej rurki<br>▢ Lekkie koła zębate<br>▢ Miniaturowy żaglowiec<br>▢ Lokomotywa parowa w rozmiarze gryzonia<br><br>Weź wszystko ze sklepu! –Prof. Von Bellini",
-  "status": "draft"
+  "pl": "▢ Dokładnie 10 m plastikowej rurki<br>▢ Lekkie koła zębate<br>▢ Miniaturowy żaglowiec<br>▢ Lokomotywa parowa w rozmiarze gryzonia<br><br>Weź wszystko z magazynu! – Prof. Von Bellini",
+  "status": "done"
  },
  "g:RAT_Sink": {
   "pl": "Wątpliwe eksperymenty profesora Von Bellini coraz bardziej mi się... zlewają.",
@@ -425,7 +425,7 @@
  },
  "g:RAT_SlingshotPrompt": {
   "pl": "Czym mogę z tego wystrzelić? ",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Spread": {
   "pl": "Dzisiejsza deska:<br>1. Salami<br>2. Pepperoni<br>3. Brie<br>4. Oliwki<br>5. Pecorino<br>6. Manchego<br>7. Ogórki<br>8. Parmesan<br>9. Cheddar",
@@ -433,19 +433,19 @@
  },
  "g:RAT_SteelGears": {
   "pl": "Stalowe koła zębate",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Subtitle": {
   "pl": "Zasil<br>żarówkę!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_TestSubject": {
   "pl": "Oto nasz obiekt testowy!",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Train": {
   "pl": "Model pociągu",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_TrainJoke": {
   "pl": "Kurkuma ma do tego prawdziwy pociąg.",
@@ -453,31 +453,31 @@
  },
  "g:RAT_TrainMissing": {
   "pl": "Brakuje tu kawałka torów...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_TrampInteract": {
   "pl": "Co za podejrzanie trampolinowy znaczek...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_TrolleyJoke": {
   "pl": "Ta przejażdżka tramwajem wygląda przyjemniej niż moja poprzednia...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Tubing1m": {
   "pl": "Plastikowa rurka (1 m)",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Tubing2m": {
   "pl": "Plastikowa rurka (2 m)",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Tubing5m": {
   "pl": "Plastikowa rurka (5 m)",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Tubing7m": {
   "pl": "Plastikowa rurka (7 m)",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_UrgentWheel": {
   "pl": "Muszę wsadzić Kurkumę do tego kołowrotka!",
@@ -485,11 +485,11 @@
  },
  "g:RAT_VonBellini": {
   "pl": "Von Bellini",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_Wallclock": {
   "pl": "Czas ucieka...",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_WaterPun": {
   "pl": "Co tu się dzieje, że aż woda się leje?",
@@ -501,47 +501,47 @@
  },
  "g:RAT_Wheels": {
   "pl": "Co to takiego?",
-  "status": "draft"
+  "status": "done"
  },
  "g:RAT_WindBoat": {
   "pl": "Tej łódce przydałby się wiaterek...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Solange_RAT_HowManyTimes": {
   "pl": "Barton... ile razy mam to powtarzać?",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_37PercentAboveBoard": {
   "pl": "Spokojnie, to jest legalne mniej więcej w 37%.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_CheeseIntake": {
   "pl": "Uważaj z serem, szkodzi twojej fizyce – i figurze!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_DontAllowYourPotential": {
   "pl": "Nie pozwól, by twój potencjał zabarwił proces naukowy.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_DontSpinOut": {
   "pl": "Tylko się tam na dole nie zakręć, dopiero zaczynamy.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_ExperimentAwaits": {
   "pl": "Czeka nas eksperyment.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_FirstIteration": {
   "pl": "Pierwsza wersja miała trebusz. Szkoda, że się tu nie zmieścił.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_FlagYouDown": {
   "pl": "Spokojnie, zamacham flagą, gdy usłyszę Solange.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_HowManyPoints": {
   "pl": "Ile to punktów? Serio, nie wiem. ",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_InPrismedMind": {
   "pl": "Nigdy nie patrz na wszystko przez pryzmat jednej zagadki.",
@@ -549,19 +549,19 @@
  },
  "v:VonBellini_RAT_LabAssistantOnARoll": {
   "pl": "Nasza asystentka laboratoryjna toczy się jak burza!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_Liftoff": {
   "pl": "Start!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_NeedlesslyElaborate": {
   "pl": "Chyba nikt nie nazwie moich eksperymentów niepotrzebnie skomplikowanymi, prawda?",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_NobodyCanEscape": {
   "pl": "Nikt nie ucieknie przed wyścigiem szczurów.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_PuzzkillSolange": {
   "pl": "Oj, Solange, nie psuj nam zagadkowej zabawy.",
@@ -569,15 +569,15 @@
  },
  "v:VonBellini_RAT_RatsRap": {
   "pl": "Uważam, że szczury nie zasługują na złą opinię. Są bardzo przydatne.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_SlowIsSmooth": {
   "pl": "Powoli, a płynnie. Płynnie, a szybko. A szybko znaczy, że Solange nas nie przyłapie!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_SuccessfulPetProject": {
   "pl": "Kolejny udany projekt, i to z pupilem!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_TurmericTraining": {
   "pl": "No dobra, Kurkumo, całą parą! Właśnie po to trenowałaś.",
@@ -585,7 +585,7 @@
  },
  "v:VonBellini_RAT_WouldntBelieveHowLong": {
   "pl": "Nie uwierzysz, jak długo ludzie trzymają tam swoje rzeczy...",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_RAT_YesTurmeric": {
   "pl": "Tak, Kurkumo, tak!",

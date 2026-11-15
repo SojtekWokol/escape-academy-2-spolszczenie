@@ -1,7 +1,7 @@
 {
  "g:AHY_Aft": {
   "pl": "Rufa",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_BarrelJoke": {
   "pl": "Nasza podróż dopiero zaczynała się <i>toczyć</i>!",
@@ -9,31 +9,31 @@
  },
  "g:AHY_BarrelStuck": {
   "pl": "Tej beczki nie da się ruszyć!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Bellini": {
   "pl": "Von Bellini",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Birdcage": {
   "pl": "Czas wyfrunąć z klatki!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_BlankBook": {
   "pl": "Pusta kartka, pusta głowa... co dalej?",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Books1": {
-  "pl": "Mnóstwo książek, ale żadna z nich nie zawiera notatek z laboratorium Profesora Von Bellini...",
-  "status": "draft"
+  "pl": "Mnóstwo książek, ale w żadnej nie ma notatek laboratoryjnych profesora Von Belliniego...",
+  "status": "done"
  },
  "g:AHY_Books2": {
   "pl": "Wolę suchą literaturę.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_BottleLabel": {
-  "pl": "Pora zabutelkować moje lęki!",
-  "status": "draft"
+  "pl": "Pora zakorkować moje lęki!",
+  "status": "done"
  },
  "g:AHY_CannonMessage": {
   "pl": "Odpal tę armatę, <b>CHOLERA</b>!",
@@ -53,11 +53,11 @@
  },
  "g:AHY_CourseChartingRules": {
   "pl": "<b>Zasady wyznaczania kursu:</b><br>Zauważ, jak prądy i wiatry łączą się, wyznaczając trasę statku...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_CraneGuys": {
   "pl": "Opłać leniwych operatorów dźwigu.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_CrateJokeLabel": {
   "pl": "Pudło za pudłem!",
@@ -65,15 +65,15 @@
  },
  "g:AHY_Currents": {
   "pl": "Prądy",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_DivingSuit": {
   "pl": "Szkoda, że nie ma więcej takich...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_DivingSuit_Alt": {
   "pl": "Ten strój raczej nie jest szyty na miarę dzisiejszych czasów.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Duck": {
   "pl": "Presja? Spływa po mnie jak woda po kaczce!",
@@ -81,11 +81,11 @@
  },
  "g:AHY_EscapistTimes": {
   "pl": "Kurier Eskapisty – RAPORT: Emerytura to tonący statek, pracuj, aż pójdziesz na dno",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_FishLabel": {
   "pl": "Idzie nam jak ryba w wodzie...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Flares": {
   "pl": "Race",
@@ -93,35 +93,35 @@
  },
  "g:AHY_Fore": {
   "pl": "Dziób",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Fruitbowl": {
   "pl": "To pożegnanie na emeryturę nie okazało się zbyt owocne...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Globe": {
   "pl": "Mamy problem... globalnych rozmiarów.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hammock": {
   "pl": "To nie czas na drzemkę!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_HelloWorld": {
   "pl": "Witaj, świecie!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_CodeA": {
   "pl": "Na tym plakacie ukryte są żeglarskie terminy.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_CodeB": {
   "pl": "Każdy kierunek na statku odpowiada jednemu symbolowi.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_FlagsA": {
   "pl": "Przeczytaj całą wiadomość z flag, zanim czegokolwiek dotkniesz.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_FlagsB": {
   "pl": "Szukaj w tym pomieszczeniu.",
@@ -129,119 +129,119 @@
  },
  "g:AHY_Hint_LifeboatLoad": {
   "pl": "Załaduj łódź!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_LifeboatLock": {
   "pl": "Przejdź labirynt, żeby poznać kombinację.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_LifeboatWin": {
   "pl": "Odcumuj!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_ShapesA": {
   "pl": "Ułóż liną słowo {@AHY_CannonWord}...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_ShapesB": {
   "pl": "Potem znajdź te kształty! Pierwszy to „7”.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_TicTacToeA": {
   "pl": "Krzyżyki są już wypełnione. Ty uzupełnij kółka.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_TicTacToeB": {
   "pl": "W którą stronę wskazują strzałki po zakończeniu gry?",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_TidesA": {
   "pl": "Zwróć uwagę, jak łączą się pływy i wiatry...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_TidesB": {
   "pl": "Statek zaczyna w C6. Potem płynie w górę do B5...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_TidesC": {
   "pl": "Zanotuj, jakie zwierzęta spotykasz po drodze.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_VestsA": {
   "pl": "Wprowadź tę kombinację...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_VestsB": {
   "pl": "...na tym kole sterowym. Zwróć uwagę na położenie strzałki.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Hint_Von": {
   "pl": "Profesor jest na zewnątrz, za Fabryką Łamigłówek.",
   "status": "done"
  },
  "g:AHY_Hint_VonB": {
-  "pl": "Spotkaj Profesora Von Bellini na łodzi i postaw żagle!",
-  "status": "draft"
+  "pl": "Spotkaj się z profesorem Von Bellinim na łodzi i postaw żagle!",
+  "status": "done"
  },
  "g:AHY_InsertCannonball": {
   "pl": "Ta armata potrzebuje czegoś do wystrzelenia...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_InsertLighter": {
   "pl": "Masz ogień?",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_CannonBallSingle": {
   "pl": "Kula armatnia",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_CurrentsDiagram": {
   "pl": "Mapa prądów",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_Flares": {
   "pl": "Race",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_LifeVest": {
   "pl": "Kamizelka ratunkowa",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_LifeboatSupplyChart": {
   "pl": "Spis zapasów łodzi ratunkowej",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_Lighter": {
   "pl": "Zapalniczka",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_MessageBottle": {
   "pl": "List w butelce",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_NauticalFlagsBottle": {
   "pl": "Schemat flag morskich",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_Rations": {
   "pl": "Racje żywnościowe",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Item_WindDiagram": {
   "pl": "Mapa wiatrów",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_JammedDoor": {
   "pl": "Drzwi się zacięły! Ani drgną!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_LemonCrate": {
   "pl": "Rozbić w razie szkorbutu",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_LemonLabel": {
   "pl": "Gdy życie daje ci cytryny...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_LifeBoatBeach": {
   "pl": "Nie do wiary, że to wszystko, co zostało z Czerwonego Śledzia...",
@@ -257,19 +257,19 @@
  },
  "g:AHY_Meta_QuestDesc": {
   "pl": "Pomóż Von Belliniemu wypłynąć na emeryturę.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Meta_QuestName": {
   "pl": "Von Wojaż",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Meta_QuestObj1": {
   "pl": "Porozmawiaj z prof. Von Bellinim przy Fabryce Łamigłówek.",
   "status": "done"
  },
  "g:AHY_Meta_QuestObj2": {
-  "pl": "Przekup operatorów dźwigów.",
-  "status": "draft"
+  "pl": "Przekup operatorów dźwigu.",
+  "status": "done"
  },
  "g:AHY_Meta_QuestObj3": {
   "pl": "Podnieś żagle!",
@@ -277,19 +277,19 @@
  },
  "g:AHY_Meta_VonStuff": {
   "pl": "Rzeczy Von Belliniego",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_NeedRope": {
   "pl": "Przydałaby się lina.",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Painting": {
   "pl": "„Maelstrom”",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_PartyCrate": {
   "pl": "Rozbić w razie imprezy",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Password_Lemon": {
   "pl": "C,Y,T,R,Y,N,A",
@@ -297,23 +297,23 @@
  },
  "g:AHY_PlacePaper": {
   "pl": "Mogę tu położyć kartkę papieru...",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Port": {
   "pl": "Bakburta",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Rations": {
   "pl": "Racje żywnościowe",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RoomName": {
   "pl": "Von Wojaż",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopeCoil": {
   "pl": "Jestem u kresu sił... i liny!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopeMessage": {
   "pl": "Zwalczam szkorbut",
@@ -321,7 +321,7 @@
  },
  "g:AHY_RopePoint_A": {
   "pl": "O",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopePoint_B": {
   "pl": "C",
@@ -333,47 +333,47 @@
  },
  "g:AHY_RopePoint_D": {
   "pl": "A",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopePoint_E": {
   "pl": "R",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopePoint_H": {
   "pl": "Z",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopePoint_L": {
   "pl": "H",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopePoint_O": {
   "pl": "M",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopePoint_R": {
   "pl": "N",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopePoint_S": {
   "pl": "L",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopePoint_T": {
   "pl": "E",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_RopePoint_U": {
   "pl": "D",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_SandCrate": {
   "pl": "Rozbić w razie pożaru",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_SandLabel": {
   "pl": "Nie czas chować głowę w piasek!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_SavePW": {
   "pl": "L,I,N,A",
@@ -385,15 +385,15 @@
  },
  "g:AHY_ShutDoorLabel": {
   "pl": "Jedyne wyjście prowadzi w górę!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Starboard": {
   "pl": "Sterburta",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Subtitle": {
   "pl": "Opuść<br>statek!",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_TheEyes": {
   "pl": "KTO MA OKO, TEN ZOBACZY",
@@ -401,59 +401,59 @@
  },
  "g:AHY_TicTacToeMessage": {
   "pl": "Twój ruch, kamracie",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Wheel_A": {
   "pl": "I",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Wheel_E": {
   "pl": "A",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Wheel_G": {
   "pl": "K",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Wheel_I": {
   "pl": "M",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Wheel_L": {
   "pl": "D",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Wheel_S": {
   "pl": "L",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Wheel_V": {
   "pl": "N",
-  "status": "draft"
+  "status": "done"
  },
  "g:AHY_Winds": {
   "pl": "Wiatry",
-  "status": "draft"
+  "status": "done"
  },
  "v:Chester_AHY_WaitDoSomething": {
   "pl": "Moment – zamierzasz nas o coś poprosić?",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jesse_AHY_Bogus": {
   "pl": "To jakaś ściema!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_AHY_WhatAreYouPlotting": {
   "pl": "Reed, co ty knujesz?",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_AHY_N-Nothing": {
   "pl": "N-nic!!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Reed_AHY_N-NothingALT": {
   "pl": "N-nic!! Zupełnie nic. Wszystko w porządku.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_AhoyAssistant": {
   "pl": "Ahoj, prawa ręko!",
@@ -461,11 +461,11 @@
  },
  "v:VonBellini_AHY_BarrelingThroughPuzzles": {
   "pl": "Toczmy się dalej przez te zagadki jak beczka, musimy dotrzeć do szalupy ratunkowej.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_Brb": {
   "pl": "Zaraz wracam.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_CaptainGoesDown": {
   "pl": "Nie przyznaję racji zasadzie, że „kapitan tonie wraz ze statkiem”.",
@@ -473,11 +473,11 @@
  },
  "v:VonBellini_AHY_CaptainObvious": {
   "pl": "Nie chcę być kapitanem Oczywistym, ale... nie jesteśmy w najlepszej formie.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_Cripes": {
   "pl": "Rany, chyba zostawiłem notatki z laboratorium na statku...",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_CurrentSituationHa": {
   "pl": "Nasza bieżąca sytuacja mogłaby być lepsza, owszem.",
@@ -485,7 +485,7 @@
  },
  "v:VonBellini_AHY_EasyNow": {
   "pl": "Spokojnie... SPOKOJNIE... CZŁOWIEK ZA BUUUuuurtą... *Plusk*",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_EscapingTheAcademyRollCredits": {
   "pl": "Ta Akademia zawsze musi narobić dymu.",
@@ -493,7 +493,7 @@
  },
  "v:VonBellini_AHY_ExhaustingRetirement": {
   "pl": "Nikt mi nie powiedział, że emerytura będzie taka... wyczerpująca.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_FailsafesAreBad": {
   "pl": "Te zabezpieczenia to bajka na dobranoc, co?",
@@ -501,27 +501,27 @@
  },
  "v:VonBellini_AHY_HitDeck": {
   "pl": "Na pokład!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_LandHo": {
   "pl": "Ląd na horyzoncie! A nie, jednak nie.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_NotLeavingWithoutThemNotes": {
   "pl": "Nie odpływam, nie bez moich notatek z laboratorium!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_OnASinkingShip": {
   "pl": "Strzelasz z armaty na tonącym statku?!",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_OnTheRopes": {
   "pl": "Lepiej wisieć na linach, niż spacerować po desce.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_RestrictedWaters": {
   "pl": "Szkoda, że to wody zakazane, inaczej moglibyśmy komuś zamachać flagą i go zatrzymać.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_SeeNothingSayNothing": {
   "pl": "Cokolwiek robisz, ignoruj bieżącą wodę, która zalewa statek.",
@@ -533,27 +533,27 @@
  },
  "v:VonBellini_AHY_ShouldveThoughtAboutIt": {
   "pl": "Naprawdę powinniśmy byli pomyśleć, co się stanie, jeśli zabezpieczenia zadziałają, gdy ktoś będzie na dole.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_ShoveOff": {
-  "pl": "Szybko, czas odbijać od brzegu.",
-  "status": "draft"
+  "pl": "Szybko, czas odbijać!",
+  "status": "done"
  },
  "v:VonBellini_AHY_SmellsLikeCedar": {
   "pl": "Dziennik kapitana: Pachnie cedrem.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_SoMuchForRetirement": {
   "pl": "Taka to długa emerytura. Blub. Blub. Blub...",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_SolangeWasRight": {
   "pl": "Solange zawsze mówiła, że jesteś kołem ratunkowym.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_StayOntarget": {
   "pl": "Trzymaj kurs na cel! Nikt nie lubi niesfornej armaty.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_TooMuchSecurity": {
   "pl": "Na tym ustrojstwie jest stanowczo za dużo przeklętych zabezpieczeń...",
@@ -561,10 +561,10 @@
  },
  "v:VonBellini_AHY_Upupup": {
   "pl": "Do góry, do góry! Nie ty, wodo, ty zostajesz tam, gdzie jesteś.",
-  "status": "draft"
+  "status": "done"
  },
  "v:VonBellini_AHY_WereSinking": {
   "pl": "Dziennik kapitana: Toniemy.",
-  "status": "draft"
+  "status": "done"
  }
 }

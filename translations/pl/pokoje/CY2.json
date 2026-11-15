@@ -1,7 +1,7 @@
 {
  "g:CY2_Aries": {
   "pl": "Baran",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Barrels": {
   "pl": "Siedzę na beczce prochu!",
@@ -9,103 +9,103 @@
  },
  "g:CY2_BigDipper": {
   "pl": "Wielka Niedźwiedzica",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankA1": {
   "pl": "nudziliśmy się",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankA2": {
   "pl": "często nas nie było",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankA3": {
   "pl": "byliśmy przytłoczeni",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankA4": {
   "pl": "byliśmy na urlopie",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankA_CA": {
   "pl": "starzeliśmy się",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankB1": {
   "pl": "zapomni o swojej historii",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankB2": {
   "pl": "zmieni przedmioty",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankB3": {
   "pl": "będzie prosperować",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankB4": {
   "pl": "sprawi sobie maskotkę",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankB_CA": {
   "pl": "się rozpadnie",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankC1": {
   "pl": "przesądów",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankC2": {
   "pl": "optymizmu",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankC3": {
   "pl": "religii",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankC4": {
   "pl": "mody",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankC_CA": {
   "pl": "nauki",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankD1": {
   "pl": "zaćmienia",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankD2": {
   "pl": "zakończenia roku",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankD3": {
   "pl": "koncertu",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankD4": {
   "pl": "Mardi Gras",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankD_CA": {
   "pl": "Burzy Mózgów",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankE1": {
   "pl": "zaklęcie",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankE2": {
   "pl": "kontakt",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankE3": {
   "pl": "substancja chemiczna",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankE4": {
   "pl": "ból głowy",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_BlankE_CA": {
   "pl": "wynalazek",
@@ -113,11 +113,11 @@
  },
  "g:CY2_Bootes": {
   "pl": "Wolarz",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Event1": {
   "pl": "Przemówienie Reiny",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Event2": {
   "pl": "Zakończenie roku",
@@ -125,75 +125,75 @@
  },
  "g:CY2_Calendar_Event3": {
   "pl": "Darmowe pączki",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Event4": {
   "pl": "Zaćmienie Księżyca",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Event5": {
   "pl": "Koncert",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_EventCA": {
   "pl": "Burza Mózgów",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Friday": {
   "pl": "Piątek",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Header": {
   "pl": "Lipiec 1838",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Monday": {
   "pl": "Poniedziałek",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Saturday": {
   "pl": "Sobota",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Sunday": {
   "pl": "Niedziela",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Thursday": {
   "pl": "Czwartek",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Tuesday": {
   "pl": "Wtorek",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Calendar_Wednesday": {
   "pl": "Środa",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Cancer": {
   "pl": "Rak",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_CanisMajor": {
   "pl": "Wielki Pies",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_CanisMinor": {
   "pl": "Mały Pies",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Cassiopeia": {
   "pl": "Kasjopeja",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Cepheus": {
   "pl": "Cefeusz",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Cygnus": {
   "pl": "Łabędź",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_EscapistTimes": {
   "pl": "Kurier Eskapisty – Naród ma wątpliwości co do zakupu Kluizjany",
@@ -201,7 +201,7 @@
  },
  "g:CY2_EstSign": {
   "pl": "Escape Academy: założona w 1803 roku",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_FernandoAugustin": {
   "pl": "Pogoda ducha Fernanda Augustína zdawała się wykuta w granicie.",
@@ -209,35 +209,35 @@
  },
  "g:CY2_Gemini": {
   "pl": "Bliźnięta",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hercules": {
   "pl": "Herkules",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_MadlibA": {
   "pl": "Połącz tę datę z datą na gazecie...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_MadlibB": {
   "pl": "...żeby ustalić długość kadencji założyciela",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_MadlibC": {
   "pl": "List Fernanda zawiera kluczowe informacje.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_MadlibD": {
   "pl": "Porównaj list Alistaira z kalendarzem.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_OldA": {
   "pl": "Ułóż płytki zgodnie z zasadami z boku.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_OldB": {
-  "pl": "Żołądź idzie w lewy górny róg.",
-  "status": "draft"
+  "pl": "Żołądź trafia do lewego górnego rogu.",
+  "status": "done"
  },
  "g:CY2_Hint_Return": {
   "pl": "Wróć do swojego pokoju w akademiku.",
@@ -245,39 +245,39 @@
  },
  "g:CY2_Hint_SlideA": {
   "pl": "Dopasuj te symbole na podłodze...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_SlideB": {
   "pl": "...do tych przesuwanych płytek.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_StarsA": {
   "pl": "Te trzy konstelacje świecą...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_StarsB": {
   "pl": "Jak się nazywają?",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_StarsC": {
   "pl": "Taurus to Byk. Jak nazywają się pozostałe dwie?",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_TileA": {
   "pl": "Włóż płytki do tej skały po kolei...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_TileB": {
-  "pl": "Ta idzie pierwsza.",
-  "status": "draft"
+  "pl": "Ta jest pierwsza.",
+  "status": "done"
  },
  "g:CY2_Hint_WeightA": {
   "pl": "Fernando ma dwa jabłka, koronę i berło.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Hint_WeightB": {
-  "pl": "Dodaj wagę tych przedmiotów.",
-  "status": "draft"
+  "pl": "Zsumuj wagę tych przedmiotów.",
+  "status": "done"
  },
  "g:CY2_Ingots1": {
   "pl": "Przydałby się jakiś <i>złoty</i> pomysł na ucieczkę!",
@@ -289,75 +289,75 @@
  },
  "g:CY2_InsertAlchemical": {
   "pl": "Co tu włożyć?",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_ItemDescription_Tiara": {
   "pl": "Kto tu jest śliczną księżniczką? Ty!",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_AlchemicalSymbol": {
   "pl": "Płytka alchemiczna",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_Apple": {
   "pl": "Jabłko",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_Calendar": {
   "pl": "Kalendarz",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_Crown": {
   "pl": "Korona",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_F-Letter": {
   "pl": "Ostro sformułowany list",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_MeetingLetter": {
   "pl": "Zaproszenie na spotkanie",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_Newspaper": {
   "pl": "Gazeta",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_OldManCoin": {
   "pl": "Tajemnicza moneta",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_Pumpkin": {
   "pl": "Dynia",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_Sceptre": {
   "pl": "Berło",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_Sword": {
   "pl": "Miecz",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Item_Tiara": {
   "pl": "Diadem",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Leo": {
   "pl": "Lew",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Letter_Alistair": {
   "pl": "Przyjdź do mojego laboratorium wieczorem ósmego. W końcu to rozgryzłem.<br><br>Moje nowe urządzenie raz na zawsze rozwiąże nasze problemy.<br><br>-A.B.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Letter_Fernando": {
   "pl": "Jak nowe pokolenie śmie <b>żądać</b>, żebyśmy przeszli na emeryturę!? Nie są gotowi przejąć pochodni.<br><br>Bez nas wszystko się zawali.<br><br>-F.A.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_LittleDipper": {
   "pl": "Mała Niedźwiedzica",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_MadLib1": {
   "pl": "Prowadziliśmy tę akademię od <br><br><link=\"yearsOperated\">■</link><br><br> lat, ale <br><br><link=\"academyStatus\">■</link><br><br>Baliśmy się, że bez nas szkoła <br><br><link=\"fate\">■</link>",
@@ -373,23 +373,23 @@
  },
  "g:CY2_MadLib4": {
   "pl": "Powinniśmy się domyślić, że coś jest nie tak.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Meta_QuestDesc": {
   "pl": "Podążaj tropem pozostawionym przez założycieli i zbadaj plażę razem z Reedem i Kirą.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Meta_QuestName": {
   "pl": "Mroczne wieści",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Meta_QuestObj1": {
   "pl": "Porozmawiaj z Reedem i Kirą na plaży.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Meta_QuestObj2": {
   "pl": "Zbadaj plażę.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Meta_QuestObj3": {
   "pl": "Zbadaj tajną komnatę.",
@@ -397,15 +397,15 @@
  },
  "g:CY2_Meta_QuestObj4": {
   "pl": "Wróć z Kirą do pokoju w akademiku.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Mirror": {
   "pl": "Nie ma czasu na refleksje – nawet w lustrze!",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_MissingCoin": {
   "pl": "Brakuje jednej z tych monet...",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_NewspaperBody": {
   "pl": "Założyciele akademii – najlepsze lata <i>dawno</i> za nimi. Czas na nowe kierownictwo?",
@@ -413,19 +413,19 @@
  },
  "g:CY2_NewspaperDate": {
   "pl": "1 lipca 1838",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Old": {
   "pl": "Stary",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Orion": {
   "pl": "Orion",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Pegasus": {
   "pl": "Pegaz",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Plates": {
   "pl": "Ktoś tu podstępnie <i>zastawił</i> pułapkę!",
@@ -437,27 +437,27 @@
  },
  "g:CY2_RoomName": {
   "pl": "Druga komnata",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_ScepterTEMP": {
   "pl": "Berło",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Taurus": {
   "pl": "Byk",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Thinking": {
   "pl": "Myślący",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Treasure1": {
   "pl": "Szybka ucieczka stąd byłaby dla mnie prawdziwym skarbem.",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Unthinking": {
   "pl": "Bezmyślny",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Vase1": {
   "pl": "Muszę to dobrze roz<i>waz</i>yć, żeby rozwiązać te zagadki.",
@@ -469,15 +469,15 @@
  },
  "g:CY2_WeightScales": {
   "pl": "Co by tu zważyć?",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_WeightofResponsibility": {
   "pl": "Ciężar<br>odpowiedzialności",
-  "status": "draft"
+  "status": "done"
  },
  "g:CY2_Young": {
   "pl": "Młody",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_AddItToTheTile": {
   "pl": "Dorzucę to do płytek, co tam...",
@@ -485,66 +485,66 @@
  },
  "v:Kira_CY2_AnotherPuzzle": {
   "pl": "Kolejna zagadka? Mam ochotę zejść z tej upiornej plaży.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_AnythingInteresting": {
   "pl": "Widzisz coś ciekawego przez te okulary?",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_DifferentCircumstances": {
   "pl": "W innych okolicznościach mógłby to być miły wieczór pod gwiazdami.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_DoneWithSurprises": {
   "pl": "Mam nadzieję, że na dziś koniec niespodzianek...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_FernandosClubs": {
-  "pl": "Nie jestem pewna, czy pasowałabym do klubów Fernanda.",
-  "status": "draft"
+  "pl": "Nie jestem pewna, czy pasowałabym do trefnego towarzystwa Fernanda.",
+  "status": "done"
  },
  "v:Kira_CY2_HasThisPuzzleAgedWell": {
   "pl": "Nie wiem, czy ta zagadka dobrze się zestarzała, czy nie.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_LetsGetBack": {
   "pl": "Chodź, wracajmy do akademika.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_RoomFail": {
   "pl": "Nie! My... zawiedliśmy wszystkich...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_RoomShouldHaveAWealthOfKnowledge": {
   "pl": "Przynajmniej w tym pokoju powinna być skarbnica wiedzy.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_RoomWin": {
   "pl": "Mamy to, udało się!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_SignToWatchOurStep": {
   "pl": "Biorę to za znak, że trzeba uważać, gdzie stąpamy.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_StartingToFeelHeavy": {
   "pl": "To wszystko zaczyna być coraz cięższe...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_StoryOnThePedastal": {
   "pl": "Musimy rozgryźć historię na cokole.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Kira_CY2_WeCanDoThis": {
   "pl": "No dobra... Damy radę. Bo inaczej... nawet nie chcę myśleć, co będzie inaczej.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Solange_CY2_ALittleLate": {
   "pl": "Czy nie jest trochę późno?",
-  "status": "draft"
+  "status": "done"
  },
  "v:Solange_CY2_LongWayFromTower": {
   "pl": "Jesteś daleko od wieży...",
-  "status": "draft"
+  "status": "done"
  }
 }

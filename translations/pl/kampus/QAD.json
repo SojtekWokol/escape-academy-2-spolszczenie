@@ -5,15 +5,15 @@
  },
  "g:QAD_Ch2_EscapistTimes": {
   "pl": "Kurier Eskapisty – Miejscowy eskapista w końcu rozwiązuje pierwszą zagadkę. Umiera.",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_Ch3_EscapistTimes": {
   "pl": "Kurier Eskapisty – Akademia z niepokojem czeka na pierwszą poważną wpadkę prof. Jebersona.",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_Ch5_EscapistTimes": {
   "pl": "Kurier Eskapisty – OGŁOSZENIE: Prosimy zgłaszać kadrze wszystkich zbłąkanych uczniów. Zapłacono nam za zapewnienie, że można jej bezgranicznie ufać",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_Ch6_EscapistTimes": {
   "pl": "Kurier Eskapisty – Von Boyage, Bon Vellini. Będzie nam pana trochę brakować",
@@ -21,7 +21,7 @@
  },
  "g:QAD_Ch7_EscapistTimes": {
   "pl": "Kurier Eskapisty – Akademia żąda, by żałoba po prof. Von Bellinim skończyła się zaraz po ceremonii pożegnania",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_Ch8_EscapistTimes": {
   "pl": "Kurier Eskapisty – PORADA: Na Burzę Mózgów wystarczy ciepła kurtka i chłodna głowa",
@@ -29,83 +29,83 @@
  },
  "g:QAD_ClownClubInstrux": {
   "pl": "Ogon<br>Prawe ucho<br>Lewa przednia łapa<br>Tułów<br>Prawa przednia łapa",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_ClownClubTable": {
   "pl": "Klub klaunów",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_1_QuestDescription": {
   "pl": "Udowodnij, że łamigłówki to twoja bajka, i przejdź próbę zagadek. ",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_1_QuestName": {
   "pl": "Zgadnij, zgadnij...",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_1_QuestStep": {
   "pl": "Rozwiąż 3 zagadki",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_2_QuestDescription": {
   "pl": "Pokaż, że z twoimi łamigłówkowymi umiejętnościami nie ma żartów!",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_2_QuestName": {
-  "pl": "Niech wejdą wskazówki",
-  "status": "draft"
+  "pl": "Cyrk ze wskazówkami",
+  "status": "done"
  },
  "g:QAD_EC_2_QuestStep": {
   "pl": "Otwórz diabełka w pudełku.",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_FishingQuestDesc": {
   "pl": "Przeszukaj cały kampus i znajdź 50 ukrytych śledzi-zmyłek.",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_FishingQuestName": {
-  "pl": "Haczyk, żyłka i myśliciel",
-  "status": "draft"
+  "pl": "Zmyłki na haczyku",
+  "status": "done"
  },
  "g:QAD_EC_Fishing_Obj0": {
   "pl": "Odnieś 5 śledzi-zmyłek.",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_Fishing_Obj1": {
   "pl": "Odnieś 10 śledzi-zmyłek.",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_Fishing_Obj2": {
   "pl": "Odnieś 15 śledzi-zmyłek.",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_Fishing_Obj3": {
   "pl": "Odnieś 25 śledzi-zmyłek.",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_Fishing_Obj4": {
   "pl": "Odnieś 50 śledzi-zmyłek.",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackCA0": {
   "pl": "F",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackCA1": {
   "pl": "I",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackCA2": {
   "pl": "G",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackCA3": {
   "pl": "L",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackCA4": {
   "pl": "E",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackInTheLock": {
   "pl": "F,I,G,L,E",
@@ -113,39 +113,39 @@
  },
  "g:QAD_EC_JackWA0": {
   "pl": "C",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackWA1": {
   "pl": "J",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackWA2": {
   "pl": "O",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackWA3": {
   "pl": "W",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_JackWA4": {
   "pl": "N",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_EC_RedHerring": {
   "pl": "Śledź-zmyłka",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_Epi_EscapistTimes": {
   "pl": "Kurier Eskapisty – RAPORT: Wszystko znów w normie. Na razie...",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_FishingClubTable": {
   "pl": "Klub wędkarski",
-  "status": "draft"
+  "status": "done"
  },
  "g:QAD_RiddleClub": {
   "pl": "Klub zagadek",
-  "status": "draft"
+  "status": "done"
  },
  "v:HUM_Lemonade_ThanksAid": {
   "pl": "Dzięki za pomoc, bardzo orzeźwiającą!",
@@ -153,35 +153,35 @@
  },
  "v:HUM_Lemonade_TrySell": {
   "pl": "Gdy życie daje ci cytryny, spróbuj je sprzedać!",
-  "status": "draft"
+  "status": "done"
  },
  "v:HUM_Picnic_AintPicnic": {
   "pl": "Zagadki mamy to na pewno żaden piknik.",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Clown_BreadCircus": {
   "pl": "Ty przynosisz chleb, ja zapewniam igrzyska!",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Clown_DownClown.": {
   "pl": "Masz ochotę na małą klaunadę?",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Clown_FrownClown": {
   "pl": "Podkówka do góry nogami i mamy klauna!",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Clown_Honk": {
   "pl": "Tut, tut!",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Red_CapitalH": {
   "pl": "To jest śledź przez duże Ś.",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Red_GiveManFish": {
-  "pl": "Daj człowiekowi śledzia, a rozwiąże zagadkę na jeden dzień.",
-  "status": "draft"
+  "pl": "Daj człowiekowi śledzia, a będzie rozwiązywał przez jeden dzień.",
+  "status": "done"
  },
  "v:QAD_Red_HerringCaring": {
   "pl": "Śledź od serca!",
@@ -189,22 +189,22 @@
  },
  "v:QAD_Red_ImExcited": {
   "pl": "Nic nie szkodzi, po prostu bardzo cieszą mnie te ryby.",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Red_LoveHerring": {
   "pl": "Eee. Tak bardzo kocham śledzie.",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Red_MorePlease": {
   "pl": "Poproszę więcej śledzi!",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Red_RarinHerrin": {
   "pl": "Ale mam chrapkę na śledzia!",
-  "status": "draft"
+  "status": "done"
  },
  "v:QAD_Red_WholeLotta": {
   "pl": "Ooo, ale sporo śledzi.",
-  "status": "draft"
+  "status": "done"
  }
 }

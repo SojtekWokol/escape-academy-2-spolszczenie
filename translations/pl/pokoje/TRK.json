@@ -13,219 +13,219 @@
  },
  "g:TRK_BlastReady": {
   "pl": "Gotowe do wybuchu!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_CartCrash": {
   "pl": "Wagonik się rozbił i otworzył kilka skrzyń!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Crane": {
   "pl": "Ten sprzęt jest naprawdę potężny!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_CrashedCart": {
   "pl": "Chyba dziś już nigdzie nie pojedziemy.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_CratesLeftBehind": {
   "pl": "Kto zostawił skrzynie na torach? To niebezpieczne!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_DirtPile": {
   "pl": "Ale tu fajnie – aż się chce kopać!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_DoorNeeded": {
   "pl": "Muszę otworzyć te drzwi, zanim ruszymy dalej.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_ElevatorMineCart": {
   "pl": "Muszę uruchomić windę, jeśli chcemy dalej korzystać z wagonika!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_ElevatorNeeded": {
   "pl": "Muszę uruchomić windę, zanim gdziekolwiek ruszymy!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_EscapistTimes": {
   "pl": "Kurier Eskapisty – Prawdopodobieństwo śmierci przy pracy w kopalni obniżone z „na pewno” do „niezwykle prawdopodobne”",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_FoundersLetter": {
   "pl": "Ostatnie słowa Reiny Wym",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_GearDrop": {
   "pl": "Mogę wrzucić koło zębate do tego szybu...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Gear_Stuck": {
   "pl": "Muszę to wyjąć od spodu...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Gemwall_compelte": {
   "pl": "Kolory i trójkąty... Gdzieś jeszcze w tym pomieszczeniu coś takiego było?",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_CraneRY_A": {
   "pl": "Nie przejdziesz bezpośrednio od trójkątów do sześcianu...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_CraneRY_B": {
   "pl": "Musisz zrobić postój przy symbolu koło-kwadrat!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_CraneWR_A": {
   "pl": "Najpierw przesuń dźwig od symbolu kół do symbolu trójkątów...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_CraneWR_B": {
   "pl": "Zamieniaj płytki miejscami, żeby utworzyć drogę!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_CraneYB_A": {
   "pl": "Przeprowadź wagonik od symbolu koło-kwadrat do sześcianu i gotowe!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_GearsA": {
   "pl": "Prawa kolumna potrzebuje tylko jednego koła zębatego.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_GemsA": {
   "pl": "Obracaj kryształy, aż obrazy staną się wyraźne. Ten przedstawia klepsydrę nad labiryntem.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_GemsB": {
   "pl": "Jaką liczbę zobaczysz, jeśli ułożysz je jedne na drugich?",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_GroovyA": {
   "pl": "Pierwszy symbol to falisty pomarańczowy krąg...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_GroovyB": {
   "pl": "Czy da się to zrobić z tych elementów?",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_GroovyC": {
   "pl": "Obserwuj, do którego wiadra wpływa woda.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_LampsA": {
   "pl": "Spójrz na kolory lamp. Żółta u góry. Szara po lewej. Pomarańczowa po prawej...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_LampsB": {
   "pl": "Żółta u góry. Szara po lewej. Pomarańczowa po prawej...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_PanningA": {
   "pl": "Zarówno dynamit, jak i świeca „zaczynają się od iskry”...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_PanningB": {
   "pl": "Zarówno świeca, jak i kask „pomagają widzieć w ciemności”...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_Ride": {
   "pl": "Wsiądź do wagonika!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Hint_SlaloomA": {
   "pl": "W odpowiedzi jest „1”, „2” i „3”!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_InsertGemPrompt": {
   "pl": "Co tu pasuje?",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_CrestLeft": {
   "pl": "Herb",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_CrestRight": {
   "pl": "Herb",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Drill": {
   "pl": "Wiertarka ręczna",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gear1": {
   "pl": "Koło zębate (XS)",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gear2a": {
   "pl": "Koło zębate (S)",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gear2b": {
   "pl": "Koło zębate (S)",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gear3": {
   "pl": "Koło zębate (M)",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gear4": {
   "pl": "Koło zębate (L)",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gear5": {
   "pl": "Koło zębate (XL)",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gem3": {
   "pl": "Klejnot 3-ścienny",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gem4": {
   "pl": "Klejnot 4-ścienny",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gem6": {
   "pl": "Klejnot 6-ścienny",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gem8": {
   "pl": "Klejnot 8-ścienny",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Gemstone": {
   "pl": "Kamień szlachetny",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_GroovyKey": {
   "pl": "Stary klucz",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_HandJack": {
   "pl": "Lewarek ręczny",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_LanternCipher": {
   "pl": "Szyfr latarni",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_OrnateLever": {
   "pl": "Zdobiona dźwignia",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Item_Tablet": {
   "pl": "Kamienna tablica",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_KeyholePrompt": {
   "pl": "To zdobiona dziurka od klucza...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_KeysRing": {
   "pl": "Stary pęk kluczy",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Meta_QuestDesc": {
   "pl": "Znajdź kryptę założycieli – ostatni element układanki potrzebny do pokonania Alistaira.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Meta_QuestName": {
   "pl": "Kryptyczne odkrycie",
@@ -233,55 +233,55 @@
  },
  "g:TRK_Meta_QuestObj1": {
   "pl": "Spotkaj się z prof. Jebersonem na tylnej klatce schodowej.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Meta_QuestObj2": {
   "pl": "Znajdź kryptę Reiny.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Meta_QuestObj3": {
   "pl": "Zanieś list dyrektorce Solange.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_MineCart_RoomComplete": {
   "pl": "Muszę zanieść list Solange!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_MinecartJoke": {
   "pl": "Ta wyprawa zaczyna iść jak po grudzie.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_MoveNeeded": {
   "pl": "Muszę przestawić ten wagonik na drugą stronę torów.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_NoExplosives": {
   "pl": "Nie ma tu podłączonych żadnych materiałów wybuchowych... jeszcze.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_NoTurningBack": {
   "pl": "Nie ma już odwrotu!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_NotSafe": {
   "pl": "Nie jest bezpiecznie iść tam pieszo!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_NothingGrab": {
   "pl": "Nie ma nic do wyjęcia.",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_OldPaperItemName": {
   "pl": "Stary papier",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_OtherSide": {
   "pl": "Trzeba go przeprawić na drugą stronę!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_PanTechnique": {
   "pl": "WŁAŚCIWA TECHNIKA PŁUKANIA:",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_PyramidCipher_Answer": {
   "pl": "S,T,A,R,Y",
@@ -289,91 +289,91 @@
  },
  "g:TRK_PyramidCipher_D": {
   "pl": "S",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_PyramidCipher_O": {
   "pl": "O",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_PyramidCipher_S": {
   "pl": "A",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_PyramidCipher_T": {
   "pl": "R",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_PyramidCipher_U": {
   "pl": "T",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_PyramidCipher_Y": {
   "pl": "Y",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_ReinaPortrait": {
   "pl": "Miejsce wiecznego spoczynku Reiny Wym...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Reset": {
   "pl": "RESET",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_ResetNice": {
   "pl": "Reset",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_RoomName": {
   "pl": "Wykolejeni",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Send": {
   "pl": "ODPALAJ",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_SkillIssue": {
   "pl": "Nie da się tędy!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Subtitle": {
   "pl": "Znajdź<br>kryptę!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_Tile_Stuck": {
   "pl": "Ta tkwi w miejscu...",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_ToolsHint": {
   "pl": "Najpierw do narzędzi, które zaczynają się od iskry<br>Potem do narzędzi, które pomagają widzieć w ciemności<br>Dalej do narzędzi, które kruszą skały<br>Na końcu do narzędzi, które osłaniają głowę",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_TowerDoorNight": {
   "pl": "Nie mogę wyjść, muszę pomóc Jebowi znaleźć kryptę założycieli!",
-  "status": "draft"
+  "status": "done"
  },
  "g:TRK_WorldHello": {
   "pl": "Witaj, świecie!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_BrakeLine": {
   "pl": "Hamulców w tym czymś chyba nikt nie sprawdził, co?",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_BringLetter": {
   "pl": "No dalej, *sapanie* zanieś ten list *sapanie* dyrektorce.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_CantCollapse": {
   "pl": "My się pod presją załamać nie możemy – o to już dba jaskinia.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_CrystalsReveal": {
   "pl": "Kryształy potrafią sporo powiedzieć o człowieku.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_DoneDusted": {
   "pl": "Dobra, kolejne drzwi odkurzone!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_ElevatorsRunnin": {
   "pl": "Winda działa! Przynajmniej ten szyb nie pociągnie nas na dno.",
@@ -381,7 +381,7 @@
  },
  "v:Jeb_TRK_Fail": {
   "pl": "Tak sobie naszego końca nie wyobrażałem... *ZAWALENIE*",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_GetRocked": {
   "pl": "Rozłupana zagadka!",
@@ -389,11 +389,11 @@
  },
  "v:Jeb_TRK_GoGoGo": {
   "pl": "Dalej, dalej, dalej! Tunele zaraz nam się zawalą na głowy!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_HeresJebby": {
-  "pl": "A oto Jebuś!",
-  "status": "draft"
+  "pl": "A oto Jebby!",
+  "status": "done"
  },
  "v:Jeb_TRK_KeepOnRails": {
   "pl": "Hej! Tylko mi się tam nie wykolejcie!",
@@ -409,43 +409,43 @@
  },
  "v:Jeb_TRK_LookFamiliar": {
   "pl": "Nie wydaje ci się, że to pomieszczenie skądś znasz?",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_LostMarbles": {
-  "pl": "Przy tej bym chyba zgubił kulki.",
-  "status": "draft"
+  "pl": "Przy tej to bym chyba pogubił wszystkie klepki.",
+  "status": "done"
  },
  "v:Jeb_TRK_PhewAH": {
   "pl": "Uff... AAAA!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_Puzzles": {
   "pl": "Trzymaj się mocno swoich zagadek!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_RealShame": {
   "pl": "Szkoda, że nie mamy tu na dole więcej czasu.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_Shout1": {
   "pl": "Hu-ha!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_Shout3": {
   "pl": "AAAAAAA",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_Shout5": {
   "pl": "Trzymaj się!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_SiftPuzzles": {
   "pl": "Oby nie przyszło nam przesiewać zbyt wielu takich zagadek.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_SweetMotherEscape": {
   "pl": "Matko Ucieczek... Krypta Reiny.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_TripToCrypts": {
   "pl": "Szkoda, że do krypt wybieramy się w tak grobowych okolicznościach...",
@@ -453,22 +453,22 @@
  },
  "v:Jeb_TRK_WatchHowSwinging": {
   "pl": "Ej! Uważaj, jak tym machasz.",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_Water": {
   "pl": "woda... Woda... WODA!",
-  "status": "draft"
+  "status": "done"
  },
  "v:Jeb_TRK_Win": {
   "pl": "No cóż, miejmy nadzieję, że to zadziała...",
-  "status": "draft"
+  "status": "done"
  },
  "v:Solange_CY3_FindReinasCrypt": {
-  "pl": "Idźcie! Pomóż Jebowi znaleźć kryptę Reiny. Ja zajmę się maszyną do mózgów.",
-  "status": "draft"
+  "pl": "Idź! Pomóż Jebowi znaleźć kryptę Reiny. Ja zajmę się maszyną do mózgów.",
+  "status": "done"
  },
  "v:Solange_TRK_HopeYouFoundIt": {
   "pl": "Mam nadzieję, że masz to, czego szukaliśmy.",
-  "status": "draft"
+  "status": "done"
  }
 }
