@@ -168,7 +168,7 @@
   "status": "done"
  },
  "g:TIC_TramDoorNotice": {
-  "pl": "Drzwi tramwaju otworzą się po gwizdku",
+  "pl": "Drzwi tramwaju otworzą się, gdy rozlegnie się gwizd",
   "status": "done"
  },
  "g:TIC_TramSafety": {

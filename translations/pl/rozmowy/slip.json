@@ -100,7 +100,7 @@
   "status": "done"
  },
  "n:line:04d3aa2": {
-  "pl": "Jak skończysz zajęcia wprowadzające, będziesz o krok od odblokowania Wydziału Sztuki</style>.",
+  "pl": "Jak skończysz zajęcia wprowadzające, będziesz o krok od odblokowania <style=\"clue\">Wydziału Sztuki</style>.",
   "status": "done"
  },
  "n:line:04fe593": {
@@ -252,7 +252,7 @@
   "status": "done"
  },
  "n:line:0ff2a7c": {
-  "pl": "Jak kogoś zobaczysz, odeślij do wieży. Musimy wszystkich tam zgromadzić, zanim uderzy burza.",
+  "pl": "Jak kogoś zobaczysz, odeślij go do wieży. Musimy wszystkich tam zgromadzić, zanim uderzy burza.",
   "status": "done"
  }
 }

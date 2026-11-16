@@ -144,8 +144,8 @@
   "status": "done"
  },
  "g:PER_Cast_Sides_Third": {
-  "pl": "Czym jest podpowiedź? To, co zwiemy podpowiedzią, pod inną nazwą rozwiązałoby się równie szybko. <i>(Wzdycha)</i>",
-  "status": "done"
+  "pl": "Czymże jest podpowiedź? To, co zwiemy podpowiedzią, pod inną nazwą równie szybko by pomogło. <i>(Wzdycha)</i>",
+  "status": "review"
  },
  "g:PER_Cast_Tyler": {
   "pl": "Tyler Vouch",

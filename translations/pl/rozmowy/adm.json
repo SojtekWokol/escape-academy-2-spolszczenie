@@ -12,7 +12,7 @@
   "status": "done"
  },
  "n:line:000f7ed": {
-  "pl": "To nie oszustwo, skoro dodatkowa dama <i>sama się znalazła</i> w moim rękawie!",
+  "pl": "To nie oszustwo, skoro dodatkowa królowa <i>sama się znalazła</i> w moim rękawie!",
   "status": "done"
  },
  "n:line:0013446": {
@@ -104,7 +104,7 @@
   "status": "done"
  },
  "n:line:01a1680": {
-  "pl": "Jedzenie codziennie o <style=\"clue>dokładnie tej samej porze</style> to klucz do dobrej diety.",
+  "pl": "Jedzenie codziennie o <style=\"clue\">dokładnie tej samej porze</style> to klucz do dobrej diety.",
   "status": "done"
  },
  "n:line:01aae8b": {
@@ -328,7 +328,7 @@
   "status": "done"
  },
  "n:line:04e515d": {
-  "pl": "Czy nie mogę choć raz po prostu <i>kupić</i> napoju? Zgubiłam <style=\"clue>arkusz z zasadami</style>, a liczby to moi WROGOWIE!",
+  "pl": "Czy nie mogę choć raz po prostu <i>kupić</i> napoju? Zgubiłam <style=\"clue\">arkusz z zasadami</style>, a liczby to moi WROGOWIE!",
   "status": "done"
  },
  "n:line:04e78de": {
@@ -428,7 +428,7 @@
   "status": "done"
  },
  "n:line:06627eb": {
-  "pl": "No weź, ciesz się. W większości miejsc podręcznik kosztuje sto dolców za sztukę <i>i</i> piszą je <i>własni</i> wykładowcy.",
+  "pl": "No weź, ciesz się. W większości szkół podręcznik kosztuje stówę za sztukę, a <i>do tego</i> napisali go <i>twoi</i> wykładowcy.",
   "status": "done"
  },
  "n:line:06660f8": {
@@ -800,7 +800,7 @@
   "status": "done"
  },
  "n:line:0ba4dd0": {
-  "pl": "Po <style=\"clue>podręczniki</style>?",
+  "pl": "Po <style=\"clue\">podręczniki</style>?",
   "status": "done"
  },
  "n:line:0bae439": {
@@ -824,7 +824,7 @@
   "status": "done"
  },
  "n:line:0be2fe2": {
-  "pl": "Och. <style\"clue\">Kira Tempest</style> była za słodka, żeby ją porywać! Ktokolwiek za tym stoi, powinien był porwać Gillian Paisley!",
+  "pl": "Och. <style=\"clue\">Kira Tempest</style> była za słodka, żeby ją porywać! Ktokolwiek za tym stoi, powinien był porwać Gillian Paisley!",
   "status": "done"
  },
  "n:line:0beb639": {
@@ -852,7 +852,7 @@
   "status": "done"
  },
  "n:line:0c3bc5a": {
-  "pl": "Gdyby zagadki szły mi tak jak Arnoldowi bieganie, to następny Eel Barnes to ja!",
+  "pl": "Gdyby zagadki szły mi tak jak Arnoldowi bieganie, byłbym następnym Eelem Barnesem!",
   "status": "done"
  },
  "n:line:0c4604e": {
@@ -868,11 +868,11 @@
   "status": "done"
  },
  "n:line:0c56300": {
-  "pl": "Bardzo chciałabym opisać w następnej książce swoje przeżycia w umyśle profesora Von Belliniego, ale boję się, że będzie to dla czytelników zbyt mózgowe.",
+  "pl": "Bardzo chciałabym opisać w następnej książce swoje przeżycia w umyśle profesora Von Belliniego, ale boję się, że czytelnikom nie zmieści się to w głowie.",
   "status": "done"
  },
  "n:line:0c62c49": {
-  "pl": "Ja akurat mogę...",
+  "pl": "Ja tam chętnie poczekam...",
   "status": "done"
  },
  "n:line:0c730ae": {
@@ -1060,7 +1060,7 @@
   "status": "done"
  },
  "n:line:0ed6b5c": {
-  "pl": "Szczerze – nie mam nic do tej kanapki! Za kilka godzin mój żołądek może mieć inne zdanie...",
+  "pl": "Szczerze – ja nie mam nic do tej kanapki! Ale mój żołądek za kilka godzin może mieć inne zdanie...",
   "status": "done"
  },
  "n:line:0eda735": {
@@ -1128,7 +1128,7 @@
   "status": "done"
  },
  "n:line:0f76c87": {
-  "pl": "Nie ma co, nawet ze <style=\"clue>ściągą</style> chyba nigdy nie pojmę automatów Sudokąski.",
+  "pl": "Nie ma co, nawet ze <style=\"clue\">ściągą</style> chyba nigdy nie pojmę automatów Sudokąski.",
   "status": "done"
  },
  "n:line:0f7784a": {
@@ -1156,7 +1156,7 @@
   "status": "done"
  },
  "n:line:0fdbf82": {
-  "pl": "Jeśli nie dostanę głównej roli w tegorocznym przedstawieniu po całym lecie zbierania wspomnień zmysłowych, to po prostu...",
+  "pl": "Jeśli nie dostanę głównej roli w tegorocznym przedstawieniu po całym lecie ćwiczenia pamięci zmysłowej, to po prostu...",
   "status": "done"
  },
  "n:line:0ff340b": {

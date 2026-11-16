@@ -200,7 +200,7 @@
   "status": "done"
  },
  "n:line:0378e84": {
-  "pl": "W tym <style=\"clue>drzewie jest coś dziwnego</style>. Uczono nas, że Reina wyhodowała je z sadzonki, ale wygląda prawie... sztucznie.",
+  "pl": "W tym <style=\"clue\">drzewie jest coś dziwnego</style>. Uczono nas, że Reina wyhodowała je z sadzonki, ale wygląda prawie... sztucznie.",
   "status": "done"
  },
  "n:line:038f874": {
@@ -244,7 +244,7 @@
   "status": "done"
  },
  "n:line:0424d51": {
-  "pl": "Ruszajmy się! Jeśli ty nie <style=\"clue\">pociągniesz za dźwignię</style>, to ja to zrobię.",
+  "pl": "Jedźmy już! Jeśli ty nie <style=\"clue\">pociągniesz za dźwignię</style>, to ja to zrobię.",
   "status": "done"
  },
  "n:line:042c534": {
@@ -584,7 +584,7 @@
   "status": "done"
  },
  "n:line:09ad0a6": {
-  "pl": "Gaz niepamięci, sufity z kolcami, <style=\"clue\"><i>podręczniki</style>!</i> Fantastyczny początek, co nie?",
+  "pl": "Gaz niepamięci, sufity z kolcami, <style=\"clue\"><i>podręczniki</i></style>! Fantastyczny początek, co nie?",
   "status": "done"
  },
  "n:line:09bc816": {
@@ -624,7 +624,7 @@
   "status": "done"
  },
  "n:line:0a50491": {
-  "pl": "Dobra, plan gotowy! Wystarczy <style=clue\">poczekać do zmroku</style>, żeby go wykonać.",
+  "pl": "Dobra, plan gotowy! Wystarczy <style=\"clue\">poczekać do zmroku</style>, żeby go wykonać.",
   "status": "done"
  },
  "n:line:0a55a6a": {
@@ -916,7 +916,7 @@
   "status": "done"
  },
  "n:line:0f19140": {
-  "pl": "No halo, przecież tam byłam. Pamiętam wszystkie zagadkowe szczegóły.",
+  "pl": "No halo, przecież byłam przy wszystkim. Pamiętam każdy zagadkowy szczegół.",
   "status": "done"
  },
  "n:line:0f1c089": {

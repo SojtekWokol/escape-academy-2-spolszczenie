@@ -372,7 +372,7 @@
   "status": "done"
  },
  "g:EPI_Meta_QuestDesc": {
-  "pl": "Dyrektorka Solange ma dla ciebie niespodziankę na górnym Wydziale Sztuki.",
+  "pl": "Dyrektorka Solange ma dla ciebie niespodziankę w górnej części Wydziału Sztuki.",
   "status": "done"
  },
  "g:EPI_Meta_QuestName": {
@@ -380,7 +380,7 @@
   "status": "done"
  },
  "g:EPI_Meta_Quest_Obj1": {
-  "pl": "Porozmawiaj z dyrektorką Solange na górnym Wydziale Sztuki.",
+  "pl": "Porozmawiaj z dyrektorką Solange w górnej części Wydziału Sztuki.",
   "status": "done"
  },
  "g:EasterEgg_Label": {
