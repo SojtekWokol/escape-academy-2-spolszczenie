@@ -253,11 +253,11 @@
  },
  "g:MUS_GiveMeStrum": {
   "pl": "Daj mi AKORD",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_GiveMeStrum_PW": {
   "pl": "pressed,default,default,pressed,default,default,default,default,default,default,pressed,default,default,default,pressed,default,default,pressed,default,default",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_GreenhouseQuest": {
   "pl": "Wąchać kwiatki od spodu",
@@ -397,7 +397,7 @@
  },
  "g:MUS_Hint_StrumB": {
   "pl": "Ułóż „AKORD” na progach!",
-  "status": "review"
+  "status": "done"
  },
  "g:MUS_Hint_TromboneA": {
   "pl": "Ta notatka zawiera zaszyfrowane instrukcje.",
